@@ -43,69 +43,14 @@
                 "image": "tft14_sejuani.tft_set14.png"
             }
         ],
-        "average_position": "1.04",
+        "average_position": "1.02",
         "top_4_rate": "100",
-        "top_1_rate": "97.37",
-        "battle": "418",
+        "top_1_rate": "97.98",
+        "battle": "446",
         "trait": "Tộc"
     },
     {
         "stt": 2,
-        "id": "quy_duong_pho",
-        "name": "Quỷ Đường Phố",
-        "image": "Trait_Icon_14_StreetDemon.TFT_Set14.png",
-        "description": "Các đồng minh đứng trên ô được đánh dấu nhận thêm Máu, Sức Mạnh Phép Thuật và Sức Mạnh Công Kích. Một số ô là ô Đặc Trưng và cho thêm 50%. \n\nTướng Quỷ Đường Phố gấp đôi tất cả thưởng chỉ số.",
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "dr._mundo",
-                "name": "Dr. Mundo",
-                "image": "tft14_drmundo.tft_set14.png"
-            },
-            {
-                "id": "zyra",
-                "name": "Zyra",
-                "image": "tft14_zyra.tft_set14.png"
-            },
-            {
-                "id": "ekko",
-                "name": "Ekko",
-                "image": "tft14_ekko.tft_set14.png"
-            },
-            {
-                "id": "rengar",
-                "name": "Rengar",
-                "image": "tft14_rengar.tft_set14.png"
-            },
-            {
-                "id": "jinx",
-                "name": "Jinx",
-                "image": "tft14_jinx.tft_set14.png"
-            },
-            {
-                "id": "brand",
-                "name": "Brand",
-                "image": "tft14_brand.tft_set14.png"
-            },
-            {
-                "id": "neeko",
-                "name": "Neeko",
-                "image": "tft14_neeko.tft_set14.png"
-            },
-            {
-                "id": "samira",
-                "name": "Samira",
-                "image": "tft14_samira.tft_set14.png"
-            }
-        ],
-        "average_position": "1.26",
-        "top_4_rate": "98.87",
-        "top_1_rate": "84.66",
-        "battle": "6,128",
-        "trait": "Tộc"
-    },
-    {
-        "stt": 3,
         "id": "sieu_thu",
         "name": "Siêu Thú",
         "image": "Trait_Icon_14_AnimaSquad.TFT_Set14.png",
@@ -153,10 +98,65 @@
                 "image": "tft14_aurora.tft_set14.png"
             }
         ],
-        "average_position": "1.26",
-        "top_4_rate": "98.18",
-        "top_1_rate": "85.46",
-        "battle": "4,388",
+        "average_position": "1.23",
+        "top_4_rate": "98.74",
+        "top_1_rate": "86.15",
+        "battle": "4,348",
+        "trait": "Tộc"
+    },
+    {
+        "stt": 3,
+        "id": "quy_duong_pho",
+        "name": "Quỷ Đường Phố",
+        "image": "Trait_Icon_14_StreetDemon.TFT_Set14.png",
+        "description": "Các đồng minh đứng trên ô được đánh dấu nhận thêm Máu, Sức Mạnh Phép Thuật và Sức Mạnh Công Kích. Một số ô là ô Đặc Trưng và cho thêm 50%. \n\nTướng Quỷ Đường Phố gấp đôi tất cả thưởng chỉ số.",
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "dr._mundo",
+                "name": "Dr. Mundo",
+                "image": "tft14_drmundo.tft_set14.png"
+            },
+            {
+                "id": "zyra",
+                "name": "Zyra",
+                "image": "tft14_zyra.tft_set14.png"
+            },
+            {
+                "id": "ekko",
+                "name": "Ekko",
+                "image": "tft14_ekko.tft_set14.png"
+            },
+            {
+                "id": "rengar",
+                "name": "Rengar",
+                "image": "tft14_rengar.tft_set14.png"
+            },
+            {
+                "id": "jinx",
+                "name": "Jinx",
+                "image": "tft14_jinx.tft_set14.png"
+            },
+            {
+                "id": "brand",
+                "name": "Brand",
+                "image": "tft14_brand.tft_set14.png"
+            },
+            {
+                "id": "neeko",
+                "name": "Neeko",
+                "image": "tft14_neeko.tft_set14.png"
+            },
+            {
+                "id": "samira",
+                "name": "Samira",
+                "image": "tft14_samira.tft_set14.png"
+            }
+        ],
+        "average_position": "1.27",
+        "top_4_rate": "98.39",
+        "top_1_rate": "84.65",
+        "battle": "6,019",
         "trait": "Tộc"
     },
     {
@@ -193,10 +193,10 @@
                 "image": "tft14_missfortune.tft_set14.png"
             }
         ],
-        "average_position": "2.74",
-        "top_4_rate": "82.13",
-        "top_1_rate": "32.67",
-        "battle": "9,515",
+        "average_position": "2.73",
+        "top_4_rate": "82.3",
+        "top_1_rate": "33.03",
+        "battle": "9,305",
         "trait": "Tộc"
     },
     {
@@ -234,9 +234,9 @@
             }
         ],
         "average_position": "3.25",
-        "top_4_rate": "73.09",
-        "top_1_rate": "25.71",
-        "battle": "87,795",
+        "top_4_rate": "72.96",
+        "top_1_rate": "25.73",
+        "battle": "86,546",
         "trait": "Hệ"
     },
     {
@@ -269,9 +269,9 @@
             }
         ],
         "average_position": "3.37",
-        "top_4_rate": "71.55",
-        "top_1_rate": "21.63",
-        "battle": "58,463",
+        "top_4_rate": "71.54",
+        "top_1_rate": "21.52",
+        "battle": "59,411",
         "trait": "Tộc"
     },
     {
@@ -313,10 +313,10 @@
                 "image": "tft14_renekton.tft_set14.png"
             }
         ],
-        "average_position": "3.49",
-        "top_4_rate": "69.12",
-        "top_1_rate": "20.79",
-        "battle": "14,920",
+        "average_position": "3.51",
+        "top_4_rate": "68.99",
+        "top_1_rate": "20.26",
+        "battle": "15,055",
         "trait": "Tộc"
     },
     {
@@ -353,10 +353,10 @@
                 "image": "tft14_aurora.tft_set14.png"
             }
         ],
-        "average_position": "3.69",
-        "top_4_rate": "66.97",
-        "top_1_rate": "15.01",
-        "battle": "79,734",
+        "average_position": "3.71",
+        "top_4_rate": "66.83",
+        "top_1_rate": "14.80",
+        "battle": "79,513",
         "trait": "Hệ"
     },
     {
@@ -388,10 +388,10 @@
                 "image": "tft14_kobuko.tft_set14.png"
             }
         ],
-        "average_position": "3.65",
-        "top_4_rate": "65.99",
-        "top_1_rate": "20.97",
-        "battle": "196,114",
+        "average_position": "3.66",
+        "top_4_rate": "65.85",
+        "top_1_rate": "20.87",
+        "battle": "197,712",
         "trait": "Tộc"
     },
     {
@@ -428,10 +428,10 @@
                 "image": "tft14_urgot.tft_set14.png"
             }
         ],
-        "average_position": "3.61",
-        "top_4_rate": "65.25",
-        "top_1_rate": "24.85",
-        "battle": "38,582",
+        "average_position": "3.57",
+        "top_4_rate": "65.78",
+        "top_1_rate": "25.58",
+        "battle": "38,152",
         "trait": "Tộc"
     },
     {
@@ -469,9 +469,9 @@
             }
         ],
         "average_position": "3.96",
-        "top_4_rate": "62.06",
-        "top_1_rate": "10.62",
-        "battle": "172,512",
+        "top_4_rate": "62.04",
+        "top_1_rate": "10.55",
+        "battle": "173,517",
         "trait": "Tộc"
     },
     {
@@ -524,9 +524,9 @@
             }
         ],
         "average_position": "3.86",
-        "top_4_rate": "61.78",
-        "top_1_rate": "17.48",
-        "battle": "255,177",
+        "top_4_rate": "61.82",
+        "top_1_rate": "17.49",
+        "battle": "257,736",
         "trait": "Tộc"
     },
     {
@@ -563,10 +563,10 @@
                 "image": "tft14_aurora.tft_set14.png"
             }
         ],
-        "average_position": "3.97",
-        "top_4_rate": "60.88",
-        "top_1_rate": "12.72",
-        "battle": "37,892",
+        "average_position": "3.98",
+        "top_4_rate": "60.77",
+        "top_1_rate": "12.44",
+        "battle": "38,420",
         "trait": "Hệ"
     },
     {
@@ -583,10 +583,10 @@
                 "image": "tft14_renekton.tft_set14.png"
             }
         ],
-        "average_position": "3.95",
-        "top_4_rate": "60.74",
-        "top_1_rate": "16.28",
-        "battle": "284,678",
+        "average_position": "3.96",
+        "top_4_rate": "60.61",
+        "top_1_rate": "16.24",
+        "battle": "287,956",
         "trait": "Tộc"
     },
     {
@@ -623,10 +623,10 @@
                 "image": "tft14_ziggs.tft_set14.png"
             }
         ],
-        "average_position": "3.91",
-        "top_4_rate": "60.42",
-        "top_1_rate": "19.56",
-        "battle": "81,873",
+        "average_position": "3.9",
+        "top_4_rate": "60.56",
+        "top_1_rate": "19.65",
+        "battle": "81,747",
         "trait": "Hệ"
     },
     {
@@ -663,10 +663,10 @@
                 "image": "tft14_aurora.tft_set14.png"
             }
         ],
-        "average_position": "4.02",
-        "top_4_rate": "59.82",
-        "top_1_rate": "13.69",
-        "battle": "258,592",
+        "average_position": "4.03",
+        "top_4_rate": "59.81",
+        "top_1_rate": "13.61",
+        "battle": "262,822",
         "trait": "Hệ"
     },
     {
@@ -708,65 +708,55 @@
                 "image": "tft14_renekton.tft_set14.png"
             }
         ],
-        "average_position": "4.04",
-        "top_4_rate": "59.66",
-        "top_1_rate": "13.19",
-        "battle": "144,010",
+        "average_position": "4.05",
+        "top_4_rate": "59.5",
+        "top_1_rate": "13.22",
+        "battle": "144,835",
         "trait": "Tộc"
     },
     {
         "stt": 18,
-        "id": "chuyen_vien",
-        "name": "Chuyên Viên",
-        "image": "Trait_Icon_14_Techie.TFT_Set14.png",
-        "description": "Tướng Chuyên Viên nhận Sức Mạnh Phép Thuật.\n\nKẻ địch trúng kỹ năng của họ sẽ bị giảm 10% sát thương gây ra trong 3 giây.",
+        "id": "do_te",
+        "name": "Đồ Tể",
+        "image": "Trait_Icon_4_Slayer.png",
+        "description": "Tướng Đồ Tể nhận Sức Mạnh Công Kích và Hút Máu Toàn Phần. Hồi Máu Vượt Trội hồi lại cho tướng Đồ Tể còn thấp Máu nhất 50% lượng phụ trội.",
         "description_detail": [],
         "champions": [
             {
-                "id": "zyra",
-                "name": "Zyra",
-                "image": "tft14_zyra.tft_set14.png"
+                "id": "dr._mundo",
+                "name": "Dr. Mundo",
+                "image": "tft14_drmundo.tft_set14.png"
             },
             {
-                "id": "seraphine",
-                "name": "Seraphine",
-                "image": "tft14_seraphine.tft_set14.png"
+                "id": "shaco",
+                "name": "Shaco",
+                "image": "tft14_shaco.tft_set14.png"
             },
             {
-                "id": "veigar",
-                "name": "Veigar",
-                "image": "tft14_veigar.tft_set14.png"
+                "id": "vayne",
+                "name": "Vayne",
+                "image": "tft14_vayne.tft_set14.png"
             },
             {
-                "id": "shyvana",
-                "name": "Shyvana",
-                "image": "tft14_shyvana.tft_set14.png"
+                "id": "senna",
+                "name": "Senna",
+                "image": "tft14_senna.tft_set14.png"
             },
             {
-                "id": "fiddlesticks",
-                "name": "Fiddlesticks",
-                "image": "tft14_fiddlesticks.tft_set14.png"
+                "id": "jarvan_iv",
+                "name": "Jarvan IV",
+                "image": "tft14_jarvan.tft_set14.png"
             },
             {
-                "id": "mordekaiser",
-                "name": "Mordekaiser",
-                "image": "tft14_mordekaiser.tft_set14.png"
-            },
-            {
-                "id": "brand",
-                "name": "Brand",
-                "image": "tft14_brand.tft_set14.png"
-            },
-            {
-                "id": "viego",
-                "name": "Viego",
-                "image": "tft14_viego.tft_set14.png"
+                "id": "zed",
+                "name": "Zed",
+                "image": "tft14_zed.tft_set14.png"
             }
         ],
-        "average_position": "4",
-        "top_4_rate": "59.24",
-        "top_1_rate": "15.21",
-        "battle": "17,712",
+        "average_position": "4.08",
+        "top_4_rate": "59",
+        "top_1_rate": "10.62",
+        "battle": "72,211",
         "trait": "Hệ"
     },
     {
@@ -818,55 +808,65 @@
                 "image": "tft14_samira.tft_set14.png"
             }
         ],
-        "average_position": "3.98",
-        "top_4_rate": "59.22",
-        "top_1_rate": "18.25",
-        "battle": "180,473",
+        "average_position": "4.01",
+        "top_4_rate": "58.81",
+        "top_1_rate": "18.05",
+        "battle": "181,048",
         "trait": "Tộc"
     },
     {
         "stt": 20,
-        "id": "do_te",
-        "name": "Đồ Tể",
-        "image": "Trait_Icon_4_Slayer.png",
-        "description": "Tướng Đồ Tể nhận Sức Mạnh Công Kích và Hút Máu Toàn Phần. Hồi Máu Vượt Trội hồi lại cho tướng Đồ Tể còn thấp Máu nhất 50% lượng phụ trội.",
+        "id": "chuyen_vien",
+        "name": "Chuyên Viên",
+        "image": "Trait_Icon_14_Techie.TFT_Set14.png",
+        "description": "Tướng Chuyên Viên nhận Sức Mạnh Phép Thuật.\n\nKẻ địch trúng kỹ năng của họ sẽ bị giảm 10% sát thương gây ra trong 3 giây.",
         "description_detail": [],
         "champions": [
             {
-                "id": "dr._mundo",
-                "name": "Dr. Mundo",
-                "image": "tft14_drmundo.tft_set14.png"
+                "id": "zyra",
+                "name": "Zyra",
+                "image": "tft14_zyra.tft_set14.png"
             },
             {
-                "id": "shaco",
-                "name": "Shaco",
-                "image": "tft14_shaco.tft_set14.png"
+                "id": "seraphine",
+                "name": "Seraphine",
+                "image": "tft14_seraphine.tft_set14.png"
             },
             {
-                "id": "vayne",
-                "name": "Vayne",
-                "image": "tft14_vayne.tft_set14.png"
+                "id": "veigar",
+                "name": "Veigar",
+                "image": "tft14_veigar.tft_set14.png"
             },
             {
-                "id": "senna",
-                "name": "Senna",
-                "image": "tft14_senna.tft_set14.png"
+                "id": "shyvana",
+                "name": "Shyvana",
+                "image": "tft14_shyvana.tft_set14.png"
             },
             {
-                "id": "jarvan_iv",
-                "name": "Jarvan IV",
-                "image": "tft14_jarvan.tft_set14.png"
+                "id": "fiddlesticks",
+                "name": "Fiddlesticks",
+                "image": "tft14_fiddlesticks.tft_set14.png"
             },
             {
-                "id": "zed",
-                "name": "Zed",
-                "image": "tft14_zed.tft_set14.png"
+                "id": "mordekaiser",
+                "name": "Mordekaiser",
+                "image": "tft14_mordekaiser.tft_set14.png"
+            },
+            {
+                "id": "brand",
+                "name": "Brand",
+                "image": "tft14_brand.tft_set14.png"
+            },
+            {
+                "id": "viego",
+                "name": "Viego",
+                "image": "tft14_viego.tft_set14.png"
             }
         ],
-        "average_position": "4.1",
-        "top_4_rate": "58.89",
-        "top_1_rate": "10.39",
-        "battle": "71,036",
+        "average_position": "4.03",
+        "top_4_rate": "58.42",
+        "top_1_rate": "14.83",
+        "battle": "17,995",
         "trait": "Hệ"
     },
     {
@@ -908,14 +908,64 @@
                 "image": "tft14_renekton.tft_set14.png"
             }
         ],
-        "average_position": "4.1",
-        "top_4_rate": "58.28",
-        "top_1_rate": "13.18",
-        "battle": "51,561",
+        "average_position": "4.12",
+        "top_4_rate": "57.98",
+        "top_1_rate": "12.97",
+        "battle": "52,156",
         "trait": "Tộc"
     },
     {
         "stt": 22,
+        "id": "tien_phong",
+        "name": "Tiên Phong",
+        "image": "Trait_Icon_12_Vanguard.TFT_Set12.png",
+        "description": "Tướng Tiên Phong được tăng 10% Sức Chống Chịu khi có Lá Chắn. \n\nBắt đầu giao tranh và 50% Máu: Nhận một Lá Chắn theo Máu tối đa trong 10 giây.",
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "sylas",
+                "name": "Sylas",
+                "image": "tft14_sylas.tft_set14.png"
+            },
+            {
+                "id": "vi",
+                "name": "Vi",
+                "image": "tft14_vi.tft_set14.png"
+            },
+            {
+                "id": "skarner",
+                "name": "Skarner",
+                "image": "tft14_skarner.tft_set14.png"
+            },
+            {
+                "id": "rhaast",
+                "name": "Rhaast",
+                "image": "tft14_rhaast.tft_set14.png"
+            },
+            {
+                "id": "braum",
+                "name": "Braum",
+                "image": "tft14_braum.tft_set14.png"
+            },
+            {
+                "id": "jarvan_iv",
+                "name": "Jarvan IV",
+                "image": "tft14_jarvan.tft_set14.png"
+            },
+            {
+                "id": "leona",
+                "name": "Leona",
+                "image": "tft14_leona.tft_set14.png"
+            }
+        ],
+        "average_position": "4.14",
+        "top_4_rate": "57.94",
+        "top_1_rate": "10.73",
+        "battle": "34,428",
+        "trait": "Hệ"
+    },
+    {
+        "stt": 23,
         "id": "dau_si",
         "name": "Đấu Sĩ",
         "image": "Trait_Icon_14_Bruiser.TFT_Set14.png",
@@ -960,12 +1010,12 @@
         ],
         "average_position": "4.1",
         "top_4_rate": "57.89",
-        "top_1_rate": "15.05",
-        "battle": "815,476",
+        "top_1_rate": "15.02",
+        "battle": "821,960",
         "trait": "Hệ"
     },
     {
-        "stt": 23,
+        "stt": 24,
         "id": "quan_su",
         "name": "Quân Sư",
         "image": "Trait_Icon_9_Strategist.png",
@@ -998,60 +1048,10 @@
                 "image": "tft14_ziggs.tft_set14.png"
             }
         ],
-        "average_position": "4.06",
-        "top_4_rate": "57.71",
-        "top_1_rate": "18.16",
-        "battle": "97,476",
-        "trait": "Hệ"
-    },
-    {
-        "stt": 24,
-        "id": "tien_phong",
-        "name": "Tiên Phong",
-        "image": "Trait_Icon_12_Vanguard.TFT_Set12.png",
-        "description": "Tướng Tiên Phong được tăng 10% Sức Chống Chịu khi có Lá Chắn. \n\nBắt đầu giao tranh và 50% Máu: Nhận một Lá Chắn theo Máu tối đa trong 10 giây.",
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "sylas",
-                "name": "Sylas",
-                "image": "tft14_sylas.tft_set14.png"
-            },
-            {
-                "id": "vi",
-                "name": "Vi",
-                "image": "tft14_vi.tft_set14.png"
-            },
-            {
-                "id": "skarner",
-                "name": "Skarner",
-                "image": "tft14_skarner.tft_set14.png"
-            },
-            {
-                "id": "rhaast",
-                "name": "Rhaast",
-                "image": "tft14_rhaast.tft_set14.png"
-            },
-            {
-                "id": "braum",
-                "name": "Braum",
-                "image": "tft14_braum.tft_set14.png"
-            },
-            {
-                "id": "jarvan_iv",
-                "name": "Jarvan IV",
-                "image": "tft14_jarvan.tft_set14.png"
-            },
-            {
-                "id": "leona",
-                "name": "Leona",
-                "image": "tft14_leona.tft_set14.png"
-            }
-        ],
-        "average_position": "4.15",
-        "top_4_rate": "57.66",
-        "top_1_rate": "10.77",
-        "battle": "34,078",
+        "average_position": "4.05",
+        "top_4_rate": "57.76",
+        "top_1_rate": "18.21",
+        "battle": "96,547",
         "trait": "Hệ"
     },
     {
@@ -1068,10 +1068,10 @@
                 "image": "tft14_garen.tft_set14.png"
             }
         ],
-        "average_position": "4.05",
-        "top_4_rate": "57.33",
-        "top_1_rate": "20.64",
-        "battle": "238,787",
+        "average_position": "4.04",
+        "top_4_rate": "57.63",
+        "top_1_rate": "20.73",
+        "battle": "240,280",
         "trait": "Tộc"
     },
     {
@@ -1109,9 +1109,9 @@
             }
         ],
         "average_position": "4.09",
-        "top_4_rate": "57.19",
-        "top_1_rate": "16.99",
-        "battle": "218,001",
+        "top_4_rate": "57.09",
+        "top_1_rate": "16.94",
+        "battle": "219,877",
         "trait": "Hệ"
     },
     {
@@ -1129,9 +1129,9 @@
             }
         ],
         "average_position": "4.07",
-        "top_4_rate": "56.96",
-        "top_1_rate": "20.43",
-        "battle": "246,060",
+        "top_4_rate": "57.08",
+        "top_1_rate": "20.44",
+        "battle": "247,719",
         "trait": "Tộc"
     },
     {
@@ -1174,73 +1174,13 @@
             }
         ],
         "average_position": "4.15",
-        "top_4_rate": "56.6",
-        "top_1_rate": "12.62",
-        "battle": "23,644",
+        "top_4_rate": "56.75",
+        "top_1_rate": "12.84",
+        "battle": "23,572",
         "trait": "Tộc"
     },
     {
         "stt": 29,
-        "id": "diet_hon",
-        "name": "Diệt Hồn",
-        "image": "Trait_Icon_14_SoulKiller.TFT_Set14.png",
-        "description": "Nhận 1 bản sao ba chiều của kẻ địch có bậc vàng cao nhất mà Viego đã giúp tiêu diệt ở vòng trước. Nó có 900/1350/9001 Máu, gây 30%/40%/200% sát thương và có 1 trang bị đề xuất.",
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "viego",
-                "name": "Viego",
-                "image": "tft14_viego.tft_set14.png"
-            }
-        ],
-        "average_position": "4.11",
-        "top_4_rate": "56.27",
-        "top_1_rate": "19.02",
-        "battle": "314,567",
-        "trait": "Tộc"
-    },
-    {
-        "stt": 30,
-        "id": "xa_thu",
-        "name": "Xạ Thủ",
-        "image": "Trait_Icon_14_Marksman.TFT_Set14.png",
-        "description": "Tướng Xạ Thủ nhận Sức Mạnh Công Kích. Sau 8 giây giao tranh, họ tăng thưởng chỉ số thêm 100%.",
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "kindred",
-                "name": "Kindred",
-                "image": "tft14_kindred.tft_set14.png"
-            },
-            {
-                "id": "jhin",
-                "name": "Jhin",
-                "image": "tft14_jhin.tft_set14.png"
-            },
-            {
-                "id": "jinx",
-                "name": "Jinx",
-                "image": "tft14_jinx.tft_set14.png"
-            },
-            {
-                "id": "xayah",
-                "name": "Xayah",
-                "image": "tft14_xayah.tft_set14.png"
-            },
-            {
-                "id": "aphelios",
-                "name": "Aphelios",
-                "image": "tft14_aphelios.tft_set14.png"
-            }
-        ],
-        "average_position": "4.22",
-        "top_4_rate": "56.14",
-        "top_1_rate": "11.34",
-        "battle": "131,089",
-        "trait": "Hệ"
-    },
-    {
-        "stt": 31,
         "id": "dau_si",
         "name": "Đấu Sĩ",
         "image": "Trait_Icon_14_Bruiser.TFT_Set14.png",
@@ -1283,14 +1223,14 @@
                 "image": "tft14_kobuko.tft_set14.png"
             }
         ],
-        "average_position": "4.15",
-        "top_4_rate": "56.02",
-        "top_1_rate": "17.25",
-        "battle": "74,067",
+        "average_position": "4.11",
+        "top_4_rate": "56.66",
+        "top_1_rate": "17.66",
+        "battle": "75,462",
         "trait": "Hệ"
     },
     {
-        "stt": 32,
+        "stt": 30,
         "id": "can_truong",
         "name": "Can Trường",
         "image": "Trait_Icon_9_Bastion.png",
@@ -1333,10 +1273,70 @@
                 "image": "tft14_renekton.tft_set14.png"
             }
         ],
-        "average_position": "4.18",
-        "top_4_rate": "55.7",
-        "top_1_rate": "14.56",
-        "battle": "22,115",
+        "average_position": "4.15",
+        "top_4_rate": "56.55",
+        "top_1_rate": "14.80",
+        "battle": "22,233",
+        "trait": "Hệ"
+    },
+    {
+        "stt": 31,
+        "id": "diet_hon",
+        "name": "Diệt Hồn",
+        "image": "Trait_Icon_14_SoulKiller.TFT_Set14.png",
+        "description": "Nhận 1 bản sao ba chiều của kẻ địch có bậc vàng cao nhất mà Viego đã giúp tiêu diệt ở vòng trước. Nó có 900/1350/9001 Máu, gây 30%/40%/200% sát thương và có 1 trang bị đề xuất.",
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "viego",
+                "name": "Viego",
+                "image": "tft14_viego.tft_set14.png"
+            }
+        ],
+        "average_position": "4.1",
+        "top_4_rate": "56.46",
+        "top_1_rate": "19.03",
+        "battle": "319,413",
+        "trait": "Tộc"
+    },
+    {
+        "stt": 32,
+        "id": "xa_thu",
+        "name": "Xạ Thủ",
+        "image": "Trait_Icon_14_Marksman.TFT_Set14.png",
+        "description": "Tướng Xạ Thủ nhận Sức Mạnh Công Kích. Sau 8 giây giao tranh, họ tăng thưởng chỉ số thêm 100%.",
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "kindred",
+                "name": "Kindred",
+                "image": "tft14_kindred.tft_set14.png"
+            },
+            {
+                "id": "jhin",
+                "name": "Jhin",
+                "image": "tft14_jhin.tft_set14.png"
+            },
+            {
+                "id": "jinx",
+                "name": "Jinx",
+                "image": "tft14_jinx.tft_set14.png"
+            },
+            {
+                "id": "xayah",
+                "name": "Xayah",
+                "image": "tft14_xayah.tft_set14.png"
+            },
+            {
+                "id": "aphelios",
+                "name": "Aphelios",
+                "image": "tft14_aphelios.tft_set14.png"
+            }
+        ],
+        "average_position": "4.21",
+        "top_4_rate": "56.35",
+        "top_1_rate": "11.33",
+        "battle": "130,430",
         "trait": "Hệ"
     },
     {
@@ -1384,49 +1384,49 @@
             }
         ],
         "average_position": "4.25",
-        "top_4_rate": "55.66",
-        "top_1_rate": "11.56",
-        "battle": "154,717",
+        "top_4_rate": "55.56",
+        "top_1_rate": "11.49",
+        "battle": "155,537",
         "trait": "Tộc"
     },
     {
         "stt": 34,
-        "id": "a.m.p.",
-        "name": "A.M.P.",
-        "image": "Trait_Icon_14_Amp.TFT_Set14.png",
-        "description": "Tướng A.M.P. nâng cấp các kỹ năng của họ theo cách đặc biệt bằng Khuếch Đại (\n). Họ cũng nhận thêm Máu.",
+        "id": "lien_kich",
+        "name": "Liên Kích",
+        "image": "Trait_Icon_10_Rapidfire.png",
+        "description": "Đội của bạn được tăng 10% Tốc Độ Đánh. Tướng Liên Kích nhận thêm trên mỗi đòn đánh, cộng dồn tối đa 10 lần.",
         "description_detail": [],
         "champions": [
             {
-                "id": "nidalee",
-                "name": "Nidalee",
-                "image": "tft14_nidaleecougar.tft_set14.png"
+                "id": "kindred",
+                "name": "Kindred",
+                "image": "tft14_kindred.tft_set14.png"
             },
             {
-                "id": "naafiri",
-                "name": "Naafiri",
-                "image": "tft14_naafiri.tft_set14.png"
+                "id": "kog'maw",
+                "name": "Kog'Maw",
+                "image": "tft14_kogmaw.tft_set14.png"
             },
             {
-                "id": "yuumi",
-                "name": "Yuumi",
-                "image": "tft14_yuumi.tft_set14.png"
+                "id": "twisted_fate",
+                "name": "Twisted Fate",
+                "image": "tft14_twistedfate.tft_set14.png"
             },
             {
-                "id": "annie",
-                "name": "Annie",
-                "image": "tft14_annie.tft_set14.png"
+                "id": "draven",
+                "name": "Draven",
+                "image": "tft14_draven.tft_set14.png"
             },
             {
-                "id": "samira",
-                "name": "Samira",
-                "image": "tft14_samira.tft_set14.png"
+                "id": "zeri",
+                "name": "Zeri",
+                "image": "tft14_zeri.tft_set14.png"
             }
         ],
-        "average_position": "4.18",
-        "top_4_rate": "55.56",
-        "top_1_rate": "17.04",
-        "battle": "119,169",
+        "average_position": "4.19",
+        "top_4_rate": "55.52",
+        "top_1_rate": "17.15",
+        "battle": "15,833",
         "trait": "Hệ"
     },
     {
@@ -1474,49 +1474,49 @@
             }
         ],
         "average_position": "4.25",
-        "top_4_rate": "55.4",
-        "top_1_rate": "11.56",
-        "battle": "186,870",
+        "top_4_rate": "55.38",
+        "top_1_rate": "11.57",
+        "battle": "187,876",
         "trait": "Hệ"
     },
     {
         "stt": 36,
-        "id": "lien_kich",
-        "name": "Liên Kích",
-        "image": "Trait_Icon_10_Rapidfire.png",
-        "description": "Đội của bạn được tăng 10% Tốc Độ Đánh. Tướng Liên Kích nhận thêm trên mỗi đòn đánh, cộng dồn tối đa 10 lần.",
+        "id": "a.m.p.",
+        "name": "A.M.P.",
+        "image": "Trait_Icon_14_Amp.TFT_Set14.png",
+        "description": "Tướng A.M.P. nâng cấp các kỹ năng của họ theo cách đặc biệt bằng Khuếch Đại (\n). Họ cũng nhận thêm Máu.",
         "description_detail": [],
         "champions": [
             {
-                "id": "kindred",
-                "name": "Kindred",
-                "image": "tft14_kindred.tft_set14.png"
+                "id": "nidalee",
+                "name": "Nidalee",
+                "image": "tft14_nidaleecougar.tft_set14.png"
             },
             {
-                "id": "kog'maw",
-                "name": "Kog'Maw",
-                "image": "tft14_kogmaw.tft_set14.png"
+                "id": "naafiri",
+                "name": "Naafiri",
+                "image": "tft14_naafiri.tft_set14.png"
             },
             {
-                "id": "twisted_fate",
-                "name": "Twisted Fate",
-                "image": "tft14_twistedfate.tft_set14.png"
+                "id": "yuumi",
+                "name": "Yuumi",
+                "image": "tft14_yuumi.tft_set14.png"
             },
             {
-                "id": "draven",
-                "name": "Draven",
-                "image": "tft14_draven.tft_set14.png"
+                "id": "annie",
+                "name": "Annie",
+                "image": "tft14_annie.tft_set14.png"
             },
             {
-                "id": "zeri",
-                "name": "Zeri",
-                "image": "tft14_zeri.tft_set14.png"
+                "id": "samira",
+                "name": "Samira",
+                "image": "tft14_samira.tft_set14.png"
             }
         ],
-        "average_position": "4.2",
-        "top_4_rate": "55.28",
-        "top_1_rate": "16.96",
-        "battle": "16,431",
+        "average_position": "4.19",
+        "top_4_rate": "55.37",
+        "top_1_rate": "16.90",
+        "battle": "121,660",
         "trait": "Hệ"
     },
     {
@@ -1554,53 +1554,13 @@
             }
         ],
         "average_position": "4.22",
-        "top_4_rate": "55.18",
-        "top_1_rate": "14.71",
-        "battle": "263,946",
+        "top_4_rate": "55.25",
+        "top_1_rate": "14.60",
+        "battle": "265,517",
         "trait": "Hệ"
     },
     {
         "stt": 38,
-        "id": "dao_phu",
-        "name": "Đao Phủ",
-        "image": "Trait_Icon_4_Executioner.png",
-        "description": "Kỹ năng của tướng Đao Phủ có thể chí mạng. Họ đồng thời nhận thêm Tỉ Lệ Chí Mạng và Sát Thương Chí Mạng.\n\nNếu mục tiêu còn dưới 20% Máu, tăng gấp đôi Sát Thương Chí Mạng cộng thêm.",
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "graves",
-                "name": "Graves",
-                "image": "tft14_graves.tft_set14.png"
-            },
-            {
-                "id": "rengar",
-                "name": "Rengar",
-                "image": "tft14_rengar.tft_set14.png"
-            },
-            {
-                "id": "varus",
-                "name": "Varus",
-                "image": "tft14_varus.tft_set14.png"
-            },
-            {
-                "id": "vex",
-                "name": "Vex",
-                "image": "tft14_vex.tft_set14.png"
-            },
-            {
-                "id": "urgot",
-                "name": "Urgot",
-                "image": "tft14_urgot.tft_set14.png"
-            }
-        ],
-        "average_position": "4.25",
-        "top_4_rate": "55.03",
-        "top_1_rate": "14.46",
-        "battle": "47,858",
-        "trait": "Hệ"
-    },
-    {
-        "stt": 39,
         "id": "sieu_thu",
         "name": "Siêu Thú",
         "image": "Trait_Icon_14_AnimaSquad.TFT_Set14.png",
@@ -1649,13 +1609,13 @@
             }
         ],
         "average_position": "4.26",
-        "top_4_rate": "54.96",
-        "top_1_rate": "12.43",
-        "battle": "187,126",
+        "top_4_rate": "55",
+        "top_1_rate": "12.50",
+        "battle": "188,923",
         "trait": "Tộc"
     },
     {
-        "stt": 40,
+        "stt": 39,
         "id": "than_phap",
         "name": "Thần Pháp",
         "image": "Trait_Icon_14_Divinicorp.TFT_Set14.png",
@@ -1694,58 +1654,53 @@
             }
         ],
         "average_position": "4.28",
-        "top_4_rate": "54.88",
-        "top_1_rate": "12.31",
-        "battle": "251,716",
+        "top_4_rate": "54.79",
+        "top_1_rate": "12.37",
+        "battle": "254,447",
         "trait": "Tộc"
     },
     {
-        "stt": 41,
-        "id": "kim_nguu",
-        "name": "Kim Ngưu",
-        "image": "Trait_Icon_14_GoldenOx.TFT_Set14.png",
-        "description": "Tướng Kim Ngưu nhận Khuếch Đại Sát Thương và có xác suất rơi ra vàng khi hạ gục kẻ địch.\nNếu bạn dùng 8 vàng cho lượt đổi hoặc XP trong một lượt, tăng vĩnh viễn Khuếch Đại Sát Thương và lượng vàng cần thiết cho lần thưởng tiếp theo. Lượt đổi được tính gấp đôi vào lượng vàng đã tiêu.\n(Tướng Kim Ngưu bắt buộc phải tham gia giao tranh trong vòng trước)",
+        "stt": 40,
+        "id": "dao_phu",
+        "name": "Đao Phủ",
+        "image": "Trait_Icon_4_Executioner.png",
+        "description": "Kỹ năng của tướng Đao Phủ có thể chí mạng. Họ đồng thời nhận thêm Tỉ Lệ Chí Mạng và Sát Thương Chí Mạng.\n\nNếu mục tiêu còn dưới 20% Máu, tăng gấp đôi Sát Thương Chí Mạng cộng thêm.",
         "description_detail": [],
         "champions": [
-            {
-                "id": "alistar",
-                "name": "Alistar",
-                "image": "tft14_alistar.tft_set14.png"
-            },
             {
                 "id": "graves",
                 "name": "Graves",
                 "image": "tft14_graves.tft_set14.png"
             },
             {
-                "id": "jarvan_iv",
-                "name": "Jarvan IV",
-                "image": "tft14_jarvan.tft_set14.png"
+                "id": "rengar",
+                "name": "Rengar",
+                "image": "tft14_rengar.tft_set14.png"
             },
             {
-                "id": "annie",
-                "name": "Annie",
-                "image": "tft14_annie.tft_set14.png"
+                "id": "varus",
+                "name": "Varus",
+                "image": "tft14_varus.tft_set14.png"
             },
             {
-                "id": "aphelios",
-                "name": "Aphelios",
-                "image": "tft14_aphelios.tft_set14.png"
+                "id": "vex",
+                "name": "Vex",
+                "image": "tft14_vex.tft_set14.png"
             },
             {
-                "id": "viego",
-                "name": "Viego",
-                "image": "tft14_viego.tft_set14.png"
+                "id": "urgot",
+                "name": "Urgot",
+                "image": "tft14_urgot.tft_set14.png"
             }
         ],
-        "average_position": "4.31",
-        "top_4_rate": "54.4",
-        "top_1_rate": "12.05",
-        "battle": "219,423",
-        "trait": "Tộc"
+        "average_position": "4.25",
+        "top_4_rate": "54.79",
+        "top_1_rate": "14.56",
+        "battle": "48,247",
+        "trait": "Hệ"
     },
     {
-        "stt": 42,
+        "stt": 41,
         "id": "chuyen_vien",
         "name": "Chuyên Viên",
         "image": "Trait_Icon_14_Techie.TFT_Set14.png",
@@ -1793,11 +1748,56 @@
                 "image": "tft14_viego.tft_set14.png"
             }
         ],
-        "average_position": "4.25",
-        "top_4_rate": "54.29",
-        "top_1_rate": "15.84",
-        "battle": "539,403",
+        "average_position": "4.24",
+        "top_4_rate": "54.41",
+        "top_1_rate": "15.91",
+        "battle": "547,903",
         "trait": "Hệ"
+    },
+    {
+        "stt": 42,
+        "id": "kim_nguu",
+        "name": "Kim Ngưu",
+        "image": "Trait_Icon_14_GoldenOx.TFT_Set14.png",
+        "description": "Tướng Kim Ngưu nhận Khuếch Đại Sát Thương và có xác suất rơi ra vàng khi hạ gục kẻ địch.\nNếu bạn dùng 8 vàng cho lượt đổi hoặc XP trong một lượt, tăng vĩnh viễn Khuếch Đại Sát Thương và lượng vàng cần thiết cho lần thưởng tiếp theo. Lượt đổi được tính gấp đôi vào lượng vàng đã tiêu.\n(Tướng Kim Ngưu bắt buộc phải tham gia giao tranh trong vòng trước)",
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "alistar",
+                "name": "Alistar",
+                "image": "tft14_alistar.tft_set14.png"
+            },
+            {
+                "id": "graves",
+                "name": "Graves",
+                "image": "tft14_graves.tft_set14.png"
+            },
+            {
+                "id": "jarvan_iv",
+                "name": "Jarvan IV",
+                "image": "tft14_jarvan.tft_set14.png"
+            },
+            {
+                "id": "annie",
+                "name": "Annie",
+                "image": "tft14_annie.tft_set14.png"
+            },
+            {
+                "id": "aphelios",
+                "name": "Aphelios",
+                "image": "tft14_aphelios.tft_set14.png"
+            },
+            {
+                "id": "viego",
+                "name": "Viego",
+                "image": "tft14_viego.tft_set14.png"
+            }
+        ],
+        "average_position": "4.31",
+        "top_4_rate": "54.38",
+        "top_1_rate": "11.98",
+        "battle": "219,559",
+        "trait": "Tộc"
     },
     {
         "stt": 43,
@@ -1833,10 +1833,10 @@
                 "image": "tft14_zeri.tft_set14.png"
             }
         ],
-        "average_position": "4.35",
-        "top_4_rate": "53.88",
-        "top_1_rate": "11.71",
-        "battle": "296,969",
+        "average_position": "4.36",
+        "top_4_rate": "53.75",
+        "top_1_rate": "11.73",
+        "battle": "300,679",
         "trait": "Hệ"
     },
     {
@@ -1888,10 +1888,10 @@
                 "image": "tft14_aurora.tft_set14.png"
             }
         ],
-        "average_position": "4.34",
-        "top_4_rate": "53.14",
-        "top_1_rate": "10.54",
-        "battle": "98,943",
+        "average_position": "4.33",
+        "top_4_rate": "53.5",
+        "top_1_rate": "10.71",
+        "battle": "99,698",
         "trait": "Tộc"
     },
     {
@@ -1943,64 +1943,14 @@
                 "image": "tft14_viego.tft_set14.png"
             }
         ],
-        "average_position": "4.4",
-        "top_4_rate": "51.67",
-        "top_1_rate": "11.68",
-        "battle": "38,569",
+        "average_position": "4.41",
+        "top_4_rate": "51.44",
+        "top_1_rate": "11.51",
+        "battle": "39,285",
         "trait": "Hệ"
     },
     {
         "stt": 46,
-        "id": "can_truong",
-        "name": "Can Trường",
-        "image": "Trait_Icon_9_Bastion.png",
-        "description": "Đội của bạn nhận 10 Giáp và Kháng Phép. Tướng Can Trường nhận được nhiều hơn.\n\nTrong 10 giây đầu giao tranh, tướng Can Trường tăng thưởng chỉ số thêm 100%.",
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "jax",
-                "name": "Jax",
-                "image": "tft14_jax.tft_set14.png"
-            },
-            {
-                "id": "poppy",
-                "name": "Poppy",
-                "image": "tft14_poppy.tft_set14.png"
-            },
-            {
-                "id": "shyvana",
-                "name": "Shyvana",
-                "image": "tft14_shyvana.tft_set14.png"
-            },
-            {
-                "id": "illaoi",
-                "name": "Illaoi",
-                "image": "tft14_illaoi.tft_set14.png"
-            },
-            {
-                "id": "galio",
-                "name": "Galio",
-                "image": "tft14_galio.tft_set14.png"
-            },
-            {
-                "id": "sejuani",
-                "name": "Sejuani",
-                "image": "tft14_sejuani.tft_set14.png"
-            },
-            {
-                "id": "renekton",
-                "name": "Renekton",
-                "image": "tft14_renekton.tft_set14.png"
-            }
-        ],
-        "average_position": "4.47",
-        "top_4_rate": "50.83",
-        "top_1_rate": "11.79",
-        "battle": "508,083",
-        "trait": "Hệ"
-    },
-    {
-        "stt": 47,
         "id": "tien_phong",
         "name": "Tiên Phong",
         "image": "Trait_Icon_12_Vanguard.TFT_Set12.png",
@@ -2044,13 +1994,13 @@
             }
         ],
         "average_position": "4.48",
-        "top_4_rate": "50.82",
-        "top_1_rate": "11.74",
-        "battle": "507,385",
+        "top_4_rate": "50.87",
+        "top_1_rate": "11.79",
+        "battle": "512,928",
         "trait": "Hệ"
     },
     {
-        "stt": 48,
+        "stt": 47,
         "id": "can_truong",
         "name": "Can Trường",
         "image": "Trait_Icon_9_Bastion.png",
@@ -2093,14 +2043,14 @@
                 "image": "tft14_renekton.tft_set14.png"
             }
         ],
-        "average_position": "4.47",
-        "top_4_rate": "50.44",
-        "top_1_rate": "14.20",
-        "battle": "75,359",
+        "average_position": "4.48",
+        "top_4_rate": "50.63",
+        "top_1_rate": "11.66",
+        "battle": "516,968",
         "trait": "Hệ"
     },
     {
-        "stt": 49,
+        "stt": 48,
         "id": "chuyen_vien",
         "name": "Chuyên Viên",
         "image": "Trait_Icon_14_Techie.TFT_Set14.png",
@@ -2149,9 +2099,59 @@
             }
         ],
         "average_position": "4.44",
-        "top_4_rate": "50.32",
-        "top_1_rate": "13.38",
-        "battle": "87,574",
+        "top_4_rate": "50.42",
+        "top_1_rate": "13.24",
+        "battle": "90,137",
+        "trait": "Hệ"
+    },
+    {
+        "stt": 49,
+        "id": "can_truong",
+        "name": "Can Trường",
+        "image": "Trait_Icon_9_Bastion.png",
+        "description": "Đội của bạn nhận 10 Giáp và Kháng Phép. Tướng Can Trường nhận được nhiều hơn.\n\nTrong 10 giây đầu giao tranh, tướng Can Trường tăng thưởng chỉ số thêm 100%.",
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "jax",
+                "name": "Jax",
+                "image": "tft14_jax.tft_set14.png"
+            },
+            {
+                "id": "poppy",
+                "name": "Poppy",
+                "image": "tft14_poppy.tft_set14.png"
+            },
+            {
+                "id": "shyvana",
+                "name": "Shyvana",
+                "image": "tft14_shyvana.tft_set14.png"
+            },
+            {
+                "id": "illaoi",
+                "name": "Illaoi",
+                "image": "tft14_illaoi.tft_set14.png"
+            },
+            {
+                "id": "galio",
+                "name": "Galio",
+                "image": "tft14_galio.tft_set14.png"
+            },
+            {
+                "id": "sejuani",
+                "name": "Sejuani",
+                "image": "tft14_sejuani.tft_set14.png"
+            },
+            {
+                "id": "renekton",
+                "name": "Renekton",
+                "image": "tft14_renekton.tft_set14.png"
+            }
+        ],
+        "average_position": "4.47",
+        "top_4_rate": "50.15",
+        "top_1_rate": "14.12",
+        "battle": "76,478",
         "trait": "Hệ"
     },
     {
@@ -2198,10 +2198,10 @@
                 "image": "tft14_kobuko.tft_set14.png"
             }
         ],
-        "average_position": "4.49",
-        "top_4_rate": "50.22",
-        "top_1_rate": "12.66",
-        "battle": "88,180",
+        "average_position": "4.5",
+        "top_4_rate": "50.14",
+        "top_1_rate": "12.39",
+        "battle": "89,395",
         "trait": "Hệ"
     },
     {
@@ -2243,14 +2243,54 @@
                 "image": "tft14_renekton.tft_set14.png"
             }
         ],
-        "average_position": "4.53",
-        "top_4_rate": "49.85",
-        "top_1_rate": "11.66",
-        "battle": "562,407",
+        "average_position": "4.52",
+        "top_4_rate": "49.95",
+        "top_1_rate": "11.73",
+        "battle": "568,839",
         "trait": "Tộc"
     },
     {
         "stt": 52,
+        "id": "dao_phu",
+        "name": "Đao Phủ",
+        "image": "Trait_Icon_4_Executioner.png",
+        "description": "Kỹ năng của tướng Đao Phủ có thể chí mạng. Họ đồng thời nhận thêm Tỉ Lệ Chí Mạng và Sát Thương Chí Mạng.\n\nNếu mục tiêu còn dưới 20% Máu, tăng gấp đôi Sát Thương Chí Mạng cộng thêm.",
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "graves",
+                "name": "Graves",
+                "image": "tft14_graves.tft_set14.png"
+            },
+            {
+                "id": "rengar",
+                "name": "Rengar",
+                "image": "tft14_rengar.tft_set14.png"
+            },
+            {
+                "id": "varus",
+                "name": "Varus",
+                "image": "tft14_varus.tft_set14.png"
+            },
+            {
+                "id": "vex",
+                "name": "Vex",
+                "image": "tft14_vex.tft_set14.png"
+            },
+            {
+                "id": "urgot",
+                "name": "Urgot",
+                "image": "tft14_urgot.tft_set14.png"
+            }
+        ],
+        "average_position": "4.49",
+        "top_4_rate": "49.79",
+        "top_1_rate": "10.90",
+        "battle": "20,095",
+        "trait": "Hệ"
+    },
+    {
+        "stt": 53,
         "id": "cong_nghe_cao",
         "name": "Công Nghệ Cao",
         "image": "Trait_Icon_14_Exotech.TFT_Set14.png",
@@ -2293,51 +2333,11 @@
                 "image": "tft14_sejuani.tft_set14.png"
             }
         ],
-        "average_position": "4.55",
-        "top_4_rate": "49.4",
-        "top_1_rate": "7.71",
-        "battle": "67,592",
+        "average_position": "4.57",
+        "top_4_rate": "49",
+        "top_1_rate": "7.60",
+        "battle": "68,960",
         "trait": "Tộc"
-    },
-    {
-        "stt": 53,
-        "id": "dao_phu",
-        "name": "Đao Phủ",
-        "image": "Trait_Icon_4_Executioner.png",
-        "description": "Kỹ năng của tướng Đao Phủ có thể chí mạng. Họ đồng thời nhận thêm Tỉ Lệ Chí Mạng và Sát Thương Chí Mạng.\n\nNếu mục tiêu còn dưới 20% Máu, tăng gấp đôi Sát Thương Chí Mạng cộng thêm.",
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "graves",
-                "name": "Graves",
-                "image": "tft14_graves.tft_set14.png"
-            },
-            {
-                "id": "rengar",
-                "name": "Rengar",
-                "image": "tft14_rengar.tft_set14.png"
-            },
-            {
-                "id": "varus",
-                "name": "Varus",
-                "image": "tft14_varus.tft_set14.png"
-            },
-            {
-                "id": "vex",
-                "name": "Vex",
-                "image": "tft14_vex.tft_set14.png"
-            },
-            {
-                "id": "urgot",
-                "name": "Urgot",
-                "image": "tft14_urgot.tft_set14.png"
-            }
-        ],
-        "average_position": "4.55",
-        "top_4_rate": "49.06",
-        "top_1_rate": "10.45",
-        "battle": "19,937",
-        "trait": "Hệ"
     },
     {
         "stt": 54,
@@ -2380,8 +2380,8 @@
         ],
         "average_position": "4.55",
         "top_4_rate": "48.97",
-        "top_1_rate": "9.57",
-        "battle": "26,906",
+        "top_1_rate": "9.58",
+        "battle": "27,187",
         "trait": "Tộc"
     },
     {
@@ -2419,9 +2419,9 @@
             }
         ],
         "average_position": "4.55",
-        "top_4_rate": "48.72",
-        "top_1_rate": "12.84",
-        "battle": "138,954",
+        "top_4_rate": "48.79",
+        "top_1_rate": "12.87",
+        "battle": "141,537",
         "trait": "Hệ"
     },
     {
@@ -2463,10 +2463,10 @@
                 "image": "tft14_zed.tft_set14.png"
             }
         ],
-        "average_position": "4.63",
-        "top_4_rate": "47.95",
-        "top_1_rate": "12.49",
-        "battle": "194,586",
+        "average_position": "4.64",
+        "top_4_rate": "47.81",
+        "top_1_rate": "12.56",
+        "battle": "196,659",
         "trait": "Hệ"
     },
     {
@@ -2503,10 +2503,10 @@
                 "image": "tft14_urgot.tft_set14.png"
             }
         ],
-        "average_position": "4.6",
-        "top_4_rate": "47.58",
-        "top_1_rate": "13.22",
-        "battle": "81,610",
+        "average_position": "4.58",
+        "top_4_rate": "47.76",
+        "top_1_rate": "13.50",
+        "battle": "82,483",
         "trait": "Tộc"
     },
     {
@@ -2543,10 +2543,10 @@
                 "image": "tft14_aphelios.tft_set14.png"
             }
         ],
-        "average_position": "4.61",
-        "top_4_rate": "47.28",
-        "top_1_rate": "13.06",
-        "battle": "234,067",
+        "average_position": "4.59",
+        "top_4_rate": "47.63",
+        "top_1_rate": "13.13",
+        "battle": "238,911",
         "trait": "Hệ"
     },
     {
@@ -2594,53 +2594,13 @@
             }
         ],
         "average_position": "4.64",
-        "top_4_rate": "47.15",
-        "top_1_rate": "12.67",
-        "battle": "165,530",
+        "top_4_rate": "47.31",
+        "top_1_rate": "12.56",
+        "battle": "168,828",
         "trait": "Tộc"
     },
     {
         "stt": 60,
-        "id": "robot_boc_pha",
-        "name": "Robot Bộc Phá",
-        "image": "Trait_Icon_14_BoomBots.TFT_Set14.png",
-        "description": "Tướng Robot Bộc Phá phóng tên lửa gây sát thương phép vào một kẻ địch ở gần mỗi khi gây ra 400 sát thương. 8% sát thương gánh chịu được tính vào sát thương gây ra.",
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "kog'maw",
-                "name": "Kog'Maw",
-                "image": "tft14_kogmaw.tft_set14.png"
-            },
-            {
-                "id": "skarner",
-                "name": "Skarner",
-                "image": "tft14_skarner.tft_set14.png"
-            },
-            {
-                "id": "fiddlesticks",
-                "name": "Fiddlesticks",
-                "image": "tft14_fiddlesticks.tft_set14.png"
-            },
-            {
-                "id": "cho'gath",
-                "name": "Cho'Gath",
-                "image": "tft14_chogath.tft_set14.png"
-            },
-            {
-                "id": "urgot",
-                "name": "Urgot",
-                "image": "tft14_urgot.tft_set14.png"
-            }
-        ],
-        "average_position": "4.67",
-        "top_4_rate": "46.79",
-        "top_1_rate": "10.97",
-        "battle": "124,744",
-        "trait": "Tộc"
-    },
-    {
-        "stt": 61,
         "id": "do_te",
         "name": "Đồ Tể",
         "image": "Trait_Icon_4_Slayer.png",
@@ -2678,11 +2638,51 @@
                 "image": "tft14_zed.tft_set14.png"
             }
         ],
-        "average_position": "4.69",
-        "top_4_rate": "46.77",
-        "top_1_rate": "8.64",
-        "battle": "59,367",
+        "average_position": "4.67",
+        "top_4_rate": "47.09",
+        "top_1_rate": "8.87",
+        "battle": "61,675",
         "trait": "Hệ"
+    },
+    {
+        "stt": 61,
+        "id": "robot_boc_pha",
+        "name": "Robot Bộc Phá",
+        "image": "Trait_Icon_14_BoomBots.TFT_Set14.png",
+        "description": "Tướng Robot Bộc Phá phóng tên lửa gây sát thương phép vào một kẻ địch ở gần mỗi khi gây ra 400 sát thương. 8% sát thương gánh chịu được tính vào sát thương gây ra.",
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "kog'maw",
+                "name": "Kog'Maw",
+                "image": "tft14_kogmaw.tft_set14.png"
+            },
+            {
+                "id": "skarner",
+                "name": "Skarner",
+                "image": "tft14_skarner.tft_set14.png"
+            },
+            {
+                "id": "fiddlesticks",
+                "name": "Fiddlesticks",
+                "image": "tft14_fiddlesticks.tft_set14.png"
+            },
+            {
+                "id": "cho'gath",
+                "name": "Cho'Gath",
+                "image": "tft14_chogath.tft_set14.png"
+            },
+            {
+                "id": "urgot",
+                "name": "Urgot",
+                "image": "tft14_urgot.tft_set14.png"
+            }
+        ],
+        "average_position": "4.67",
+        "top_4_rate": "47",
+        "top_1_rate": "10.89",
+        "battle": "125,540",
+        "trait": "Tộc"
     },
     {
         "stt": 62,
@@ -2714,13 +2714,53 @@
             }
         ],
         "average_position": "4.67",
-        "top_4_rate": "46.42",
-        "top_1_rate": "8.88",
-        "battle": "96,252",
+        "top_4_rate": "46.4",
+        "top_1_rate": "8.89",
+        "battle": "98,627",
         "trait": "Tộc"
     },
     {
         "stt": 63,
+        "id": "lien_kich",
+        "name": "Liên Kích",
+        "image": "Trait_Icon_10_Rapidfire.png",
+        "description": "Đội của bạn được tăng 10% Tốc Độ Đánh. Tướng Liên Kích nhận thêm trên mỗi đòn đánh, cộng dồn tối đa 10 lần.",
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "kindred",
+                "name": "Kindred",
+                "image": "tft14_kindred.tft_set14.png"
+            },
+            {
+                "id": "kog'maw",
+                "name": "Kog'Maw",
+                "image": "tft14_kogmaw.tft_set14.png"
+            },
+            {
+                "id": "twisted_fate",
+                "name": "Twisted Fate",
+                "image": "tft14_twistedfate.tft_set14.png"
+            },
+            {
+                "id": "draven",
+                "name": "Draven",
+                "image": "tft14_draven.tft_set14.png"
+            },
+            {
+                "id": "zeri",
+                "name": "Zeri",
+                "image": "tft14_zeri.tft_set14.png"
+            }
+        ],
+        "average_position": "4.79",
+        "top_4_rate": "45.49",
+        "top_1_rate": "7.20",
+        "battle": "28,730",
+        "trait": "Hệ"
+    },
+    {
+        "stt": 64,
         "id": "kim_nguu",
         "name": "Kim Ngưu",
         "image": "Trait_Icon_14_GoldenOx.TFT_Set14.png",
@@ -2758,51 +2798,11 @@
                 "image": "tft14_viego.tft_set14.png"
             }
         ],
-        "average_position": "4.62",
-        "top_4_rate": "45.04",
-        "top_1_rate": "19.74",
-        "battle": "131,837",
+        "average_position": "4.61",
+        "top_4_rate": "45.42",
+        "top_1_rate": "19.85",
+        "battle": "132,481",
         "trait": "Tộc"
-    },
-    {
-        "stt": 64,
-        "id": "lien_kich",
-        "name": "Liên Kích",
-        "image": "Trait_Icon_10_Rapidfire.png",
-        "description": "Đội của bạn được tăng 10% Tốc Độ Đánh. Tướng Liên Kích nhận thêm trên mỗi đòn đánh, cộng dồn tối đa 10 lần.",
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "kindred",
-                "name": "Kindred",
-                "image": "tft14_kindred.tft_set14.png"
-            },
-            {
-                "id": "kog'maw",
-                "name": "Kog'Maw",
-                "image": "tft14_kogmaw.tft_set14.png"
-            },
-            {
-                "id": "twisted_fate",
-                "name": "Twisted Fate",
-                "image": "tft14_twistedfate.tft_set14.png"
-            },
-            {
-                "id": "draven",
-                "name": "Draven",
-                "image": "tft14_draven.tft_set14.png"
-            },
-            {
-                "id": "zeri",
-                "name": "Zeri",
-                "image": "tft14_zeri.tft_set14.png"
-            }
-        ],
-        "average_position": "4.82",
-        "top_4_rate": "44.84",
-        "top_1_rate": "7.18",
-        "battle": "28,861",
-        "trait": "Hệ"
     },
     {
         "stt": 65,
@@ -2838,10 +2838,10 @@
                 "image": "tft14_missfortune.tft_set14.png"
             }
         ],
-        "average_position": "4.81",
-        "top_4_rate": "44.77",
-        "top_1_rate": "6.98",
-        "battle": "93,004",
+        "average_position": "4.8",
+        "top_4_rate": "44.91",
+        "top_1_rate": "7.01",
+        "battle": "94,529",
         "trait": "Tộc"
     },
     {
@@ -2878,10 +2878,10 @@
                 "image": "tft14_zed.tft_set14.png"
             }
         ],
-        "average_position": "4.91",
-        "top_4_rate": "42.82",
-        "top_1_rate": "15.37",
-        "battle": "38,930",
+        "average_position": "4.92",
+        "top_4_rate": "42.77",
+        "top_1_rate": "15.43",
+        "battle": "39,890",
         "trait": "Tộc"
     },
     {
@@ -2918,10 +2918,10 @@
                 "image": "tft14_urgot.tft_set14.png"
             }
         ],
-        "average_position": "4.91",
-        "top_4_rate": "41.73",
-        "top_1_rate": "9.04",
-        "battle": "17,458",
+        "average_position": "4.93",
+        "top_4_rate": "41.24",
+        "top_1_rate": "9.08",
+        "battle": "17,766",
         "trait": "Hệ"
     },
     {
@@ -2973,14 +2973,49 @@
                 "image": "tft14_aurora.tft_set14.png"
             }
         ],
-        "average_position": "5.12",
-        "top_4_rate": "38.65",
-        "top_1_rate": "7.05",
-        "battle": "25,579",
+        "average_position": "5.13",
+        "top_4_rate": "38.61",
+        "top_1_rate": "6.93",
+        "battle": "25,815",
         "trait": "Tộc"
     },
     {
         "stt": 69,
+        "id": "chien_doi",
+        "name": "Chiến Đội",
+        "image": "Trait_Icon_14_NitroForge.TFT_Set14.png",
+        "description": "Mỗi vòng đấu, tướng Chiến Đội độc nhất trao Hợp Kim cho R-080T, dựa trên cấp sao của họ. Mỗi Hợp Kim cho 11 Máu và 1 Sức Mạnh Phép Thuật. \n\nKhi có 200 Hợp Kim, nó được nâng cấp thành T-43X!",
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "nidalee",
+                "name": "Nidalee",
+                "image": "tft14_nidaleecougar.tft_set14.png"
+            },
+            {
+                "id": "kindred",
+                "name": "Kindred",
+                "image": "tft14_kindred.tft_set14.png"
+            },
+            {
+                "id": "shyvana",
+                "name": "Shyvana",
+                "image": "tft14_shyvana.tft_set14.png"
+            },
+            {
+                "id": "elise",
+                "name": "Elise",
+                "image": "tft14_elise.tft_set14.png"
+            }
+        ],
+        "average_position": "5.15",
+        "top_4_rate": "38.22",
+        "top_1_rate": "5.79",
+        "battle": "12,291",
+        "trait": "Tộc"
+    },
+    {
+        "stt": 70,
         "id": "quy_duong_pho",
         "name": "Quỷ Đường Phố",
         "image": "Trait_Icon_14_StreetDemon.TFT_Set14.png",
@@ -3029,44 +3064,9 @@
             }
         ],
         "average_position": "5.14",
-        "top_4_rate": "37.93",
-        "top_1_rate": "7.21",
-        "battle": "52,944",
-        "trait": "Tộc"
-    },
-    {
-        "stt": 70,
-        "id": "chien_doi",
-        "name": "Chiến Đội",
-        "image": "Trait_Icon_14_NitroForge.TFT_Set14.png",
-        "description": "Mỗi vòng đấu, tướng Chiến Đội độc nhất trao Hợp Kim cho R-080T, dựa trên cấp sao của họ. Mỗi Hợp Kim cho 11 Máu và 1 Sức Mạnh Phép Thuật. \n\nKhi có 200 Hợp Kim, nó được nâng cấp thành T-43X!",
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "nidalee",
-                "name": "Nidalee",
-                "image": "tft14_nidaleecougar.tft_set14.png"
-            },
-            {
-                "id": "kindred",
-                "name": "Kindred",
-                "image": "tft14_kindred.tft_set14.png"
-            },
-            {
-                "id": "shyvana",
-                "name": "Shyvana",
-                "image": "tft14_shyvana.tft_set14.png"
-            },
-            {
-                "id": "elise",
-                "name": "Elise",
-                "image": "tft14_elise.tft_set14.png"
-            }
-        ],
-        "average_position": "5.18",
-        "top_4_rate": "37.46",
-        "top_1_rate": "5.95",
-        "battle": "11,853",
+        "top_4_rate": "37.68",
+        "top_1_rate": "7.39",
+        "battle": "54,225",
         "trait": "Tộc"
     },
     {
@@ -3104,9 +3104,9 @@
             }
         ],
         "average_position": "5.3",
-        "top_4_rate": "36.15",
-        "top_1_rate": "13.29",
-        "battle": "42,148",
+        "top_4_rate": "36.53",
+        "top_1_rate": "13.28",
+        "battle": "43,181",
         "trait": "Tộc"
     },
     {
@@ -3143,10 +3143,10 @@
                 "image": "tft14_samira.tft_set14.png"
             }
         ],
-        "average_position": "5.29",
-        "top_4_rate": "35.31",
-        "top_1_rate": "8.38",
-        "battle": "23,769",
+        "average_position": "5.3",
+        "top_4_rate": "35.19",
+        "top_1_rate": "8.00",
+        "battle": "24,099",
         "trait": "Hệ"
     },
     {
@@ -3178,10 +3178,10 @@
                 "image": "tft14_kobuko.tft_set14.png"
             }
         ],
-        "average_position": "5.35",
-        "top_4_rate": "32.53",
-        "top_1_rate": "3.53",
-        "battle": "52,071",
+        "average_position": "5.34",
+        "top_4_rate": "32.61",
+        "top_1_rate": "3.57",
+        "battle": "53,259",
         "trait": "Tộc"
     },
     {
@@ -3223,10 +3223,10 @@
                 "image": "tft14_viego.tft_set14.png"
             }
         ],
-        "average_position": "5.64",
-        "top_4_rate": "28.54",
-        "top_1_rate": "5.69",
-        "battle": "47,367",
+        "average_position": "5.63",
+        "top_4_rate": "28.87",
+        "top_1_rate": "5.97",
+        "battle": "47,833",
         "trait": "Tộc"
     },
     {
@@ -3264,9 +3264,9 @@
             }
         ],
         "average_position": "5.62",
-        "top_4_rate": "27.29",
-        "top_1_rate": "3.22",
-        "battle": "52,044",
+        "top_4_rate": "27.23",
+        "top_1_rate": "3.12",
+        "battle": "51,489",
         "trait": "Hệ"
     },
     {
@@ -3303,10 +3303,10 @@
                 "image": "tft14_zed.tft_set14.png"
             }
         ],
-        "average_position": "6.03",
-        "top_4_rate": "24.19",
-        "top_1_rate": "7.40",
-        "battle": "19,892",
+        "average_position": "6.06",
+        "top_4_rate": "23.79",
+        "top_1_rate": "7.41",
+        "battle": "20,254",
         "trait": "Tộc"
     }
 ]
