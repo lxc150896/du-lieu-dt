@@ -1,0 +1,2728 @@
+[
+    {
+        "stt": 199,
+        "id": "samira",
+        "name": "Samira",
+        "image": "tft14_samira.tft_set14.png",
+        "price": "5",
+        "average_position": "3.59",
+        "top_4_rate": "66.83",
+        "top_1_rate": "21.61",
+        "battle": "375,151",
+        "description": "Lướt về phía mục tiêu và bắn ra một loạt 20 () viên đạn trong 2 giây chia đều giữa các kẻ địch trong phạm vi 3 ô. Mỗi viên đạn giảm đi 3 giáp và gây [ 63 / 95 / 2363 ] () sát thương vật lý, giảm đi 20% với mỗi ô khoảng cách từ Samira (Tổng Sát Thương: [ 1260 / 1890 / 47250 ] ()).\n\nKhi loạt đạn kết thúc, lướt về vị trí an toàn, đồng thời gây [ 350 / 525 / 7875 ] () sát thương vật lý lên mục tiêu hiện tại.\n\nTrong khi thi triển Kỹ Năng này, Samira trở nên Không Thể Cản Phá và có [ 0.11999999731779099 / 0.11999999731779099 / 1 ] () Hút Máu Toàn Phần.",
+        "skill_name": "Ác Quỷ Liên Xạ",
+        "skill_image": "TFT14_Samira.png",
+        "skill_mana": "20/100",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Quỷ Đường Phố",
+                "description": "Các đồng minh đứng trên ô được đánh dấu nhận thêm Máu, Sức Mạnh Phép Thuật và Sức Mạnh Công Kích. Một số ô là ô Đặc Trưng và cho thêm 50%. \n\nTướng Quỷ Đường Phố gấp đôi tất cả thưởng chỉ số.",
+                "image": "Trait_Icon_14_StreetDemon.TFT_Set14.png",
+                "champions": [
+                    "tft14_drmundo.tft_set14.png",
+                    "tft14_zyra.tft_set14.png",
+                    "tft14_ekko.tft_set14.png",
+                    "tft14_rengar.tft_set14.png",
+                    "tft14_jinx.tft_set14.png",
+                    "tft14_brand.tft_set14.png",
+                    "tft14_neeko.tft_set14.png",
+                    "tft14_samira.tft_set14.png"
+                ]
+            },
+            {
+                "name": "A.M.P.",
+                "description": "Tướng A.M.P. nâng cấp các kỹ năng của họ theo cách đặc biệt bằng Khuếch Đại (\n). Họ cũng nhận thêm Máu.",
+                "image": "Trait_Icon_14_Amp.TFT_Set14.png",
+                "champions": [
+                    "tft14_nidaleecougar.tft_set14.png",
+                    "tft14_naafiri.tft_set14.png",
+                    "tft14_yuumi.tft_set14.png",
+                    "tft14_annie.tft_set14.png",
+                    "tft14_samira.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 2,
+        "id": "kobuko",
+        "name": "Kobuko",
+        "image": "tft14_kobuko.tft_set14.png",
+        "price": "5",
+        "average_position": "3.62",
+        "top_4_rate": "66.32",
+        "top_1_rate": "21.49",
+        "battle": "485,669",
+        "description": "Nội Tại: Đòn đánh gây thêm [ 100 / 150 / 999 ] () sát thương phép và 50% trong bán kính 1 ô. Ở [ 50 / 50 / 90 ]% Máu, kích hoạt 'Giai Đoạn 2', rồi trở nên điên cuồng cho đến cuối giao tranh, tăng 125% Tốc Độ Đánh, [ 30 / 30 / 100 ]% Hút Máu Toàn Phần, và tăng 33% sát thương phép cộng thêm.\n\nGiai Đoạn 2: Nhận [ 900 / 1620 / 27664 ] () Lá Chắn trong 4 giây. Tóm lấy một kẻ địch ở gần, hất tung mọi kẻ địch trong phạm vi 2 ô trong 1.5 giây. Sau đó dậm xuống mặt đất, gây [ 300 / 450 / 13370 ] () sát thương phép lên mục tiêu và [ 150 / 225 / 1337 ] () sát thương phép lên tất cả kẻ địch trúng đòn khác.",
+        "skill_name": "Trò Chơi Kết Thúc!",
+        "skill_image": "TFT14_Kobuko.png",
+        "skill_mana": "Passive",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Trùm Giả Lập",
+                "description": "Tướng Trùm Giả Lập mạnh nhất của bạn nâng cấp lên dạng tối thượng và nhận Máu, Sức Mạnh Phép Thuật và kỹ năng của tướng này đánh trúng nhiều kẻ địch hơn.",
+                "image": "Trait_Icon_14_Cyberbosses.TFT_Set14.png",
+                "champions": [
+                    "tft14_poppy.tft_set14.png",
+                    "tft14_veigar.tft_set14.png",
+                    "tft14_ziggs.tft_set14.png",
+                    "tft14_kobuko.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Đấu Sĩ",
+                "description": "Đội của bạn nhận 100 Máu. Tướng Đấu Sĩ nhận được nhiều hơn.",
+                "image": "Trait_Icon_14_Bruiser.TFT_Set14.png",
+                "champions": [
+                    "tft14_drmundo.tft_set14.png",
+                    "tft14_alistar.tft_set14.png",
+                    "tft14_darius.tft_set14.png",
+                    "tft14_gragas.tft_set14.png",
+                    "tft14_mordekaiser.tft_set14.png",
+                    "tft14_chogath.tft_set14.png",
+                    "tft14_kobuko.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 3,
+        "id": "garen",
+        "name": "Garen",
+        "image": "tft14_garen.tft_set14.png",
+        "price": "5",
+        "average_position": "3.99",
+        "top_4_rate": "58.5",
+        "top_1_rate": "21.00",
+        "battle": "253,657",
+        "description": "Nhận [ 700 / 1000 / 21337 ] () Lá Chắn trong [ 1.5 / 1.5 / 10 ] giây. Gây [ 520 / 780 / 5400 ] () sát thương vật lý lên mục tiêu hiện tại và phóng ra một luồng sóng năng lượng gây [ 208 / 312 / 2700 ] () sát thương vật lý lên các kẻ địch trúng đòn. Nếu luồng sóng này chỉ đánh trúng từ 2 kẻ địch trở xuống, nhận 30 Năng Lượng.",
+        "skill_name": "Sóng Triệt Tiêu",
+        "skill_image": "TFT14_Garen.png",
+        "skill_mana": "30/100",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Bá Chủ Mạng",
+                "description": "Sau 2 vòng giao tranh người chơi, mở Kho Mod Tộc/Hệ và lập trình lại vĩnh viễn 1 tướng để hưởng lợi từ 1 tộc/hệ (nhưng không đóng góp vào mốc tộc/hệ).\n\nMỗi khi bạn có một Mod Tộc/Hệ, lần tiếp theo sẽ cần thêm 1 vòng đấu.\n\nVòng Đấu Còn Lại: -",
+                "image": "Trait_Icon_14_GodoftheNet.TFT_Set14.png",
+                "champions": [
+                    "tft14_garen.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 4,
+        "id": "zac",
+        "name": "Zac",
+        "image": "tft14_zac.tft_set14.png",
+        "price": "5",
+        "average_position": "4.02",
+        "top_4_rate": "57.95",
+        "top_1_rate": "20.82",
+        "battle": "264,053",
+        "description": "Nội Tại: Ở 10% Máu, tách thành 2 bản sao với [ 50 / 50 / 100 ]% Máu.\n\nKích Hoạt: Bật nảy 3 lần vào những kẻ địch gần bên. Mỗi lần nảy gây [ 187 / 305 / 4458 ] () sát thương phép, Làm Choáng trong 1 giây và hồi lại cho Zac [ 80 / 100 / 2000 ] () Máu.",
+        "skill_name": "Mã Độc Nhân Bản",
+        "skill_image": "TFT14_Zac.png",
+        "skill_mana": "30/100",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Virus",
+                "description": "Virus lây nhiễm vào cửa hàng của bạn với 10% xác suất tạo ra 1 tiểu bào. Khi được mua, nó sẽ hợp nhất và tăng 3% Máu tối đa và 4 Sức Mạnh Phép Thuật cho Zac mạnh nhất (gấp đôi trong Xúc Xắc Siêu Tốc).",
+                "image": "Trait_Icon_14_Virus.TFT_Set14.png",
+                "champions": [
+                    "tft14_zac.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 5,
+        "id": "viego",
+        "name": "Viego",
+        "image": "tft14_viego.tft_set14.png",
+        "price": "5",
+        "average_position": "4.07",
+        "top_4_rate": "57.13",
+        "top_1_rate": "19.24",
+        "battle": "332,396",
+        "description": "Nội Tại: Khi có tướng hy sinh, hấp thụ linh hồn của họ và hồi lại [ 55 / 99 / 7564 ] () Máu.\n\nKích Hoạt: Nhảy tới khu vực đông kẻ địch nhất trong phạm vi 2 ô, gây [ 200 / 300 / 10000 ] () sát thương phép lên những kẻ địch liền kề và [ 90 / 135 / 10000 ] () sát thương phép lên những kẻ địch khác trong phạm vi 2 ô. Gây 20% Cào Xé lên tất cả kẻ địch trúng chiêu trong 4 giây.\n\nCào Xé: Giảm Kháng Phép",
+        "skill_name": "Huyễn Ảnh Kiếm",
+        "skill_image": "TFT14_Viego.png",
+        "skill_mana": "25/65",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Diệt Hồn",
+                "description": "Nhận 1 bản sao ba chiều của kẻ địch có bậc vàng cao nhất mà Viego đã giúp tiêu diệt ở vòng trước. Nó có 900/1350/9001 Máu, gây 30%/40%/200% sát thương và có 1 trang bị đề xuất.",
+                "image": "Trait_Icon_14_SoulKiller.TFT_Set14.png",
+                "champions": [
+                    "tft14_viego.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Kim Ngưu",
+                "description": "Tướng Kim Ngưu nhận Khuếch Đại Sát Thương và có xác suất rơi ra vàng khi hạ gục kẻ địch.\nNếu bạn dùng 8 vàng cho lượt đổi hoặc XP trong một lượt, tăng vĩnh viễn Khuếch Đại Sát Thương và lượng vàng cần thiết cho lần thưởng tiếp theo. Lượt đổi được tính gấp đôi vào lượng vàng đã tiêu.\n(Tướng Kim Ngưu bắt buộc phải tham gia giao tranh trong vòng trước)",
+                "image": "Trait_Icon_14_GoldenOx.TFT_Set14.png",
+                "champions": [
+                    "tft14_alistar.tft_set14.png",
+                    "tft14_graves.tft_set14.png",
+                    "tft14_jarvan.tft_set14.png",
+                    "tft14_annie.tft_set14.png",
+                    "tft14_aphelios.tft_set14.png",
+                    "tft14_viego.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Chuyên Viên",
+                "description": "Tướng Chuyên Viên nhận Sức Mạnh Phép Thuật.\n\nKẻ địch trúng kỹ năng của họ sẽ bị giảm 10% sát thương gây ra trong 3 giây.",
+                "image": "Trait_Icon_14_Techie.TFT_Set14.png",
+                "champions": [
+                    "tft14_zyra.tft_set14.png",
+                    "tft14_seraphine.tft_set14.png",
+                    "tft14_veigar.tft_set14.png",
+                    "tft14_shyvana.tft_set14.png",
+                    "tft14_fiddlesticks.tft_set14.png",
+                    "tft14_mordekaiser.tft_set14.png",
+                    "tft14_brand.tft_set14.png",
+                    "tft14_viego.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 6,
+        "id": "urgot",
+        "name": "Urgot",
+        "image": "tft14_urgot.tft_set14.png",
+        "price": "5",
+        "average_position": "3.94",
+        "top_4_rate": "59.8",
+        "top_1_rate": "19.21",
+        "battle": "242,807",
+        "description": "Trong [ 5 / 5 / 60 ] giây, nhận [ 125 / 125 / 500 ]% Tốc Độ Đánh và khóa mục tiêu vào kẻ địch thấp Máu nhất trong phạm vi 5 () ô. Đòn đánh còn bắn ra 3 quả tên lửa, mỗi quả gây tổng cộng [ 74 / 111 / 1585 ] () sát thương vật lý.\n\nMỗi khi thi triển, lần đầu tiên kẻ địch bị khóa mục tiêu còn dưới [ 15 / 15 / 95 ]% Máu, hành quyết, kéo chúng vào và nghiền chúng thành linh kiện.",
+        "skill_name": "Mũi Khoan Tử Thần",
+        "skill_image": "TFT14_Urgot.png",
+        "skill_mana": "0/40",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Robot Bộc Phá",
+                "description": "Tướng Robot Bộc Phá phóng tên lửa gây sát thương phép vào một kẻ địch ở gần mỗi khi gây ra 400 sát thương. 8% sát thương gánh chịu được tính vào sát thương gây ra.",
+                "image": "Trait_Icon_14_BoomBots.TFT_Set14.png",
+                "champions": [
+                    "tft14_kogmaw.tft_set14.png",
+                    "tft14_skarner.tft_set14.png",
+                    "tft14_fiddlesticks.tft_set14.png",
+                    "tft14_chogath.tft_set14.png",
+                    "tft14_urgot.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Đao Phủ",
+                "description": "Kỹ năng của tướng Đao Phủ có thể chí mạng. Họ đồng thời nhận thêm Tỉ Lệ Chí Mạng và Sát Thương Chí Mạng.\n\nNếu mục tiêu còn dưới 20% Máu, tăng gấp đôi Sát Thương Chí Mạng cộng thêm.",
+                "image": "Trait_Icon_4_Executioner.png",
+                "champions": [
+                    "tft14_graves.tft_set14.png",
+                    "tft14_rengar.tft_set14.png",
+                    "tft14_varus.tft_set14.png",
+                    "tft14_vex.tft_set14.png",
+                    "tft14_urgot.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 7,
+        "id": "aurora",
+        "name": "Aurora",
+        "image": "tft14_aurora.tft_set14.png",
+        "price": "5",
+        "average_position": "3.67",
+        "top_4_rate": "66.5",
+        "top_1_rate": "17.39",
+        "battle": "344,918",
+        "description": "Khi thi triển lần đầu, hoán đổi vị trí với tướng nằm ngoài cùng bên trái trên hàng chờ và tiếp tục giao tranh. Tướng này nhận thêm [ 0.5 / 1 / 10 ] () Tốc Độ Đánh. Quay trở lại bàn đấu nếu vị tướng đó bị hạ gục.\n\nDịch chuyển để đánh trúng nhiều kẻ địch nhất theo đường thẳng, gây [ 50 / 90 / 3333 ] () sát thương lên mỗi kẻ địch, cộng thêm [ 525 / 800 / 9999 ] () sát thương chia đều lên tất cả kẻ địch trúng đòn.\n\nAurora không thể hoán đổi vị trí với một Aurora khác.",
+        "skill_name": "Đâm Xuyên Bức Màn",
+        "skill_image": "TFT14_Aurora.png",
+        "skill_mana": "20/80",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Siêu Thú",
+                "description": "Tại mỗi bậc, chọn 1 vũ khí cho 1 tướng Siêu Thú ngẫu nhiên sử dụng định kỳ trong giao tranh. Tướng Siêu Thú nhận thêm Giáp, Kháng Phép và Khuếch Đại Sát Thương.",
+                "image": "Trait_Icon_14_AnimaSquad.TFT_Set14.png",
+                "champions": [
+                    "tft14_seraphine.tft_set14.png",
+                    "tft14_sylas.tft_set14.png",
+                    "tft14_illaoi.tft_set14.png",
+                    "tft14_vayne.tft_set14.png",
+                    "tft14_yuumi.tft_set14.png",
+                    "tft14_xayah.tft_set14.png",
+                    "tft14_leona.tft_set14.png",
+                    "tft14_aurora.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Cơ Điện",
+                "description": "Sau mỗi 3 giây, đội của bạn nhận thêm % Năng Lượng. Tướng Cơ Điện nhận thêm 100%.",
+                "image": "Trait_Icon_14_Dynamo.TFT_Set14.png",
+                "champions": [
+                    "tft14_morgana.tft_set14.png",
+                    "tft14_jhin.tft_set14.png",
+                    "tft14_elise.tft_set14.png",
+                    "tft14_missfortune.tft_set14.png",
+                    "tft14_aurora.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 8,
+        "id": "neeko",
+        "name": "Neeko",
+        "image": "tft14_neeko.tft_set14.png",
+        "price": "4",
+        "average_position": "4.08",
+        "top_4_rate": "57.21",
+        "top_1_rate": "17.01",
+        "battle": "523,738",
+        "description": "Nhận [ 380 / 480 / 1874 ] () Lá Chắn trong 4 giây và tạo ra một vùng mở rộng dần và nổ 3 lần, mỗi lần gây [ 80 / 120 / 1800 ] () sát thương phép lên các kẻ địch trúng đòn. Lần nổ thứ ba gây hiệu ứng Tê Tái lên kẻ địch trong 3 giây.",
+        "skill_name": "Bích Họa Pop-Up",
+        "skill_image": "TFT14_Neeko.png",
+        "skill_mana": "30/85",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Quỷ Đường Phố",
+                "description": "Các đồng minh đứng trên ô được đánh dấu nhận thêm Máu, Sức Mạnh Phép Thuật và Sức Mạnh Công Kích. Một số ô là ô Đặc Trưng và cho thêm 50%. \n\nTướng Quỷ Đường Phố gấp đôi tất cả thưởng chỉ số.",
+                "image": "Trait_Icon_14_StreetDemon.TFT_Set14.png",
+                "champions": [
+                    "tft14_drmundo.tft_set14.png",
+                    "tft14_zyra.tft_set14.png",
+                    "tft14_ekko.tft_set14.png",
+                    "tft14_rengar.tft_set14.png",
+                    "tft14_jinx.tft_set14.png",
+                    "tft14_brand.tft_set14.png",
+                    "tft14_neeko.tft_set14.png",
+                    "tft14_samira.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Quân Sư",
+                "description": "Bắt Đầu Giao Tranh: Các đồng minh ở 2 hàng sau nhận thêm Khuếch Đại Sát Thương. Các đồng minh ở 2 hàng đầu nhận thêm Chống Chịu. Các tướng Quân Sư nhận được gấp ba lần.",
+                "image": "Trait_Icon_9_Strategist.png",
+                "champions": [
+                    "tft14_leblanc.tft_set14.png",
+                    "tft14_ekko.tft_set14.png",
+                    "tft14_yuumi.tft_set14.png",
+                    "tft14_neeko.tft_set14.png",
+                    "tft14_ziggs.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 9,
+        "id": "ziggs",
+        "name": "Ziggs",
+        "image": "tft14_ziggs.tft_set14.png",
+        "price": "4",
+        "average_position": "4.05",
+        "top_4_rate": "57.96",
+        "top_1_rate": "17.00",
+        "battle": "423,125",
+        "description": "Ném ra một quả bom vào vị trí trúng nhiều kẻ địch nhất theo hình chữ thậptrải dài toàn bộ 1 hàng và 1 cột trong phạm vi Tầm Đánh, gây [ 250 / 375 / 1500 ] () sát thương phép lên kẻ địch trong phạm vi 1 ô từ trung tâm và [ 130 / 200 / 900 ] () sát thương phép lên những kẻ địch ở xa hơn. Nếu chỉ có 1 tướng địch trúng chiêu, gây thêm 100% sát thương.",
+        "skill_name": "Yordle Ném Bom",
+        "skill_image": "TFT14_Ziggs.png",
+        "skill_mana": "20/70",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Trùm Giả Lập",
+                "description": "Tướng Trùm Giả Lập mạnh nhất của bạn nâng cấp lên dạng tối thượng và nhận Máu, Sức Mạnh Phép Thuật và kỹ năng của tướng này đánh trúng nhiều kẻ địch hơn.",
+                "image": "Trait_Icon_14_Cyberbosses.TFT_Set14.png",
+                "champions": [
+                    "tft14_poppy.tft_set14.png",
+                    "tft14_veigar.tft_set14.png",
+                    "tft14_ziggs.tft_set14.png",
+                    "tft14_kobuko.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Quân Sư",
+                "description": "Bắt Đầu Giao Tranh: Các đồng minh ở 2 hàng sau nhận thêm Khuếch Đại Sát Thương. Các đồng minh ở 2 hàng đầu nhận thêm Chống Chịu. Các tướng Quân Sư nhận được gấp ba lần.",
+                "image": "Trait_Icon_9_Strategist.png",
+                "champions": [
+                    "tft14_leblanc.tft_set14.png",
+                    "tft14_ekko.tft_set14.png",
+                    "tft14_yuumi.tft_set14.png",
+                    "tft14_neeko.tft_set14.png",
+                    "tft14_ziggs.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 10,
+        "id": "renekton",
+        "name": "Renekton",
+        "image": "tft14_renekton.tft_set14.png",
+        "price": "5",
+        "average_position": "3.92",
+        "top_4_rate": "61.33",
+        "top_1_rate": "16.73",
+        "battle": "300,433",
+        "description": "Gây [ 228 / 337 / 4955 ] () sát thương vật lý lên các kẻ địch trong phạm vi 2 ô, đồng thời gây hiệu ứng Thiêu Đốt và Vết Thương Sâu lên chúng trong 5 giây. Nhận [ 400 / 550 / 30000 ] Máu tối đa.\nThi Triển Lần Đầu: Chuyển sang trạng thái điên cuồng khiến mỗi đòn đánh trúng 2 lần, gây tổng cộng [ 173 / 260 / 22275 ] () sát thương vật lý và có thể lướt đến các mục tiêu mới.\nThi Triển Lần Hai: Trạng thái điên cuồng giờ sẽ khiến mỗi đòn đánh sẽ trúng 3 lần, gây tổng cộng [ 178 / 267 / 29700 ] () sát thương vật lý. Không thể thi triển lại lần nữa.",
+        "skill_name": "Thần Cá Sấu",
+        "skill_image": "TFT14_Renekton.png",
+        "skill_mana": "70/150",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Lãnh Chúa",
+                "description": "Tướng Lãnh Chúa cắn một phát vào tướng đứng trên ô phía sau, gây sát thương chuẩn tương đương 40% Máu tối đa của chúng. Tướng này nhận 40% Máu và 25% Sức Mạnh Công Kích của chúng.",
+                "image": "Trait_Icon_14_Overlord.TFT_Set14.png",
+                "champions": [
+                    "tft14_renekton.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Thần Pháp",
+                "description": "Tướng Thần Pháp ban chỉ số độc nhất cho toàn đội của bạn, tăng dần theo số tướng Thần Pháp ở trên bàn.\nTướng Thần Pháp được tăng gấp đôi.",
+                "image": "Trait_Icon_14_Divinicorp.TFT_Set14.png",
+                "champions": [
+                    "tft14_morgana.tft_set14.png",
+                    "tft14_rhaast.tft_set14.png",
+                    "tft14_senna.tft_set14.png",
+                    "tft14_gragas.tft_set14.png",
+                    "tft14_vex.tft_set14.png",
+                    "tft14_renekton.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Can Trường",
+                "description": "Đội của bạn nhận 10 Giáp và Kháng Phép. Tướng Can Trường nhận được nhiều hơn.\n\nTrong 10 giây đầu giao tranh, tướng Can Trường tăng thưởng chỉ số thêm 100%.",
+                "image": "Trait_Icon_9_Bastion.png",
+                "champions": [
+                    "tft14_jax.tft_set14.png",
+                    "tft14_poppy.tft_set14.png",
+                    "tft14_shyvana.tft_set14.png",
+                    "tft14_illaoi.tft_set14.png",
+                    "tft14_galio.tft_set14.png",
+                    "tft14_sejuani.tft_set14.png",
+                    "tft14_renekton.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 11,
+        "id": "annie",
+        "name": "Annie",
+        "image": "tft14_annie.tft_set14.png",
+        "price": "4",
+        "average_position": "4.53",
+        "top_4_rate": "47.9",
+        "top_1_rate": "16.62",
+        "battle": "323,577",
+        "description": "Ném một quả cầu lửa vào mục tiêu hiện tại gây [ 230 / 345 / 1200 ] () sát thương phép và 2 () cầu lửa nhỏ chia đều giữa mục tiêu và 2 kẻ địch ở gần, mỗi cầu lửa gây [ 45 / 68 / 300 ] () sát thương phép.\n\nSau mỗi 4 lần thi triển, thay vào đó, triệu hồi Tibbers () đứng cạnh mục tiêu hiện tại, gây [ 270 / 405 / 1215 ] () sát thương phép lên các kẻ địch trong phạm vi 1 ô.",
+        "skill_name": "Goldilocks",
+        "skill_image": "TFT14_Annie.png",
+        "skill_mana": "0/40",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Kim Ngưu",
+                "description": "Tướng Kim Ngưu nhận Khuếch Đại Sát Thương và có xác suất rơi ra vàng khi hạ gục kẻ địch.\nNếu bạn dùng 8 vàng cho lượt đổi hoặc XP trong một lượt, tăng vĩnh viễn Khuếch Đại Sát Thương và lượng vàng cần thiết cho lần thưởng tiếp theo. Lượt đổi được tính gấp đôi vào lượng vàng đã tiêu.\n(Tướng Kim Ngưu bắt buộc phải tham gia giao tranh trong vòng trước)",
+                "image": "Trait_Icon_14_GoldenOx.TFT_Set14.png",
+                "champions": [
+                    "tft14_alistar.tft_set14.png",
+                    "tft14_graves.tft_set14.png",
+                    "tft14_jarvan.tft_set14.png",
+                    "tft14_annie.tft_set14.png",
+                    "tft14_aphelios.tft_set14.png",
+                    "tft14_viego.tft_set14.png"
+                ]
+            },
+            {
+                "name": "A.M.P.",
+                "description": "Tướng A.M.P. nâng cấp các kỹ năng của họ theo cách đặc biệt bằng Khuếch Đại (\n). Họ cũng nhận thêm Máu.",
+                "image": "Trait_Icon_14_Amp.TFT_Set14.png",
+                "champions": [
+                    "tft14_nidaleecougar.tft_set14.png",
+                    "tft14_naafiri.tft_set14.png",
+                    "tft14_yuumi.tft_set14.png",
+                    "tft14_annie.tft_set14.png",
+                    "tft14_samira.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 12,
+        "id": "brand",
+        "name": "Brand",
+        "image": "tft14_brand.tft_set14.png",
+        "price": "4",
+        "average_position": "4.08",
+        "top_4_rate": "57.5",
+        "top_1_rate": "16.26",
+        "battle": "428,417",
+        "description": "Ném một quả bom sơn vào nhóm kẻ địch đông nhất trong phạm vi 5 () ô, gây [ 250 / 375 / 1500 ] () sát thương phép lên các kẻ địch trong phạm vi 1 ô và [ 100 / 150 / 600 ] () sát thương phép lên 4 kẻ địch gần nhất.",
+        "skill_name": "Bom Sơn",
+        "skill_image": "TFT14_Brand.png",
+        "skill_mana": "25/70",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Quỷ Đường Phố",
+                "description": "Các đồng minh đứng trên ô được đánh dấu nhận thêm Máu, Sức Mạnh Phép Thuật và Sức Mạnh Công Kích. Một số ô là ô Đặc Trưng và cho thêm 50%. \n\nTướng Quỷ Đường Phố gấp đôi tất cả thưởng chỉ số.",
+                "image": "Trait_Icon_14_StreetDemon.TFT_Set14.png",
+                "champions": [
+                    "tft14_drmundo.tft_set14.png",
+                    "tft14_zyra.tft_set14.png",
+                    "tft14_ekko.tft_set14.png",
+                    "tft14_rengar.tft_set14.png",
+                    "tft14_jinx.tft_set14.png",
+                    "tft14_brand.tft_set14.png",
+                    "tft14_neeko.tft_set14.png",
+                    "tft14_samira.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Chuyên Viên",
+                "description": "Tướng Chuyên Viên nhận Sức Mạnh Phép Thuật.\n\nKẻ địch trúng kỹ năng của họ sẽ bị giảm 10% sát thương gây ra trong 3 giây.",
+                "image": "Trait_Icon_14_Techie.TFT_Set14.png",
+                "champions": [
+                    "tft14_zyra.tft_set14.png",
+                    "tft14_seraphine.tft_set14.png",
+                    "tft14_veigar.tft_set14.png",
+                    "tft14_shyvana.tft_set14.png",
+                    "tft14_fiddlesticks.tft_set14.png",
+                    "tft14_mordekaiser.tft_set14.png",
+                    "tft14_brand.tft_set14.png",
+                    "tft14_viego.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 13,
+        "id": "ekko",
+        "name": "Ekko",
+        "image": "tft14_ekko.tft_set14.png",
+        "price": "2",
+        "average_position": "4.22",
+        "top_4_rate": "54.77",
+        "top_1_rate": "16.12",
+        "battle": "519,771",
+        "description": "Hồi lại [ 280 / 340 / 425 ] () Máu và gây [ 180 / 270 / 410 ] () sát thương phép lên mục tiêu hiện tại.",
+        "skill_name": "Sơn Phủ",
+        "skill_image": "TFT14_Ekko.png",
+        "skill_mana": "30/70",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Quỷ Đường Phố",
+                "description": "Các đồng minh đứng trên ô được đánh dấu nhận thêm Máu, Sức Mạnh Phép Thuật và Sức Mạnh Công Kích. Một số ô là ô Đặc Trưng và cho thêm 50%. \n\nTướng Quỷ Đường Phố gấp đôi tất cả thưởng chỉ số.",
+                "image": "Trait_Icon_14_StreetDemon.TFT_Set14.png",
+                "champions": [
+                    "tft14_drmundo.tft_set14.png",
+                    "tft14_zyra.tft_set14.png",
+                    "tft14_ekko.tft_set14.png",
+                    "tft14_rengar.tft_set14.png",
+                    "tft14_jinx.tft_set14.png",
+                    "tft14_brand.tft_set14.png",
+                    "tft14_neeko.tft_set14.png",
+                    "tft14_samira.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Quân Sư",
+                "description": "Bắt Đầu Giao Tranh: Các đồng minh ở 2 hàng sau nhận thêm Khuếch Đại Sát Thương. Các đồng minh ở 2 hàng đầu nhận thêm Chống Chịu. Các tướng Quân Sư nhận được gấp ba lần.",
+                "image": "Trait_Icon_9_Strategist.png",
+                "champions": [
+                    "tft14_leblanc.tft_set14.png",
+                    "tft14_ekko.tft_set14.png",
+                    "tft14_yuumi.tft_set14.png",
+                    "tft14_neeko.tft_set14.png",
+                    "tft14_ziggs.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 14,
+        "id": "zyra",
+        "name": "Zyra",
+        "image": "tft14_zyra.tft_set14.png",
+        "price": "1",
+        "average_position": "4.19",
+        "top_4_rate": "55.55",
+        "top_1_rate": "15.83",
+        "battle": "343,060",
+        "description": "Phóng một dây leo lớn về phía mục tiêu hiện tại, Làm Choáng chúng trong 1 giây và gây [ 290 / 435 / 660 ] () sát thương phép. Phóng một dây leo nhỏ hơn vào mục tiêu ở gần nhất, gây [ 145 / 220 / 330 ] () sát thương phép.",
+        "skill_name": "Khoảnh Khắc Chói Sáng",
+        "skill_image": "TFT14_Zyra.png",
+        "skill_mana": "0/60",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Quỷ Đường Phố",
+                "description": "Các đồng minh đứng trên ô được đánh dấu nhận thêm Máu, Sức Mạnh Phép Thuật và Sức Mạnh Công Kích. Một số ô là ô Đặc Trưng và cho thêm 50%. \n\nTướng Quỷ Đường Phố gấp đôi tất cả thưởng chỉ số.",
+                "image": "Trait_Icon_14_StreetDemon.TFT_Set14.png",
+                "champions": [
+                    "tft14_drmundo.tft_set14.png",
+                    "tft14_zyra.tft_set14.png",
+                    "tft14_ekko.tft_set14.png",
+                    "tft14_rengar.tft_set14.png",
+                    "tft14_jinx.tft_set14.png",
+                    "tft14_brand.tft_set14.png",
+                    "tft14_neeko.tft_set14.png",
+                    "tft14_samira.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Chuyên Viên",
+                "description": "Tướng Chuyên Viên nhận Sức Mạnh Phép Thuật.\n\nKẻ địch trúng kỹ năng của họ sẽ bị giảm 10% sát thương gây ra trong 3 giây.",
+                "image": "Trait_Icon_14_Techie.TFT_Set14.png",
+                "champions": [
+                    "tft14_zyra.tft_set14.png",
+                    "tft14_seraphine.tft_set14.png",
+                    "tft14_veigar.tft_set14.png",
+                    "tft14_shyvana.tft_set14.png",
+                    "tft14_fiddlesticks.tft_set14.png",
+                    "tft14_mordekaiser.tft_set14.png",
+                    "tft14_brand.tft_set14.png",
+                    "tft14_viego.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 15,
+        "id": "yuumi",
+        "name": "Yuumi",
+        "image": "tft14_yuumi.tft_set14.png",
+        "price": "3",
+        "average_position": "4.35",
+        "top_4_rate": "52.33",
+        "top_1_rate": "15.10",
+        "battle": "348,995",
+        "description": "Nội Tại: Nhận 3 () Năng Lượng mỗi giây.\n\nKích Hoạt: Phóng ra một luồng ma lực vào mục tiêu hiện tại và sau đó nảy vào kẻ địch gần nhất. Gây [ 100 / 150 / 235 ] () sát thương phép lên mục tiêu hiện tại và [ 60 / 90 / 140 ] () lên mục tiêu còn lại, đồng thời đánh dấu cả hai mục tiêu. Nếu chúng đã bị đánh dấu, gây 190% sát thương.",
+        "skill_name": "Yuum.AI",
+        "skill_image": "TFT14_Yuumi.png",
+        "skill_mana": "0/30",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Siêu Thú",
+                "description": "Tại mỗi bậc, chọn 1 vũ khí cho 1 tướng Siêu Thú ngẫu nhiên sử dụng định kỳ trong giao tranh. Tướng Siêu Thú nhận thêm Giáp, Kháng Phép và Khuếch Đại Sát Thương.",
+                "image": "Trait_Icon_14_AnimaSquad.TFT_Set14.png",
+                "champions": [
+                    "tft14_seraphine.tft_set14.png",
+                    "tft14_sylas.tft_set14.png",
+                    "tft14_illaoi.tft_set14.png",
+                    "tft14_vayne.tft_set14.png",
+                    "tft14_yuumi.tft_set14.png",
+                    "tft14_xayah.tft_set14.png",
+                    "tft14_leona.tft_set14.png",
+                    "tft14_aurora.tft_set14.png"
+                ]
+            },
+            {
+                "name": "A.M.P.",
+                "description": "Tướng A.M.P. nâng cấp các kỹ năng của họ theo cách đặc biệt bằng Khuếch Đại (\n). Họ cũng nhận thêm Máu.",
+                "image": "Trait_Icon_14_Amp.TFT_Set14.png",
+                "champions": [
+                    "tft14_nidaleecougar.tft_set14.png",
+                    "tft14_naafiri.tft_set14.png",
+                    "tft14_yuumi.tft_set14.png",
+                    "tft14_annie.tft_set14.png",
+                    "tft14_samira.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Quân Sư",
+                "description": "Bắt Đầu Giao Tranh: Các đồng minh ở 2 hàng sau nhận thêm Khuếch Đại Sát Thương. Các đồng minh ở 2 hàng đầu nhận thêm Chống Chịu. Các tướng Quân Sư nhận được gấp ba lần.",
+                "image": "Trait_Icon_9_Strategist.png",
+                "champions": [
+                    "tft14_leblanc.tft_set14.png",
+                    "tft14_ekko.tft_set14.png",
+                    "tft14_yuumi.tft_set14.png",
+                    "tft14_neeko.tft_set14.png",
+                    "tft14_ziggs.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 16,
+        "id": "rengar",
+        "name": "Rengar",
+        "image": "tft14_rengar.tft_set14.png",
+        "price": "3",
+        "average_position": "4.3",
+        "top_4_rate": "53.35",
+        "top_1_rate": "14.85",
+        "battle": "293,261",
+        "description": "Hồi lại [ 140 / 145 / 150 ] () Máu và nhảy đến kẻ địch có Máu thấp nhất trong phạm vi 2 ô, gây [ 142 / 213 / 319 ] () sát thương vật lý. Sau đó, ra đòn 2 lần, mỗi đòn đánh gây [ 113 / 170 / 255 ] () sát thương vật lý.\n\nMỗi lần thi triển sẽ tăng phạm vi nhảy tới thêm 1 ô.",
+        "skill_name": "Tự Do Ứng Biến",
+        "skill_image": "TFT14_Rengar.png",
+        "skill_mana": "0/60",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Quỷ Đường Phố",
+                "description": "Các đồng minh đứng trên ô được đánh dấu nhận thêm Máu, Sức Mạnh Phép Thuật và Sức Mạnh Công Kích. Một số ô là ô Đặc Trưng và cho thêm 50%. \n\nTướng Quỷ Đường Phố gấp đôi tất cả thưởng chỉ số.",
+                "image": "Trait_Icon_14_StreetDemon.TFT_Set14.png",
+                "champions": [
+                    "tft14_drmundo.tft_set14.png",
+                    "tft14_zyra.tft_set14.png",
+                    "tft14_ekko.tft_set14.png",
+                    "tft14_rengar.tft_set14.png",
+                    "tft14_jinx.tft_set14.png",
+                    "tft14_brand.tft_set14.png",
+                    "tft14_neeko.tft_set14.png",
+                    "tft14_samira.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Đao Phủ",
+                "description": "Kỹ năng của tướng Đao Phủ có thể chí mạng. Họ đồng thời nhận thêm Tỉ Lệ Chí Mạng và Sát Thương Chí Mạng.\n\nNếu mục tiêu còn dưới 20% Máu, tăng gấp đôi Sát Thương Chí Mạng cộng thêm.",
+                "image": "Trait_Icon_4_Executioner.png",
+                "champions": [
+                    "tft14_graves.tft_set14.png",
+                    "tft14_rengar.tft_set14.png",
+                    "tft14_varus.tft_set14.png",
+                    "tft14_vex.tft_set14.png",
+                    "tft14_urgot.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 17,
+        "id": "aphelios",
+        "name": "Aphelios",
+        "image": "tft14_aphelios.tft_set14.png",
+        "price": "4",
+        "average_position": "4.57",
+        "top_4_rate": "48.08",
+        "top_1_rate": "14.01",
+        "battle": "327,008",
+        "description": "Bắn ra một viên nguyệt đạn về phía nhóm kẻ địch đông nhất, gây [ 159 / 238 / 951 ] () sát thương vật lý lên các kẻ địch trong phạm vi 2 ô.\n\nTrang bị 4 Thăng Hoa Luân, cộng thêm 1 cho mỗi kẻ địch bị trúng nguyệt đạn, tồn tại trong 8 đòn đánh và mỗi Thăng Hoa Luân gây thêm [ 7 / 10 / 142 ] () sát thương vật lý.",
+        "skill_name": "Ánh Trăng Dẫn Lối",
+        "skill_image": "TFT14_Aphelios.png",
+        "skill_mana": "0/50",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Kim Ngưu",
+                "description": "Tướng Kim Ngưu nhận Khuếch Đại Sát Thương và có xác suất rơi ra vàng khi hạ gục kẻ địch.\nNếu bạn dùng 8 vàng cho lượt đổi hoặc XP trong một lượt, tăng vĩnh viễn Khuếch Đại Sát Thương và lượng vàng cần thiết cho lần thưởng tiếp theo. Lượt đổi được tính gấp đôi vào lượng vàng đã tiêu.\n(Tướng Kim Ngưu bắt buộc phải tham gia giao tranh trong vòng trước)",
+                "image": "Trait_Icon_14_GoldenOx.TFT_Set14.png",
+                "champions": [
+                    "tft14_alistar.tft_set14.png",
+                    "tft14_graves.tft_set14.png",
+                    "tft14_jarvan.tft_set14.png",
+                    "tft14_annie.tft_set14.png",
+                    "tft14_aphelios.tft_set14.png",
+                    "tft14_viego.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Xạ Thủ",
+                "description": "Tướng Xạ Thủ nhận Sức Mạnh Công Kích. Sau 8 giây giao tranh, họ tăng thưởng chỉ số thêm 100%.",
+                "image": "Trait_Icon_14_Marksman.TFT_Set14.png",
+                "champions": [
+                    "tft14_kindred.tft_set14.png",
+                    "tft14_jhin.tft_set14.png",
+                    "tft14_jinx.tft_set14.png",
+                    "tft14_xayah.tft_set14.png",
+                    "tft14_aphelios.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 18,
+        "id": "cho'gath",
+        "name": "Cho'Gath",
+        "image": "tft14_chogath.tft_set14.png",
+        "price": "4",
+        "average_position": "4.46",
+        "top_4_rate": "50.12",
+        "top_1_rate": "13.89",
+        "battle": "277,593",
+        "description": "Phóng ra một luồng sóng âm chói tai theo hình nón, gây [ 130 / 204 / 1612 ] () sát thương phép. Nhận [ 290 / 496 / 3380 ] () Máu tối đa, trở nên to hơn và tăng kích thước của các luồng sóng âm sau đó.",
+        "skill_name": "Tiếng Thét Siêu Thanh",
+        "skill_image": "TFT14_Chogath.png",
+        "skill_mana": "60/100",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Robot Bộc Phá",
+                "description": "Tướng Robot Bộc Phá phóng tên lửa gây sát thương phép vào một kẻ địch ở gần mỗi khi gây ra 400 sát thương. 8% sát thương gánh chịu được tính vào sát thương gây ra.",
+                "image": "Trait_Icon_14_BoomBots.TFT_Set14.png",
+                "champions": [
+                    "tft14_kogmaw.tft_set14.png",
+                    "tft14_skarner.tft_set14.png",
+                    "tft14_fiddlesticks.tft_set14.png",
+                    "tft14_chogath.tft_set14.png",
+                    "tft14_urgot.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Đấu Sĩ",
+                "description": "Đội của bạn nhận 100 Máu. Tướng Đấu Sĩ nhận được nhiều hơn.",
+                "image": "Trait_Icon_14_Bruiser.TFT_Set14.png",
+                "champions": [
+                    "tft14_drmundo.tft_set14.png",
+                    "tft14_alistar.tft_set14.png",
+                    "tft14_darius.tft_set14.png",
+                    "tft14_gragas.tft_set14.png",
+                    "tft14_mordekaiser.tft_set14.png",
+                    "tft14_chogath.tft_set14.png",
+                    "tft14_kobuko.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 19,
+        "id": "dr._mundo",
+        "name": "Dr. Mundo",
+        "image": "tft14_drmundo.tft_set14.png",
+        "price": "1",
+        "average_position": "4.31",
+        "top_4_rate": "53.61",
+        "top_1_rate": "13.86",
+        "battle": "503,480",
+        "description": "Nội Tại: Nhận thêm 30% Máu tối đa từ mọi nguồn. (Máu Cộng Thêm: 0)\n\nKích Hoạt: Khoe cơ bắp và hồi lại [ 108 / 174 / 280 ] () Máu, sau đó gây [ 263 / 443 / 752 ] () sát thương vật lý lên mục tiêu hiện tại.",
+        "skill_name": "Phô Diễn Cơ Bắp",
+        "skill_image": "TFT14_DrMundo.png",
+        "skill_mana": "25/75",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Quỷ Đường Phố",
+                "description": "Các đồng minh đứng trên ô được đánh dấu nhận thêm Máu, Sức Mạnh Phép Thuật và Sức Mạnh Công Kích. Một số ô là ô Đặc Trưng và cho thêm 50%. \n\nTướng Quỷ Đường Phố gấp đôi tất cả thưởng chỉ số.",
+                "image": "Trait_Icon_14_StreetDemon.TFT_Set14.png",
+                "champions": [
+                    "tft14_drmundo.tft_set14.png",
+                    "tft14_zyra.tft_set14.png",
+                    "tft14_ekko.tft_set14.png",
+                    "tft14_rengar.tft_set14.png",
+                    "tft14_jinx.tft_set14.png",
+                    "tft14_brand.tft_set14.png",
+                    "tft14_neeko.tft_set14.png",
+                    "tft14_samira.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Đấu Sĩ",
+                "description": "Đội của bạn nhận 100 Máu. Tướng Đấu Sĩ nhận được nhiều hơn.",
+                "image": "Trait_Icon_14_Bruiser.TFT_Set14.png",
+                "champions": [
+                    "tft14_drmundo.tft_set14.png",
+                    "tft14_alistar.tft_set14.png",
+                    "tft14_darius.tft_set14.png",
+                    "tft14_gragas.tft_set14.png",
+                    "tft14_mordekaiser.tft_set14.png",
+                    "tft14_chogath.tft_set14.png",
+                    "tft14_kobuko.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Đồ Tể",
+                "description": "Tướng Đồ Tể nhận Sức Mạnh Công Kích và Hút Máu Toàn Phần. Hồi Máu Vượt Trội hồi lại cho tướng Đồ Tể còn thấp Máu nhất 50% lượng phụ trội.",
+                "image": "Trait_Icon_4_Slayer.png",
+                "champions": [
+                    "tft14_drmundo.tft_set14.png",
+                    "tft14_shaco.tft_set14.png",
+                    "tft14_vayne.tft_set14.png",
+                    "tft14_senna.tft_set14.png",
+                    "tft14_jarvan.tft_set14.png",
+                    "tft14_zed.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 20,
+        "id": "xayah",
+        "name": "Xayah",
+        "image": "tft14_xayah.tft_set14.png",
+        "price": "4",
+        "average_position": "4.36",
+        "top_4_rate": "52.43",
+        "top_1_rate": "13.38",
+        "battle": "320,939",
+        "description": "Đâm 6 lông vũ vào mục tiêu hiện tại, mỗi lông vũ gây [ 118 / 176 / 785 ] () sát thương vật lý. Khi mục tiêu hy sinh, lông vũ tỏa sang những kẻ địch ở gần trong phạm vi 2 ô, mỗi lông vũ gây [ 23 / 34 / 146 ] () sát thương vật lý.",
+        "skill_name": "Lông Vũ Tầm Nhiệt",
+        "skill_image": "TFT14_Xayah.png",
+        "skill_mana": "25/75",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Siêu Thú",
+                "description": "Tại mỗi bậc, chọn 1 vũ khí cho 1 tướng Siêu Thú ngẫu nhiên sử dụng định kỳ trong giao tranh. Tướng Siêu Thú nhận thêm Giáp, Kháng Phép và Khuếch Đại Sát Thương.",
+                "image": "Trait_Icon_14_AnimaSquad.TFT_Set14.png",
+                "champions": [
+                    "tft14_seraphine.tft_set14.png",
+                    "tft14_sylas.tft_set14.png",
+                    "tft14_illaoi.tft_set14.png",
+                    "tft14_vayne.tft_set14.png",
+                    "tft14_yuumi.tft_set14.png",
+                    "tft14_xayah.tft_set14.png",
+                    "tft14_leona.tft_set14.png",
+                    "tft14_aurora.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Xạ Thủ",
+                "description": "Tướng Xạ Thủ nhận Sức Mạnh Công Kích. Sau 8 giây giao tranh, họ tăng thưởng chỉ số thêm 100%.",
+                "image": "Trait_Icon_14_Marksman.TFT_Set14.png",
+                "champions": [
+                    "tft14_kindred.tft_set14.png",
+                    "tft14_jhin.tft_set14.png",
+                    "tft14_jinx.tft_set14.png",
+                    "tft14_xayah.tft_set14.png",
+                    "tft14_aphelios.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 21,
+        "id": "fiddlesticks",
+        "name": "Fiddlesticks",
+        "image": "tft14_fiddlesticks.tft_set14.png",
+        "price": "3",
+        "average_position": "4.63",
+        "top_4_rate": "46.76",
+        "top_1_rate": "13.28",
+        "battle": "200,584",
+        "description": "Trong 3 giây, tạo liên kết đến 3 kẻ địch gần nhất, gây [ 190 / 285 / 445 ] () sát thương phép mỗi giây chia đều giữa chúng. Liên kết gây 20% Cào Xé và hồi máu cho Fiddlesticks tương đương 15% sát thương gây ra.",
+        "skill_name": "3RR0R",
+        "skill_image": "TFT14_Fiddlesticks.png",
+        "skill_mana": "0/45",
+        "skill_attack_range": 2,
+        "traits": [
+            {
+                "name": "Robot Bộc Phá",
+                "description": "Tướng Robot Bộc Phá phóng tên lửa gây sát thương phép vào một kẻ địch ở gần mỗi khi gây ra 400 sát thương. 8% sát thương gánh chịu được tính vào sát thương gây ra.",
+                "image": "Trait_Icon_14_BoomBots.TFT_Set14.png",
+                "champions": [
+                    "tft14_kogmaw.tft_set14.png",
+                    "tft14_skarner.tft_set14.png",
+                    "tft14_fiddlesticks.tft_set14.png",
+                    "tft14_chogath.tft_set14.png",
+                    "tft14_urgot.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Chuyên Viên",
+                "description": "Tướng Chuyên Viên nhận Sức Mạnh Phép Thuật.\n\nKẻ địch trúng kỹ năng của họ sẽ bị giảm 10% sát thương gây ra trong 3 giây.",
+                "image": "Trait_Icon_14_Techie.TFT_Set14.png",
+                "champions": [
+                    "tft14_zyra.tft_set14.png",
+                    "tft14_seraphine.tft_set14.png",
+                    "tft14_veigar.tft_set14.png",
+                    "tft14_shyvana.tft_set14.png",
+                    "tft14_fiddlesticks.tft_set14.png",
+                    "tft14_mordekaiser.tft_set14.png",
+                    "tft14_brand.tft_set14.png",
+                    "tft14_viego.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 22,
+        "id": "alistar",
+        "name": "Alistar",
+        "image": "tft14_alistar.tft_set14.png",
+        "price": "1",
+        "average_position": "4.92",
+        "top_4_rate": "41.27",
+        "top_1_rate": "13.20",
+        "battle": "273,088",
+        "description": "Nội Tại: Giảm tất cả sát thương nhận vào đi [ 15 / 20 / 30 ] ().\n\nKích Hoạt: Gây [ 240 / 360 / 600 ] () sát thương phép lên mục tiêu hiện tại và Làm Choáng chúng trong 2 giây.",
+        "skill_name": "Vỏ Bọc Hoàng Kim",
+        "skill_image": "TFT14_Alistar.png",
+        "skill_mana": "40/80",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Kim Ngưu",
+                "description": "Tướng Kim Ngưu nhận Khuếch Đại Sát Thương và có xác suất rơi ra vàng khi hạ gục kẻ địch.\nNếu bạn dùng 8 vàng cho lượt đổi hoặc XP trong một lượt, tăng vĩnh viễn Khuếch Đại Sát Thương và lượng vàng cần thiết cho lần thưởng tiếp theo. Lượt đổi được tính gấp đôi vào lượng vàng đã tiêu.\n(Tướng Kim Ngưu bắt buộc phải tham gia giao tranh trong vòng trước)",
+                "image": "Trait_Icon_14_GoldenOx.TFT_Set14.png",
+                "champions": [
+                    "tft14_alistar.tft_set14.png",
+                    "tft14_graves.tft_set14.png",
+                    "tft14_jarvan.tft_set14.png",
+                    "tft14_annie.tft_set14.png",
+                    "tft14_aphelios.tft_set14.png",
+                    "tft14_viego.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Đấu Sĩ",
+                "description": "Đội của bạn nhận 100 Máu. Tướng Đấu Sĩ nhận được nhiều hơn.",
+                "image": "Trait_Icon_14_Bruiser.TFT_Set14.png",
+                "champions": [
+                    "tft14_drmundo.tft_set14.png",
+                    "tft14_alistar.tft_set14.png",
+                    "tft14_darius.tft_set14.png",
+                    "tft14_gragas.tft_set14.png",
+                    "tft14_mordekaiser.tft_set14.png",
+                    "tft14_chogath.tft_set14.png",
+                    "tft14_kobuko.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 23,
+        "id": "nidalee",
+        "name": "Nidalee",
+        "image": "tft14_nidaleecougar.tft_set14.png",
+        "price": "1",
+        "average_position": "4.5",
+        "top_4_rate": "49.57",
+        "top_1_rate": "13.02",
+        "battle": "245,444",
+        "description": "Gây [ 200 / 300 / 455 ] () sát thương phép lên mục tiêu hiện tại và [ 75 / 115 / 170 ] () sát thương phép lên 2 () kẻ địch gần nhất. Hồi lại [ 100 / 125 / 210 ] Máu + [ 20 / 25 / 40 ] với mỗi kẻ địch trúng đòn.",
+        "skill_name": "Móng Vuốt Tích Điện",
+        "skill_image": "TFT14_NidaleeCougar.png",
+        "skill_mana": "20/60",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Chiến Đội",
+                "description": "Mỗi vòng đấu, tướng Chiến Đội độc nhất trao Hợp Kim cho R-080T, dựa trên cấp sao của họ. Mỗi Hợp Kim cho 11 Máu và 1 Sức Mạnh Phép Thuật. \n\nKhi có 200 Hợp Kim, nó được nâng cấp thành T-43X!",
+                "image": "Trait_Icon_14_NitroForge.TFT_Set14.png",
+                "champions": [
+                    "tft14_nidaleecougar.tft_set14.png",
+                    "tft14_kindred.tft_set14.png",
+                    "tft14_shyvana.tft_set14.png",
+                    "tft14_elise.tft_set14.png"
+                ]
+            },
+            {
+                "name": "A.M.P.",
+                "description": "Tướng A.M.P. nâng cấp các kỹ năng của họ theo cách đặc biệt bằng Khuếch Đại (\n). Họ cũng nhận thêm Máu.",
+                "image": "Trait_Icon_14_Amp.TFT_Set14.png",
+                "champions": [
+                    "tft14_nidaleecougar.tft_set14.png",
+                    "tft14_naafiri.tft_set14.png",
+                    "tft14_yuumi.tft_set14.png",
+                    "tft14_annie.tft_set14.png",
+                    "tft14_samira.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 24,
+        "id": "vex",
+        "name": "Vex",
+        "image": "tft14_vex.tft_set14.png",
+        "price": "4",
+        "average_position": "4.28",
+        "top_4_rate": "54.46",
+        "top_1_rate": "12.89",
+        "battle": "332,164",
+        "description": "Nội Tại: Nhận 15% Hút Máu Toàn Phần. 180% lượng hồi máu vượt trội từ Báo Oán được chuyển thành sát thương chuẩn cộng thêm lên mục tiêu chính.\n\nKích Hoạt: Phóng ra một cái bóng tới vị trí mục tiêu, gây [ 100 / 150 / 600 ] () sát thương phép lên mọi kẻ địch nó lướt qua. Sau đó cái bóng phát nổ, gây [ 190 / 285 / 1100 ] () sát thương phép lên mục tiêu đó và [ 100 / 150 / 600 ] () lên các kẻ địch trong phạm vi 1 ô.",
+        "skill_name": "Báo Oán",
+        "skill_image": "TFT14_Vex.png",
+        "skill_mana": "0/30",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Thần Pháp",
+                "description": "Tướng Thần Pháp ban chỉ số độc nhất cho toàn đội của bạn, tăng dần theo số tướng Thần Pháp ở trên bàn.\nTướng Thần Pháp được tăng gấp đôi.",
+                "image": "Trait_Icon_14_Divinicorp.TFT_Set14.png",
+                "champions": [
+                    "tft14_morgana.tft_set14.png",
+                    "tft14_rhaast.tft_set14.png",
+                    "tft14_senna.tft_set14.png",
+                    "tft14_gragas.tft_set14.png",
+                    "tft14_vex.tft_set14.png",
+                    "tft14_renekton.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Đao Phủ",
+                "description": "Kỹ năng của tướng Đao Phủ có thể chí mạng. Họ đồng thời nhận thêm Tỉ Lệ Chí Mạng và Sát Thương Chí Mạng.\n\nNếu mục tiêu còn dưới 20% Máu, tăng gấp đôi Sát Thương Chí Mạng cộng thêm.",
+                "image": "Trait_Icon_4_Executioner.png",
+                "champions": [
+                    "tft14_graves.tft_set14.png",
+                    "tft14_rengar.tft_set14.png",
+                    "tft14_varus.tft_set14.png",
+                    "tft14_vex.tft_set14.png",
+                    "tft14_urgot.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 25,
+        "id": "jinx",
+        "name": "Jinx",
+        "image": "tft14_jinx.tft_set14.png",
+        "price": "3",
+        "average_position": "4.38",
+        "top_4_rate": "52.25",
+        "top_1_rate": "12.81",
+        "battle": "279,583",
+        "description": "Bắn 5 quả tên lửa về phía các kẻ địch ngẫu nhiên trong phạm vi 2 ô xung quanh mục tiêu hiện tại. Mỗi quả tên lửa gây [ 92 / 141 / 226 ] () sát thương vật lý. Mỗi lần thi triển bắn ra thêm một quả tên lửa.",
+        "skill_name": "Phá Hoại Trắng Trợn",
+        "skill_image": "TFT14_Jinx.png",
+        "skill_mana": "0/50",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Quỷ Đường Phố",
+                "description": "Các đồng minh đứng trên ô được đánh dấu nhận thêm Máu, Sức Mạnh Phép Thuật và Sức Mạnh Công Kích. Một số ô là ô Đặc Trưng và cho thêm 50%. \n\nTướng Quỷ Đường Phố gấp đôi tất cả thưởng chỉ số.",
+                "image": "Trait_Icon_14_StreetDemon.TFT_Set14.png",
+                "champions": [
+                    "tft14_drmundo.tft_set14.png",
+                    "tft14_zyra.tft_set14.png",
+                    "tft14_ekko.tft_set14.png",
+                    "tft14_rengar.tft_set14.png",
+                    "tft14_jinx.tft_set14.png",
+                    "tft14_brand.tft_set14.png",
+                    "tft14_neeko.tft_set14.png",
+                    "tft14_samira.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Xạ Thủ",
+                "description": "Tướng Xạ Thủ nhận Sức Mạnh Công Kích. Sau 8 giây giao tranh, họ tăng thưởng chỉ số thêm 100%.",
+                "image": "Trait_Icon_14_Marksman.TFT_Set14.png",
+                "champions": [
+                    "tft14_kindred.tft_set14.png",
+                    "tft14_jhin.tft_set14.png",
+                    "tft14_jinx.tft_set14.png",
+                    "tft14_xayah.tft_set14.png",
+                    "tft14_aphelios.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 26,
+        "id": "leona",
+        "name": "Leona",
+        "image": "tft14_leona.tft_set14.png",
+        "price": "4",
+        "average_position": "4.36",
+        "top_4_rate": "52.74",
+        "top_1_rate": "12.78",
+        "battle": "414,648",
+        "description": "Nhận [ 55 / 60 / 90 ]% () Chống Chịu trong 4 giây. Gây [ 100 / 150 / 2000 ] () sát thương phép lên nhóm kẻ địch đông nhất trong phạm vi 2 ô và Làm Choáng kẻ địch ở vùng trung tâm trong 2 giây.\n\nKẻ địch chịu sát thương từ kỹ năng này nhận thêm [ 8 / 13 / 90 ] () sát thương phép từ đòn đánh thường của đồng minh trong [ 4 / 4 / 10 ] giây.",
+        "skill_name": "Thái Dương Hạ San",
+        "skill_image": "TFT14_Leona.png",
+        "skill_mana": "50/110",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Siêu Thú",
+                "description": "Tại mỗi bậc, chọn 1 vũ khí cho 1 tướng Siêu Thú ngẫu nhiên sử dụng định kỳ trong giao tranh. Tướng Siêu Thú nhận thêm Giáp, Kháng Phép và Khuếch Đại Sát Thương.",
+                "image": "Trait_Icon_14_AnimaSquad.TFT_Set14.png",
+                "champions": [
+                    "tft14_seraphine.tft_set14.png",
+                    "tft14_sylas.tft_set14.png",
+                    "tft14_illaoi.tft_set14.png",
+                    "tft14_vayne.tft_set14.png",
+                    "tft14_yuumi.tft_set14.png",
+                    "tft14_xayah.tft_set14.png",
+                    "tft14_leona.tft_set14.png",
+                    "tft14_aurora.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Tiên Phong",
+                "description": "Tướng Tiên Phong được tăng 10% Sức Chống Chịu khi có Lá Chắn. \n\nBắt đầu giao tranh và 50% Máu: Nhận một Lá Chắn theo Máu tối đa trong 10 giây.",
+                "image": "Trait_Icon_12_Vanguard.TFT_Set12.png",
+                "champions": [
+                    "tft14_sylas.tft_set14.png",
+                    "tft14_vi.tft_set14.png",
+                    "tft14_skarner.tft_set14.png",
+                    "tft14_rhaast.tft_set14.png",
+                    "tft14_braum.tft_set14.png",
+                    "tft14_jarvan.tft_set14.png",
+                    "tft14_leona.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 27,
+        "id": "leblanc",
+        "name": "LeBlanc",
+        "image": "tft14_leblanc.tft_set14.png",
+        "price": "2",
+        "average_position": "5",
+        "top_4_rate": "41.53",
+        "top_1_rate": "12.62",
+        "battle": "139,043",
+        "description": "Bắn ra 5 ấn, chuyển qua lại giữa mục tiêu hiện tại và kẻ địch tiếp theo gần nhất, mỗi ấn gây [ 65 / 95 / 145 ] () sát thương phép. Mỗi lần thi triển, bắn ra thêm 1 ấn.",
+        "skill_name": "Đột Biến Dữ Liệu",
+        "skill_image": "TFT14_LeBlanc.png",
+        "skill_mana": "0/50",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Mã Hóa",
+                "description": "Nhận Thông Tin mỗi khi thua giao tranh, tăng thêm khi đang trong chuỗi thua. Nhận thêm một lượng nhỏ khi hạ gục kẻ địch. \n\nBạn có thể trao đổi Thông Tin để lấy báu vật một lần ở vòng\n3-3, 3-7, 4-3, 4-7 hoặc 5-5.\nSau khi trao đổi Thông Tin, các tướng Mã Hóa nhận Sức Mạnh Công Kích và Sức Mạnh Phép Thuật.",
+                "image": "Trait_Icon_14_Cypher.TFT_Set14.png",
+                "champions": [
+                    "tft14_vi.tft_set14.png",
+                    "tft14_leblanc.tft_set14.png",
+                    "tft14_galio.tft_set14.png",
+                    "tft14_draven.tft_set14.png",
+                    "tft14_zed.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Quân Sư",
+                "description": "Bắt Đầu Giao Tranh: Các đồng minh ở 2 hàng sau nhận thêm Khuếch Đại Sát Thương. Các đồng minh ở 2 hàng đầu nhận thêm Chống Chịu. Các tướng Quân Sư nhận được gấp ba lần.",
+                "image": "Trait_Icon_9_Strategist.png",
+                "champions": [
+                    "tft14_leblanc.tft_set14.png",
+                    "tft14_ekko.tft_set14.png",
+                    "tft14_yuumi.tft_set14.png",
+                    "tft14_neeko.tft_set14.png",
+                    "tft14_ziggs.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 28,
+        "id": "graves",
+        "name": "Graves",
+        "image": "tft14_graves.tft_set14.png",
+        "price": "2",
+        "average_position": "5.11",
+        "top_4_rate": "37.34",
+        "top_1_rate": "12.44",
+        "battle": "177,142",
+        "description": "Nội Tại: Đòn đánh thường bắn ra 5 đường đạn theo hình nón, mỗi đường đạn gây [ 18 / 26 / 39 ] () sát thương vật lý. Graves thi triển kỹ năng sau mỗi 2 đòn đánh.\n\nKích Hoạt: Lướt đến bên cạnh mục tiêu và nhanh chóng bắn 2 viên đạn cường hóa, mỗi viên gây [ 26 / 39 / 67 ] () sát thương vật lý.",
+        "skill_name": "Đạn Ghém Dát Vàng",
+        "skill_image": "TFT14_Graves.png",
+        "skill_mana": "0/2",
+        "skill_attack_range": 2,
+        "traits": [
+            {
+                "name": "Kim Ngưu",
+                "description": "Tướng Kim Ngưu nhận Khuếch Đại Sát Thương và có xác suất rơi ra vàng khi hạ gục kẻ địch.\nNếu bạn dùng 8 vàng cho lượt đổi hoặc XP trong một lượt, tăng vĩnh viễn Khuếch Đại Sát Thương và lượng vàng cần thiết cho lần thưởng tiếp theo. Lượt đổi được tính gấp đôi vào lượng vàng đã tiêu.\n(Tướng Kim Ngưu bắt buộc phải tham gia giao tranh trong vòng trước)",
+                "image": "Trait_Icon_14_GoldenOx.TFT_Set14.png",
+                "champions": [
+                    "tft14_alistar.tft_set14.png",
+                    "tft14_graves.tft_set14.png",
+                    "tft14_jarvan.tft_set14.png",
+                    "tft14_annie.tft_set14.png",
+                    "tft14_aphelios.tft_set14.png",
+                    "tft14_viego.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Đao Phủ",
+                "description": "Kỹ năng của tướng Đao Phủ có thể chí mạng. Họ đồng thời nhận thêm Tỉ Lệ Chí Mạng và Sát Thương Chí Mạng.\n\nNếu mục tiêu còn dưới 20% Máu, tăng gấp đôi Sát Thương Chí Mạng cộng thêm.",
+                "image": "Trait_Icon_4_Executioner.png",
+                "champions": [
+                    "tft14_graves.tft_set14.png",
+                    "tft14_rengar.tft_set14.png",
+                    "tft14_varus.tft_set14.png",
+                    "tft14_vex.tft_set14.png",
+                    "tft14_urgot.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 29,
+        "id": "skarner",
+        "name": "Skarner",
+        "image": "tft14_skarner.tft_set14.png",
+        "price": "2",
+        "average_position": "4.6",
+        "top_4_rate": "48",
+        "top_1_rate": "12.39",
+        "battle": "187,819",
+        "description": "Nhận [ 325 / 375 / 450 ] () Lá Chắn trong 3 giây và tạo ra một quả tên lửa. Khi Lá Chắn hết hiệu lực, phóng quả tên lửa vào nhóm kẻ địch đông nhất trong phạm vi 2 () ô, gây [ 115 / 173 / 265 ] () sát thương phép lên kẻ địch đứng chính giữa và 50% sát thương lên các kẻ địch liền kề với chúng.",
+        "skill_name": "Tên Lửa Phòng Ngự",
+        "skill_image": "TFT14_Skarner.png",
+        "skill_mana": "25/80",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Robot Bộc Phá",
+                "description": "Tướng Robot Bộc Phá phóng tên lửa gây sát thương phép vào một kẻ địch ở gần mỗi khi gây ra 400 sát thương. 8% sát thương gánh chịu được tính vào sát thương gây ra.",
+                "image": "Trait_Icon_14_BoomBots.TFT_Set14.png",
+                "champions": [
+                    "tft14_kogmaw.tft_set14.png",
+                    "tft14_skarner.tft_set14.png",
+                    "tft14_fiddlesticks.tft_set14.png",
+                    "tft14_chogath.tft_set14.png",
+                    "tft14_urgot.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Tiên Phong",
+                "description": "Tướng Tiên Phong được tăng 10% Sức Chống Chịu khi có Lá Chắn. \n\nBắt đầu giao tranh và 50% Máu: Nhận một Lá Chắn theo Máu tối đa trong 10 giây.",
+                "image": "Trait_Icon_12_Vanguard.TFT_Set12.png",
+                "champions": [
+                    "tft14_sylas.tft_set14.png",
+                    "tft14_vi.tft_set14.png",
+                    "tft14_skarner.tft_set14.png",
+                    "tft14_rhaast.tft_set14.png",
+                    "tft14_braum.tft_set14.png",
+                    "tft14_jarvan.tft_set14.png",
+                    "tft14_leona.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 30,
+        "id": "jarvan_iv",
+        "name": "Jarvan IV",
+        "image": "tft14_jarvan.tft_set14.png",
+        "price": "3",
+        "average_position": "4.56",
+        "top_4_rate": "48.82",
+        "top_1_rate": "12.37",
+        "battle": "546,522",
+        "description": "Ra đòn vào nhóm kẻ địch đông nhất trong phạm vi hình bán nguyệt, nhận [ 300 / 350 / 400 ] () Lá Chắn trong 4 giây, cộng thêm [ 30 / 50 / 80 ] () với mỗi kẻ địch trúng đòn. Gây [ 168 / 252 / 378 ] () sát thương vật lý lên các kẻ địch trúng đòn và giảm Giáp của chúng đi [ 15 / 18 / 20 ] cho đến hết giao tranh.",
+        "skill_name": "Đòn Quét Bán Nguyệt",
+        "skill_image": "TFT14_Jarvan.png",
+        "skill_mana": "25/75",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Kim Ngưu",
+                "description": "Tướng Kim Ngưu nhận Khuếch Đại Sát Thương và có xác suất rơi ra vàng khi hạ gục kẻ địch.\nNếu bạn dùng 8 vàng cho lượt đổi hoặc XP trong một lượt, tăng vĩnh viễn Khuếch Đại Sát Thương và lượng vàng cần thiết cho lần thưởng tiếp theo. Lượt đổi được tính gấp đôi vào lượng vàng đã tiêu.\n(Tướng Kim Ngưu bắt buộc phải tham gia giao tranh trong vòng trước)",
+                "image": "Trait_Icon_14_GoldenOx.TFT_Set14.png",
+                "champions": [
+                    "tft14_alistar.tft_set14.png",
+                    "tft14_graves.tft_set14.png",
+                    "tft14_jarvan.tft_set14.png",
+                    "tft14_annie.tft_set14.png",
+                    "tft14_aphelios.tft_set14.png",
+                    "tft14_viego.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Tiên Phong",
+                "description": "Tướng Tiên Phong được tăng 10% Sức Chống Chịu khi có Lá Chắn. \n\nBắt đầu giao tranh và 50% Máu: Nhận một Lá Chắn theo Máu tối đa trong 10 giây.",
+                "image": "Trait_Icon_12_Vanguard.TFT_Set12.png",
+                "champions": [
+                    "tft14_sylas.tft_set14.png",
+                    "tft14_vi.tft_set14.png",
+                    "tft14_skarner.tft_set14.png",
+                    "tft14_rhaast.tft_set14.png",
+                    "tft14_braum.tft_set14.png",
+                    "tft14_jarvan.tft_set14.png",
+                    "tft14_leona.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Đồ Tể",
+                "description": "Tướng Đồ Tể nhận Sức Mạnh Công Kích và Hút Máu Toàn Phần. Hồi Máu Vượt Trội hồi lại cho tướng Đồ Tể còn thấp Máu nhất 50% lượng phụ trội.",
+                "image": "Trait_Icon_4_Slayer.png",
+                "champions": [
+                    "tft14_drmundo.tft_set14.png",
+                    "tft14_shaco.tft_set14.png",
+                    "tft14_vayne.tft_set14.png",
+                    "tft14_senna.tft_set14.png",
+                    "tft14_jarvan.tft_set14.png",
+                    "tft14_zed.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 31,
+        "id": "gragas",
+        "name": "Gragas",
+        "image": "tft14_gragas.tft_set14.png",
+        "price": "3",
+        "average_position": "4.29",
+        "top_4_rate": "54.5",
+        "top_1_rate": "12.37",
+        "battle": "529,178",
+        "description": "Hồi lại [ 385 / 478 / 655 ] () Máu, sau đó ném một thùng rượu vào nhóm kẻ địch đông nhất trong phạm vi 3 ô, gây [ 150 / 225 / 335 ] () sát thương phép lên các kẻ địch trong phạm vi 1 ô.",
+        "skill_name": "Đại Tiệc Doanh Nhân",
+        "skill_image": "TFT14_Gragas.png",
+        "skill_mana": "20/80",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Thần Pháp",
+                "description": "Tướng Thần Pháp ban chỉ số độc nhất cho toàn đội của bạn, tăng dần theo số tướng Thần Pháp ở trên bàn.\nTướng Thần Pháp được tăng gấp đôi.",
+                "image": "Trait_Icon_14_Divinicorp.TFT_Set14.png",
+                "champions": [
+                    "tft14_morgana.tft_set14.png",
+                    "tft14_rhaast.tft_set14.png",
+                    "tft14_senna.tft_set14.png",
+                    "tft14_gragas.tft_set14.png",
+                    "tft14_vex.tft_set14.png",
+                    "tft14_renekton.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Đấu Sĩ",
+                "description": "Đội của bạn nhận 100 Máu. Tướng Đấu Sĩ nhận được nhiều hơn.",
+                "image": "Trait_Icon_14_Bruiser.TFT_Set14.png",
+                "champions": [
+                    "tft14_drmundo.tft_set14.png",
+                    "tft14_alistar.tft_set14.png",
+                    "tft14_darius.tft_set14.png",
+                    "tft14_gragas.tft_set14.png",
+                    "tft14_mordekaiser.tft_set14.png",
+                    "tft14_chogath.tft_set14.png",
+                    "tft14_kobuko.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 32,
+        "id": "morgana",
+        "name": "Morgana",
+        "image": "tft14_morgana.tft_set14.png",
+        "price": "1",
+        "average_position": "4.21",
+        "top_4_rate": "56.33",
+        "top_1_rate": "12.20",
+        "battle": "230,349",
+        "description": "Xâm nhập vào mục tiêu và kẻ địch gần nhất chưa bị xâm nhập, gây [ 400 / 600 / 1000 ] () sát thương phép trong 16 giây.",
+        "skill_name": "Đoản Mạch",
+        "skill_image": "TFT14_Morgana.png",
+        "skill_mana": "0/40",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Thần Pháp",
+                "description": "Tướng Thần Pháp ban chỉ số độc nhất cho toàn đội của bạn, tăng dần theo số tướng Thần Pháp ở trên bàn.\nTướng Thần Pháp được tăng gấp đôi.",
+                "image": "Trait_Icon_14_Divinicorp.TFT_Set14.png",
+                "champions": [
+                    "tft14_morgana.tft_set14.png",
+                    "tft14_rhaast.tft_set14.png",
+                    "tft14_senna.tft_set14.png",
+                    "tft14_gragas.tft_set14.png",
+                    "tft14_vex.tft_set14.png",
+                    "tft14_renekton.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Cơ Điện",
+                "description": "Sau mỗi 3 giây, đội của bạn nhận thêm % Năng Lượng. Tướng Cơ Điện nhận thêm 100%.",
+                "image": "Trait_Icon_14_Dynamo.TFT_Set14.png",
+                "champions": [
+                    "tft14_morgana.tft_set14.png",
+                    "tft14_jhin.tft_set14.png",
+                    "tft14_elise.tft_set14.png",
+                    "tft14_missfortune.tft_set14.png",
+                    "tft14_aurora.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 33,
+        "id": "naafiri",
+        "name": "Naafiri",
+        "image": "tft14_naafiri.tft_set14.png",
+        "price": "2",
+        "average_position": "4.57",
+        "top_4_rate": "48.23",
+        "top_1_rate": "12.19",
+        "battle": "261,071",
+        "description": "Nội Tại: Nhận 15% () Hút Máu Toàn Phần.\n\nKích Hoạt: Gây [ 143 / 215 / 322 ] () sát thương vật lý lên mục tiêu hiện tại. Sau đó, triệu hồi 3 bầy đàn, gây [ 39 / 59 / 88 ] () sát thương vật lý và 1 () Sói Đầu Đàn, gây [ 91 / 137 / 205 ] () sát thương vật lý lên mục tiêu hiện tại.",
+        "skill_name": "Giao Thức Thủ Lĩnh",
+        "skill_image": "TFT14_Naafiri.png",
+        "skill_mana": "0/50",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Công Nghệ Cao",
+                "description": "Nhận các trang bị độc nhất chỉ có thể được dùng bởi tướng Công Nghệ Cao. Họ nhận thêm Máu và Tốc Độ Đánh với mỗi trang bị đang mang.",
+                "image": "Trait_Icon_14_Exotech.TFT_Set14.png",
+                "champions": [
+                    "tft14_jax.tft_set14.png",
+                    "tft14_jhin.tft_set14.png",
+                    "tft14_naafiri.tft_set14.png",
+                    "tft14_varus.tft_set14.png",
+                    "tft14_mordekaiser.tft_set14.png",
+                    "tft14_zeri.tft_set14.png",
+                    "tft14_sejuani.tft_set14.png"
+                ]
+            },
+            {
+                "name": "A.M.P.",
+                "description": "Tướng A.M.P. nâng cấp các kỹ năng của họ theo cách đặc biệt bằng Khuếch Đại (\n). Họ cũng nhận thêm Máu.",
+                "image": "Trait_Icon_14_Amp.TFT_Set14.png",
+                "champions": [
+                    "tft14_nidaleecougar.tft_set14.png",
+                    "tft14_naafiri.tft_set14.png",
+                    "tft14_yuumi.tft_set14.png",
+                    "tft14_annie.tft_set14.png",
+                    "tft14_samira.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 34,
+        "id": "sejuani",
+        "name": "Sejuani",
+        "image": "tft14_sejuani.tft_set14.png",
+        "price": "4",
+        "average_position": "4.43",
+        "top_4_rate": "51.67",
+        "top_1_rate": "12.18",
+        "battle": "459,387",
+        "description": "Nội Tại: Nhận thêm 30% Giáp và Kháng Phép từ mọi nguồn.\n\nKích Hoạt: Ném một quả bom EMP vào mục tiêu hiện tại, phát nổ sau 2 giây. Quả bom này gây [ 120 / 180 / 1800 ] () sát thương phép lên các kẻ địch trong phạm vi 3 ô và Làm Choáng chúng trong [ 1.75 / 2 / 8 ] giây.",
+        "skill_name": "Màn Hình Xanh",
+        "skill_image": "TFT14_Sejuani.png",
+        "skill_mana": "50/140",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Công Nghệ Cao",
+                "description": "Nhận các trang bị độc nhất chỉ có thể được dùng bởi tướng Công Nghệ Cao. Họ nhận thêm Máu và Tốc Độ Đánh với mỗi trang bị đang mang.",
+                "image": "Trait_Icon_14_Exotech.TFT_Set14.png",
+                "champions": [
+                    "tft14_jax.tft_set14.png",
+                    "tft14_jhin.tft_set14.png",
+                    "tft14_naafiri.tft_set14.png",
+                    "tft14_varus.tft_set14.png",
+                    "tft14_mordekaiser.tft_set14.png",
+                    "tft14_zeri.tft_set14.png",
+                    "tft14_sejuani.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Can Trường",
+                "description": "Đội của bạn nhận 10 Giáp và Kháng Phép. Tướng Can Trường nhận được nhiều hơn.\n\nTrong 10 giây đầu giao tranh, tướng Can Trường tăng thưởng chỉ số thêm 100%.",
+                "image": "Trait_Icon_9_Bastion.png",
+                "champions": [
+                    "tft14_jax.tft_set14.png",
+                    "tft14_poppy.tft_set14.png",
+                    "tft14_shyvana.tft_set14.png",
+                    "tft14_illaoi.tft_set14.png",
+                    "tft14_galio.tft_set14.png",
+                    "tft14_sejuani.tft_set14.png",
+                    "tft14_renekton.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 35,
+        "id": "zed",
+        "name": "Zed",
+        "image": "tft14_zed.tft_set14.png",
+        "price": "4",
+        "average_position": "4.58",
+        "top_4_rate": "49.27",
+        "top_1_rate": "12.10",
+        "battle": "221,493",
+        "description": "Ném 1 phi tiêu vào kẻ địch chưa bị đánh dấu ở xa nhất trong phạm vi 4 ô, gây [ 40 / 60 / 800 ] () sát thương phép và đánh dấu chúng. Sau đó trở nên không thể bị chỉ định, dịch chuyển tới chúng và triệu hồi phân thân trên mọi kẻ địch đã bị đánh dấu khác. Gây [ 135 / 203 / 788 ] () sát thương vật lý lên những kẻ địch liền kề, còn các phân thân gây [ 135 / 203 / 788 ] () sát thương vật lý lên những kẻ địch liền kề.",
+        "skill_name": "Nghề Sát Thủ",
+        "skill_image": "TFT14_Zed.png",
+        "skill_mana": "0/50",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Mã Hóa",
+                "description": "Nhận Thông Tin mỗi khi thua giao tranh, tăng thêm khi đang trong chuỗi thua. Nhận thêm một lượng nhỏ khi hạ gục kẻ địch. \n\nBạn có thể trao đổi Thông Tin để lấy báu vật một lần ở vòng\n3-3, 3-7, 4-3, 4-7 hoặc 5-5.\nSau khi trao đổi Thông Tin, các tướng Mã Hóa nhận Sức Mạnh Công Kích và Sức Mạnh Phép Thuật.",
+                "image": "Trait_Icon_14_Cypher.TFT_Set14.png",
+                "champions": [
+                    "tft14_vi.tft_set14.png",
+                    "tft14_leblanc.tft_set14.png",
+                    "tft14_galio.tft_set14.png",
+                    "tft14_draven.tft_set14.png",
+                    "tft14_zed.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Đồ Tể",
+                "description": "Tướng Đồ Tể nhận Sức Mạnh Công Kích và Hút Máu Toàn Phần. Hồi Máu Vượt Trội hồi lại cho tướng Đồ Tể còn thấp Máu nhất 50% lượng phụ trội.",
+                "image": "Trait_Icon_4_Slayer.png",
+                "champions": [
+                    "tft14_drmundo.tft_set14.png",
+                    "tft14_shaco.tft_set14.png",
+                    "tft14_vayne.tft_set14.png",
+                    "tft14_senna.tft_set14.png",
+                    "tft14_jarvan.tft_set14.png",
+                    "tft14_zed.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 36,
+        "id": "draven",
+        "name": "Draven",
+        "image": "tft14_draven.tft_set14.png",
+        "price": "3",
+        "average_position": "4.63",
+        "top_4_rate": "48.97",
+        "top_1_rate": "12.03",
+        "battle": "254,348",
+        "description": "Ném hai cây rìu khổng lồ về phía đông kẻ địch nhất theo đường thẳng, gây [ 226 / 339 / 545 ] () sát thương vật lý trước khi nó quay trở lại. Sát thương giảm đi 20% với mỗi kẻ địch trúng đòn.",
+        "skill_name": "Hack Bộ Nhớ",
+        "skill_image": "TFT14_Draven.png",
+        "skill_mana": "30/120",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Mã Hóa",
+                "description": "Nhận Thông Tin mỗi khi thua giao tranh, tăng thêm khi đang trong chuỗi thua. Nhận thêm một lượng nhỏ khi hạ gục kẻ địch. \n\nBạn có thể trao đổi Thông Tin để lấy báu vật một lần ở vòng\n3-3, 3-7, 4-3, 4-7 hoặc 5-5.\nSau khi trao đổi Thông Tin, các tướng Mã Hóa nhận Sức Mạnh Công Kích và Sức Mạnh Phép Thuật.",
+                "image": "Trait_Icon_14_Cypher.TFT_Set14.png",
+                "champions": [
+                    "tft14_vi.tft_set14.png",
+                    "tft14_leblanc.tft_set14.png",
+                    "tft14_galio.tft_set14.png",
+                    "tft14_draven.tft_set14.png",
+                    "tft14_zed.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Liên Kích",
+                "description": "Đội của bạn được tăng 10% Tốc Độ Đánh. Tướng Liên Kích nhận thêm trên mỗi đòn đánh, cộng dồn tối đa 10 lần.",
+                "image": "Trait_Icon_10_Rapidfire.png",
+                "champions": [
+                    "tft14_kindred.tft_set14.png",
+                    "tft14_kogmaw.tft_set14.png",
+                    "tft14_twistedfate.tft_set14.png",
+                    "tft14_draven.tft_set14.png",
+                    "tft14_zeri.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 37,
+        "id": "kog'maw",
+        "name": "Kog'Maw",
+        "image": "tft14_kogmaw.tft_set14.png",
+        "price": "1",
+        "average_position": "4.69",
+        "top_4_rate": "46.58",
+        "top_1_rate": "11.73",
+        "battle": "155,744",
+        "description": "Trong 5 giây tiếp theo, nhận 50% Tốc Độ Đánh và đòn đánh thường gây thêm [ 34 / 52 / 76 ] () sát thương vật lý.",
+        "skill_name": "Mưa Bom Bão Đạn",
+        "skill_image": "TFT14_KogMaw.png",
+        "skill_mana": "0/40",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Robot Bộc Phá",
+                "description": "Tướng Robot Bộc Phá phóng tên lửa gây sát thương phép vào một kẻ địch ở gần mỗi khi gây ra 400 sát thương. 8% sát thương gánh chịu được tính vào sát thương gây ra.",
+                "image": "Trait_Icon_14_BoomBots.TFT_Set14.png",
+                "champions": [
+                    "tft14_kogmaw.tft_set14.png",
+                    "tft14_skarner.tft_set14.png",
+                    "tft14_fiddlesticks.tft_set14.png",
+                    "tft14_chogath.tft_set14.png",
+                    "tft14_urgot.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Liên Kích",
+                "description": "Đội của bạn được tăng 10% Tốc Độ Đánh. Tướng Liên Kích nhận thêm trên mỗi đòn đánh, cộng dồn tối đa 10 lần.",
+                "image": "Trait_Icon_10_Rapidfire.png",
+                "champions": [
+                    "tft14_kindred.tft_set14.png",
+                    "tft14_kogmaw.tft_set14.png",
+                    "tft14_twistedfate.tft_set14.png",
+                    "tft14_draven.tft_set14.png",
+                    "tft14_zeri.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 38,
+        "id": "mordekaiser",
+        "name": "Mordekaiser",
+        "image": "tft14_mordekaiser.tft_set14.png",
+        "price": "3",
+        "average_position": "4.52",
+        "top_4_rate": "49.57",
+        "top_1_rate": "11.68",
+        "battle": "614,935",
+        "description": "Nhận [ 475 / 525 / 700 ] () Lá Chắn trong 4 giây. Giáng mạnh vào mục tiêu hiện tại, gây [ 200 / 300 / 500 ] () sát thương phép theo đường thẳng dài 2 ô và Làm Choáng tất cả kẻ địch trúng đòn trong 1.25 giây.",
+        "skill_name": "Diệt Virus",
+        "skill_image": "TFT14_Mordekaiser.png",
+        "skill_mana": "30/80",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Công Nghệ Cao",
+                "description": "Nhận các trang bị độc nhất chỉ có thể được dùng bởi tướng Công Nghệ Cao. Họ nhận thêm Máu và Tốc Độ Đánh với mỗi trang bị đang mang.",
+                "image": "Trait_Icon_14_Exotech.TFT_Set14.png",
+                "champions": [
+                    "tft14_jax.tft_set14.png",
+                    "tft14_jhin.tft_set14.png",
+                    "tft14_naafiri.tft_set14.png",
+                    "tft14_varus.tft_set14.png",
+                    "tft14_mordekaiser.tft_set14.png",
+                    "tft14_zeri.tft_set14.png",
+                    "tft14_sejuani.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Đấu Sĩ",
+                "description": "Đội của bạn nhận 100 Máu. Tướng Đấu Sĩ nhận được nhiều hơn.",
+                "image": "Trait_Icon_14_Bruiser.TFT_Set14.png",
+                "champions": [
+                    "tft14_drmundo.tft_set14.png",
+                    "tft14_alistar.tft_set14.png",
+                    "tft14_darius.tft_set14.png",
+                    "tft14_gragas.tft_set14.png",
+                    "tft14_mordekaiser.tft_set14.png",
+                    "tft14_chogath.tft_set14.png",
+                    "tft14_kobuko.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Chuyên Viên",
+                "description": "Tướng Chuyên Viên nhận Sức Mạnh Phép Thuật.\n\nKẻ địch trúng kỹ năng của họ sẽ bị giảm 10% sát thương gây ra trong 3 giây.",
+                "image": "Trait_Icon_14_Techie.TFT_Set14.png",
+                "champions": [
+                    "tft14_zyra.tft_set14.png",
+                    "tft14_seraphine.tft_set14.png",
+                    "tft14_veigar.tft_set14.png",
+                    "tft14_shyvana.tft_set14.png",
+                    "tft14_fiddlesticks.tft_set14.png",
+                    "tft14_mordekaiser.tft_set14.png",
+                    "tft14_brand.tft_set14.png",
+                    "tft14_viego.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 39,
+        "id": "galio",
+        "name": "Galio",
+        "image": "tft14_galio.tft_set14.png",
+        "price": "3",
+        "average_position": "5.14",
+        "top_4_rate": "38.97",
+        "top_1_rate": "11.50",
+        "battle": "172,544",
+        "description": "Nhận [ 0.550000011920929 / 0.550000011920929 / 0.6000000238418579 ] () Chống Chịu trong 3 giây. Sau đó, hồi lại [ 425 / 500 / 600 ] () Máu và chém ra một lốc xoáy về phía kẻ địch trong phạm vi 3 ô đã gây nhiều sát thương nhất cho Galio trong thời gian đó. Lốc xoáy này gây [ 150 / 225 / 335 ] () sát thương phép và Làm Choáng trong 1.5 giây.",
+        "skill_name": "Tường Đá",
+        "skill_image": "TFT14_Galio.png",
+        "skill_mana": "20/80",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Mã Hóa",
+                "description": "Nhận Thông Tin mỗi khi thua giao tranh, tăng thêm khi đang trong chuỗi thua. Nhận thêm một lượng nhỏ khi hạ gục kẻ địch. \n\nBạn có thể trao đổi Thông Tin để lấy báu vật một lần ở vòng\n3-3, 3-7, 4-3, 4-7 hoặc 5-5.\nSau khi trao đổi Thông Tin, các tướng Mã Hóa nhận Sức Mạnh Công Kích và Sức Mạnh Phép Thuật.",
+                "image": "Trait_Icon_14_Cypher.TFT_Set14.png",
+                "champions": [
+                    "tft14_vi.tft_set14.png",
+                    "tft14_leblanc.tft_set14.png",
+                    "tft14_galio.tft_set14.png",
+                    "tft14_draven.tft_set14.png",
+                    "tft14_zed.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Can Trường",
+                "description": "Đội của bạn nhận 10 Giáp và Kháng Phép. Tướng Can Trường nhận được nhiều hơn.\n\nTrong 10 giây đầu giao tranh, tướng Can Trường tăng thưởng chỉ số thêm 100%.",
+                "image": "Trait_Icon_9_Bastion.png",
+                "champions": [
+                    "tft14_jax.tft_set14.png",
+                    "tft14_poppy.tft_set14.png",
+                    "tft14_shyvana.tft_set14.png",
+                    "tft14_illaoi.tft_set14.png",
+                    "tft14_galio.tft_set14.png",
+                    "tft14_sejuani.tft_set14.png",
+                    "tft14_renekton.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 40,
+        "id": "miss_fortune",
+        "name": "Miss Fortune",
+        "image": "tft14_missfortune.tft_set14.png",
+        "price": "4",
+        "average_position": "4.04",
+        "top_4_rate": "60.02",
+        "top_1_rate": "11.29",
+        "battle": "252,727",
+        "description": "Bắn ra 9 loạt đạn về phía nhóm kẻ địch đông nhất trong 2 giây. Kẻ địch trúng đòn nhận [ 33 / 50 / 269 ] () sát thương vật lý từ viên đạn đầu tiên của mỗi loạt, và giảm 25% sát thương từ các viên đạn khác trong cùng loạt đạn.\n\nThưởng Trùm Sò: Bắn ra thêm 3 loạt đạn. Các viên đạn đâm xuyên kẻ địch và gây 33% sát thương.",
+        "skill_name": "Quét Sạch Đường Phố",
+        "skill_image": "TFT14_MissFortune.png",
+        "skill_mana": "50/150",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Băng Đảng",
+                "description": "Nhận 1 mũ Trùm Sò với khả năng nâng cấp kỹ năng của 1 tướng Băng Đảng theo cách đặc biệt.\n\nTướng Băng Đảng được tăng Máu và Khuếch Đại Sát Thương.",
+                "image": "Trait_Icon_14_Mob.TFT_Set14.png",
+                "champions": [
+                    "tft14_shaco.tft_set14.png",
+                    "tft14_darius.tft_set14.png",
+                    "tft14_twistedfate.tft_set14.png",
+                    "tft14_braum.tft_set14.png",
+                    "tft14_missfortune.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Cơ Điện",
+                "description": "Sau mỗi 3 giây, đội của bạn nhận thêm % Năng Lượng. Tướng Cơ Điện nhận thêm 100%.",
+                "image": "Trait_Icon_14_Dynamo.TFT_Set14.png",
+                "champions": [
+                    "tft14_morgana.tft_set14.png",
+                    "tft14_jhin.tft_set14.png",
+                    "tft14_elise.tft_set14.png",
+                    "tft14_missfortune.tft_set14.png",
+                    "tft14_aurora.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 41,
+        "id": "senna",
+        "name": "Senna",
+        "image": "tft14_senna.tft_set14.png",
+        "price": "3",
+        "average_position": "4.48",
+        "top_4_rate": "50.97",
+        "top_1_rate": "11.22",
+        "battle": "230,333",
+        "description": "Nội Tại: Đòn đánh gây [ 34 / 51 / 77 ] () sát thương vật lý lên các kẻ địch liền kề mục tiêu.\n\nKích Hoạt: Bắn một tia năng lượng xuyên ra sau mục tiêu hiện tại 2 ô, gây [ 258 / 387 / 619 ] () sát thương vật lý lên các kẻ địch trúng đòn.",
+        "skill_name": "Tia Ion",
+        "skill_image": "TFT14_Senna.png",
+        "skill_mana": "0/100",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Thần Pháp",
+                "description": "Tướng Thần Pháp ban chỉ số độc nhất cho toàn đội của bạn, tăng dần theo số tướng Thần Pháp ở trên bàn.\nTướng Thần Pháp được tăng gấp đôi.",
+                "image": "Trait_Icon_14_Divinicorp.TFT_Set14.png",
+                "champions": [
+                    "tft14_morgana.tft_set14.png",
+                    "tft14_rhaast.tft_set14.png",
+                    "tft14_senna.tft_set14.png",
+                    "tft14_gragas.tft_set14.png",
+                    "tft14_vex.tft_set14.png",
+                    "tft14_renekton.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Đồ Tể",
+                "description": "Tướng Đồ Tể nhận Sức Mạnh Công Kích và Hút Máu Toàn Phần. Hồi Máu Vượt Trội hồi lại cho tướng Đồ Tể còn thấp Máu nhất 50% lượng phụ trội.",
+                "image": "Trait_Icon_4_Slayer.png",
+                "champions": [
+                    "tft14_drmundo.tft_set14.png",
+                    "tft14_shaco.tft_set14.png",
+                    "tft14_vayne.tft_set14.png",
+                    "tft14_senna.tft_set14.png",
+                    "tft14_jarvan.tft_set14.png",
+                    "tft14_zed.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 42,
+        "id": "rhaast",
+        "name": "Rhaast",
+        "image": "tft14_rhaast.tft_set14.png",
+        "price": "2",
+        "average_position": "4.3",
+        "top_4_rate": "54.76",
+        "top_1_rate": "11.22",
+        "battle": "425,158",
+        "description": "Hất tung mục tiêu lên không trung trong 1.75 giây. Trong thời gian đó, hồi lại [ 220 / 301 / 427 ] () Máu và gây [ 315 / 473 / 709 ] () sát thương vật lý lên mục tiêu.",
+        "skill_name": "Trảm",
+        "skill_image": "TFT14_Rhaast.png",
+        "skill_mana": "40/80",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Thần Pháp",
+                "description": "Tướng Thần Pháp ban chỉ số độc nhất cho toàn đội của bạn, tăng dần theo số tướng Thần Pháp ở trên bàn.\nTướng Thần Pháp được tăng gấp đôi.",
+                "image": "Trait_Icon_14_Divinicorp.TFT_Set14.png",
+                "champions": [
+                    "tft14_morgana.tft_set14.png",
+                    "tft14_rhaast.tft_set14.png",
+                    "tft14_senna.tft_set14.png",
+                    "tft14_gragas.tft_set14.png",
+                    "tft14_vex.tft_set14.png",
+                    "tft14_renekton.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Tiên Phong",
+                "description": "Tướng Tiên Phong được tăng 10% Sức Chống Chịu khi có Lá Chắn. \n\nBắt đầu giao tranh và 50% Máu: Nhận một Lá Chắn theo Máu tối đa trong 10 giây.",
+                "image": "Trait_Icon_12_Vanguard.TFT_Set12.png",
+                "champions": [
+                    "tft14_sylas.tft_set14.png",
+                    "tft14_vi.tft_set14.png",
+                    "tft14_skarner.tft_set14.png",
+                    "tft14_rhaast.tft_set14.png",
+                    "tft14_braum.tft_set14.png",
+                    "tft14_jarvan.tft_set14.png",
+                    "tft14_leona.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 43,
+        "id": "jax",
+        "name": "Jax",
+        "image": "tft14_jax.tft_set14.png",
+        "price": "1",
+        "average_position": "4.58",
+        "top_4_rate": "49.09",
+        "top_1_rate": "10.96",
+        "battle": "332,825",
+        "description": "Nhận [ 350 / 425 / 525 ] () Lá Chắn trong 4 giây và gây [ 110 / 165 / 250 ] () sát thương phép lên các kẻ địch liền kề.",
+        "skill_name": "Lá Chắn Ion",
+        "skill_image": "TFT14_Jax.png",
+        "skill_mana": "20/80",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Công Nghệ Cao",
+                "description": "Nhận các trang bị độc nhất chỉ có thể được dùng bởi tướng Công Nghệ Cao. Họ nhận thêm Máu và Tốc Độ Đánh với mỗi trang bị đang mang.",
+                "image": "Trait_Icon_14_Exotech.TFT_Set14.png",
+                "champions": [
+                    "tft14_jax.tft_set14.png",
+                    "tft14_jhin.tft_set14.png",
+                    "tft14_naafiri.tft_set14.png",
+                    "tft14_varus.tft_set14.png",
+                    "tft14_mordekaiser.tft_set14.png",
+                    "tft14_zeri.tft_set14.png",
+                    "tft14_sejuani.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Can Trường",
+                "description": "Đội của bạn nhận 10 Giáp và Kháng Phép. Tướng Can Trường nhận được nhiều hơn.\n\nTrong 10 giây đầu giao tranh, tướng Can Trường tăng thưởng chỉ số thêm 100%.",
+                "image": "Trait_Icon_9_Bastion.png",
+                "champions": [
+                    "tft14_jax.tft_set14.png",
+                    "tft14_poppy.tft_set14.png",
+                    "tft14_shyvana.tft_set14.png",
+                    "tft14_illaoi.tft_set14.png",
+                    "tft14_galio.tft_set14.png",
+                    "tft14_sejuani.tft_set14.png",
+                    "tft14_renekton.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 44,
+        "id": "sylas",
+        "name": "Sylas",
+        "image": "tft14_sylas.tft_set14.png",
+        "price": "1",
+        "average_position": "4.45",
+        "top_4_rate": "51.35",
+        "top_1_rate": "10.93",
+        "battle": "303,629",
+        "description": "Nhận [ 150 / 200 / 250 ] () Máu tối đa và gây [ 165 / 267 / 436 ] () sát thương phép lên mục tiêu hiện tại. Nếu mục tiêu bị hạ gục, nhận thêm [ 75 / 100 / 125 ] Máu.",
+        "skill_name": "Liên Hoàn Xích",
+        "skill_image": "TFT14_Sylas.png",
+        "skill_mana": "25/75",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Siêu Thú",
+                "description": "Tại mỗi bậc, chọn 1 vũ khí cho 1 tướng Siêu Thú ngẫu nhiên sử dụng định kỳ trong giao tranh. Tướng Siêu Thú nhận thêm Giáp, Kháng Phép và Khuếch Đại Sát Thương.",
+                "image": "Trait_Icon_14_AnimaSquad.TFT_Set14.png",
+                "champions": [
+                    "tft14_seraphine.tft_set14.png",
+                    "tft14_sylas.tft_set14.png",
+                    "tft14_illaoi.tft_set14.png",
+                    "tft14_vayne.tft_set14.png",
+                    "tft14_yuumi.tft_set14.png",
+                    "tft14_xayah.tft_set14.png",
+                    "tft14_leona.tft_set14.png",
+                    "tft14_aurora.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Tiên Phong",
+                "description": "Tướng Tiên Phong được tăng 10% Sức Chống Chịu khi có Lá Chắn. \n\nBắt đầu giao tranh và 50% Máu: Nhận một Lá Chắn theo Máu tối đa trong 10 giây.",
+                "image": "Trait_Icon_12_Vanguard.TFT_Set12.png",
+                "champions": [
+                    "tft14_sylas.tft_set14.png",
+                    "tft14_vi.tft_set14.png",
+                    "tft14_skarner.tft_set14.png",
+                    "tft14_rhaast.tft_set14.png",
+                    "tft14_braum.tft_set14.png",
+                    "tft14_jarvan.tft_set14.png",
+                    "tft14_leona.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 45,
+        "id": "illaoi",
+        "name": "Illaoi",
+        "image": "tft14_illaoi.tft_set14.png",
+        "price": "2",
+        "average_position": "4.64",
+        "top_4_rate": "47.37",
+        "top_1_rate": "10.82",
+        "battle": "171,891",
+        "description": "Hồi lại [ 350 / 400 / 500 ] () Máu. Gây [ 150 / 225 / 350 ] () sát thương phép lên mục tiêu hiện tại và [ 60 / 90 / 140 ] () lên các kẻ địch trong phạm vi 1 ô. Giảm Kháng Phép của chúng đi 15 cho đến hết giao tranh.",
+        "skill_name": "Gấu Máy Chiến Đấu",
+        "skill_image": "TFT14_Illaoi.png",
+        "skill_mana": "0/60",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Siêu Thú",
+                "description": "Tại mỗi bậc, chọn 1 vũ khí cho 1 tướng Siêu Thú ngẫu nhiên sử dụng định kỳ trong giao tranh. Tướng Siêu Thú nhận thêm Giáp, Kháng Phép và Khuếch Đại Sát Thương.",
+                "image": "Trait_Icon_14_AnimaSquad.TFT_Set14.png",
+                "champions": [
+                    "tft14_seraphine.tft_set14.png",
+                    "tft14_sylas.tft_set14.png",
+                    "tft14_illaoi.tft_set14.png",
+                    "tft14_vayne.tft_set14.png",
+                    "tft14_yuumi.tft_set14.png",
+                    "tft14_xayah.tft_set14.png",
+                    "tft14_leona.tft_set14.png",
+                    "tft14_aurora.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Can Trường",
+                "description": "Đội của bạn nhận 10 Giáp và Kháng Phép. Tướng Can Trường nhận được nhiều hơn.\n\nTrong 10 giây đầu giao tranh, tướng Can Trường tăng thưởng chỉ số thêm 100%.",
+                "image": "Trait_Icon_9_Bastion.png",
+                "champions": [
+                    "tft14_jax.tft_set14.png",
+                    "tft14_poppy.tft_set14.png",
+                    "tft14_shyvana.tft_set14.png",
+                    "tft14_illaoi.tft_set14.png",
+                    "tft14_galio.tft_set14.png",
+                    "tft14_sejuani.tft_set14.png",
+                    "tft14_renekton.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 46,
+        "id": "zeri",
+        "name": "Zeri",
+        "image": "tft14_zeri.tft_set14.png",
+        "price": "4",
+        "average_position": "4.61",
+        "top_4_rate": "48.31",
+        "top_1_rate": "10.67",
+        "battle": "236,981",
+        "description": "Lướt tới một vị trí ở gần nhanh tới mức để lại một dư ảnh không thể bị nhắm tới. Dư ảnh tung Đòn Đánh () giống như Zeri, nhưng gây [ 40 / 40 / 200 ]% sát thương.\n\nDư ảnh tồn tại trong [ 5 / 5 / 10 ] () giây và biến mất khi Zeri bị tiêu diệt.",
+        "skill_name": "Xung Tốc Siêu Thanh",
+        "skill_image": "TFT14_Zeri.png",
+        "skill_mana": "0/40",
+        "skill_attack_range": 5,
+        "traits": [
+            {
+                "name": "Công Nghệ Cao",
+                "description": "Nhận các trang bị độc nhất chỉ có thể được dùng bởi tướng Công Nghệ Cao. Họ nhận thêm Máu và Tốc Độ Đánh với mỗi trang bị đang mang.",
+                "image": "Trait_Icon_14_Exotech.TFT_Set14.png",
+                "champions": [
+                    "tft14_jax.tft_set14.png",
+                    "tft14_jhin.tft_set14.png",
+                    "tft14_naafiri.tft_set14.png",
+                    "tft14_varus.tft_set14.png",
+                    "tft14_mordekaiser.tft_set14.png",
+                    "tft14_zeri.tft_set14.png",
+                    "tft14_sejuani.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Liên Kích",
+                "description": "Đội của bạn được tăng 10% Tốc Độ Đánh. Tướng Liên Kích nhận thêm trên mỗi đòn đánh, cộng dồn tối đa 10 lần.",
+                "image": "Trait_Icon_10_Rapidfire.png",
+                "champions": [
+                    "tft14_kindred.tft_set14.png",
+                    "tft14_kogmaw.tft_set14.png",
+                    "tft14_twistedfate.tft_set14.png",
+                    "tft14_draven.tft_set14.png",
+                    "tft14_zeri.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 47,
+        "id": "darius",
+        "name": "Darius",
+        "image": "tft14_darius.tft_set14.png",
+        "price": "2",
+        "average_position": "4.33",
+        "top_4_rate": "54.11",
+        "top_1_rate": "10.66",
+        "battle": "354,279",
+        "description": "Hồi lại [ 238 / 288 / 362 ] () Máu, sau đó gây [ 130 / 195 / 293 ] () sát thương vật lý và 20% Phân Tách lên các kẻ địch trong phạm vi 1 ô trong 6 giây.\n\nThưởng Trùm Sò: Tăng phạm vi của Kỹ Năng lên 24 ô. Sát thương giảm đi 10% với mỗi ô khoảng cách. Hồi lại [ 65 / 77 / 99 ] () Máu với mỗi kẻ địch trúng đòn.",
+        "skill_name": "Đòn Đầu Gối",
+        "skill_image": "TFT14_Darius.png",
+        "skill_mana": "30/80",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Băng Đảng",
+                "description": "Nhận 1 mũ Trùm Sò với khả năng nâng cấp kỹ năng của 1 tướng Băng Đảng theo cách đặc biệt.\n\nTướng Băng Đảng được tăng Máu và Khuếch Đại Sát Thương.",
+                "image": "Trait_Icon_14_Mob.TFT_Set14.png",
+                "champions": [
+                    "tft14_shaco.tft_set14.png",
+                    "tft14_darius.tft_set14.png",
+                    "tft14_twistedfate.tft_set14.png",
+                    "tft14_braum.tft_set14.png",
+                    "tft14_missfortune.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Đấu Sĩ",
+                "description": "Đội của bạn nhận 100 Máu. Tướng Đấu Sĩ nhận được nhiều hơn.",
+                "image": "Trait_Icon_14_Bruiser.TFT_Set14.png",
+                "champions": [
+                    "tft14_drmundo.tft_set14.png",
+                    "tft14_alistar.tft_set14.png",
+                    "tft14_darius.tft_set14.png",
+                    "tft14_gragas.tft_set14.png",
+                    "tft14_mordekaiser.tft_set14.png",
+                    "tft14_chogath.tft_set14.png",
+                    "tft14_kobuko.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 48,
+        "id": "veigar",
+        "name": "Veigar",
+        "image": "tft14_veigar.tft_set14.png",
+        "price": "2",
+        "average_position": "4.63",
+        "top_4_rate": "47.19",
+        "top_1_rate": "10.65",
+        "battle": "176,595",
+        "description": "Gây [ 310 / 400 / 535 ] () sát thương phép lên mục tiêu hiện tại và [ 125 / 170 / 240 ] () sát thương phép lên các kẻ địch liền kề.\n\nNếu Veigar có cùng cấp sao với mục tiêu, gây 25% sát thương chuẩn. Nếu Veigar có cấp sao cao hơn, gây 40% sát thương chuẩn.",
+        "skill_name": "Công Nghệ Tối Cao",
+        "skill_image": "TFT14_Veigar.png",
+        "skill_mana": "0/40",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Trùm Giả Lập",
+                "description": "Tướng Trùm Giả Lập mạnh nhất của bạn nâng cấp lên dạng tối thượng và nhận Máu, Sức Mạnh Phép Thuật và kỹ năng của tướng này đánh trúng nhiều kẻ địch hơn.",
+                "image": "Trait_Icon_14_Cyberbosses.TFT_Set14.png",
+                "champions": [
+                    "tft14_poppy.tft_set14.png",
+                    "tft14_veigar.tft_set14.png",
+                    "tft14_ziggs.tft_set14.png",
+                    "tft14_kobuko.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Chuyên Viên",
+                "description": "Tướng Chuyên Viên nhận Sức Mạnh Phép Thuật.\n\nKẻ địch trúng kỹ năng của họ sẽ bị giảm 10% sát thương gây ra trong 3 giây.",
+                "image": "Trait_Icon_14_Techie.TFT_Set14.png",
+                "champions": [
+                    "tft14_zyra.tft_set14.png",
+                    "tft14_seraphine.tft_set14.png",
+                    "tft14_veigar.tft_set14.png",
+                    "tft14_shyvana.tft_set14.png",
+                    "tft14_fiddlesticks.tft_set14.png",
+                    "tft14_mordekaiser.tft_set14.png",
+                    "tft14_brand.tft_set14.png",
+                    "tft14_viego.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 49,
+        "id": "seraphine",
+        "name": "Seraphine",
+        "image": "tft14_seraphine.tft_set14.png",
+        "price": "1",
+        "average_position": "4.74",
+        "top_4_rate": "45.22",
+        "top_1_rate": "10.52",
+        "battle": "128,034",
+        "description": "Bắn ra một luồng sóng âm thanh xuyên qua mục tiêu hiện tại, gây [ 250 / 375 / 585 ] () sát thương phép, giảm đi 40% với mỗi kẻ địch trúng đòn.",
+        "skill_name": "Ping()",
+        "skill_image": "TFT14_Seraphine.png",
+        "skill_mana": "0/60",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Siêu Thú",
+                "description": "Tại mỗi bậc, chọn 1 vũ khí cho 1 tướng Siêu Thú ngẫu nhiên sử dụng định kỳ trong giao tranh. Tướng Siêu Thú nhận thêm Giáp, Kháng Phép và Khuếch Đại Sát Thương.",
+                "image": "Trait_Icon_14_AnimaSquad.TFT_Set14.png",
+                "champions": [
+                    "tft14_seraphine.tft_set14.png",
+                    "tft14_sylas.tft_set14.png",
+                    "tft14_illaoi.tft_set14.png",
+                    "tft14_vayne.tft_set14.png",
+                    "tft14_yuumi.tft_set14.png",
+                    "tft14_xayah.tft_set14.png",
+                    "tft14_leona.tft_set14.png",
+                    "tft14_aurora.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Chuyên Viên",
+                "description": "Tướng Chuyên Viên nhận Sức Mạnh Phép Thuật.\n\nKẻ địch trúng kỹ năng của họ sẽ bị giảm 10% sát thương gây ra trong 3 giây.",
+                "image": "Trait_Icon_14_Techie.TFT_Set14.png",
+                "champions": [
+                    "tft14_zyra.tft_set14.png",
+                    "tft14_seraphine.tft_set14.png",
+                    "tft14_veigar.tft_set14.png",
+                    "tft14_shyvana.tft_set14.png",
+                    "tft14_fiddlesticks.tft_set14.png",
+                    "tft14_mordekaiser.tft_set14.png",
+                    "tft14_brand.tft_set14.png",
+                    "tft14_viego.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 50,
+        "id": "jhin",
+        "name": "Jhin",
+        "image": "tft14_jhin.tft_set14.png",
+        "price": "2",
+        "average_position": "4.41",
+        "top_4_rate": "52.49",
+        "top_1_rate": "10.47",
+        "battle": "441,438",
+        "description": "Bắn một quả bom nảy trúng 4 kẻ địch, gây [ 72 / 108 / 162 ] () sát thương vật lý và 20% Phân Tách chúng trong 4.400000095367432 () giây. Lần nảy thứ tư quay lại mục tiêu ban đầu và gây [ 195 / 293 / 440 ] () sát thương vật lý.",
+        "skill_name": "Bom Logic",
+        "skill_image": "TFT14_Jhin.png",
+        "skill_mana": "4/74",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Công Nghệ Cao",
+                "description": "Nhận các trang bị độc nhất chỉ có thể được dùng bởi tướng Công Nghệ Cao. Họ nhận thêm Máu và Tốc Độ Đánh với mỗi trang bị đang mang.",
+                "image": "Trait_Icon_14_Exotech.TFT_Set14.png",
+                "champions": [
+                    "tft14_jax.tft_set14.png",
+                    "tft14_jhin.tft_set14.png",
+                    "tft14_naafiri.tft_set14.png",
+                    "tft14_varus.tft_set14.png",
+                    "tft14_mordekaiser.tft_set14.png",
+                    "tft14_zeri.tft_set14.png",
+                    "tft14_sejuani.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Xạ Thủ",
+                "description": "Tướng Xạ Thủ nhận Sức Mạnh Công Kích. Sau 8 giây giao tranh, họ tăng thưởng chỉ số thêm 100%.",
+                "image": "Trait_Icon_14_Marksman.TFT_Set14.png",
+                "champions": [
+                    "tft14_kindred.tft_set14.png",
+                    "tft14_jhin.tft_set14.png",
+                    "tft14_jinx.tft_set14.png",
+                    "tft14_xayah.tft_set14.png",
+                    "tft14_aphelios.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Cơ Điện",
+                "description": "Sau mỗi 3 giây, đội của bạn nhận thêm % Năng Lượng. Tướng Cơ Điện nhận thêm 100%.",
+                "image": "Trait_Icon_14_Dynamo.TFT_Set14.png",
+                "champions": [
+                    "tft14_morgana.tft_set14.png",
+                    "tft14_jhin.tft_set14.png",
+                    "tft14_elise.tft_set14.png",
+                    "tft14_missfortune.tft_set14.png",
+                    "tft14_aurora.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 51,
+        "id": "poppy",
+        "name": "Poppy",
+        "image": "tft14_poppy.tft_set14.png",
+        "price": "1",
+        "average_position": "4.7",
+        "top_4_rate": "45.91",
+        "top_1_rate": "10.44",
+        "battle": "157,214",
+        "description": "Ném khiên vào kẻ địch ở xa nhất trong phạm vi 4 ô, gây [ 164 / 246 / 369 ] () sát thương phép lên chúng và 0 () sát thương phép lên các kẻ địch trong phạm vi 1 ô. Nhận [ 425 / 500 / 600 ] () Lá Chắn.",
+        "skill_name": "Ném Khiên",
+        "skill_image": "TFT14_Poppy.png",
+        "skill_mana": "20/65",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Trùm Giả Lập",
+                "description": "Tướng Trùm Giả Lập mạnh nhất của bạn nâng cấp lên dạng tối thượng và nhận Máu, Sức Mạnh Phép Thuật và kỹ năng của tướng này đánh trúng nhiều kẻ địch hơn.",
+                "image": "Trait_Icon_14_Cyberbosses.TFT_Set14.png",
+                "champions": [
+                    "tft14_poppy.tft_set14.png",
+                    "tft14_veigar.tft_set14.png",
+                    "tft14_ziggs.tft_set14.png",
+                    "tft14_kobuko.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Can Trường",
+                "description": "Đội của bạn nhận 10 Giáp và Kháng Phép. Tướng Can Trường nhận được nhiều hơn.\n\nTrong 10 giây đầu giao tranh, tướng Can Trường tăng thưởng chỉ số thêm 100%.",
+                "image": "Trait_Icon_9_Bastion.png",
+                "champions": [
+                    "tft14_jax.tft_set14.png",
+                    "tft14_poppy.tft_set14.png",
+                    "tft14_shyvana.tft_set14.png",
+                    "tft14_illaoi.tft_set14.png",
+                    "tft14_galio.tft_set14.png",
+                    "tft14_sejuani.tft_set14.png",
+                    "tft14_renekton.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 52,
+        "id": "twisted_fate",
+        "name": "Twisted Fate",
+        "image": "tft14_twistedfate.tft_set14.png",
+        "price": "2",
+        "average_position": "4.27",
+        "top_4_rate": "55.61",
+        "top_1_rate": "10.36",
+        "battle": "258,459",
+        "description": "Nội Tại: Nhận 1.5 Sức Mạnh Phép Thuật mỗi Đòn Đánh.\n\nKích Hoạt: Ném một lá bài vào mục tiêu hiện tại và mục tiêu kế tiếp gần nhất, gây [ 220 / 330 / 500 ] () sát thương phép.\n\nThưởng Trùm Sò: Ném 1 lá bài đặc biệt ngẫu nhiên vào mục tiêu hiện tại, gây [ 265 / 400 / 595 ] () sát thương phép.Ném 2 lá bài đặc biệt vào 2 mục tiêu, gây [ 265 / 400 / 595 ] () sát thương phép: 1 bài Đỏ và 1 bài Xanh. Bài đỏ đánh trúng các kẻ địch trong phạm vi 1 ô. Bài xanh gây 50% sát thương dưới dạng sát thương chuẩn. Thi thoảng, ném lá bài Vàng sẽ trao cho vàng.",
+        "skill_name": "Át Chủ Bài",
+        "skill_image": "TFT14_TwistedFate.png",
+        "skill_mana": "10/70",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Băng Đảng",
+                "description": "Nhận 1 mũ Trùm Sò với khả năng nâng cấp kỹ năng của 1 tướng Băng Đảng theo cách đặc biệt.\n\nTướng Băng Đảng được tăng Máu và Khuếch Đại Sát Thương.",
+                "image": "Trait_Icon_14_Mob.TFT_Set14.png",
+                "champions": [
+                    "tft14_shaco.tft_set14.png",
+                    "tft14_darius.tft_set14.png",
+                    "tft14_twistedfate.tft_set14.png",
+                    "tft14_braum.tft_set14.png",
+                    "tft14_missfortune.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Liên Kích",
+                "description": "Đội của bạn được tăng 10% Tốc Độ Đánh. Tướng Liên Kích nhận thêm trên mỗi đòn đánh, cộng dồn tối đa 10 lần.",
+                "image": "Trait_Icon_10_Rapidfire.png",
+                "champions": [
+                    "tft14_kindred.tft_set14.png",
+                    "tft14_kogmaw.tft_set14.png",
+                    "tft14_twistedfate.tft_set14.png",
+                    "tft14_draven.tft_set14.png",
+                    "tft14_zeri.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 53,
+        "id": "vayne",
+        "name": "Vayne",
+        "image": "tft14_vayne.tft_set14.png",
+        "price": "2",
+        "average_position": "4.52",
+        "top_4_rate": "49.93",
+        "top_1_rate": "10.18",
+        "battle": "225,757",
+        "description": "Bắn ra liên tiếp 3 đòn đánh. Hai đòn đánh đầu gây thêm [ 25 / 38 / 56 ] () sát thương chuẩn và đòn đánh cuối gây thêm [ 90 / 135 / 205 ] () sát thương chuẩn.",
+        "skill_name": "Mũi Tên Dơi",
+        "skill_image": "TFT14_Vayne.png",
+        "skill_mana": "30/90",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Siêu Thú",
+                "description": "Tại mỗi bậc, chọn 1 vũ khí cho 1 tướng Siêu Thú ngẫu nhiên sử dụng định kỳ trong giao tranh. Tướng Siêu Thú nhận thêm Giáp, Kháng Phép và Khuếch Đại Sát Thương.",
+                "image": "Trait_Icon_14_AnimaSquad.TFT_Set14.png",
+                "champions": [
+                    "tft14_seraphine.tft_set14.png",
+                    "tft14_sylas.tft_set14.png",
+                    "tft14_illaoi.tft_set14.png",
+                    "tft14_vayne.tft_set14.png",
+                    "tft14_yuumi.tft_set14.png",
+                    "tft14_xayah.tft_set14.png",
+                    "tft14_leona.tft_set14.png",
+                    "tft14_aurora.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Đồ Tể",
+                "description": "Tướng Đồ Tể nhận Sức Mạnh Công Kích và Hút Máu Toàn Phần. Hồi Máu Vượt Trội hồi lại cho tướng Đồ Tể còn thấp Máu nhất 50% lượng phụ trội.",
+                "image": "Trait_Icon_4_Slayer.png",
+                "champions": [
+                    "tft14_drmundo.tft_set14.png",
+                    "tft14_shaco.tft_set14.png",
+                    "tft14_vayne.tft_set14.png",
+                    "tft14_senna.tft_set14.png",
+                    "tft14_jarvan.tft_set14.png",
+                    "tft14_zed.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 54,
+        "id": "braum",
+        "name": "Braum",
+        "image": "tft14_braum.tft_set14.png",
+        "price": "3",
+        "average_position": "4.31",
+        "top_4_rate": "54.68",
+        "top_1_rate": "10.00",
+        "battle": "361,389",
+        "description": "Nhận [ 460 / 553 / 725 ] () Lá Chắn trong 4 giây. Khi lá chắn bị phá vỡ, gây [ 100 / 150 / 240 ] () sát thương phép lên 3 kẻ địch gần nhất và khiến chúng chịu hiệu ứng Tê Tái trong 3 giây.\n\nThưởng Trùm Sò: Nhận 3080 Giáp và Kháng Phép. Sau mỗi 42 giây, đòn đánh kế tiếp của Braum gây [ 110 / 178 / 300 ] () sát thương phép cộng thêm.",
+        "skill_name": "Bảo Kê",
+        "skill_image": "TFT14_Braum.png",
+        "skill_mana": "30/90",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Băng Đảng",
+                "description": "Nhận 1 mũ Trùm Sò với khả năng nâng cấp kỹ năng của 1 tướng Băng Đảng theo cách đặc biệt.\n\nTướng Băng Đảng được tăng Máu và Khuếch Đại Sát Thương.",
+                "image": "Trait_Icon_14_Mob.TFT_Set14.png",
+                "champions": [
+                    "tft14_shaco.tft_set14.png",
+                    "tft14_darius.tft_set14.png",
+                    "tft14_twistedfate.tft_set14.png",
+                    "tft14_braum.tft_set14.png",
+                    "tft14_missfortune.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Tiên Phong",
+                "description": "Tướng Tiên Phong được tăng 10% Sức Chống Chịu khi có Lá Chắn. \n\nBắt đầu giao tranh và 50% Máu: Nhận một Lá Chắn theo Máu tối đa trong 10 giây.",
+                "image": "Trait_Icon_12_Vanguard.TFT_Set12.png",
+                "champions": [
+                    "tft14_sylas.tft_set14.png",
+                    "tft14_vi.tft_set14.png",
+                    "tft14_skarner.tft_set14.png",
+                    "tft14_rhaast.tft_set14.png",
+                    "tft14_braum.tft_set14.png",
+                    "tft14_jarvan.tft_set14.png",
+                    "tft14_leona.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 55,
+        "id": "varus",
+        "name": "Varus",
+        "image": "tft14_varus.tft_set14.png",
+        "price": "3",
+        "average_position": "4.52",
+        "top_4_rate": "50.29",
+        "top_1_rate": "9.90",
+        "battle": "279,692",
+        "description": "Bắn ra một sợi xích gây [ 200 / 300 / 480 ] () sát thương phép và Làm Choáng trong 1 giây. Sợi xích liên kết với 3 kẻ địch gần nhất, gây [ 100 / 150 / 240 ] () sát thương phép lên mỗi kẻ địch.",
+        "skill_name": "Chuỗi Mã Độc",
+        "skill_image": "TFT14_Varus.png",
+        "skill_mana": "15/75",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Công Nghệ Cao",
+                "description": "Nhận các trang bị độc nhất chỉ có thể được dùng bởi tướng Công Nghệ Cao. Họ nhận thêm Máu và Tốc Độ Đánh với mỗi trang bị đang mang.",
+                "image": "Trait_Icon_14_Exotech.TFT_Set14.png",
+                "champions": [
+                    "tft14_jax.tft_set14.png",
+                    "tft14_jhin.tft_set14.png",
+                    "tft14_naafiri.tft_set14.png",
+                    "tft14_varus.tft_set14.png",
+                    "tft14_mordekaiser.tft_set14.png",
+                    "tft14_zeri.tft_set14.png",
+                    "tft14_sejuani.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Đao Phủ",
+                "description": "Kỹ năng của tướng Đao Phủ có thể chí mạng. Họ đồng thời nhận thêm Tỉ Lệ Chí Mạng và Sát Thương Chí Mạng.\n\nNếu mục tiêu còn dưới 20% Máu, tăng gấp đôi Sát Thương Chí Mạng cộng thêm.",
+                "image": "Trait_Icon_4_Executioner.png",
+                "champions": [
+                    "tft14_graves.tft_set14.png",
+                    "tft14_rengar.tft_set14.png",
+                    "tft14_varus.tft_set14.png",
+                    "tft14_vex.tft_set14.png",
+                    "tft14_urgot.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 56,
+        "id": "shaco",
+        "name": "Shaco",
+        "image": "tft14_shaco.tft_set14.png",
+        "price": "1",
+        "average_position": "4.26",
+        "top_4_rate": "55.89",
+        "top_1_rate": "9.87",
+        "battle": "256,448",
+        "description": "Nội Tại: Nhận 2% Sức Mạnh Công Kích cho mỗi mạng hạ gục trong trận đấu này. (Mạng hạ gục: 0, 0% )\n\nKích Hoạt: Gây [ 205 / 308 / 461 ] () sát thương vật lý lên mục tiêu hiện tại.\n\nThưởng Trùm Sò: Dịch chuyển ra phía sau kẻ địch thấp Máu nhất trong phạm vi 3 ô và gây thêm 0 () sát thương vật lý0 () sát thương vật lý cộng thêm. Nếu kỹ năng này hạ gục được kẻ địch, lập tức thi triển thêm lần nữa với 75% sát thương.",
+        "skill_name": "Tuyệt Đỉnh Trọng Tội",
+        "skill_image": "TFT14_Shaco.png",
+        "skill_mana": "0/50",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Băng Đảng",
+                "description": "Nhận 1 mũ Trùm Sò với khả năng nâng cấp kỹ năng của 1 tướng Băng Đảng theo cách đặc biệt.\n\nTướng Băng Đảng được tăng Máu và Khuếch Đại Sát Thương.",
+                "image": "Trait_Icon_14_Mob.TFT_Set14.png",
+                "champions": [
+                    "tft14_shaco.tft_set14.png",
+                    "tft14_darius.tft_set14.png",
+                    "tft14_twistedfate.tft_set14.png",
+                    "tft14_braum.tft_set14.png",
+                    "tft14_missfortune.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Đồ Tể",
+                "description": "Tướng Đồ Tể nhận Sức Mạnh Công Kích và Hút Máu Toàn Phần. Hồi Máu Vượt Trội hồi lại cho tướng Đồ Tể còn thấp Máu nhất 50% lượng phụ trội.",
+                "image": "Trait_Icon_4_Slayer.png",
+                "champions": [
+                    "tft14_drmundo.tft_set14.png",
+                    "tft14_shaco.tft_set14.png",
+                    "tft14_vayne.tft_set14.png",
+                    "tft14_senna.tft_set14.png",
+                    "tft14_jarvan.tft_set14.png",
+                    "tft14_zed.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 57,
+        "id": "shyvana",
+        "name": "Shyvana",
+        "image": "tft14_shyvana.tft_set14.png",
+        "price": "2",
+        "average_position": "4.78",
+        "top_4_rate": "44.42",
+        "top_1_rate": "9.21",
+        "battle": "263,698",
+        "description": "Thi Triển Lần Đầu: Mỗi giây cho đến hết giao tranh, hồi lại [ 13 / 21 / 33 ] () Máu và gây [ 25 / 40 / 63 ] () sát thương phép lên các kẻ địch liền kề.\n\nNhận [ 200 / 250 / 300 ] () Máu tối đa và 10% Khuếch Đại Sát Thương.",
+        "skill_name": "Rực Cháy",
+        "skill_image": "TFT14_Shyvana.png",
+        "skill_mana": "40/105",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Chiến Đội",
+                "description": "Mỗi vòng đấu, tướng Chiến Đội độc nhất trao Hợp Kim cho R-080T, dựa trên cấp sao của họ. Mỗi Hợp Kim cho 11 Máu và 1 Sức Mạnh Phép Thuật. \n\nKhi có 200 Hợp Kim, nó được nâng cấp thành T-43X!",
+                "image": "Trait_Icon_14_NitroForge.TFT_Set14.png",
+                "champions": [
+                    "tft14_nidaleecougar.tft_set14.png",
+                    "tft14_kindred.tft_set14.png",
+                    "tft14_shyvana.tft_set14.png",
+                    "tft14_elise.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Can Trường",
+                "description": "Đội của bạn nhận 10 Giáp và Kháng Phép. Tướng Can Trường nhận được nhiều hơn.\n\nTrong 10 giây đầu giao tranh, tướng Can Trường tăng thưởng chỉ số thêm 100%.",
+                "image": "Trait_Icon_9_Bastion.png",
+                "champions": [
+                    "tft14_jax.tft_set14.png",
+                    "tft14_poppy.tft_set14.png",
+                    "tft14_shyvana.tft_set14.png",
+                    "tft14_illaoi.tft_set14.png",
+                    "tft14_galio.tft_set14.png",
+                    "tft14_sejuani.tft_set14.png",
+                    "tft14_renekton.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Chuyên Viên",
+                "description": "Tướng Chuyên Viên nhận Sức Mạnh Phép Thuật.\n\nKẻ địch trúng kỹ năng của họ sẽ bị giảm 10% sát thương gây ra trong 3 giây.",
+                "image": "Trait_Icon_14_Techie.TFT_Set14.png",
+                "champions": [
+                    "tft14_zyra.tft_set14.png",
+                    "tft14_seraphine.tft_set14.png",
+                    "tft14_veigar.tft_set14.png",
+                    "tft14_shyvana.tft_set14.png",
+                    "tft14_fiddlesticks.tft_set14.png",
+                    "tft14_mordekaiser.tft_set14.png",
+                    "tft14_brand.tft_set14.png",
+                    "tft14_viego.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 58,
+        "id": "vi",
+        "name": "Vi",
+        "image": "tft14_vi.tft_set14.png",
+        "price": "1",
+        "average_position": "5.39",
+        "top_4_rate": "35.15",
+        "top_1_rate": "9.10",
+        "battle": "107,007",
+        "description": "Nhận [ 373 / 526 / 766 ] () Lá Chắn giảm dần nhanh chóng trong 4 giây. Đòn đánh kế tiếp của Vi gây [ 275 / 413 / 619 ] () sát thương vật lý.",
+        "skill_name": "Chuỗi Chặn",
+        "skill_image": "TFT14_Vi.png",
+        "skill_mana": "30/65",
+        "skill_attack_range": 1,
+        "traits": [
+            {
+                "name": "Mã Hóa",
+                "description": "Nhận Thông Tin mỗi khi thua giao tranh, tăng thêm khi đang trong chuỗi thua. Nhận thêm một lượng nhỏ khi hạ gục kẻ địch. \n\nBạn có thể trao đổi Thông Tin để lấy báu vật một lần ở vòng\n3-3, 3-7, 4-3, 4-7 hoặc 5-5.\nSau khi trao đổi Thông Tin, các tướng Mã Hóa nhận Sức Mạnh Công Kích và Sức Mạnh Phép Thuật.",
+                "image": "Trait_Icon_14_Cypher.TFT_Set14.png",
+                "champions": [
+                    "tft14_vi.tft_set14.png",
+                    "tft14_leblanc.tft_set14.png",
+                    "tft14_galio.tft_set14.png",
+                    "tft14_draven.tft_set14.png",
+                    "tft14_zed.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Tiên Phong",
+                "description": "Tướng Tiên Phong được tăng 10% Sức Chống Chịu khi có Lá Chắn. \n\nBắt đầu giao tranh và 50% Máu: Nhận một Lá Chắn theo Máu tối đa trong 10 giây.",
+                "image": "Trait_Icon_12_Vanguard.TFT_Set12.png",
+                "champions": [
+                    "tft14_sylas.tft_set14.png",
+                    "tft14_vi.tft_set14.png",
+                    "tft14_skarner.tft_set14.png",
+                    "tft14_rhaast.tft_set14.png",
+                    "tft14_braum.tft_set14.png",
+                    "tft14_jarvan.tft_set14.png",
+                    "tft14_leona.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 59,
+        "id": "elise",
+        "name": "Elise",
+        "image": "tft14_elise.tft_set14.png",
+        "price": "3",
+        "average_position": "4.65",
+        "top_4_rate": "47.09",
+        "top_1_rate": "8.87",
+        "battle": "134,771",
+        "description": "Bắn 4 tia laser vào mục tiêu hiện tại và 4 tia laser khác chia đều giữa 2 kẻ địch gần nhất, mỗi tia gây [ 54 / 81 / 125 ] () sát thương phép và làm giảm 5 Kháng Phép cho đến hết giao tranh.",
+        "skill_name": "Bắn Đỏ Nòng",
+        "skill_image": "TFT14_Elise.png",
+        "skill_mana": "0/55",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Chiến Đội",
+                "description": "Mỗi vòng đấu, tướng Chiến Đội độc nhất trao Hợp Kim cho R-080T, dựa trên cấp sao của họ. Mỗi Hợp Kim cho 11 Máu và 1 Sức Mạnh Phép Thuật. \n\nKhi có 200 Hợp Kim, nó được nâng cấp thành T-43X!",
+                "image": "Trait_Icon_14_NitroForge.TFT_Set14.png",
+                "champions": [
+                    "tft14_nidaleecougar.tft_set14.png",
+                    "tft14_kindred.tft_set14.png",
+                    "tft14_shyvana.tft_set14.png",
+                    "tft14_elise.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Cơ Điện",
+                "description": "Sau mỗi 3 giây, đội của bạn nhận thêm % Năng Lượng. Tướng Cơ Điện nhận thêm 100%.",
+                "image": "Trait_Icon_14_Dynamo.TFT_Set14.png",
+                "champions": [
+                    "tft14_morgana.tft_set14.png",
+                    "tft14_jhin.tft_set14.png",
+                    "tft14_elise.tft_set14.png",
+                    "tft14_missfortune.tft_set14.png",
+                    "tft14_aurora.tft_set14.png"
+                ]
+            }
+        ]
+    },
+    {
+        "stt": 60,
+        "id": "kindred",
+        "name": "Kindred",
+        "image": "tft14_kindred.tft_set14.png",
+        "price": "1",
+        "average_position": "4.79",
+        "top_4_rate": "44.8",
+        "top_1_rate": "8.69",
+        "battle": "178,034",
+        "description": "Ra lệnh cho sói tấn công mục tiêu hiện tại, gây [ 270 / 404 / 607 ] () sát thương vật lý. Sát thương vượt trội sẽ được chuyển sang kẻ địch gần nhất.",
+        "skill_name": "Tăng Tốc",
+        "skill_image": "TFT14_Kindred.png",
+        "skill_mana": "0/50",
+        "skill_attack_range": 4,
+        "traits": [
+            {
+                "name": "Chiến Đội",
+                "description": "Mỗi vòng đấu, tướng Chiến Đội độc nhất trao Hợp Kim cho R-080T, dựa trên cấp sao của họ. Mỗi Hợp Kim cho 11 Máu và 1 Sức Mạnh Phép Thuật. \n\nKhi có 200 Hợp Kim, nó được nâng cấp thành T-43X!",
+                "image": "Trait_Icon_14_NitroForge.TFT_Set14.png",
+                "champions": [
+                    "tft14_nidaleecougar.tft_set14.png",
+                    "tft14_kindred.tft_set14.png",
+                    "tft14_shyvana.tft_set14.png",
+                    "tft14_elise.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Liên Kích",
+                "description": "Đội của bạn được tăng 10% Tốc Độ Đánh. Tướng Liên Kích nhận thêm trên mỗi đòn đánh, cộng dồn tối đa 10 lần.",
+                "image": "Trait_Icon_10_Rapidfire.png",
+                "champions": [
+                    "tft14_kindred.tft_set14.png",
+                    "tft14_kogmaw.tft_set14.png",
+                    "tft14_twistedfate.tft_set14.png",
+                    "tft14_draven.tft_set14.png",
+                    "tft14_zeri.tft_set14.png"
+                ]
+            },
+            {
+                "name": "Xạ Thủ",
+                "description": "Tướng Xạ Thủ nhận Sức Mạnh Công Kích. Sau 8 giây giao tranh, họ tăng thưởng chỉ số thêm 100%.",
+                "image": "Trait_Icon_14_Marksman.TFT_Set14.png",
+                "champions": [
+                    "tft14_kindred.tft_set14.png",
+                    "tft14_jhin.tft_set14.png",
+                    "tft14_jinx.tft_set14.png",
+                    "tft14_xayah.tft_set14.png",
+                    "tft14_aphelios.tft_set14.png"
+                ]
+            }
+        ]
+    }
+]
