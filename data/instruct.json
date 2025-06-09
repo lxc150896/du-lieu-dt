@@ -118,224 +118,228 @@
     ["5%", "10%", "20%", "40%", "25%"],
     ["1%", "2%", "12%", "50%", "35%"]
   ],
-  "thuong_vong": [
-    {
-      "name": "Vòng 1-2",
-      "value": "+2 Vàng"
-    },
-    {
-      "name": "Vòng 1-3",
-      "value": "+2 Vàng"
-    },
-    {
-      "name": "Vòng 1-4",
-      "value": "+3 Vàng"
-    },
-    {
-      "name": "Vòng 2-1",
-      "value": "+4 Vàng"
-    },
-    {
-      "name": "Vòng 2-2+",
-      "value": "+5 Vàng"
-    }
-  ],
-  "thuong_vong_pvp": [
-    {
-      "name": "Win Vòng",
-      "value": "+1 Vàng"
-    },
-    {
-      "name": "Lose Vòng",
-      "value": "0 Vàng"
-    }
-  ],
-  "loi_tuc": [
-    {
-      "name": "0 Vàng",
-      "value": "0 Vàng"
-    },
-    {
-      "name": "+1 Vàng",
-      "value": "+1 Vàng"
-    },
-    {
-      "name": "+2 Vàng",
-      "value": "+2 Vàng"
-    },
-    {
-      "name": "+3 Vàng",
-      "value": "+3 Vàng"
-    },
-    {
-      "name": "+4 Vàng",
-      "value": "+4 Vàng"
-    },
-    {
-      "name": "+5 Vàng",
-      "value": "+5 Vàng"
-    }
-  ],
-  "win": [
-    {
-      "name": "6 Win",
-      "value": "+3 Vàng"
-    },
-    {
-      "name": "5 Win",
-      "value": "+2 Vàng"
-    },
-    {
-      "name": "4 Win",
-      "value": "+1 Vàng"
-    },
-    {
-      "name": "3 Win",
-      "value": "+1 Vàng"
-    },
-    {
-      "name": "2 Win",
-      "value": "+1 Vàng"
-    }
-  ],
-  "lose": [
-    {
-      "name": "2 Lose",
-      "value": "+1 Vàng"
-    },
-    {
-      "name": "3 Lose",
-      "value": "+1 Vàng"
-    },
-    {
-      "name": "4 Lose",
-      "value": "+1 Vàng"
-    },
-    {
-      "name": "5 Lose",
-      "value": "+2 Vàng"
-    },
-    {
-      "name": "6 Lose",
-      "value": "+3 Vàng"
-    }
-  ],
-  "bang_xp": [
-    {
-      "name": "Cấp 1",
-      "value": "0 Vàng"
-    },
-    {
-      "name": "Cấp 1",
-      "value": "0 XP"
-    },
-    {
-      "name": "Cấp 2",
-      "value": "0 XP"
-    },
-    {
-      "name": "Cấp 3",
-      "value": "2 XP"
-    },
-    {
-      "name": "Cấp 4",
-      "value": "6 XP"
-    },
-    {
-      "name": "Cấp 5",
-      "value": "10 XP"
-    },
-    {
-      "name": "Cấp 6",
-      "value": "20 XP"
-    },
-    {
-      "name": "Cấp 7",
-      "value": "36 XP"
-    },
-    {
-      "name": "Cấp 8",
-      "value": "48 XP"
-    },
-    {
-      "name": "Cấp 9",
-      "value": "76 XP"
-    },
-    {
-      "name": "Cấp 10",
-      "value": "84 XP"
-    }
-  ],
-  "sat_thuong_vong": [
-    {
-      "name": "1 Đơn vị",
-      "value": "1 Sát thương"
-    },
-    {
-      "name": "2 Đơn vị",
-      "value": "2 Sát thương"
-    },
-    {
-      "name": "3 Đơn vị",
-      "value": "3 Sát thương"
-    },
-    {
-      "name": "4 Đơn vị",
-      "value": "4 Sát thương"
-    },
-    {
-      "name": "5 Đơn vị",
-      "value": "5 Sát thương"
-    },
-    {
-      "name": "6 Đơn vị",
-      "value": "6 Sát thương"
-    },
-    {
-      "name": "7 Đơn vị",
-      "value": "7 Sát thương"
-    },
-    {
-      "name": "8 Đơn vị",
-      "value": "8 Sát thương"
-    },
-    {
-      "name": "9 Đơn vị",
-      "value": "9 Sát thương"
-    },
-    {
-      "name": "10 Đơn vị",
-      "value": "10 Sát thương"
-    }
-  ],
-  "sat_thuong_tuong": [
-    {
-      "name": "Vòng 1",
-      "value": "+0 Sát thương"
-    },
-    {
-      "name": "Vòng 2",
-      "value": "+2 Sát thương"
-    },
-    {
-      "name": "Vòng 3",
-      "value": "+5 Sát thương"
-    },
-    {
-      "name": "Vòng 4",
-      "value": "+8 Sát thương"
-    },
-    {
-      "name": "Vòng 5",
-      "value": "+10 Sát thương"
-    },
-    {
-      "name": "Vòng 6",
-      "value": "+12 Sát thương"
-    },
-    {
-      "name": "Vòng 7+",
-      "value": "+17 Sát thương"
-    }
-  ]
+  "vang_kinh_nghiem": {
+    "thuong_vong": [
+      {
+        "name": "Vòng 1-2",
+        "value": "+2 Vàng"
+      },
+      {
+        "name": "Vòng 1-3",
+        "value": "+2 Vàng"
+      },
+      {
+        "name": "Vòng 1-4",
+        "value": "+3 Vàng"
+      },
+      {
+        "name": "Vòng 2-1",
+        "value": "+4 Vàng"
+      },
+      {
+        "name": "Vòng 2-2+",
+        "value": "+5 Vàng"
+      }
+    ],
+    "thuong_vong_pvp": [
+      {
+        "name": "Win Vòng",
+        "value": "+1 Vàng"
+      },
+      {
+        "name": "Lose Vòng",
+        "value": "0 Vàng"
+      }
+    ],
+    "loi_tuc": [
+      {
+        "name": "0 Vàng",
+        "value": "0 Vàng"
+      },
+      {
+        "name": "+1 Vàng",
+        "value": "+1 Vàng"
+      },
+      {
+        "name": "+2 Vàng",
+        "value": "+2 Vàng"
+      },
+      {
+        "name": "+3 Vàng",
+        "value": "+3 Vàng"
+      },
+      {
+        "name": "+4 Vàng",
+        "value": "+4 Vàng"
+      },
+      {
+        "name": "+5 Vàng",
+        "value": "+5 Vàng"
+      }
+    ],
+    "win": [
+      {
+        "name": "6 Win",
+        "value": "+3 Vàng"
+      },
+      {
+        "name": "5 Win",
+        "value": "+2 Vàng"
+      },
+      {
+        "name": "4 Win",
+        "value": "+1 Vàng"
+      },
+      {
+        "name": "3 Win",
+        "value": "+1 Vàng"
+      },
+      {
+        "name": "2 Win",
+        "value": "+1 Vàng"
+      }
+    ],
+    "lose": [
+      {
+        "name": "2 Lose",
+        "value": "+1 Vàng"
+      },
+      {
+        "name": "3 Lose",
+        "value": "+1 Vàng"
+      },
+      {
+        "name": "4 Lose",
+        "value": "+1 Vàng"
+      },
+      {
+        "name": "5 Lose",
+        "value": "+2 Vàng"
+      },
+      {
+        "name": "6 Lose",
+        "value": "+3 Vàng"
+      }
+    ],
+    "bang_xp": [
+      {
+        "name": "Cấp 1",
+        "value": "0 Vàng"
+      },
+      {
+        "name": "Cấp 1",
+        "value": "0 XP"
+      },
+      {
+        "name": "Cấp 2",
+        "value": "0 XP"
+      },
+      {
+        "name": "Cấp 3",
+        "value": "2 XP"
+      },
+      {
+        "name": "Cấp 4",
+        "value": "6 XP"
+      },
+      {
+        "name": "Cấp 5",
+        "value": "10 XP"
+      },
+      {
+        "name": "Cấp 6",
+        "value": "20 XP"
+      },
+      {
+        "name": "Cấp 7",
+        "value": "36 XP"
+      },
+      {
+        "name": "Cấp 8",
+        "value": "48 XP"
+      },
+      {
+        "name": "Cấp 9",
+        "value": "76 XP"
+      },
+      {
+        "name": "Cấp 10",
+        "value": "84 XP"
+      }
+    ]
+  },
+  "cong_thuc_sat_thuong": {
+    "sat_thuong_vong": [
+      {
+        "name": "1 Đơn vị",
+        "value": "1 Sát thương"
+      },
+      {
+        "name": "2 Đơn vị",
+        "value": "2 Sát thương"
+      },
+      {
+        "name": "3 Đơn vị",
+        "value": "3 Sát thương"
+      },
+      {
+        "name": "4 Đơn vị",
+        "value": "4 Sát thương"
+      },
+      {
+        "name": "5 Đơn vị",
+        "value": "5 Sát thương"
+      },
+      {
+        "name": "6 Đơn vị",
+        "value": "6 Sát thương"
+      },
+      {
+        "name": "7 Đơn vị",
+        "value": "7 Sát thương"
+      },
+      {
+        "name": "8 Đơn vị",
+        "value": "8 Sát thương"
+      },
+      {
+        "name": "9 Đơn vị",
+        "value": "9 Sát thương"
+      },
+      {
+        "name": "10 Đơn vị",
+        "value": "10 Sát thương"
+      }
+    ],
+    "sat_thuong_tuong": [
+      {
+        "name": "Vòng 1",
+        "value": "+0 Sát thương"
+      },
+      {
+        "name": "Vòng 2",
+        "value": "+2 Sát thương"
+      },
+      {
+        "name": "Vòng 3",
+        "value": "+5 Sát thương"
+      },
+      {
+        "name": "Vòng 4",
+        "value": "+8 Sát thương"
+      },
+      {
+        "name": "Vòng 5",
+        "value": "+10 Sát thương"
+      },
+      {
+        "name": "Vòng 6",
+        "value": "+12 Sát thương"
+      },
+      {
+        "name": "Vòng 7+",
+        "value": "+17 Sát thương"
+      }
+    ]
+  }
 }
