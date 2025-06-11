@@ -330,75 +330,300 @@
   "cong_thuc_sat_thuong": {
     "sat_thuong_vong": [
       {
-        "name": "1 Đơn vị",
+        "col_one": "Tổng số tướng",
+        "col_tow": "Sát thương"
+      },
+      {
+        "icon": "champion",
+        "name": "1 Tướng",
         "value": "1 Sát thương"
       },
       {
-        "name": "2 Đơn vị",
+        "icon": "champion",
+        "name": "2 Tướng",
         "value": "2 Sát thương"
       },
       {
-        "name": "3 Đơn vị",
+        "icon": "champion",
+        "name": "3 Tướng",
         "value": "3 Sát thương"
       },
       {
-        "name": "4 Đơn vị",
+        "icon": "champion",
+        "name": "4 Tướng",
         "value": "4 Sát thương"
       },
       {
-        "name": "5 Đơn vị",
+        "icon": "champion",
+        "name": "5 Tướng",
         "value": "5 Sát thương"
       },
       {
-        "name": "6 Đơn vị",
+        "icon": "champion",
+        "name": "6 Tướng",
         "value": "6 Sát thương"
       },
       {
-        "name": "7 Đơn vị",
+        "icon": "champion",
+        "name": "7 Tướng",
         "value": "7 Sát thương"
       },
       {
-        "name": "8 Đơn vị",
+        "icon": "champion",
+        "name": "8 Tướng",
         "value": "8 Sát thương"
       },
       {
-        "name": "9 Đơn vị",
+        "icon": "champion",
+        "name": "9 Tướng",
         "value": "9 Sát thương"
       },
       {
-        "name": "10 Đơn vị",
+        "icon": "champion",
+        "name": "10 Tướng",
         "value": "10 Sát thương"
       }
     ],
     "sat_thuong_tuong": [
       {
+        "col_one": "Vòng đấu",
+        "col_tow": "Sát thương"
+      },
+      {
+        "icon": "round",
         "name": "Vòng 1",
         "value": "+0 Sát thương"
       },
       {
+        "icon": "round",
         "name": "Vòng 2",
         "value": "+2 Sát thương"
       },
       {
+        "icon": "round",
         "name": "Vòng 3",
         "value": "+5 Sát thương"
       },
       {
+        "icon": "round",
         "name": "Vòng 4",
         "value": "+8 Sát thương"
       },
       {
+        "icon": "round",
         "name": "Vòng 5",
         "value": "+10 Sát thương"
       },
       {
+        "icon": "round",
         "name": "Vòng 6",
         "value": "+12 Sát thương"
       },
       {
+        "icon": "round",
         "name": "Vòng 7+",
         "value": "+17 Sát thương"
       }
     ]
-  }
+  },
+  "vong": [
+    [
+      {
+        "image": "round-select-portal.webp",
+        "title": "Chọn cổng dịch chuyển"
+      },
+      {
+        "image": "round-minions.webp",
+        "title": "Lính"
+      },
+      {
+        "image": "round-minions.webp",
+        "title": "Lính"
+      },
+      {
+        "image": "round-minions.webp",
+        "title": "Lính"
+      }
+    ],
+    [
+      {
+        "image": "round-box.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-select-item.webp",
+        "title": "Chọn trang bị"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-krugs.webp",
+        "title": "Quái đá"
+      }
+    ],
+    [
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-box.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-select-item.webp",
+        "title": "Chọn trang bị"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-murk-wolves.webp",
+        "title": "Sói Hắc Ám"
+      }
+    ],
+    [
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-box.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-select-item.webp",
+        "title": "Chọn trang bị"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-raptor.webp",
+        "title": "Chim Biến Dị"
+      }
+    ],
+    [
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-select-item.webp",
+        "title": "Chọn trang bị"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-elder-dragon.webp",
+        "title": "Rồng Nghàn Tuổi"
+      }
+    ],
+    [
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-select-item.webp",
+        "title": "Chọn trang bị"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-elder-dragon.webp",
+        "title": "Rồng Nghàn Tuổi"
+      }
+    ],
+    [
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-select-item.webp",
+        "title": "Chọn trang bị"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-weapon.webp",
+        "title": "Người chơi"
+      },
+      {
+        "image": "round-elder-dragon.webp",
+        "title": "Rồng Nghàn Tuổi"
+      }
+    ]
+  ]
 }
