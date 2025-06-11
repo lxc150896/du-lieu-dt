@@ -122,148 +122,206 @@
   "vang_kinh_nghiem": {
     "thuong_vong": [
       {
+        "col_one": "Vòng",
+        "col_tow": "Thưởng"
+      },
+      {
+        "icon": "round",
         "name": "Vòng 1-2",
         "value": "+2 Vàng"
       },
       {
+        "icon": "round",
         "name": "Vòng 1-3",
         "value": "+2 Vàng"
       },
       {
+        "icon": "round",
         "name": "Vòng 1-4",
         "value": "+3 Vàng"
       },
       {
+        "icon": "round",
         "name": "Vòng 2-1",
         "value": "+4 Vàng"
       },
       {
+        "icon": "round",
         "name": "Vòng 2-2+",
         "value": "+5 Vàng"
       }
     ],
     "thuong_vong_pvp": [
       {
+        "col_one": "Thắng/Thua",
+        "col_tow": "Thưởng"
+      },
+      {
+        "icon": "imperial",
         "name": "Win Vòng",
         "value": "+1 Vàng"
       },
       {
+        "icon": "death",
         "name": "Lose Vòng",
         "value": "0 Vàng"
       }
     ],
     "loi_tuc": [
       {
+        "col_one": "Vàng",
+        "col_tow": "Thưởng"
+      },
+      {
+        "icon": "gold",
         "name": "0 Vàng",
         "value": "0 Vàng"
       },
       {
+        "icon": "gold",
         "name": "+1 Vàng",
         "value": "+1 Vàng"
       },
       {
+        "icon": "gold",
         "name": "+2 Vàng",
         "value": "+2 Vàng"
       },
       {
+        "icon": "gold",
         "name": "+3 Vàng",
         "value": "+3 Vàng"
       },
       {
+        "icon": "gold",
         "name": "+4 Vàng",
         "value": "+4 Vàng"
       },
       {
+        "icon": "gold",
         "name": "+5 Vàng",
         "value": "+5 Vàng"
       }
     ],
     "win": [
       {
+        "col_one": "Chuỗi Thắng",
+        "col_tow": "Thưởng"
+      },
+      {
+        "icon": "fire",
         "name": "6 Win",
         "value": "+3 Vàng"
       },
       {
+        "icon": "fire",
         "name": "5 Win",
         "value": "+2 Vàng"
       },
       {
+        "icon": "fire",
         "name": "4 Win",
         "value": "+1 Vàng"
       },
       {
+        "icon": "fire",
         "name": "3 Win",
         "value": "+1 Vàng"
       },
       {
+        "icon": "fire",
         "name": "2 Win",
         "value": "+1 Vàng"
       }
     ],
     "lose": [
       {
+        "col_one": "Chuỗi Thua",
+        "col_tow": "Thưởng"
+      },
+      {
+        "icon": "death",
         "name": "2 Lose",
         "value": "+1 Vàng"
       },
       {
+        "icon": "death",
         "name": "3 Lose",
         "value": "+1 Vàng"
       },
       {
+        "icon": "death",
         "name": "4 Lose",
         "value": "+1 Vàng"
       },
       {
+        "icon": "death",
         "name": "5 Lose",
         "value": "+2 Vàng"
       },
       {
+        "icon": "death",
         "name": "6 Lose",
         "value": "+3 Vàng"
       }
     ],
     "bang_xp": [
       {
+        "col_one": "Cấp",
+        "col_tow": "Số XP cần"
+      },
+      {
+        "icon": "level",
         "name": "Cấp 1",
         "value": "0 Vàng"
       },
       {
+        "icon": "level",
         "name": "Cấp 1",
         "value": "0 XP"
       },
       {
+        "icon": "level",
         "name": "Cấp 2",
         "value": "0 XP"
       },
       {
+        "icon": "level",
         "name": "Cấp 3",
         "value": "2 XP"
       },
       {
+        "icon": "level",
         "name": "Cấp 4",
         "value": "6 XP"
       },
       {
+        "icon": "level",
         "name": "Cấp 5",
         "value": "10 XP"
       },
       {
+        "icon": "level",
         "name": "Cấp 6",
         "value": "20 XP"
       },
       {
+        "icon": "level",
         "name": "Cấp 7",
         "value": "36 XP"
       },
       {
+        "icon": "level",
         "name": "Cấp 8",
         "value": "48 XP"
       },
       {
+        "icon": "level",
         "name": "Cấp 9",
         "value": "76 XP"
       },
       {
+        "icon": "level",
         "name": "Cấp 10",
         "value": "84 XP"
       }
