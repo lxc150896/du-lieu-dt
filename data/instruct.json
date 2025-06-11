@@ -167,42 +167,6 @@
         "value": "0 Vàng"
       }
     ],
-    "loi_tuc": [
-      {
-        "col_one": "Vàng",
-        "col_tow": "Thưởng"
-      },
-      {
-        "icon": "gold",
-        "name": "0 Vàng",
-        "value": "0 Vàng"
-      },
-      {
-        "icon": "gold",
-        "name": "+1 Vàng",
-        "value": "+1 Vàng"
-      },
-      {
-        "icon": "gold",
-        "name": "+2 Vàng",
-        "value": "+2 Vàng"
-      },
-      {
-        "icon": "gold",
-        "name": "+3 Vàng",
-        "value": "+3 Vàng"
-      },
-      {
-        "icon": "gold",
-        "name": "+4 Vàng",
-        "value": "+4 Vàng"
-      },
-      {
-        "icon": "gold",
-        "name": "+5 Vàng",
-        "value": "+5 Vàng"
-      }
-    ],
     "win": [
       {
         "col_one": "Chuỗi Thắng",
@@ -263,6 +227,42 @@
         "icon": "death",
         "name": "6 Lose",
         "value": "+3 Vàng"
+      }
+    ],
+    "loi_tuc": [
+      {
+        "col_one": "Vàng",
+        "col_tow": "Thưởng"
+      },
+      {
+        "icon": "gold",
+        "name": "0 Vàng",
+        "value": "0 Vàng"
+      },
+      {
+        "icon": "gold",
+        "name": "+1 Vàng",
+        "value": "+1 Vàng"
+      },
+      {
+        "icon": "gold",
+        "name": "+2 Vàng",
+        "value": "+2 Vàng"
+      },
+      {
+        "icon": "gold",
+        "name": "+3 Vàng",
+        "value": "+3 Vàng"
+      },
+      {
+        "icon": "gold",
+        "name": "+4 Vàng",
+        "value": "+4 Vàng"
+      },
+      {
+        "icon": "gold",
+        "name": "+5 Vàng",
+        "value": "+5 Vàng"
       }
     ],
     "bang_xp": [
