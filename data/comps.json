@@ -473,12 +473,14 @@
                     {
                         "img_url_do_tuong_chu_luc": "TFT_Item_InfinityEdge.png",
                         "so_tran_do_tuong_chu_luc": "161,960 Trận",
-                        "name_do_tuong_chu_luc": "Vô Cực Kiếm"
+                        "name_do_tuong_chu_luc": "Vô Cực Kiếm",
+                        "id": "vo_cuc_kiem"
                     },
                     {
                         "img_url_do_tuong_chu_luc": "TFT_Item_SpearOfShojin.png",
                         "so_tran_do_tuong_chu_luc": "82,854 Trận",
-                        "name_do_tuong_chu_luc": "Ngọn Giáo Shojin"
+                        "name_do_tuong_chu_luc": "Ngọn Giáo Shojin",
+                        "id": "ngon_giao_shojin"
                     },
                     {
                         "img_url_do_tuong_chu_luc": "TFT_Item_LastWhisper.png",
