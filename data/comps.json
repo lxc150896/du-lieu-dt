@@ -16,30 +16,37 @@
         "pick_rate": "1.68",
         "synergys": [
             {
+                "id": "cong_nghe_cao",
                 "trait_img": "Trait_Icon_14_Overlord.TFT_Set14.png",
                 "trait_count": "1"
             },
             {
+                "id": "cong_nghe_cao",
                 "trait_img": "Trait_Icon_14_Virus.TFT_Set14.png",
                 "trait_count": "1"
             },
             {
+                "id": "cong_nghe_cao",
                 "trait_img": "Trait_Icon_14_Dynamo.TFT_Set14.png",
                 "trait_count": "4"
             },
             {
+                "id": "cong_nghe_cao",
                 "trait_img": "Trait_Icon_14_Divinicorp.TFT_Set14.png",
                 "trait_count": "3"
             },
             {
+                "id": "cong_nghe_cao",
                 "trait_img": "Trait_Icon_14_Cyberbosses.TFT_Set14.png",
                 "trait_count": "2"
             },
             {
+                "id": "sieu_thu",
                 "trait_img": "Trait_Icon_9_Bastion.png",
                 "trait_count": "2"
             },
             {
+                "id": "sieu_thu",
                 "trait_img": "Trait_Icon_14_Bruiser.TFT_Set14.png",
                 "trait_count": "2"
             }
