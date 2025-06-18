@@ -43,6 +43,28 @@
                 "name": "Bá Chủ Mạng",
                 "image": "Trait_Icon_14_GodoftheNet.TFT_Set14.png"
             }
+        ],
+        "items": [
+            {
+                "id": "huyet_kiem",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "mong_vuot_sterak",
+                "image": "TFT_Item_SteraksGage.png"
+            },
+            {
+                "id": "ban_tay_cong_ly",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "quyen_nang_khong_lo",
+                "image": "TFT_Item_TitansResolve.png"
+            },
+            {
+                "id": "vo_cuc_kiem",
+                "image": "TFT_Item_InfinityEdge.png"
+            }
         ]
     },
     {
@@ -88,6 +110,28 @@
                 "id": "virus",
                 "name": "Virus",
                 "image": "Trait_Icon_14_Virus.TFT_Set14.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "loi_the_ho_ve",
+                "image": "TFT_Item_FrozenHeart.png"
+            },
+            {
+                "id": "ao_choang_lua",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "giap_tam_linh",
+                "image": "TFT_Item_Redemption.png"
             }
         ]
     },
@@ -146,6 +190,28 @@
                 "name": "Chuyên Viên",
                 "image": "Trait_Icon_14_Techie.TFT_Set14.png"
             }
+        ],
+        "items": [
+            {
+                "id": "huyet_kiem",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "ban_tay_cong_ly",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "gang_bao_thach",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "ao_choang_bong_toi",
+                "image": "TFT_Item_GuardianAngel.png"
+            },
+            {
+                "id": "vuong_mien_hoang_gia",
+                "image": "TFT_Item_Crownguard.png"
+            }
         ]
     },
     {
@@ -199,6 +265,28 @@
                 "name": "Đấu Sĩ",
                 "image": "Trait_Icon_14_Bruiser.TFT_Set14.png"
             }
+        ],
+        "items": [
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "vuong_mien_hoang_gia",
+                "image": "TFT_Item_Crownguard.png"
+            },
+            {
+                "id": "huyet_kiem",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "ao_choang_lua",
+                "image": "TFT_Item_RedBuff.png"
+            }
         ]
     },
     {
@@ -250,6 +338,28 @@
                 "id": "dao_phu",
                 "name": "Đao Phủ",
                 "image": "Trait_Icon_4_Executioner.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "cuong_dao_guinsoo",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "thinh_no_thuy_quai",
+                "image": "TFT_Item_RunaansHurricane.png"
+            },
+            {
+                "id": "vo_cuc_kiem",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "kiem_tu_than",
+                "image": "TFT_Item_Deathblade.png"
+            },
+            {
+                "id": "diet_khong_lo",
+                "image": "TFT_Item_MadredsBloodrazor.png"
             }
         ]
     },
@@ -309,6 +419,28 @@
                 "name": "Can Trường",
                 "image": "Trait_Icon_9_Bastion.png"
             }
+        ],
+        "items": [
+            {
+                "id": "huyet_kiem",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "mong_vuot_sterak",
+                "image": "TFT_Item_SteraksGage.png"
+            },
+            {
+                "id": "quyen_nang_khong_lo",
+                "image": "TFT_Item_TitansResolve.png"
+            },
+            {
+                "id": "ban_tay_cong_ly",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "ao_choang_thuy_ngan",
+                "image": "TFT_Item_Quicksilver.png"
+            }
         ]
     },
     {
@@ -360,6 +492,28 @@
                 "id": "co_dien",
                 "name": "Cơ Điện",
                 "image": "Trait_Icon_14_Dynamo.TFT_Set14.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "ngon_giao_shojin",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "quyen_truong_thien_than",
+                "image": "TFT_Item_ArchangelsStaff.png"
+            },
+            {
+                "id": "gang_bao_thach",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "quy_thu_morello",
+                "image": "TFT_Item_Morellonomicon.png"
+            },
+            {
+                "id": "truong_hu_vo",
+                "image": "TFT_Item_StatikkShiv.png"
             }
         ]
     },
@@ -413,6 +567,28 @@
                 "name": "A.M.P.",
                 "image": "Trait_Icon_14_Amp.TFT_Set14.png"
             }
+        ],
+        "items": [
+            {
+                "id": "vo_cuc_kiem",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "cung_xanh",
+                "image": "TFT_Item_LastWhisper.png"
+            },
+            {
+                "id": "diet_khong_lo",
+                "image": "TFT_Item_MadredsBloodrazor.png"
+            },
+            {
+                "id": "chuy_doan_con",
+                "image": "TFT_Item_PowerGauntlet.png"
+            },
+            {
+                "id": "ban_tay_cong_ly",
+                "image": "TFT_Item_UnstableConcoction.png"
+            }
         ]
     },
     {
@@ -463,6 +639,28 @@
                 "id": "a.m.p.",
                 "name": "A.M.P.",
                 "image": "Trait_Icon_14_Amp.TFT_Set14.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "bua_xanh",
+                "image": "TFT_Item_BlueBuff.png"
+            },
+            {
+                "id": "ngon_giao_shojin",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "nanh_nashor",
+                "image": "TFT_Item_Leviathan.png"
+            },
+            {
+                "id": "gang_bao_thach",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "quyen_truong_thien_than",
+                "image": "TFT_Item_ArchangelsStaff.png"
             }
         ]
     },
@@ -517,6 +715,28 @@
                 "name": "Xạ Thủ",
                 "image": "Trait_Icon_14_Marksman.TFT_Set14.png"
             }
+        ],
+        "items": [
+            {
+                "id": "cuong_dao_guinsoo",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "thinh_no_thuy_quai",
+                "image": "TFT_Item_RunaansHurricane.png"
+            },
+            {
+                "id": "vo_cuc_kiem",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "kiem_sung_hextech",
+                "image": "TFT_Item_HextechGunblade.png"
+            },
+            {
+                "id": "cung_xanh",
+                "image": "TFT_Item_LastWhisper.png"
+            }
         ]
     },
     {
@@ -566,6 +786,28 @@
                 "id": "dao_phu",
                 "name": "Đao Phủ",
                 "image": "Trait_Icon_4_Executioner.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "bua_xanh",
+                "image": "TFT_Item_BlueBuff.png"
+            },
+            {
+                "id": "kiem_sung_hextech",
+                "image": "TFT_Item_HextechGunblade.png"
+            },
+            {
+                "id": "gang_bao_thach",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "chuy_doan_con",
+                "image": "TFT_Item_PowerGauntlet.png"
+            },
+            {
+                "id": "quyen_truong_thien_than",
+                "image": "TFT_Item_ArchangelsStaff.png"
             }
         ]
     },
@@ -618,6 +860,28 @@
                 "name": "Đao Phủ",
                 "image": "Trait_Icon_4_Executioner.png"
             }
+        ],
+        "items": [
+            {
+                "id": "mong_vuot_sterak",
+                "image": "TFT_Item_SteraksGage.png"
+            },
+            {
+                "id": "huyet_kiem",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "ao_choang_thuy_ngan",
+                "image": "TFT_Item_Quicksilver.png"
+            },
+            {
+                "id": "ban_tay_cong_ly",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "ao_choang_bong_toi",
+                "image": "TFT_Item_GuardianAngel.png"
+            }
         ]
     },
     {
@@ -668,6 +932,28 @@
                 "id": "dau_si",
                 "name": "Đấu Sĩ",
                 "image": "Trait_Icon_14_Bruiser.TFT_Set14.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "ao_choang_lua",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "ao_choang_gai",
+                "image": "TFT_Item_BrambleVest.png"
+            },
+            {
+                "id": "vuot_rong",
+                "image": "TFT_Item_DragonsClaw.png"
             }
         ]
     },
@@ -720,6 +1006,28 @@
                 "name": "Quân Sư",
                 "image": "Trait_Icon_9_Strategist.png"
             }
+        ],
+        "items": [
+            {
+                "id": "ngon_giao_shojin",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "gang_bao_thach",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "bua_do",
+                "image": "TFT_Item_RapidFireCannon.png"
+            },
+            {
+                "id": "truong_hu_vo",
+                "image": "TFT_Item_StatikkShiv.png"
+            },
+            {
+                "id": "quyen_truong_thien_than",
+                "image": "TFT_Item_ArchangelsStaff.png"
+            }
         ]
     },
     {
@@ -771,6 +1079,28 @@
                 "name": "Quân Sư",
                 "image": "Trait_Icon_9_Strategist.png"
             }
+        ],
+        "items": [
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "no_set",
+                "image": "TFT_Item_IonicSpark.png"
+            },
+            {
+                "id": "ao_choang_lua",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "vuot_rong",
+                "image": "TFT_Item_DragonsClaw.png"
+            }
         ]
     },
     {
@@ -821,6 +1151,28 @@
                 "id": "xa_thu",
                 "name": "Xạ Thủ",
                 "image": "Trait_Icon_14_Marksman.TFT_Set14.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "vo_cuc_kiem",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "cung_xanh",
+                "image": "TFT_Item_LastWhisper.png"
+            },
+            {
+                "id": "ngon_giao_shojin",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "chuy_doan_con",
+                "image": "TFT_Item_PowerGauntlet.png"
+            },
+            {
+                "id": "diet_khong_lo",
+                "image": "TFT_Item_MadredsBloodrazor.png"
             }
         ]
     },
@@ -880,6 +1232,28 @@
                 "name": "Đồ Tể",
                 "image": "Trait_Icon_4_Slayer.png"
             }
+        ],
+        "items": [
+            {
+                "id": "ao_choang_lua",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "giap_vai_nguyet_than",
+                "image": "TFT_Item_SpectralGauntlet.png"
+            },
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "mong_vuot_sterak",
+                "image": "TFT_Item_SteraksGage.png"
+            }
         ]
     },
     {
@@ -931,6 +1305,28 @@
                 "name": "Can Trường",
                 "image": "Trait_Icon_9_Bastion.png"
             }
+        ],
+        "items": [
+            {
+                "id": "loi_the_ho_ve",
+                "image": "TFT_Item_FrozenHeart.png"
+            },
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "cuon_so_hoa",
+                "image": "TFT14_SejuaniCyberneticItem.png"
+            },
+            {
+                "id": "long_den_phan_luc",
+                "image": "TFT14_JaxCyberneticItem.png"
+            }
         ]
     },
     {
@@ -981,6 +1377,28 @@
                 "id": "lien_kich",
                 "name": "Liên Kích",
                 "image": "Trait_Icon_10_Rapidfire.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "cuong_dao_guinsoo",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "thinh_no_thuy_quai",
+                "image": "TFT_Item_RunaansHurricane.png"
+            },
+            {
+                "id": "tu_dien_bat_on",
+                "image": "TFT14_ZeriCyberneticItem.png"
+            },
+            {
+                "id": "may_on_dinh_xung_nhip",
+                "image": "TFT14_JhinCyberneticItem.png"
+            },
+            {
+                "id": "vo_cuc_kiem",
+                "image": "TFT_Item_InfinityEdge.png"
             }
         ]
     },
@@ -1034,6 +1452,28 @@
                 "name": "Đồ Tể",
                 "image": "Trait_Icon_4_Slayer.png"
             }
+        ],
+        "items": [
+            {
+                "id": "ban_tay_cong_ly",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "vo_cuc_kiem",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "huyet_kiem",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "ao_choang_bong_toi",
+                "image": "TFT_Item_GuardianAngel.png"
+            },
+            {
+                "id": "mong_vuot_sterak",
+                "image": "TFT_Item_SteraksGage.png"
+            }
         ]
     },
     {
@@ -1084,6 +1524,28 @@
                 "id": "dau_si",
                 "name": "Đấu Sĩ",
                 "image": "Trait_Icon_14_Bruiser.TFT_Set14.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "ao_choang_lua",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "giap_tam_linh",
+                "image": "TFT_Item_Redemption.png"
+            },
+            {
+                "id": "ao_choang_gai",
+                "image": "TFT_Item_BrambleVest.png"
             }
         ]
     },
@@ -1142,6 +1604,28 @@
                 "name": "Quân Sư",
                 "image": "Trait_Icon_9_Strategist.png"
             }
+        ],
+        "items": [
+            {
+                "id": "gang_bao_thach",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "bua_xanh",
+                "image": "TFT_Item_BlueBuff.png"
+            },
+            {
+                "id": "kiem_sung_hextech",
+                "image": "TFT_Item_HextechGunblade.png"
+            },
+            {
+                "id": "quyen_truong_thien_than",
+                "image": "TFT_Item_ArchangelsStaff.png"
+            },
+            {
+                "id": "ngon_giao_shojin",
+                "image": "TFT_Item_SpearOfShojin.png"
+            }
         ]
     },
     {
@@ -1192,6 +1676,28 @@
                 "id": "dau_si",
                 "name": "Đấu Sĩ",
                 "image": "Trait_Icon_14_Bruiser.TFT_Set14.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "ao_choang_lua",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "giap_tam_linh",
+                "image": "TFT_Item_Redemption.png"
+            },
+            {
+                "id": "vuot_rong",
+                "image": "TFT_Item_DragonsClaw.png"
             }
         ]
     },
@@ -1245,6 +1751,28 @@
                 "name": "Tiên Phong",
                 "image": "Trait_Icon_12_Vanguard.TFT_Set12.png"
             }
+        ],
+        "items": [
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "ao_choang_lua",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "ao_choang_gai",
+                "image": "TFT_Item_BrambleVest.png"
+            },
+            {
+                "id": "giap_tam_linh",
+                "image": "TFT_Item_Redemption.png"
+            }
         ]
     },
     {
@@ -1294,6 +1822,28 @@
                 "id": "do_te",
                 "name": "Đồ Tể",
                 "image": "Trait_Icon_4_Slayer.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "cuong_dao_guinsoo",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "vo_cuc_kiem",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "cung_xanh",
+                "image": "TFT_Item_LastWhisper.png"
+            },
+            {
+                "id": "thinh_no_thuy_quai",
+                "image": "TFT_Item_RunaansHurricane.png"
+            },
+            {
+                "id": "chuy_doan_con",
+                "image": "TFT_Item_PowerGauntlet.png"
             }
         ]
     },
@@ -1345,6 +1895,28 @@
                 "name": "Quân Sư",
                 "image": "Trait_Icon_9_Strategist.png"
             }
+        ],
+        "items": [
+            {
+                "id": "ngon_giao_shojin",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "gang_bao_thach",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "quyen_truong_thien_than",
+                "image": "TFT_Item_ArchangelsStaff.png"
+            },
+            {
+                "id": "bua_xanh",
+                "image": "TFT_Item_BlueBuff.png"
+            },
+            {
+                "id": "kiem_sung_hextech",
+                "image": "TFT_Item_HextechGunblade.png"
+            }
         ]
     },
     {
@@ -1394,6 +1966,28 @@
                 "id": "co_dien",
                 "name": "Cơ Điện",
                 "image": "Trait_Icon_14_Dynamo.TFT_Set14.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "bua_xanh",
+                "image": "TFT_Item_BlueBuff.png"
+            },
+            {
+                "id": "kiem_sung_hextech",
+                "image": "TFT_Item_HextechGunblade.png"
+            },
+            {
+                "id": "quyen_truong_thien_than",
+                "image": "TFT_Item_ArchangelsStaff.png"
+            },
+            {
+                "id": "gang_bao_thach",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "mu_phu_thuy_rabadon",
+                "image": "TFT_Item_RabadonsDeathcap.png"
             }
         ]
     },
@@ -1446,6 +2040,28 @@
                 "name": "Chuyên Viên",
                 "image": "Trait_Icon_14_Techie.TFT_Set14.png"
             }
+        ],
+        "items": [
+            {
+                "id": "ngon_giao_shojin",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "gang_bao_thach",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "chuy_doan_con",
+                "image": "TFT_Item_PowerGauntlet.png"
+            },
+            {
+                "id": "quyen_truong_thien_than",
+                "image": "TFT_Item_ArchangelsStaff.png"
+            },
+            {
+                "id": "mu_phu_thuy_rabadon",
+                "image": "TFT_Item_RabadonsDeathcap.png"
+            }
         ]
     },
     {
@@ -1497,6 +2113,28 @@
                 "id": "co_dien",
                 "name": "Cơ Điện",
                 "image": "Trait_Icon_14_Dynamo.TFT_Set14.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "vo_cuc_kiem",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "ngon_giao_shojin",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "chuy_doan_con",
+                "image": "TFT_Item_PowerGauntlet.png"
+            },
+            {
+                "id": "cung_xanh",
+                "image": "TFT_Item_LastWhisper.png"
+            },
+            {
+                "id": "diet_khong_lo",
+                "image": "TFT_Item_MadredsBloodrazor.png"
             }
         ]
     },
@@ -1551,6 +2189,28 @@
                 "name": "A.M.P.",
                 "image": "Trait_Icon_14_Amp.TFT_Set14.png"
             }
+        ],
+        "items": [
+            {
+                "id": "huyet_kiem",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "ban_tay_cong_ly",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "quyen_nang_khong_lo",
+                "image": "TFT_Item_TitansResolve.png"
+            },
+            {
+                "id": "mong_vuot_sterak",
+                "image": "TFT_Item_SteraksGage.png"
+            },
+            {
+                "id": "nanh_vuot_phan_khich",
+                "image": "TFT14_NaafiriCyberneticItem.png"
+            }
         ]
     },
     {
@@ -1601,6 +2261,28 @@
                 "id": "quan_su",
                 "name": "Quân Sư",
                 "image": "Trait_Icon_9_Strategist.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "ao_choang_lua",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "vuot_rong",
+                "image": "TFT_Item_DragonsClaw.png"
+            },
+            {
+                "id": "ao_choang_gai",
+                "image": "TFT_Item_BrambleVest.png"
             }
         ]
     },
@@ -1655,6 +2337,28 @@
                 "name": "A.M.P.",
                 "image": "Trait_Icon_14_Amp.TFT_Set14.png"
             }
+        ],
+        "items": [
+            {
+                "id": "huyet_kiem",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "quyen_nang_khong_lo",
+                "image": "TFT_Item_TitansResolve.png"
+            },
+            {
+                "id": "ban_tay_cong_ly",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "vuong_mien_hoang_gia",
+                "image": "TFT_Item_Crownguard.png"
+            },
+            {
+                "id": "no_set",
+                "image": "TFT_Item_IonicSpark.png"
+            }
         ]
     },
     {
@@ -1705,6 +2409,28 @@
                 "name": "Cơ Điện",
                 "image": "Trait_Icon_14_Dynamo.TFT_Set14.png"
             }
+        ],
+        "items": [
+            {
+                "id": "gang_bao_thach",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "bua_xanh",
+                "image": "TFT_Item_BlueBuff.png"
+            },
+            {
+                "id": "quyen_truong_thien_than",
+                "image": "TFT_Item_ArchangelsStaff.png"
+            },
+            {
+                "id": "ngon_giao_shojin",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "truong_hu_vo",
+                "image": "TFT_Item_StatikkShiv.png"
+            }
         ]
     },
     {
@@ -1754,6 +2480,28 @@
                 "id": "lien_kich",
                 "name": "Liên Kích",
                 "image": "Trait_Icon_10_Rapidfire.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "vo_cuc_kiem",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "ngon_giao_shojin",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "cuong_dao_guinsoo",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "cung_xanh",
+                "image": "TFT_Item_LastWhisper.png"
+            },
+            {
+                "id": "chuy_doan_con",
+                "image": "TFT_Item_PowerGauntlet.png"
             }
         ]
     },
@@ -1807,6 +2555,28 @@
                 "name": "Can Trường",
                 "image": "Trait_Icon_9_Bastion.png"
             }
+        ],
+        "items": [
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "ao_choang_gai",
+                "image": "TFT_Item_BrambleVest.png"
+            },
+            {
+                "id": "ao_choang_lua",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "vuot_rong",
+                "image": "TFT_Item_DragonsClaw.png"
+            }
         ]
     },
     {
@@ -1856,6 +2626,28 @@
                 "id": "chuyen_vien",
                 "name": "Chuyên Viên",
                 "image": "Trait_Icon_14_Techie.TFT_Set14.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "quyen_truong_thien_than",
+                "image": "TFT_Item_ArchangelsStaff.png"
+            },
+            {
+                "id": "huyet_kiem",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "an_dau_si",
+                "image": "TFT14_Item_BruiserEmblemItem.png"
+            },
+            {
+                "id": "gang_bao_thach",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "ban_tay_cong_ly",
+                "image": "TFT_Item_UnstableConcoction.png"
             }
         ]
     },
@@ -1908,6 +2700,28 @@
                 "name": "Tiên Phong",
                 "image": "Trait_Icon_12_Vanguard.TFT_Set12.png"
             }
+        ],
+        "items": [
+            {
+                "id": "ao_choang_lua",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "huyet_kiem",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "giap_tam_linh",
+                "image": "TFT_Item_Redemption.png"
+            }
         ]
     },
     {
@@ -1959,6 +2773,28 @@
                 "id": "can_truong",
                 "name": "Can Trường",
                 "image": "Trait_Icon_9_Bastion.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "ao_choang_lua",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "vuot_rong",
+                "image": "TFT_Item_DragonsClaw.png"
+            },
+            {
+                "id": "ao_choang_gai",
+                "image": "TFT_Item_BrambleVest.png"
             }
         ]
     },
@@ -2018,6 +2854,28 @@
                 "name": "Cơ Điện",
                 "image": "Trait_Icon_14_Dynamo.TFT_Set14.png"
             }
+        ],
+        "items": [
+            {
+                "id": "vo_cuc_kiem",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "ngon_giao_shojin",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "cuong_dao_guinsoo",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "cung_xanh",
+                "image": "TFT_Item_LastWhisper.png"
+            },
+            {
+                "id": "may_on_dinh_xung_nhip",
+                "image": "TFT14_JhinCyberneticItem.png"
+            }
         ]
     },
     {
@@ -2075,6 +2933,28 @@
                 "name": "Chuyên Viên",
                 "image": "Trait_Icon_14_Techie.TFT_Set14.png"
             }
+        ],
+        "items": [
+            {
+                "id": "ao_choang_lua",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "khung_gam_tha_hoa",
+                "image": "TFT14_MordekaiserCyberneticItem.png"
+            },
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "giap_vai_nguyet_than",
+                "image": "TFT_Item_SpectralGauntlet.png"
+            }
         ]
     },
     {
@@ -2127,6 +3007,28 @@
                 "name": "Can Trường",
                 "image": "Trait_Icon_9_Bastion.png"
             }
+        ],
+        "items": [
+            {
+                "id": "ao_choang_lua",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "long_den_phan_luc",
+                "image": "TFT14_JaxCyberneticItem.png"
+            },
+            {
+                "id": "vuot_rong",
+                "image": "TFT_Item_DragonsClaw.png"
+            }
         ]
     },
     {
@@ -2178,6 +3080,28 @@
                 "name": "Chuyên Viên",
                 "image": "Trait_Icon_14_Techie.TFT_Set14.png"
             }
+        ],
+        "items": [
+            {
+                "id": "ngon_giao_shojin",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "gang_bao_thach",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "chuy_doan_con",
+                "image": "TFT_Item_PowerGauntlet.png"
+            },
+            {
+                "id": "quyen_truong_thien_than",
+                "image": "TFT_Item_ArchangelsStaff.png"
+            },
+            {
+                "id": "mu_phu_thuy_rabadon",
+                "image": "TFT_Item_RabadonsDeathcap.png"
+            }
         ]
     },
     {
@@ -2228,6 +3152,28 @@
                 "id": "dao_phu",
                 "name": "Đao Phủ",
                 "image": "Trait_Icon_4_Executioner.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "ngon_giao_shojin",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "gang_bao_thach",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "cung_so_3_chieu",
+                "image": "TFT14_VarusCyberneticItem.png"
+            },
+            {
+                "id": "nanh_vuot_phan_khich",
+                "image": "TFT14_NaafiriCyberneticItem.png"
+            },
+            {
+                "id": "quyen_truong_thien_than",
+                "image": "TFT_Item_ArchangelsStaff.png"
             }
         ]
     },
@@ -2282,6 +3228,28 @@
                 "name": "Can Trường",
                 "image": "Trait_Icon_9_Bastion.png"
             }
+        ],
+        "items": [
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "ao_choang_lua",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "vuot_rong",
+                "image": "TFT_Item_DragonsClaw.png"
+            },
+            {
+                "id": "giap_tam_linh",
+                "image": "TFT_Item_Redemption.png"
+            }
         ]
     },
     {
@@ -2332,6 +3300,28 @@
                 "id": "chuyen_vien",
                 "name": "Chuyên Viên",
                 "image": "Trait_Icon_14_Techie.TFT_Set14.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "ngon_giao_shojin",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "truong_hu_vo",
+                "image": "TFT_Item_StatikkShiv.png"
+            },
+            {
+                "id": "gang_bao_thach",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "bua_do",
+                "image": "TFT_Item_RapidFireCannon.png"
+            },
+            {
+                "id": "quyen_truong_thien_than",
+                "image": "TFT_Item_ArchangelsStaff.png"
             }
         ]
     },
@@ -2385,6 +3375,28 @@
                 "name": "Tiên Phong",
                 "image": "Trait_Icon_12_Vanguard.TFT_Set12.png"
             }
+        ],
+        "items": [
+            {
+                "id": "ao_choang_lua",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "giap_tam_linh",
+                "image": "TFT_Item_Redemption.png"
+            },
+            {
+                "id": "vuot_rong",
+                "image": "TFT_Item_DragonsClaw.png"
+            }
         ]
     },
     {
@@ -2435,6 +3447,28 @@
                 "id": "chuyen_vien",
                 "name": "Chuyên Viên",
                 "image": "Trait_Icon_14_Techie.TFT_Set14.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "gang_bao_thach",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "bua_xanh",
+                "image": "TFT_Item_BlueBuff.png"
+            },
+            {
+                "id": "nanh_nashor",
+                "image": "TFT_Item_Leviathan.png"
+            },
+            {
+                "id": "ngon_giao_shojin",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "quyen_truong_thien_than",
+                "image": "TFT_Item_ArchangelsStaff.png"
             }
         ]
     },
@@ -2492,6 +3526,28 @@
                 "name": "Xạ Thủ",
                 "image": "Trait_Icon_14_Marksman.TFT_Set14.png"
             }
+        ],
+        "items": [
+            {
+                "id": "vo_cuc_kiem",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "cuong_dao_guinsoo",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "cung_xanh",
+                "image": "TFT_Item_LastWhisper.png"
+            },
+            {
+                "id": "ngon_giao_shojin",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "chuy_doan_con",
+                "image": "TFT_Item_PowerGauntlet.png"
+            }
         ]
     },
     {
@@ -2545,6 +3601,28 @@
                 "name": "Tiên Phong",
                 "image": "Trait_Icon_12_Vanguard.TFT_Set12.png"
             }
+        ],
+        "items": [
+            {
+                "id": "ao_choang_lua",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "giap_vai_nguyet_than",
+                "image": "TFT_Item_SpectralGauntlet.png"
+            },
+            {
+                "id": "mong_vuot_sterak",
+                "image": "TFT_Item_SteraksGage.png"
+            },
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            }
         ]
     },
     {
@@ -2596,6 +3674,28 @@
                 "name": "Đồ Tể",
                 "image": "Trait_Icon_4_Slayer.png"
             }
+        ],
+        "items": [
+            {
+                "id": "cuong_dao_guinsoo",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "thinh_no_thuy_quai",
+                "image": "TFT_Item_RunaansHurricane.png"
+            },
+            {
+                "id": "vo_cuc_kiem",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "diet_khong_lo",
+                "image": "TFT_Item_MadredsBloodrazor.png"
+            },
+            {
+                "id": "cung_xanh",
+                "image": "TFT_Item_LastWhisper.png"
+            }
         ]
     },
     {
@@ -2646,6 +3746,28 @@
                 "id": "tien_phong",
                 "name": "Tiên Phong",
                 "image": "Trait_Icon_12_Vanguard.TFT_Set12.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "ao_choang_lua",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "ao_choang_gai",
+                "image": "TFT_Item_BrambleVest.png"
+            },
+            {
+                "id": "giap_tam_linh",
+                "image": "TFT_Item_Redemption.png"
             }
         ]
     },
@@ -2703,6 +3825,28 @@
                 "name": "Đồ Tể",
                 "image": "Trait_Icon_4_Slayer.png"
             }
+        ],
+        "items": [
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "ao_choang_gai",
+                "image": "TFT_Item_BrambleVest.png"
+            },
+            {
+                "id": "ao_choang_lua",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "vuot_rong",
+                "image": "TFT_Item_DragonsClaw.png"
+            }
         ]
     },
     {
@@ -2755,6 +3899,28 @@
                 "name": "Đao Phủ",
                 "image": "Trait_Icon_4_Executioner.png"
             }
+        ],
+        "items": [
+            {
+                "id": "huyet_kiem",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "ban_tay_cong_ly",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "quyen_nang_khong_lo",
+                "image": "TFT_Item_TitansResolve.png"
+            },
+            {
+                "id": "ao_choang_bong_toi",
+                "image": "TFT_Item_GuardianAngel.png"
+            },
+            {
+                "id": "vo_cuc_kiem",
+                "image": "TFT_Item_InfinityEdge.png"
+            }
         ]
     },
     {
@@ -2805,6 +3971,28 @@
                 "id": "xa_thu",
                 "name": "Xạ Thủ",
                 "image": "Trait_Icon_14_Marksman.TFT_Set14.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "vo_cuc_kiem",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "cuong_dao_guinsoo",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "ngon_giao_shojin",
+                "image": "TFT_Item_SpearOfShojin.png"
+            },
+            {
+                "id": "cung_xanh",
+                "image": "TFT_Item_LastWhisper.png"
+            },
+            {
+                "id": "diet_khong_lo",
+                "image": "TFT_Item_MadredsBloodrazor.png"
             }
         ]
     },
@@ -2857,6 +4045,28 @@
                 "name": "Liên Kích",
                 "image": "Trait_Icon_10_Rapidfire.png"
             }
+        ],
+        "items": [
+            {
+                "id": "cuong_dao_guinsoo",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "thinh_no_thuy_quai",
+                "image": "TFT_Item_RunaansHurricane.png"
+            },
+            {
+                "id": "vo_cuc_kiem",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "kiem_tu_than",
+                "image": "TFT_Item_Deathblade.png"
+            },
+            {
+                "id": "diet_khong_lo",
+                "image": "TFT_Item_MadredsBloodrazor.png"
+            }
         ]
     },
     {
@@ -2908,6 +4118,28 @@
                 "id": "tien_phong",
                 "name": "Tiên Phong",
                 "image": "Trait_Icon_12_Vanguard.TFT_Set12.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "ao_choang_lua",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "vuot_rong",
+                "image": "TFT_Item_DragonsClaw.png"
+            },
+            {
+                "id": "ao_choang_gai",
+                "image": "TFT_Item_BrambleVest.png"
             }
         ]
     },
@@ -2966,6 +4198,28 @@
                 "name": "Chuyên Viên",
                 "image": "Trait_Icon_14_Techie.TFT_Set14.png"
             }
+        ],
+        "items": [
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "ao_choang_lua",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "vuot_rong",
+                "image": "TFT_Item_DragonsClaw.png"
+            },
+            {
+                "id": "ao_choang_gai",
+                "image": "TFT_Item_BrambleVest.png"
+            }
         ]
     },
     {
@@ -3016,6 +4270,28 @@
                 "id": "lien_kich",
                 "name": "Liên Kích",
                 "image": "Trait_Icon_10_Rapidfire.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "cuong_dao_guinsoo",
+                "image": "TFT_Item_GuinsoosRageblade.png"
+            },
+            {
+                "id": "quyen_truong_thien_than",
+                "image": "TFT_Item_ArchangelsStaff.png"
+            },
+            {
+                "id": "kiem_sung_hextech",
+                "image": "TFT_Item_HextechGunblade.png"
+            },
+            {
+                "id": "gang_bao_thach",
+                "image": "TFT_Item_JeweledGauntlet.png"
+            },
+            {
+                "id": "ngon_giao_shojin",
+                "image": "TFT_Item_SpearOfShojin.png"
             }
         ]
     },
@@ -3069,6 +4345,28 @@
                 "name": "Đấu Sĩ",
                 "image": "Trait_Icon_14_Bruiser.TFT_Set14.png"
             }
+        ],
+        "items": [
+            {
+                "id": "ao_choang_lua",
+                "image": "TFT_Item_RedBuff.png"
+            },
+            {
+                "id": "thu_tuong_thach_giap",
+                "image": "TFT_Item_GargoyleStoneplate.png"
+            },
+            {
+                "id": "giap_mau_warmog",
+                "image": "TFT_Item_WarmogsArmor.png"
+            },
+            {
+                "id": "giap_vai_nguyet_than",
+                "image": "TFT_Item_SpectralGauntlet.png"
+            },
+            {
+                "id": "vuot_rong",
+                "image": "TFT_Item_DragonsClaw.png"
+            }
         ]
     },
     {
@@ -3119,6 +4417,28 @@
                 "id": "do_te",
                 "name": "Đồ Tể",
                 "image": "Trait_Icon_4_Slayer.png"
+            }
+        ],
+        "items": [
+            {
+                "id": "vo_cuc_kiem",
+                "image": "TFT_Item_InfinityEdge.png"
+            },
+            {
+                "id": "ban_tay_cong_ly",
+                "image": "TFT_Item_UnstableConcoction.png"
+            },
+            {
+                "id": "ao_choang_bong_toi",
+                "image": "TFT_Item_GuardianAngel.png"
+            },
+            {
+                "id": "huyet_kiem",
+                "image": "TFT_Item_Bloodthirster.png"
+            },
+            {
+                "id": "cuong_dao_guinsoo",
+                "image": "TFT_Item_GuinsoosRageblade.png"
             }
         ]
     }
