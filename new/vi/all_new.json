@@ -1,0 +1,3308 @@
+{
+  "season": {
+    "season": "TFT 17: THẦN KHÔNG GIAN"
+  },
+  "gods": [
+    {
+      "name": "Ahri",
+      "of": "Thần Thịnh Vượng",
+      "offers": "Cung cấp vàng, XP và lượt đổi lại (reroll).",
+      "image": "Ahri-GodOfOpulence.png",
+      "stages": [
+        {
+          "title": "Giai đoạn 2",
+          "values": [
+            "6 vàng",
+            "8 XP",
+            "5 lượt đổi lại",
+            "6 vàng, có thể thêm 1"
+          ]
+        },
+        {
+          "title": "Giai đoạn 3",
+          "values": [
+            "8 vàng",
+            "7 lượt đổi lại",
+            "10 XP",
+            "8 vàng, có thể thêm 2"
+          ]
+        },
+        {
+          "title": "Giai đoạn 4",
+          "values": [
+            "12 vàng",
+            "8 lượt đổi lại",
+            "12 vàng, có thể thêm 3"
+          ]
+        },
+        {
+          "title": "Phần thưởng 4-7",
+          "values": [
+            "Nhận 2 vàng, 2 XP và 2 lượt đổi lại mỗi vòng"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aurelion Sol",
+      "of": "Thần Kỳ Quan",
+      "offers": "Cung cấp các phần thưởng về kinh tế và ấn tộc hệ.",
+      "image": "AurelionSol-GodOfWonders.png",
+      "stages": [
+        {
+          "title": "Giai đoạn 2",
+          "values": [
+            "Đạt 50 vàng để nhận đe thành phần + 4 vàng",
+            "Kích hoạt 6 tộc hệ không trùng lặp để nhận 1 ấn ngẫu nhiên và 1 bộ tháo đồ"
+          ]
+        },
+        {
+          "title": "Giai đoạn 3",
+          "values": [
+            "Nâng cấp sao cho 1 đơn vị để nhận 10 vàng",
+            "Kích hoạt 6 tộc hệ không trùng lặp để nhận 1 ấn ngẫu nhiên và 1 bộ tháo đồ"
+          ]
+        },
+        {
+          "title": "Giai đoạn 4",
+          "values": [
+            "Đạt cấp 9 để nhận 20 vàng"
+          ]
+        },
+        {
+          "title": "Phần thưởng 4-7",
+          "values": [
+            "Chọn một trong ba thử thách để chứng tỏ bản thân với Aurelion Sol"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ekko",
+      "of": "Thần Thời Gian",
+      "offers": "Cung cấp phần thưởng trì hoãn và các chiến lợi phẩm đặc biệt.",
+      "image": "Ekko-GodOfTime.png",
+      "stages": [
+        {
+          "title": "Giai đoạn 2",
+          "values": [
+            "Đầm Cua Chạy (+1 viên xanh & 3 vàng)",
+            "Lời chúc ở mức 30 HP (trị giá 25 vàng)",
+            "Xẻng Vàng sau 4 vòng",
+            "Trang bị Tạo Tác sau 8 vòng",
+            "Tướng 4 vàng sau 3 vòng"
+          ]
+        },
+        {
+          "title": "Giai đoạn 3",
+          "values": [
+            "Đầm Cua Chạy (+1 viên xanh & 4 vàng)",
+            "Cấy ghép (20% tốc độ đánh)",
+            "2 tướng 5 vàng sau 4 vòng",
+            "Đe thành phần sau 3 vòng"
+          ]
+        },
+        {
+          "title": "Giai đoạn 4",
+          "values": [
+            "Trang bị Tạo Tác sau 5 vòng",
+            "Đe trang bị hoàn chỉnh sau 4 vòng",
+            "Nhận 2 vàng mỗi lượt",
+            "Cửa hàng toàn tướng 5 vàng sau 3 vòng",
+            "Cấy ghép (20% tốc độ đánh)"
+          ]
+        },
+        {
+          "title": "Phần thưởng 4-7",
+          "values": [
+            "Nhận trang bị Dị Thường, cung cấp các chỉ số độc nhất dựa trên vai trò"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Evelynn",
+      "of": "Thần Cám Dỗ",
+      "offers": "Cung cấp phần thưởng mạnh mẽ hơn để đổi lấy máu Linh Thú.",
+      "image": "Evelynn-GodOfTemptation.png",
+      "stages": [
+        {
+          "title": "Giai đoạn 2",
+          "values": [
+            "8 vàng, mất 1 HP mỗi vòng",
+            "1 tướng 2 sao giá 2 vàng, mất 1 HP",
+            "2 Máy nhân bản cỡ nhỏ, không có cửa hàng trong 2 vòng"
+          ]
+        },
+        {
+          "title": "Giai đoạn 3",
+          "values": [
+            "11 vàng, mất 1 HP mỗi vòng",
+            "Ấn ngẫu nhiên, mất 3 HP",
+            "15 vàng, không có cửa hàng trong 2 vòng",
+            "1 tướng 2 sao giá 3 vàng, mất 2 HP",
+            "1 tướng 3 sao giá 1 vàng, mất 2 HP"
+          ]
+        },
+        {
+          "title": "Giai đoạn 4",
+          "values": [
+            "14 vàng, mất 1 HP mỗi vòng",
+            "1 tướng 2 sao giá 4 vàng, mất 3 HP",
+            "Trang bị hoàn chỉnh, mất 5 HP",
+            "18 vàng, không có cửa hàng trong 2 vòng"
+          ]
+        },
+        {
+          "title": "Phần thưởng 4-7",
+          "values": [
+            "Đội hình nhận 10% Giảm sát thương. Mất thêm 1 máu khi thua giao tranh"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kayle",
+      "of": "Thần Trật Tự",
+      "offers": "Cung cấp các phần thưởng là mảnh trang bị thành phần.",
+      "image": "Kayle-GodOfOrder.png",
+      "stages": [
+        {
+          "title": "Giai đoạn 2",
+          "values": [
+            "Thành phần ngẫu nhiên",
+            "Găng Đấu Tập",
+            "Cung Gỗ",
+            "Nước Mắt Nữ Thần"
+          ]
+        },
+        {
+          "title": "Giai đoạn 3",
+          "values": [
+            "Thành phần ngẫu nhiên",
+            "Kiếm BF",
+            "Giáp Lưới",
+            "Gậy Quá Khổ",
+            "Áo Choàng Bạc"
+          ]
+        },
+        {
+          "title": "Giai đoạn 4",
+          "values": [
+            "Thành phần ngẫu nhiên",
+            "Găng Đấu Tập",
+            "Cung Gỗ",
+            "Nước Mắt Nữ Thần",
+            "Kiếm BF",
+            "Giáp Lưới",
+            "Gậy Quá Khổ",
+            "Áo Choàng Bạc"
+          ]
+        },
+        {
+          "title": "Phần thưởng 4-7",
+          "values": [
+            "Nâng cấp một trang bị hoàn chỉnh ngẫu nhiên thành trang bị Ánh Sáng"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soraka",
+      "of": "Thần Tinh Tú",
+      "offers": "Cung cấp máu và các phần thưởng dựa trên máu.",
+      "image": "Soraka-GodOfStars.png",
+      "stages": [
+        {
+          "title": "Giai đoạn 2",
+          "values": [
+            "8 HP, có thể thêm 3 vàng",
+            "12 HP",
+            "Đai Khổng Lồ"
+          ]
+        },
+        {
+          "title": "Giai đoạn 3",
+          "values": [
+            "8 HP, có thể thêm 5 vàng",
+            "12 HP",
+            "Đai Khổng Lồ",
+            "Cấy ghép (350 HP)"
+          ]
+        },
+        {
+          "title": "Giai đoạn 4",
+          "values": [
+            "8 HP, có thể thêm 5 vàng",
+            "12 HP",
+            "Đai Khổng Lồ",
+            "Cấy ghép (350 HP)"
+          ]
+        },
+        {
+          "title": "Phần thưởng 4-7",
+          "values": [
+            "Đội hình nhận 2 HP cho mỗi máu Linh Thú đã mất. +1 máu hiện tại và tối đa mỗi vòng"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Thresh",
+      "of": "Thần Khế Ước",
+      "offers": "Cung cấp vật phẩm ngẫu nhiên và vàng.",
+      "image": "Thresh-GodOfPacts.png",
+      "stages": [
+        {
+          "title": "Giai đoạn 2",
+          "values": [
+            "Ngẫu nhiên + 2 vàng",
+            "Vật phẩm ngẫu nhiên (Giá trị kỳ vọng 7)"
+          ]
+        },
+        {
+          "title": "Giai đoạn 3",
+          "values": [
+            "Ngẫu nhiên + 3 vàng",
+            "Vật phẩm ngẫu nhiên (Giá trị kỳ vọng 9)"
+          ]
+        },
+        {
+          "title": "Giai đoạn 4",
+          "values": [
+            "Ngẫu nhiên + 5 vàng",
+            "Vật phẩm ngẫu nhiên (Giá trị kỳ vọng 10)"
+          ]
+        },
+        {
+          "title": "Phần thưởng 4-7",
+          "values": [
+            "Sau mỗi vòng đấu người chơi, tung một con xúc xắc. Nhận phần thưởng dựa trên kết quả"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Varus",
+      "of": "Thần Tình Yêu",
+      "offers": "Cung cấp tướng, máy nhân bản và các phần thưởng liên quan đến cửa hàng.",
+      "image": "Varus-GodOfLove.png",
+      "stages": [
+        {
+          "title": "Giai đoạn 2",
+          "values": [
+            "Tướng 2 & 3 vàng",
+            "Tướng 3 vàng đang sở hữu",
+            "2 Máy nhân bản cỡ nhỏ",
+            "Cửa hàng tướng 3 vàng"
+          ]
+        },
+        {
+          "title": "Giai đoạn 3",
+          "values": [
+            "Tướng 3 & 4 vàng",
+            "Máy nhân bản cỡ trung",
+            "Tướng 3 vàng đang sở hữu",
+            "Cửa hàng tướng 4 vàng"
+          ]
+        },
+        {
+          "title": "Giai đoạn 4",
+          "values": [
+            "Tướng 4 & 5 vàng",
+            "Máy nhân bản cỡ trung + 3 vàng",
+            "1 Máy nhân bản cỡ trung + 5 Máy nhân bản cỡ nhỏ",
+            "Tướng 4 vàng đang sở hữu",
+            "Tăng 1% tỷ lệ ra tướng 5 vàng"
+          ]
+        },
+        {
+          "title": "Phần thưởng 4-7",
+          "values": [
+            "Đội hình nhận 10 máu cho mỗi cấp sao tổng cộng trong quân đội. Tăng tỷ lệ tướng 5 vàng thêm 4%"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yasuo",
+      "of": "Thần Vực Thẳm",
+      "offers": "Cung cấp các hiệu ứng ô nguyên tố được tăng cường.",
+      "image": "Yasuo-GodOfTheAbyss.png",
+      "stages": [
+        {
+          "title": "Giai đoạn 2",
+          "values": [
+            "Ô Lửa (18% ST, đốt/vết thương sâu)",
+            "Ô Gỗ (10% + 30 HP)",
+            "Ô Gió (30% tốc độ đánh)",
+            "Ô Băng (15% hồi phục)",
+            "Ô Điện (Làm choáng 2 giây)",
+            "Ô Thần Tượng (2 năng lượng hồi phục)"
+          ]
+        },
+        {
+          "title": "Giai đoạn 3",
+          "values": [
+            "Ô Lửa (18% ST, đốt/vết thương sâu)",
+            "Ô Gió (30% tốc độ đánh)",
+            "Ô Băng (15% hồi phục)",
+            "Ô Điện (Làm choáng 2 giây)",
+            "Ô Thần Tượng (2 năng lượng hồi phục)"
+          ]
+        },
+        {
+          "title": "Giai đoạn 4",
+          "values": [
+            "Ô Lửa (18% ST, đốt/vết thương sâu)",
+            "Ô Gió (30% tốc độ đánh)",
+            "Ô Băng (15% hồi phục)",
+            "Ô Điện (Làm choáng 2 giây)",
+            "Ô Thần Tượng (2 năng lượng hồi phục)"
+          ]
+        },
+        {
+          "title": "Phần thưởng 4-7",
+          "values": [
+            "Tăng sức mạnh các ô của Yasuo thêm 50%. Nếu bạn chỉ có 2 ô, nhận thêm 12 vàng."
+          ]
+        }
+      ]
+    }
+  ],
+  "synergys": [
+    {
+      "section": "origin-synergy",
+      "name": "Dark Star",
+      "icon": "DarkStar.png",
+      "champions": [
+        {
+          "name": "Cho'Gath",
+          "image": "ChoGath.png"
+        },
+        {
+          "name": "Lissandra",
+          "image": "Lissandra.png"
+        },
+        {
+          "name": "Mordekaiser",
+          "image": "Mordekaiser.png"
+        },
+        {
+          "name": "Kai'Sa",
+          "image": "KaiSa.png"
+        },
+        {
+          "name": "Karma",
+          "image": "Karma.png"
+        },
+        {
+          "name": "Jhin",
+          "image": "Jhin.png"
+        }
+      ],
+      "description": "Hắc Tinh",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "Các đơn vị Hắc Tinh tạo ra một hố đen nuốt chửng kẻ địch khi chúng dưới 10% máu tối đa."
+        },
+        {
+          "count": "(4)",
+          "text": "VÀ chúng nhận thêm 30% SMCK & SMPT."
+        },
+        {
+          "count": "(6)",
+          "text": "VÀ đơn vị Hắc Tinh mạnh nhất trở nên siêu khổng lồ, nhận 100% hiệu quả từ tộc Hắc Tinh và tạo ra 2 hố đen nhỏ."
+        },
+        {
+          "count": "(9)",
+          "text": "Tất cả đơn vị Hắc Tinh đều trở nên siêu khổng lồ. Ở cấp 10, NUỐT CHỬNG TẤT CẢ."
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "Meeple",
+      "icon": "Meeple.png",
+      "champions": [
+        {
+          "name": "Poppy",
+          "image": "Poppy.png"
+        },
+        {
+          "name": "Veigar",
+          "image": "Veigar.png"
+        },
+        {
+          "name": "Gnar",
+          "image": "Gnar.png"
+        },
+        {
+          "name": "Meepsie",
+          "image": "Meepsie.png"
+        },
+        {
+          "name": "Fizz",
+          "image": "Fizz.png"
+        },
+        {
+          "name": "Corki",
+          "image": "Corki.png"
+        },
+        {
+          "name": "Rammus",
+          "image": "Rammus.png"
+        },
+        {
+          "name": "Bard",
+          "image": "Bard.png"
+        }
+      ],
+      "description": "Các Phi Hành Gia thu hút Meep giúp cường hóa kỹ năng của họ theo những cách kỳ quặc. Họ cũng nhận thêm Máu.",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "2%, 125 Máu"
+        },
+        {
+          "count": "(5)",
+          "text": "3%, 250 Máu"
+        },
+        {
+          "count": "(7)",
+          "text": "4%, 400 Máu. Tạo một ô Nhân Bản trên hàng chờ. Nhận vàng và một bản sao 1 sao của tướng đặt ở đó khi quá trình nhân bản hoàn tất."
+        },
+        {
+          "count": "(10)",
+          "text": "6%, 1000 Máu. TRIỆU HỒI TỨ ĐẠI MEEPLORD! Thời gian nhân bản = Giá tiền của tướng."
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "N.O.V.A.",
+      "icon": "NOVA.png",
+      "champions": [
+        {
+          "name": "Aatrox",
+          "image": "Aatrox.png"
+        },
+        {
+          "name": "Caitlyn",
+          "image": "Caitlyn.png"
+        },
+        {
+          "name": "Akali",
+          "image": "Akali.png"
+        },
+        {
+          "name": "Maokai",
+          "image": "Maokai.png"
+        },
+        {
+          "name": "Kindred",
+          "image": "Kindred.png"
+        }
+      ],
+      "description": "N.O.V.A",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "Sau 6 giây giao tranh, N.O.V.A. ban một luồng sức mạnh cho đồng minh dựa trên các tướng."
+        },
+        {
+          "count": "(5)",
+          "text": "Nhận một bộ chọn Đột Kích. Tướng N.O.V.A. được chọn sẽ kích hoạt Đột Kích trong luồng sức mạnh. Aatrox: Sát thương đồng minh giảm 30% Giáp và Kháng phép kẻ địch / Caitlyn: Ban cho đồng minh 20% Tốc độ Đánh / Akali: Đồng minh nhận Chuẩn Xác / Maokai: Đồng minh hồi 15% Máu tối đa / Kindred: Tạo lá chắn 800 cho Chống Chịu mạnh nhất / Ấn: Đồng minh gây thêm 10% sát thương chuẩn cộng dồn."
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "Primordian",
+      "icon": "Primordian.png",
+      "champions": [
+        {
+          "name": "Briar",
+          "image": "Briar.png"
+        },
+        {
+          "name": "Rek'Sai",
+          "image": "RekSai.png"
+        },
+        {
+          "name": "Bel'Veth",
+          "image": "BelVeth.png"
+        }
+      ],
+      "description": "Nguyên Thủy",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "Gây sát thương sẽ triệu hồi Bọ Hung dựa trên cấp sao của tướng Nguyên Thủy."
+        },
+        {
+          "count": "(3)",
+          "text": "Triệu hồi nhiều Bọ Hung hơn nữa! Mỗi vòng, nhận một tướng 1 hoặc 2 vàng ngẫu nhiên. 8% sát thương nhận vào sẽ chuyển hóa thành sát thương gây ra."
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "Psionic",
+      "icon": "Psionic.png",
+      "champions": [
+        {
+          "name": "Gragas",
+          "image": "Gragas.png"
+        },
+        {
+          "name": "Pyke",
+          "image": "Pyke.png"
+        },
+        {
+          "name": "Viktor",
+          "image": "Viktor.png"
+        },
+        {
+          "name": "Master Yi",
+          "image": "MasterYi.png"
+        },
+        {
+          "name": "Sona",
+          "image": "Sona.png"
+        }
+      ],
+      "description": "Nhận các vật phẩm Tâm Linh có thể trang bị cho bất kỳ đồng minh nào.",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "Nhận vật phẩm Tâm Linh 1"
+        },
+        {
+          "count": "(4)",
+          "text": "Nhận vật phẩm Tâm Linh 2, các vật phẩm Tâm Linh nhận thêm hiệu ứng trên các đơn vị Tâm Linh."
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "Space Groove",
+      "icon": "SpaceGroove.png",
+      "champions": [
+        {
+          "name": "Nasus",
+          "image": "Nasus.png"
+        },
+        {
+          "name": "Teemo",
+          "image": "Teemo.png"
+        },
+        {
+          "name": "Gwen",
+          "image": "Gwen.png"
+        },
+        {
+          "name": "Ornn",
+          "image": "Ornn.png"
+        },
+        {
+          "name": "Samira",
+          "image": "Samira.png"
+        },
+        {
+          "name": "Nami",
+          "image": "Nami.png"
+        },
+        {
+          "name": "Blitzcrank",
+          "image": "Blitzcrank.png"
+        }
+      ],
+      "description": "Nhịp Điệu Không Gian",
+      "effects": [
+        {
+          "count": "(1)",
+          "text": "Các cư dân Nhịp Điệu có thể tiến vào trạng thái 'Phiêu'. Khi đó, họ nhận Tốc độ Đánh và hồi Phục Máu tối đa, tăng theo số lượng cư dân Nhịp Điệu trong đội."
+        },
+        {
+          "count": "(3)",
+          "text": "Tất cả cư dân Nhịp Điệu bắt đầu giao tranh trong trạng thái 'Phiêu' trong 3 giây."
+        },
+        {
+          "count": "(5)",
+          "text": "Mỗi giây ở trạng thái 'Phiêu' nhận thêm 3% SMCK và SMPT cộng dồn."
+        },
+        {
+          "count": "(7)",
+          "text": "Tăng các hiệu ứng này thêm 20%!"
+        },
+        {
+          "count": "(10)",
+          "text": "Cực Phiêu"
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "Timebreaker",
+      "icon": "Timebreaker.png",
+      "champions": [
+        {
+          "name": "Ezreal",
+          "image": "Ezreal.png"
+        },
+        {
+          "name": "Milio",
+          "image": "Milio.png"
+        },
+        {
+          "name": "Pantheon",
+          "image": "Pantheon.png"
+        },
+        {
+          "name": "Riven",
+          "image": "Riven.png"
+        }
+      ],
+      "description": "Phá Thời Gian",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "Khi thua, nhận các lượt đổi lại miễn phí. Khi thắng, tích trữ XP vào Lõi Thời Gian (tỉ lệ theo giai đoạn)."
+        },
+        {
+          "count": "(3)",
+          "text": "VÀ đồng minh nhận 15% Tốc độ Đánh."
+        },
+        {
+          "count": "(4)",
+          "text": "VÀ các tướng Phá Thời Gian nhận thêm 50% Tốc độ Đánh."
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Commander (Sona)",
+      "icon": "Commander.png",
+      "champions": [
+        {
+          "name": "Sona",
+          "image": "Sona.png"
+        }
+      ],
+      "description": "Sona cho bạn một Mod Chỉ Huy ngẫu nhiên mỗi 2 vòng, cho phép bạn thay đổi cách một đồng minh hành động trong giao tranh. Mod Chỉ Huy tồn tại trong 2 vòng đấu với người chơi kể cả khi không được trang bị.",
+      "effects": []
+    },
+    {
+      "section": "class-synergy",
+      "name": "Galaxy Hunter (Zed)",
+      "icon": "GalaxyHunter.png",
+      "champions": [
+        {
+          "name": "Zed",
+          "image": "Zed.png"
+        }
+      ],
+      "description": "Zed có được từ lõi nâng cấp Invader Zed. Khi còn ít nhất một phân thân còn sống, Zed nhận thêm 40% SMCK.",
+      "effects": []
+    },
+    {
+      "section": "class-synergy",
+      "name": "Oracle (Tahm Kench)",
+      "icon": "OracleTahmKench.svg",
+      "champions": [
+        {
+          "name": "Tahm Kench",
+          "image": "TahmKench.png"
+        }
+      ],
+      "description": "Mỗi 3 vòng, Tahm Kench sẽ ban một phần thưởng!",
+      "effects": []
+    },
+    {
+      "section": "class-synergy",
+      "name": "Anima",
+      "icon": "Anima.png",
+      "champions": [
+        {
+          "name": "Briar",
+          "image": "Briar.png"
+        },
+        {
+          "name": "Jinx",
+          "image": "Jinx.png"
+        },
+        {
+          "name": "Aurora",
+          "image": "Aurora.png"
+        },
+        {
+          "name": "Illaoi",
+          "image": "Illaoi.png"
+        },
+        {
+          "name": "Fiora",
+          "image": "Fiora.png"
+        }
+      ],
+      "description": "Sau khi thua một vòng đấu người chơi, nhận 15 Công Nghệ, cộng thêm 5 lần số lượng chuỗi thua. Ngoài ra, nhận 2 Công Nghệ mỗi khi tướng Anima tham gia hạ gục. Mỗi khi đạt 100 Công Nghệ, họ sẽ chế tạo Vũ Khí Anima mới. Bạn có thể lấy chúng hoặc tích lũy Công Nghệ để lấy vũ khí mạnh hơn sau này.",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "Bắt đầu Nghiên cứu!"
+        },
+        {
+          "count": "(6)",
+          "text": "Nhận một Hộp báu vật khi thắng."
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Arbiter",
+      "icon": "Arbiter.png",
+      "champions": [
+        {
+          "name": "Leona",
+          "image": "Leona.png"
+        },
+        {
+          "name": "Zoe",
+          "image": "Zoe.png"
+        },
+        {
+          "name": "Diana",
+          "image": "Diana.png"
+        },
+        {
+          "name": "LeBlanc",
+          "image": "LeBlanc.png"
+        }
+      ],
+      "description": "Soạn thảo một luật thánh duy nhất, cho phép bạn chọn một hiệu ứng để áp dụng cho các tướng Chấp Pháp khi một điều kiện nhất định xảy ra.",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "Chọn một nguyên nhân và hiệu ứng cho luật của bạn."
+        },
+        {
+          "count": "(3)",
+          "text": "Các hiệu ứng sẽ mạnh hơn."
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Bastion",
+      "icon": "Bastion.png",
+      "champions": [
+        {
+          "name": "Aatrox",
+          "image": "Aatrox.png"
+        },
+        {
+          "name": "Poppy",
+          "image": "Poppy.png"
+        },
+        {
+          "name": "Jax",
+          "image": "Jax.png"
+        },
+        {
+          "name": "Ornn",
+          "image": "Ornn.png"
+        },
+        {
+          "name": "Rammus",
+          "image": "Rammus.png"
+        },
+        {
+          "name": "Shen",
+          "image": "Shen.png"
+        }
+      ],
+      "description": "Đội của bạn nhận thêm 12 Giáp và Kháng Phép. Các tướng Can Trường nhận nhiều hơn, và giá trị này tăng gấp đôi trong 10 giây đầu của giao tranh.",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "16 Giáp & Kháng Phép"
+        },
+        {
+          "count": "(4)",
+          "text": "35 Giáp & Kháng Phép"
+        },
+        {
+          "count": "(6)",
+          "text": "55 Giáp & Kháng Phép; Các tướng không phải Can Trường nhận thêm 20 Giáp & Kháng Phép."
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Brawler",
+      "icon": "Brawler.png",
+      "champions": [
+        {
+          "name": "Cho'Gath",
+          "image": "ChoGath.png"
+        },
+        {
+          "name": "Rek'Sai",
+          "image": "RekSai.png"
+        },
+        {
+          "name": "Gragas",
+          "image": "Gragas.png"
+        },
+        {
+          "name": "Pantheon",
+          "image": "Pantheon.png"
+        },
+        {
+          "name": "Maokai",
+          "image": "Maokai.png"
+        },
+        {
+          "name": "Urgot",
+          "image": "Urgot.png"
+        },
+        {
+          "name": "Tahm Kench",
+          "image": "TahmKench.png"
+        }
+      ],
+      "description": "Đội của bạn nhận thêm 7% Máu. Các tướng Đấu Sĩ nhận được nhiều hơn.",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "+25% Máu tối đa"
+        },
+        {
+          "count": "(4)",
+          "text": "+45% Máu tối đa"
+        },
+        {
+          "count": "(6)",
+          "text": "+65% Máu tối đa"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Challenger",
+      "icon": "Challenger.png",
+      "champions": [
+        {
+          "name": "Bel'Veth",
+          "image": "BelVeth.png"
+        },
+        {
+          "name": "Jinx",
+          "image": "Jinx.png"
+        },
+        {
+          "name": "Diana",
+          "image": "Diana.png"
+        },
+        {
+          "name": "Miss Fortune",
+          "image": "MissFortune.png"
+        },
+        {
+          "name": "Kindred",
+          "image": "Kindred.png"
+        }
+      ],
+      "description": "Đội của bạn nhận 10% Tốc độ Đánh. Các tướng Thách Đấu nhận thêm Tốc độ Đánh. Khi mục tiêu chết, tướng Thách Đấu lướt tới mục tiêu mới và tăng thêm 50% Tốc độ Đánh trong 2.50 giây.",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "15% Tốc độ Đánh"
+        },
+        {
+          "count": "(3)",
+          "text": "22% Tốc độ Đánh"
+        },
+        {
+          "count": "(4)",
+          "text": "30% Tốc độ Đánh"
+        },
+        {
+          "count": "(5)",
+          "text": "40% Tốc độ Đánh"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Channeler",
+      "icon": "Channeler.png",
+      "champions": [
+        {
+          "name": "Mordekaiser",
+          "image": "Mordekaiser.png"
+        },
+        {
+          "name": "Zoe",
+          "image": "Zoe.png"
+        },
+        {
+          "name": "Miss Fortune",
+          "image": "MissFortune.png"
+        },
+        {
+          "name": "Viktor",
+          "image": "Viktor.png"
+        },
+        {
+          "name": "Aurelion Sol",
+          "image": "AurelionSol.png"
+        },
+        {
+          "name": "Bard",
+          "image": "Bard.png"
+        }
+      ],
+      "description": "Nội tại: Các tướng Thuật Sĩ nhận thêm 20% Năng lượng từ mọi nguồn. Đội của bạn nhận Hồi Năng lượng, tăng thêm đối với các Thuật Sĩ.",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "1% Hồi Năng lượng | 3% Hồi Năng lượng"
+        },
+        {
+          "count": "(3)",
+          "text": "1% Hồi Năng lượng | 4% Hồi Năng lượng"
+        },
+        {
+          "count": "(4)",
+          "text": "2% Hồi Năng lượng | 6% Hồi Năng lượng"
+        },
+        {
+          "count": "(5)",
+          "text": "2% Hồi Năng lượng | 7% Hồi Năng lượng"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Fateweaver",
+      "icon": "Fateweaver.png",
+      "champions": [
+        {
+          "name": "Caitlyn",
+          "image": "Caitlyn.png"
+        },
+        {
+          "name": "Twisted Fate",
+          "image": "TwistedFate.png"
+        },
+        {
+          "name": "Milio",
+          "image": "Milio.png"
+        },
+        {
+          "name": "Corki",
+          "image": "Corki.png"
+        }
+      ],
+      "description": "Nội tại: Các tướng Fateweaver có khả năng Chuẩn Xác.",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "Các hiệu ứng may rủi trong kỹ năng sẽ trở nên May Mắn."
+        },
+        {
+          "count": "(4)",
+          "text": "Nhận 20% Tỷ lệ Chí mạng và 10% Sát thương Chí mạng. Các đòn chí mạng cũng sẽ là May Mắn."
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Marauder",
+      "icon": "Marauder.png",
+      "champions": [
+        {
+          "name": "Akali",
+          "image": "Akali.png"
+        },
+        {
+          "name": "Bel'Veth",
+          "image": "BelVeth.png"
+        },
+        {
+          "name": "Urgot",
+          "image": "Urgot.png"
+        },
+        {
+          "name": "Master Yi",
+          "image": "MasterYi.png"
+        },
+        {
+          "name": "Fiora",
+          "image": "Fiora.png"
+        }
+      ],
+      "description": "Đội của bạn nhận 5% Toàn phần Hút máu. Các tướng Cướp Bóc nhận thêm Toàn phần Hút máu, SMCK và lượng máu hồi dư từ hút máu sẽ chuyển thành Lá chắn (tối đa 25% Máu tối đa).",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "5% Toàn phần Hút máu, 20% SMCK"
+        },
+        {
+          "count": "(4)",
+          "text": "7% Toàn phần Hút máu, 30% SMCK"
+        },
+        {
+          "count": "(6)",
+          "text": "10% Toàn phần Hút máu, 40% SMCK."
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Mecha",
+      "icon": "Mecha.png",
+      "champions": [
+        {
+          "name": "Urgot",
+          "image": "Urgot.png"
+        },
+        {
+          "name": "Aurelion Sol",
+          "image": "AurelionSol.png"
+        },
+        {
+          "name": "The Mighty Mech",
+          "image": "TheMightyMech.png"
+        }
+      ],
+      "description": "Nội tại: Các đơn vị Mecha có thể biến hình sang dạng Tối Thượng, nâng cấp kỹ năng và nhận 60% Máu. Mecha đã biến hình chiếm 2 vị trí trong đội và được tính là 2 đơn vị cho tộc Mecha.",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "Pin Năng Lượng: Mecha nhận 20% SMCK & SMPT."
+        },
+        {
+          "count": "(4)",
+          "text": "Pin Quá Tải: Tăng lên 35% SMCK & SMPT."
+        },
+        {
+          "count": "(6)",
+          "text": "Kỹ Nghệ Chuẩn Xác: +1 giới hạn đội hình tối đa."
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Replicator",
+      "icon": "Replicator.png",
+      "champions": [
+        {
+          "name": "Lissandra",
+          "image": "Lissandra.png"
+        },
+        {
+          "name": "Veigar",
+          "image": "Veigar.png"
+        },
+        {
+          "name": "Pantheon",
+          "image": "Pantheon.png"
+        },
+        {
+          "name": "Lulu",
+          "image": "Lulu.png"
+        },
+        {
+          "name": "Miss Fortune",
+          "image": "MissFortune.png"
+        },
+        {
+          "name": "Nami",
+          "image": "Nami.png"
+        }
+      ],
+      "description": "Các kỹ năng của tướng Tái Bản sẽ xảy ra lần thứ hai với hiệu quả giảm bớt.",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "25% sức mạnh"
+        },
+        {
+          "count": "(4)",
+          "text": "50% sức mạnh"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Rogue",
+      "icon": "Rogue.png",
+      "champions": [
+        {
+          "name": "Briar",
+          "image": "Briar.png"
+        },
+        {
+          "name": "Talon",
+          "image": "Talon.png"
+        },
+        {
+          "name": "Gwen",
+          "image": "Gwen.png"
+        },
+        {
+          "name": "Fizz",
+          "image": "Fizz.png"
+        },
+        {
+          "name": "Kai'Sa",
+          "image": "KaiSa.png"
+        },
+        {
+          "name": "Riven",
+          "image": "Riven.png"
+        }
+      ],
+      "description": "Các tướng Sát Thủ nhận SMCK và SMPT. Lần đầu tiên tụt xuống dưới 50% máu, họ ẩn mình vào bóng tối. Kẻ địch đang nhắm vào họ sẽ bị chuyển hướng sang mục tiêu khác gần đó, ưu tiên các tướng Chống Chịu.",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "15% SMCK SMPT"
+        },
+        {
+          "count": "(3)",
+          "text": "30% SMCK SMPT"
+        },
+        {
+          "count": "(4)",
+          "text": "45% SMCK SMPT"
+        },
+        {
+          "count": "(5)",
+          "text": "60% SMCK SMPT"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Shepherd",
+      "icon": "Shepherd.png",
+      "champions": [
+        {
+          "name": "Lissandra",
+          "image": "Lissandra.png"
+        },
+        {
+          "name": "Teemo",
+          "image": "Teemo.png"
+        },
+        {
+          "name": "Meepsie",
+          "image": "Meepsie.png"
+        },
+        {
+          "name": "Illaoi",
+          "image": "Illaoi.png"
+        },
+        {
+          "name": "LeBlanc",
+          "image": "LeBlanc.png"
+        },
+        {
+          "name": "Sona",
+          "image": "Sona.png"
+        }
+      ],
+      "description": "Người Chăn Dắt triệu hồi Liên Kết Tinh Tú để hỗ trợ trong trận chiến.",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "Triệu hồi Bia"
+        },
+        {
+          "count": "(5)",
+          "text": "Triệu hồi Bayin"
+        },
+        {
+          "count": "(7)",
+          "text": "Mối liên kết giữa Bia và Bayin sâu đậm hơn. Sức mạnh của Bia và Bayin được tăng theo tổng cấp sao của các tướng Người Chăn Dắt."
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Sniper",
+      "icon": "Sniper.png",
+      "champions": [
+        {
+          "name": "Ezreal",
+          "image": "Ezreal.png"
+        },
+        {
+          "name": "Gnar",
+          "image": "Gnar.png"
+        },
+        {
+          "name": "Samira",
+          "image": "Samira.png"
+        },
+        {
+          "name": "Xayah",
+          "image": "Xayah.png"
+        },
+        {
+          "name": "Jhin",
+          "image": "Jhin.png"
+        }
+      ],
+      "description": "Xạ Thủ được tăng Sát thương, tăng thêm dựa trên khoảng cách tới mục tiêu.",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "18% Tăng Sát thương; +2% mỗi ô"
+        },
+        {
+          "count": "(3)",
+          "text": "24% Tăng Sát thương; +3% mỗi ô"
+        },
+        {
+          "count": "(4)",
+          "text": "28% Tăng Sát thương; +4% mỗi ô"
+        },
+        {
+          "count": "(5)",
+          "text": "32% Tăng Sát thương; +5% mỗi ô"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Stargazer (The Altar)",
+      "icon": "Stargazer.png",
+      "champions": [
+        {
+          "name": "Talon",
+          "image": "Talon.png"
+        },
+        {
+          "name": "Twisted Fate",
+          "image": "TwistedFate.png"
+        },
+        {
+          "name": "Jax",
+          "image": "Jax.png"
+        },
+        {
+          "name": "Lulu",
+          "image": "Lulu.png"
+        },
+        {
+          "name": "Nunu",
+          "image": "Nunu.png"
+        },
+        {
+          "name": "Xayah",
+          "image": "Xayah.png"
+        }
+      ],
+      "description": "Các Chiêm Tinh Gia lập biểu đồ các chòm sao khác nhau mỗi trận. Trận này: Tế Đàn.",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "Khi BẤT KỲ đơn vị nào chết, họ bị hiến tế cho tế đàn. Đồng minh ở ô được cường hóa nhận 10% máu và 15% tốc độ đánh. Sau 60 lần hiến tế, Chiêm Tinh Gia ở ô cường hóa nhận thêm 25% máu và 40% tốc độ đánh. Nhiều ô hơn sẽ lộ ra ở mỗi cấp độ người chơi."
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Stargazer (The Boar)",
+      "icon": "Stargazer.png",
+      "champions": [
+        {
+          "name": "Talon",
+          "image": "Talon.png"
+        },
+        {
+          "name": "Twisted Fate",
+          "image": "TwistedFate.png"
+        },
+        {
+          "name": "Jax",
+          "image": "Jax.png"
+        },
+        {
+          "name": "Lulu",
+          "image": "Lulu.png"
+        },
+        {
+          "name": "Nunu",
+          "image": "Nunu.png"
+        },
+        {
+          "name": "Xayah",
+          "image": "Xayah.png"
+        }
+      ],
+      "description": "Các Chiêm Tinh Gia lập biểu đồ các chòm sao khác nhau mỗi trận. Trận này: Heo Rừng. Nhận vàng khi thắng. Đồng minh ở ô cường hóa nhận 8% máu, SMCK và SMPT. Chiêm Tinh Gia nhận nhiều hơn.",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "1 vàng, 10% máu, 18% SMCK và SMPT"
+        },
+        {
+          "count": "(4)",
+          "text": "2 vàng, 15% máu, 25% SMCK và SMPT"
+        },
+        {
+          "count": "(5)",
+          "text": "3 vàng, 20% máu, 33% SMCK và SMPT"
+        },
+        {
+          "count": "(6)",
+          "text": "5 vàng, 25% máu, 40% SMCK và SMPT. Nhiều ô hơn sẽ lộ ra ở mỗi cấp độ người chơi."
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Stargazer (The Fountain)",
+      "icon": "Stargazer.png",
+      "champions": [
+        {
+          "name": "Talon",
+          "image": "Talon.png"
+        },
+        {
+          "name": "Twisted Fate",
+          "image": "TwistedFate.png"
+        },
+        {
+          "name": "Jax",
+          "image": "Jax.png"
+        },
+        {
+          "name": "Lulu",
+          "image": "Lulu.png"
+        },
+        {
+          "name": "Nunu",
+          "image": "Nunu.png"
+        },
+        {
+          "name": "Xayah",
+          "image": "Xayah.png"
+        }
+      ],
+      "description": "Các Chiêm Tinh Gia lập biểu đồ các chòm sao khác nhau mỗi trận. Trận này: Đài Phun Nước. Đồng minh ở ô cường hóa nhận 1 hồi năng lượng. Chiêm Tinh Gia ở ô cường hóa nhận nhiều hơn và hồi máu cho đồng minh thấp máu nhất bằng kỹ năng của họ.",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "3 hồi năng lượng, hồi máu bằng 10% sát thương kỹ năng"
+        },
+        {
+          "count": "(5)",
+          "text": "5 hồi năng lượng, hồi máu bằng 18% sát thương kỹ năng. Nhiều ô hơn sẽ lộ ra ở mỗi cấp độ người chơi."
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Stargazer (The Huntress)",
+      "icon": "Stargazer.png",
+      "champions": [
+        {
+          "name": "Talon",
+          "image": "Talon.png"
+        },
+        {
+          "name": "Twisted Fate",
+          "image": "TwistedFate.png"
+        },
+        {
+          "name": "Jax",
+          "image": "Jax.png"
+        },
+        {
+          "name": "Lulu",
+          "image": "Lulu.png"
+        },
+        {
+          "name": "Nunu",
+          "image": "Nunu.png"
+        },
+        {
+          "name": "Xayah",
+          "image": "Xayah.png"
+        }
+      ],
+      "description": "Các Chiêm Tinh Gia lập biểu đồ các chòm sao khác nhau mỗi trận. Trận này: Thợ Săn. Đánh dấu những kẻ địch nhiều máu nhất. Đồng minh ở ô cường hóa nhận 15% tốc độ đánh. Chiêm Tinh Gia ở ô cường hóa nhận nhiều hơn và hồi 10% máu tối đa khi một kẻ địch bị đánh dấu chết.",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "30% tốc độ đánh, 3 dấu ấn"
+        },
+        {
+          "count": "(5)",
+          "text": "45% tốc độ đánh, 5 dấu ấn"
+        },
+        {
+          "count": "(7)",
+          "text": "60% tốc độ đánh, 7 dấu ấn. Nhiều ô hơn sẽ lộ ra ở mỗi cấp độ người chơi."
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Stargazer (The Medallion)",
+      "icon": "Stargazer.png",
+      "champions": [
+        {
+          "name": "Talon",
+          "image": "Talon.png"
+        },
+        {
+          "name": "Twisted Fate",
+          "image": "TwistedFate.png"
+        },
+        {
+          "name": "Jax",
+          "image": "Jax.png"
+        },
+        {
+          "name": "Lulu",
+          "image": "Lulu.png"
+        },
+        {
+          "name": "Nunu",
+          "image": "Nunu.png"
+        },
+        {
+          "name": "Xayah",
+          "image": "Xayah.png"
+        }
+      ],
+      "description": "Các Chiêm Tinh Gia lập biểu đồ các chòm sao khác nhau mỗi trận. Trận này: Huy Chương.",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "Đồng minh ở ô cường hóa nhận 15% tăng sát thương, tăng thêm 3% cho mỗi tướng 3 sao trong đội của bạn. Nhiều ô hơn sẽ lộ ra ở mỗi cấp độ người chơi."
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Stargazer (The Mountain)",
+      "icon": "Stargazer.png",
+      "champions": [
+        {
+          "name": "Talon",
+          "image": "Talon.png"
+        },
+        {
+          "name": "Twisted Fate",
+          "image": "TwistedFate.png"
+        },
+        {
+          "name": "Jax",
+          "image": "Jax.png"
+        },
+        {
+          "name": "Lulu",
+          "image": "Lulu.png"
+        },
+        {
+          "name": "Nunu",
+          "image": "Nunu.png"
+        },
+        {
+          "name": "Xayah",
+          "image": "Xayah.png"
+        }
+      ],
+      "description": "Các Chiêm Tinh Gia lập biểu đồ các chòm sao khác nhau mỗi trận. Trận này: Ngọn Núi. Mỗi 5 vòng đấu người chơi, nhận một Ấn Chiêm Tinh Gia. Chiêm Tinh Gia ở ô cường hóa nhận các phần thưởng khác nhau.",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "Nhận 15% Máu"
+        },
+        {
+          "count": "(4)",
+          "text": "VÀ 15% SMCK và SMPT"
+        },
+        {
+          "count": "(5)",
+          "text": "VÀ 15 Giáp và Kháng Phép"
+        },
+        {
+          "count": "(6)",
+          "text": "VÀ 15% Tốc độ đánh"
+        },
+        {
+          "count": "(7)",
+          "text": "VÀ 12% Giảm sát thương"
+        },
+        {
+          "count": "(8)",
+          "text": "VÀ tăng tất cả các phần thưởng khác thêm 20%"
+        },
+        {
+          "count": "(9)",
+          "text": "Tôi có thể thấy đỉnh núi..."
+        },
+        {
+          "count": "(10)",
+          "text": "Gần đến rồi..."
+        },
+        {
+          "count": "(11)",
+          "text": "Các vì sao vẫy gọi mọi kẻ thù. Nhiều ô hơn sẽ lộ ra ở mỗi cấp độ người chơi."
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Stargazer (The Serpent)",
+      "icon": "Stargazer.png",
+      "champions": [
+        {
+          "name": "Talon",
+          "image": "Talon.png"
+        },
+        {
+          "name": "Twisted Fate",
+          "image": "TwistedFate.png"
+        },
+        {
+          "name": "Jax",
+          "image": "Jax.png"
+        },
+        {
+          "name": "Lulu",
+          "image": "Lulu.png"
+        },
+        {
+          "name": "Nunu",
+          "image": "Nunu.png"
+        },
+        {
+          "name": "Xayah",
+          "image": "Xayah.png"
+        }
+      ],
+      "description": "Các Chiêm Tinh Gia lập biểu đồ các chòm sao khác nhau mỗi trận. Trận này: Mãng Xà. Đồng minh ở ô cường hóa nhận 8% Giảm sát thương. Chiêm Tinh Gia ở ô cường hóa nhận nhiều hơn và gây độc lên kẻ địch, chuyển một phần sát thương gây ra thành sát thương phép trong vòng 3 giây.",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "15% Giảm sát thương, 30% sát thương độc"
+        },
+        {
+          "count": "(5)",
+          "text": "20% Giảm sát thương, 45% sát thương độc"
+        },
+        {
+          "count": "(7)",
+          "text": "25% Giảm sát thương, 60% sát thương độc. Nhiều ô hơn sẽ lộ ra ở mỗi cấp độ người chơi."
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Vanguard",
+      "icon": "Vanguard.png",
+      "champions": [
+        {
+          "name": "Leona",
+          "image": "Leona.png"
+        },
+        {
+          "name": "Nasus",
+          "image": "Nasus.png"
+        },
+        {
+          "name": "Mordekaiser",
+          "image": "Mordekaiser.png"
+        },
+        {
+          "name": "Illaoi",
+          "image": "Illaoi.png"
+        },
+        {
+          "name": "Nunu",
+          "image": "Nunu.png"
+        },
+        {
+          "name": "Blitzcrank",
+          "image": "Blitzcrank.png"
+        }
+      ],
+      "description": "Tiên Phong: Nhận 5% Giảm sát thương khi có Lá chắn. Bắt đầu giao tranh và ở 50% Máu: Nhận lá chắn theo máu tối đa trong 10 giây.",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "16% máu tối đa"
+        },
+        {
+          "count": "(4)",
+          "text": "28% máu tối đa"
+        },
+        {
+          "count": "(6)",
+          "text": "40% máu tối đa; 10% Giảm sát thương khi có Lá chắn"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Voyager",
+      "icon": "Voyager.png",
+      "champions": [
+        {
+          "name": "Meepsie",
+          "image": "Meepsie.png"
+        },
+        {
+          "name": "Pyke",
+          "image": "Pyke.png"
+        },
+        {
+          "name": "Aurora",
+          "image": "Aurora.png"
+        },
+        {
+          "name": "The Mighty Mech",
+          "image": "TheMightyMech.png"
+        },
+        {
+          "name": "Karma",
+          "image": "Karma.png"
+        }
+      ],
+      "description": "Bắt đầu giao tranh: Các tướng Đỡ Đòn và Đấu Sĩ của bạn nhận Lá chắn trong 15 giây. Các đồng minh khác nhận Tăng Sát thương. Tướng Du Hành nhận gấp đôi hiệu ứng.",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "175 Lá chắn; 9% Tăng sát thương"
+        },
+        {
+          "count": "(3)",
+          "text": "250 Lá chắn; 15% Tăng sát thương"
+        },
+        {
+          "count": "(4)",
+          "text": "350 Lá chắn; 18% Tăng sát thương"
+        },
+        {
+          "count": "(5)",
+          "text": "500 Lá chắn; 22% Tăng sát thương"
+        },
+        {
+          "count": "(6)",
+          "text": "700 Lá chắn; 27% Tăng sát thương"
+        }
+      ]
+    },
+    {
+      "section": "unique-synergy",
+      "name": "Arcana",
+      "icon": "Arcana.png",
+      "champions": [
+        {
+          "name": "Tahm Kench",
+          "image": "TahmKench.png"
+        }
+      ],
+      "description": "Mỗi 3 vòng, Tahm Kench sẽ ban một phần thưởng!",
+      "effects": []
+    },
+    {
+      "section": "unique-synergy",
+      "name": "Bulwark (Shen)",
+      "icon": "Bulwark.png",
+      "champions": [
+        {
+          "name": "Shen",
+          "image": "Shen.png"
+        }
+      ],
+      "description": "Triệu hồi một cổ vật có thể di chuyển. Khi bắt đầu giao tranh, nó ban cho đồng minh liền kề lá chắn bằng 18% máu tối đa và 20% tốc độ đánh.",
+      "effects": []
+    },
+    {
+      "section": "unique-synergy",
+      "name": "Dark Lady (Morgana)",
+      "icon": "DarkLady.png",
+      "champions": [
+        {
+          "name": "Morgana",
+          "image": "Morgana.png"
+        }
+      ],
+      "description": "Đồng minh nhận ít hơn 5% sát thương từ kỹ năng, tăng lên 10% khi Morgana ở dạng Bóng Tối.",
+      "effects": []
+    },
+    {
+      "section": "unique-synergy",
+      "name": "Divine Duelist (Fiora)",
+      "icon": "DivineDuelist.png",
+      "champions": [
+        {
+          "name": "Fiora",
+          "image": "Fiora.png"
+        }
+      ],
+      "description": "Bạn hồi máu bằng 15% sát thương người chơi gây ra. Fiora luôn thắng trong các cuộc đấu tay đôi một đối một.",
+      "effects": []
+    },
+    {
+      "section": "unique-synergy",
+      "name": "Doomer (Vex)",
+      "icon": "Doomer.png",
+      "champions": [
+        {
+          "name": "Vex",
+          "image": "Vex.png"
+        }
+      ],
+      "description": "Bắt đầu giao tranh: Đánh dấu tất cả kẻ địch bằng 'Doom'. Lần đầu tiên kẻ địch bị sát thương mỗi vòng giao tranh, 'Doom' sẽ bị tiêu thụ, đánh cắp 8% SMCK và SMPT từ chúng và ban cho Vex mạnh nhất của bạn.",
+      "effects": []
+    },
+    {
+      "section": "unique-synergy",
+      "name": "Eradicator (Jhin)",
+      "icon": "EradicatorJhin.svg",
+      "champions": [
+        {
+          "name": "Jhin",
+          "image": "Jhin.png"
+        }
+      ],
+      "description": "Kẻ địch bị giảm 14% Giáp và Kháng Phép.",
+      "effects": []
+    },
+    {
+      "section": "unique-synergy",
+      "name": "Factory New (Graves)",
+      "icon": "FactoryNew.png",
+      "champions": [
+        {
+          "name": "Graves",
+          "image": "Graves.png"
+        }
+      ],
+      "description": "Sau khi tham gia giao tranh, mở một kho vũ khí để mua nâng cấp vĩnh viễn cho Graves mạnh nhất của bạn. Cứ sau mỗi 3 lần nâng cấp, các lần nâng cấp tiếp theo sẽ mất thêm một vòng.",
+      "effects": []
+    },
+    {
+      "section": "unique-synergy",
+      "name": "Gun Goddess (Miss Fortune)",
+      "icon": "GunGoddessMissFortune.svg",
+      "champions": [
+        {
+          "name": "Miss Fortune",
+          "image": "MissFortune.png"
+        }
+      ],
+      "description": "Khi đưa Miss Fortune vào sân, chọn giữa các chế độ: Thuật Sĩ, Thách Đấu hoặc Tái Bản. Miss Fortune có kỹ năng duy nhất dựa trên chế độ đã chọn và nhận tộc/hệ tương ứng.",
+      "effects": []
+    },
+    {
+      "section": "unique-synergy",
+      "name": "Party Animal (Blitzcrank)",
+      "icon": "PartyAnimal.png",
+      "champions": [
+        {
+          "name": "Blitzcrank",
+          "image": "Blitzcrank.png"
+        }
+      ],
+      "description": "Một lần mỗi trận chiến, sau khi máu giảm xuống dưới 45%, trở nên không thể bị chỉ định và phục hồi 15% máu tối đa mỗi giây. Khi đầy máu, hoặc khi không còn đồng minh nào khác, quay trở lại chiến đấu. Nếu được hồi đầy máu, trong phần còn lại của trận chiến, Blitzcrank sẽ ở trạng thái 'Phiêu' và nội tại 'Party Crasher' sẽ bắn các tia sét nhanh gấp bốn lần.",
+      "effects": []
+    },
+    {
+      "section": "unique-synergy",
+      "name": "Redeemer (Rhaast)",
+      "icon": "Redeemer.png",
+      "champions": [
+        {
+          "name": "Rhaast",
+          "image": "Rhaast.png"
+        }
+      ],
+      "description": "Với mỗi tộc/hệ không phải duy nhất được kích hoạt, đội của bạn nhận 2%/3%/4% tốc độ đánh và 2/3/4 Giáp và Kháng Phép.",
+      "effects": []
+    }
+  ],
+  "champions": [
+    {
+      "stt": 1,
+      "id": "aatrox",
+      "name": "Aatrox",
+      "image": "Aatrox.png",
+      "traits": [
+        "N.O.V.A.",
+        "Bastion"
+      ],
+      "status": "Aatrox",
+      "mana": "30 / 90",
+      "description": "? ?, sau đó gây ? ? sát thương vật lý lên mục tiêu hiện tại. ?. ?: ? chiến trường, hất tung nhẹ tất cả kẻ địch và gây ? ? sát thương vật lý."
+    },
+    {
+      "stt": 2,
+      "id": "briar",
+      "name": "Briar",
+      "image": "Briar.png",
+      "traits": [
+        "Anima",
+        "Primordian",
+        "Rogue"
+      ],
+      "status": "Briar",
+      "mana": "0 / 40",
+      "description": "?: ? mỗi ?% ? đã mất, nhận ?% ? ? ?: ? ? sát thương vật lý lên mục tiêu và ? ? nếu chúng là chống chịu."
+    },
+    {
+      "stt": 3,
+      "id": "caitlyn",
+      "name": "Caitlyn",
+      "image": "Caitlyn.png",
+      "traits": [
+        "N.O.V.A.",
+        "Fateweaver"
+      ],
+      "status": "Caitlyn",
+      "mana": "",
+      "description": "?: ? có ?% tỷ lệ bắn một phát ? cường hóa, gây ? ? sát thương vật lý. ?. ?: ? tất cả kẻ địch, tăng sát thương nhận vào thêm ?%. ? lần đầu mục tiêu bị đánh dấu giảm xuống dưới ?% ?, ? chúng gây ? ? sát thương vật lý. ?: ? hai lần và chọn kết quả tốt hơn."
+    },
+    {
+      "stt": 4,
+      "id": "cho'gath",
+      "name": "Cho'Gath",
+      "image": "ChoGath.png",
+      "traits": [
+        "Dark Star",
+        "Brawler"
+      ],
+      "status": "Cho'Gath",
+      "mana": "30 / 70",
+      "description": "? ? sát thương phép lên kẻ địch có ? thấp nhất trong phạm vi và nhận vĩnh viễn ? ? tối đa. ? nếu kỹ năng này hạ gục chúng, nuốt chửng chúng và nhận vĩnh viễn ? ? tối đa thay thế. (?: +?)"
+    },
+    {
+      "stt": 5,
+      "id": "ezreal",
+      "name": "Ezreal",
+      "image": "Ezreal.png",
+      "traits": [
+        "Timebreaker",
+        "Sniper"
+      ],
+      "status": "Ezreal",
+      "mana": "0 / 30",
+      "description": "?: ? một luồng năng lượng vào mục tiêu hiện tại gây ? ? sát thương vật lý. ? khi tham gia hạ gục, nhận một máy bay không người lái gây ? ? sát thương vật lý lên mục tiêu hiện tại mỗi khi dùng chiêu. (?: ?)"
+    },
+    {
+      "stt": 6,
+      "id": "leona",
+      "name": "Leona",
+      "image": "Leona.png",
+      "traits": [
+        "Arbiter",
+        "Vanguard"
+      ],
+      "status": "Leona",
+      "mana": "40 / 100",
+      "description": "? ? ? trong 4 giây. ? mục tiêu hiện tại, gây ? ? sát thương phép và làm choáng chúng trong ? giây."
+    },
+    {
+      "stt": 7,
+      "id": "lissandra",
+      "name": "Lissandra",
+      "image": "Lissandra.png",
+      "traits": [
+        "Dark Star",
+        "Shepherd",
+        "Replicator"
+      ],
+      "status": "Lissandra",
+      "mana": "0 / 30",
+      "description": "? một con dao găm về phía mục tiêu hiện tại, gây ? ? sát thương phép lên mục tiêu đầu tiên trúng phải. ? sau khi trúng mục tiêu ban đầu hoặc tại điểm cuối, con dao phát nổ gây ? ? sát thương phép lên các mục tiêu lân cận."
+    },
+    {
+      "stt": 8,
+      "id": "nasus",
+      "name": "Nasus",
+      "image": "Nasus.png",
+      "traits": [
+        "Space Groove",
+        "Vanguard"
+      ],
+      "status": "Nasus",
+      "mana": "60 / 120",
+      "description": "? trong ? giây, tạm thời nhận ? ? tối đa và gây ? ? sát thương phép lên kẻ địch xung quanh mỗi giây. ? khi đang biến hình, ? sẽ ở trạng thái ?."
+    },
+    {
+      "stt": 9,
+      "id": "poppy",
+      "name": "Poppy",
+      "image": "Poppy.png",
+      "traits": [
+        "Meeple",
+        "Bastion"
+      ],
+      "status": "Poppy",
+      "mana": "30 / 100",
+      "description": "? ? ? trong ? giây. ? trong thời gian hiệu lực, đồng minh trong phạm vi hai ô nhận ? ? ? và ?. ?: ? ban ? ? ? cho ? đồng minh gần nhất trong ? giây."
+    },
+    {
+      "stt": 10,
+      "id": "rek'sai",
+      "name": "Rek'Sai",
+      "image": "RekSai.png",
+      "traits": [
+        "Primordian",
+        "Brawler"
+      ],
+      "status": "Rek'Sai",
+      "mana": "50 / 110",
+      "description": "? ?, sau đó hất tung nhẹ kẻ địch xung quanh và gây ? ? sát thương phép."
+    },
+    {
+      "stt": 11,
+      "id": "talon",
+      "name": "Talon",
+      "image": "Talon.png",
+      "traits": [
+        "Stargazer",
+        "Rogue"
+      ],
+      "status": "Talon",
+      "mana": "0 / 30",
+      "description": "? mục tiêu, khiến chúng bị chảy máu gây ? ? sát thương vật lý trong ? giây. ? sau đòn tấn công, nhảy tới kẻ địch có phần trăm ? cao nhất trong phạm vi ? ô."
+    },
+    {
+      "stt": 12,
+      "id": "teemo",
+      "name": "Teemo",
+      "image": "Teemo.png",
+      "traits": [
+        "Space Groove",
+        "Shepherd"
+      ],
+      "status": "Teemo",
+      "mana": "0 / 50",
+      "description": "?: ? gây ? ? sát thương phép cộng thêm và thêm ? ? sát thương phép cộng dồn trong ? giây. ? khi kẻ địch có từ ? cộng dồn trở lên, ? sẽ ở trạng thái ?. ?: ?% ? cho ? đòn đánh."
+    },
+    {
+      "stt": 13,
+      "id": "twisted_fate",
+      "name": "Twisted Fate",
+      "image": "TwistedFate.png",
+      "traits": [
+        "Stargazer",
+        "Fateweaver"
+      ],
+      "status": "Twisted Fate",
+      "mana": "0 / 50",
+      "description": "? một lá bài có giá trị ngẫu nhiên từ 1 đến 9, sau đó ném nó vào mục tiêu. ? tùy theo lá bài bốc được, gây từ ? ? đến ? ? sát thương phép. ? sát thương nảy sang kẻ địch gần nhất. ?: ? hai lần và chọn kết quả tốt hơn."
+    },
+    {
+      "stt": 14,
+      "id": "veigar",
+      "name": "Veigar",
+      "image": "Veigar.png",
+      "traits": [
+        "Meeple",
+        "Replicator"
+      ],
+      "status": "Veigar",
+      "mana": "10 / 50",
+      "description": "? một ? xuống mục tiêu gây ? ? sát thương phép. ?: ? thêm ? ? nhỏ được gọi xuống các mục tiêu lân cận gây ? ? sát thương phép mỗi cái."
+    },
+    {
+      "stt": 15,
+      "id": "akali",
+      "name": "Akali",
+      "image": "Akali.png",
+      "traits": [
+        "N.O.V.A.",
+        "Marauder"
+      ],
+      "status": "Akali",
+      "mana": "0 / 30",
+      "description": "? cạnh mục tiêu để tấn công nhiều kẻ địch nhất. ? ném ? kunai xuyên thấu, mỗi cái gây ? ? sát thương vật lý lên kẻ địch đầu tiên trúng phải, giảm còn ? ? cho các mục tiêu tiếp theo. ? loại bỏ ?, tăng lên ? nếu chúng chí mạng. ?. ?: ? tất cả kẻ địch, áp dụng ? và hiệu ứng chảy máu gây ? ? sát thương vật lý mỗi giây cho đến hết trận đấu. ? tăng sát thương chảy máu thêm ?%."
+    },
+    {
+      "stt": 16,
+      "id": "bel'veth",
+      "name": "Bel'Veth",
+      "image": "BelVeth.png",
+      "traits": [
+        "Primordian",
+        "Challenger",
+        "Marauder"
+      ],
+      "status": "Bel'Veth",
+      "mana": "0 / 50",
+      "description": "? tung ra một chuỗi ? ? cú chém vào mục tiêu hiện tại trong ? giây, gây ? ? sát thương vật lý mỗi nhát."
+    },
+    {
+      "stt": 17,
+      "id": "gnar",
+      "name": "Gnar",
+      "image": "Gnar.png",
+      "traits": [
+        "Meeple",
+        "Sniper"
+      ],
+      "status": "Gnar",
+      "mana": "0 / 5",
+      "description": "?: ? mỗi đòn đánh thứ 5, ném một chiếc boomerang quay về phía mục tiêu, bay xuyên qua kẻ địch đầu tiên thêm hai ô. ? gây ? ? sát thương vật lý, giảm ?% mỗi lần trúng. ?: ? tấn công cùng với ?, gây ? ? sát thương vật lý mỗi giây."
+    },
+    {
+      "stt": 18,
+      "id": "gragas",
+      "name": "Gragas",
+      "image": "Gragas.png",
+      "traits": [
+        "Psionic",
+        "Brawler"
+      ],
+      "status": "Gragas",
+      "mana": "30 / 80",
+      "description": "? ? trong ? giây. ?, gây ? ? sát thương phép lên kẻ địch xung quanh và ? chúng trong ? giây. ?: ? ? thêm 30%"
+    },
+    {
+      "stt": 19,
+      "id": "gwen",
+      "name": "Gwen",
+      "image": "Gwen.png",
+      "traits": [
+        "Space Groove",
+        "Rogue"
+      ],
+      "status": "Gwen",
+      "mana": "0 / 30",
+      "description": "?: ? gây sát thương phép. ? ở trạng thái ? khi nhắm vào kẻ địch dưới ?% ?. ?: ? tới một ô gần đó để cắt kẻ địch có phần trăm ? thấp nhất, gây ? ? sát thương phép lên mục tiêu và ? ? sát thương phép lên kẻ địch trong vùng hình nón. ? nếu hạ gục, lướt và cắt lại với ?% sát thương!"
+    },
+    {
+      "stt": 20,
+      "id": "jax",
+      "name": "Jax",
+      "image": "Jax.png",
+      "traits": [
+        "Stargazer",
+        "Bastion"
+      ],
+      "status": "Jax",
+      "mana": "10 / 70",
+      "description": "? thế phòng thủ trong ? giây, giảm sát thương nhận vào đi ? ? và nhận ? ? ?. ? khi thế phòng thủ kết thúc, tấn công tất cả kẻ địch xung quanh, gây ? ? sát thương phép và ? chúng trong ? giây."
+    },
+    {
+      "stt": 21,
+      "id": "jinx",
+      "name": "Jinx",
+      "image": "Jinx.png",
+      "traits": [
+        "Anima",
+        "Challenger"
+      ],
+      "status": "Jinx",
+      "mana": "20 / 80",
+      "description": "? tung ra một loạt ? ? viên đạn theo hình nón, mỗi viên gây ? ? sát thương vật lý lên mục tiêu đầu tiên trúng phải."
+    },
+    {
+      "stt": 22,
+      "id": "meepsie",
+      "name": "Meepsie",
+      "image": "Meepsie.png",
+      "traits": [
+        "Meeple",
+        "Shepherd",
+        "Voyager"
+      ],
+      "status": "Meepsie",
+      "mana": "50 / 100",
+      "description": "? ? ? trong ? giây. ? mục tiêu, gây ? ? sát thương phép và hất tung trong ? giây. ? cú va chạm tạo ra các sóng meep gây ?% hiệu ứng này lên các kẻ địch cùng hàng với mục tiêu. ?: ? hoa của ? nước, tăng tất cả ? và ? nhận vào thêm ?."
+    },
+    {
+      "stt": 23,
+      "id": "milio",
+      "name": "Milio",
+      "image": "Milio.png",
+      "traits": [
+        "Timebreaker",
+        "Fateweaver"
+      ],
+      "status": "Milio",
+      "mana": "0 / 30",
+      "description": "? một quả bóng vào kẻ địch gây ? ? sát thương phép. ? khi va chạm, quả bóng có 100% tỷ lệ nảy sang mục tiêu mới gây ? ? sát thương phép. ? các lần nảy có thể kích hoạt nảy thêm, nhưng tỷ lệ giảm đi một nửa sau mỗi lần. ?: ? hai lần và chọn kết quả tốt hơn."
+    },
+    {
+      "stt": 24,
+      "id": "mordekaiser",
+      "name": "Mordekaiser",
+      "image": "Mordekaiser.png",
+      "traits": [
+        "Dark Star",
+        "Channeler",
+        "Vanguard"
+      ],
+      "status": "Mordekaiser",
+      "mana": "20 / 80",
+      "description": "? ? lá chắn. ? mỗi giây trong ? giây tiếp theo, nhận thêm ? ? lá chắn và gây ? ? sát thương phép lên kẻ địch xung quanh. ? khi kỹ năng kết thúc, tiêu thụ lượng ? còn lại và hồi máu bằng ?% giá trị của nó."
+    },
+    {
+      "stt": 25,
+      "id": "pantheon",
+      "name": "Pantheon",
+      "image": "Pantheon.png",
+      "traits": [
+        "Timebreaker",
+        "Brawler",
+        "Replicator"
+      ],
+      "status": "Pantheon",
+      "mana": "20 / 80",
+      "description": "? ? ? và ?% ? trong ? giây. ? trong thời gian hiệu lực, gây ? ? sát thương vật lý mỗi giây lên kẻ địch trong vùng hình nón."
+    },
+    {
+      "stt": 26,
+      "id": "pyke",
+      "name": "Pyke",
+      "image": "Pyke.png",
+      "traits": [
+        "Psionic",
+        "Voyager"
+      ],
+      "status": "Pyke",
+      "mana": "0 / 40",
+      "description": "? tối đa một ô để ném lao móc vào kẻ địch xa nhất. ? lao móc kéo kẻ địch đầu tiên trúng phải về phía trước một ô và gây ? ? sát thương vật lý. ?, dịch chuyển ra phía sau chúng và chém, gây ? ? sát thương vật lý lên chúng và ? ? sát thương vật lý lên kẻ địch xung quanh."
+    },
+    {
+      "stt": 27,
+      "id": "zoe",
+      "name": "Zoe",
+      "image": "Zoe.png",
+      "traits": [
+        "Arbiter",
+        "Channeler"
+      ],
+      "status": "Zoe",
+      "mana": "0 / 50",
+      "description": "? một nghịch sao vào mục tiêu hiện tại, gây ? ? sát thương phép lên mục tiêu đầu tiên trúng phải và ? ? lên các mục tiêu khác nó bay xuyên qua. ? khi ngôi sao bay đến điểm cuối, chuyển hướng nó tới một kẻ địch ở xa, tăng tốc độ và lặp lại sát thương. ? việc chuyển hướng có thể xảy ra ? lần."
+    },
+    {
+      "stt": 28,
+      "id": "aurora",
+      "name": "Aurora",
+      "image": "Aurora.png",
+      "traits": [
+        "Anima",
+        "Voyager"
+      ],
+      "status": "Aurora",
+      "mana": "20 / 80",
+      "description": "? một vết nứt hình lục giác bao quanh mục tiêu, ? kẻ địch bên trong trong ? giây và gây ? ? sát thương phép lên mỗi kẻ, cộng thêm ? ? sát thương phép chia đều cho tất cả kẻ địch trúng chiêu. ? kẻ địch tích trữ ?% tất cả sát thương chúng nhận vào. ? khi vết nứt ? kết thúc, chúng chịu sát thương chuẩn bằng với lượng sát thương đã tích trữ. ? kết thúc sớm nếu sát thương này đủ hạ gục mục tiêu."
+    },
+    {
+      "stt": 29,
+      "id": "diana",
+      "name": "Diana",
+      "image": "Diana.png",
+      "traits": [
+        "Arbiter",
+        "Challenger"
+      ],
+      "status": "Diana",
+      "mana": "0 / 50",
+      "description": "?: ? gây ? ? sát thương phép cộng thêm. ?: ? ? ? và triệu hồi 3 quả cầu xoay quanh trong ? giây. ? gây ? ? sát thương phép lên kẻ địch chúng đi xuyên qua, và xoay nhanh hơn dựa trên ?."
+    },
+    {
+      "stt": 30,
+      "id": "fizz",
+      "name": "Fizz",
+      "image": "Fizz.png",
+      "traits": [
+        "Meeple",
+        "Rogue"
+      ],
+      "status": "Fizz",
+      "mana": "0 / 20",
+      "description": "? xuyên qua mục tiêu hiện tại, gây ? ? sát thương phép. ? mỗi lần tung chiêu thứ ba cũng triệu hồi một ? sau một khoảng trễ, hất tung nhẹ mục tiêu và gây ? ? sát thương phép trong bán kính một ô, giảm ?% mỗi ô tính từ tâm. ?: ? ? vào mồi nhử, tăng sát thương của ? lên ?."
+    },
+    {
+      "stt": 31,
+      "id": "illaoi",
+      "name": "Illaoi",
+      "image": "Illaoi.png",
+      "traits": [
+        "Anima",
+        "Vanguard",
+        "Shepherd"
+      ],
+      "status": "Illaoi",
+      "mana": "40 / 100",
+      "description": "? ? ? trong ? giây. ? trong thời gian hiệu lực, hút ? ? ? từ ? kẻ địch gần nhất. ? đập mạnh xuống, gây ? ? sát thương phép lên tất cả kẻ địch trong phạm vi 2 ô."
+    },
+    {
+      "stt": 32,
+      "id": "kai'sa",
+      "name": "Kai'Sa",
+      "image": "KaiSa.png",
+      "traits": [
+        "Dark Star",
+        "Rogue"
+      ],
+      "status": "Kai'Sa",
+      "mana": "0 / 50",
+      "description": "?: ? khi tham gia hạ gục, nhận ? năng lượng. ?: ? các tên lửa trong bán kính ?-ô quanh mục tiêu hiện tại, gây ? ? sát thương vật lý mỗi tên lửa."
+    },
+    {
+      "stt": 33,
+      "id": "lulu",
+      "name": "Lulu",
+      "image": "Lulu.png",
+      "traits": [
+        "Stargazer",
+        "Replicator"
+      ],
+      "status": "Lulu",
+      "mana": "0 / 60",
+      "description": "?: ? kỹ năng của ? nhận một hiệu ứng phụ khác nhau mỗi trận đấu. ?: ? một thứ gì đó từ trên trời xuống, gây ? ? sát thương phép lên ? kẻ địch gần đó và gây ra một số hiệu ứng đặc biệt dựa trên ? của trận đấu này."
+    },
+    {
+      "stt": 34,
+      "id": "maokai",
+      "name": "Maokai",
+      "image": "Maokai.png",
+      "traits": [
+        "N.O.V.A.",
+        "Brawler"
+      ],
+      "status": "Maokai",
+      "mana": "30 / 100",
+      "description": "?: ? thêm % ? tối đa từ mọi nguồn. ?: ? một vùng dây leo hình ? lên mục tiêu, gây ? ? sát thương phép lên mỗi kẻ địch trúng chiêu và ? chúng trong ? giây. ?. ?: ? ra một làn sóng rồng làm choáng tất cả kẻ địch trong ? giây. ? trong phần còn lại của trận đấu, đòn đánh của ? gây thêm ? ? sát thương vật lý."
+    },
+    {
+      "stt": 35,
+      "id": "miss_fortune",
+      "name": "Miss Fortune",
+      "image": "MissFortune.png",
+      "traits": [
+        "Channeler",
+        "Challenger",
+        "Replicator"
+      ],
+      "status": "Miss Fortune",
+      "mana": "0 / 100",
+      "description": "?"
+    },
+    {
+      "stt": 36,
+      "id": "ornn",
+      "name": "Ornn",
+      "image": "Ornn.png",
+      "traits": [
+        "Space Groove",
+        "Bastion"
+      ],
+      "status": "Ornn",
+      "mana": "40 / 100",
+      "description": "?: ? khi trận đấu bắt đầu, rèn một trang bị hoàn chỉnh tạm thời. ? nếu đã trang bị đủ 3 món, một trang bị hoàn chỉnh ngẫu nhiên sẽ trở thành ? trong trận đấu đó. ?: ? ? ? trong ? giây. ? phun lửa theo hình nón, gây ? ? sát thương phép. ? bất kỳ ? trên ? hết hạn, ? trạng thái ? trong ? giây."
+    },
+    {
+      "stt": 37,
+      "id": "rhaast",
+      "name": "Rhaast",
+      "image": "Rhaast.png",
+      "traits": [
+        "Redeemer"
+      ],
+      "status": "Rhaast",
+      "mana": "30 / 90",
+      "description": "?% ? trong ? giây, hồi ? ? trong thời gian hiệu lực. ?, chém về phía trước theo một đường thẳng, gây ? ? sát thương vật lý lên kẻ địch trúng chiêu và hất tung chúng trong ? giây."
+    },
+    {
+      "stt": 38,
+      "id": "samira",
+      "name": "Samira",
+      "image": "Samira.png",
+      "traits": [
+        "Space Groove",
+        "Sniper"
+      ],
+      "status": "Samira",
+      "mana": "0 / 60",
+      "description": "?: ? khi một kẻ địch bị hất tung, bắn chúng, gây ? ? sát thương vật lý và trạng thái ? trong ? giây. ?: ? bắn một loạt đạn vào mục tiêu, gây ? ? sát thương vật lý và hất tung trong ? giây."
+    },
+    {
+      "stt": 39,
+      "id": "urgot",
+      "name": "Urgot",
+      "image": "Urgot.png",
+      "traits": [
+        "Mecha",
+        "Brawler",
+        "Marauder"
+      ],
+      "status": "Urgot",
+      "mana": "0 / 50",
+      "description": "? - ?: ? khi một kẻ địch đi vào bán kính ? ? ô, bắn một luồng năng lượng hình nón về phía ô kề cận gần nhất gây ? ? sát thương vật lý với mức giảm ?% theo mỗi ô. ? ô kề cận có thời gian hồi chiêu ? giây. ?: ? ? ? trong ? giây và lướt ra sau mục tiêu hiện tại. ? hồi lại toàn bộ kỹ năng của ?."
+    },
+    {
+      "stt": 40,
+      "id": "viktor",
+      "name": "Viktor",
+      "image": "Viktor.png",
+      "traits": [
+        "Psionic",
+        "Channeler"
+      ],
+      "status": "Viktor",
+      "mana": "20 / 80",
+      "description": "? tạo ra một cơn bão tâm linh rộng một ô bám theo kẻ địch trong ? giây. ? mỗi giây, nó lớn dần và gây ? ? sát thương phép lên kẻ địch bên trong, giảm ?% mỗi ô tính từ tâm bão."
+    },
+    {
+      "stt": 41,
+      "id": "aurelion_sol",
+      "name": "Aurelion Sol",
+      "image": "AurelionSol.png",
+      "traits": [
+        "Mecha",
+        "Channeler"
+      ],
+      "status": "Aurelion Sol",
+      "mana": "15 / 75",
+      "description": "? một tia sáng chết chóc theo đường thẳng về phía mục tiêu hiện tại trong ? giây. ? gây ? ? sát thương phép mỗi giây, giảm ?% cho mỗi kẻ địch nó xuyên qua. ? bỏ qua ?% ? của kẻ địch."
+    },
+    {
+      "stt": 42,
+      "id": "corki",
+      "name": "Corki",
+      "image": "Corki.png",
+      "traits": [
+        "Meeple",
+        "Fateweaver"
+      ],
+      "status": "Corki",
+      "mana": "0 / 60",
+      "description": "? tới một vị trí gần đó, phóng ra ? tên lửa chia đều cho mục tiêu và tất cả kẻ địch trong phạm vi hai ô. ? gây ? ? sát thương vật lý với ?% tỷ lệ bắn ra một tên lửa cực đại gây ? ? thay thế. ?: ? giây, phóng một ? vào mục tiêu, gây ? ? sát thương vật lý trong bán kính một ô khi va chạm. ?: ? hai lần và chọn kết quả tốt hơn."
+    },
+    {
+      "stt": 43,
+      "id": "karma",
+      "name": "Karma",
+      "image": "Karma.png",
+      "traits": [
+        "Dark Star",
+        "Voyager"
+      ],
+      "status": "Karma",
+      "mana": "10 / 50",
+      "description": "? sức mạnh của một hố đen, gây ? ? sát thương phép chia đều cho mục tiêu và ? kẻ địch gần chúng nhất. ? mục tiêu chính chịu thêm ? ? sát thương phép."
+    },
+    {
+      "stt": 44,
+      "id": "kindred",
+      "name": "Kindred",
+      "image": "Kindred.png",
+      "traits": [
+        "N.O.V.A.",
+        "Challenger"
+      ],
+      "status": "Kindred",
+      "mana": "0 / 40",
+      "description": "?: ? và ? đánh dấu mục tiêu. ? khi một kẻ địch đạt ? dấu ấn, ? tiêu thụ các dấu ấn, gây ? ? sát thương vật lý. ?: ? tối đa ? ô và bắn mũi tên vào ? mục tiêu gần nhất, mỗi mũi tên gây ? ? sát thương vật lý. ?. ?: ?% ?. ? và mỗi ? giây sau đó, thêm một dấu ấn lên tất cả kẻ địch."
+    },
+    {
+      "stt": 45,
+      "id": "leblanc",
+      "name": "LeBlanc",
+      "image": "LeBlanc.png",
+      "traits": [
+        "Arbiter",
+        "Shepherd"
+      ],
+      "status": "LeBlanc",
+      "mana": "0 / 40",
+      "description": "?: ? gây ? ? sát thương phép thay thế. ?: ? các bản sao tấn công cùng với ? trong ? đòn đánh, gây ?% sát thương. ? đòn đánh cuối cùng của chúng, các bản sao bắn ra một luồng năng lượng gây ? ? sát thương phép."
+    },
+    {
+      "stt": 46,
+      "id": "master_yi",
+      "name": "Master Yi",
+      "image": "MasterYi.png",
+      "traits": [
+        "Psionic",
+        "Marauder"
+      ],
+      "status": "Master Yi",
+      "mana": "30 / 70",
+      "description": "?: ? mỗi đòn đánh thứ ba tấn công thêm một lần gây thêm ? ? sát thương vật lý. ?: ? thiền định ngắn, tiến vào trạng thái ?-? trong ? giây, nhận ?% ?, ?% ?, và tăng tốc độ di chuyển. ? mỗi giây, phóng ra một luồng tâm linh vào một kẻ địch ngẫu nhiên gần đó gây ? ? sát thương vật lý."
+    },
+    {
+      "stt": 47,
+      "id": "nami",
+      "name": "Nami",
+      "image": "Nami.png",
+      "traits": [
+        "Space Groove",
+        "Replicator"
+      ],
+      "status": "Nami",
+      "mana": "30 / 85",
+      "description": "? một bong bóng disco vào mục tiêu gây ? ? sát thương chia đều cho kẻ địch trong bán kính một ô. ? vụ nổ bắn ra ? quả cầu về phía kẻ địch lân cận gây ? ? sát thương phép. ? sau khi tung chiêu, ? trạng thái ? trong ? giây."
+    },
+    {
+      "stt": 48,
+      "id": "nunu",
+      "name": "Nunu",
+      "image": "Nunu.png",
+      "traits": [
+        "Stargazer",
+        "Vanguard"
+      ],
+      "status": "Nunu",
+      "mana": "45 / 155",
+      "description": "? ? ? trong ? giây. ? một khối thiên cầu rơi xuống nơi có nhiều kẻ địch nhất trong phạm vi 2 ô, gây ? ? sát thương phép. ?, ? đẩy khối thiên cầu về phía cuối sân đấu, gây ? ? sát thương phép. ? kẻ địch trúng khối thiên cầu bị hất tung trong ? giây."
+    },
+    {
+      "stt": 49,
+      "id": "rammus",
+      "name": "Rammus",
+      "image": "Rammus.png",
+      "traits": [
+        "Meeple",
+        "Bastion"
+      ],
+      "status": "Rammus",
+      "mana": "30 / 100",
+      "description": "? ? lá chắn trong ? giây. ?, tấn công nhiều kẻ địch nhất trên một đường thẳng ba ô, gây ? ? sát thương phép. ?: ? sát thương từ các đòn đánh nhận vào đi ?. ? sau khi bị tấn công ? lần, gây ? ? sát thương phép trong bán kính hai ô."
+    },
+    {
+      "stt": 50,
+      "id": "riven",
+      "name": "Riven",
+      "image": "Riven.png",
+      "traits": [
+        "Timebreaker",
+        "Rogue"
+      ],
+      "status": "Riven",
+      "mana": "0 / 20",
+      "description": "?: ? thích nghi theo ? hoặc ? của ?, chỉ số nào cao hơn. ? gây ? (?/?) sát thương. ?: ? tới một ô gần đó, nhận ? trong ? giây và chém kẻ địch xung quanh gây ? (?/?) sát thương. ? lần tung chiêu thứ ba, nhảy lên không trung và phóng ra một làn sóng năng lượng gây ? (?/?) sát thương."
+    },
+    {
+      "stt": 51,
+      "id": "tahm_kench",
+      "name": "Tahm Kench",
+      "image": "TahmKench.png",
+      "traits": [
+        "Arcana",
+        "Brawler"
+      ],
+      "status": "Tahm Kench",
+      "mana": "50 / 120",
+      "description": "?: ? mỗi trận đấu sau khi máu giảm xuống dưới ?% ?, nhận ? trong ? giây bằng ?% lượng hồi máu nhận được trong trận đấu này. ?: ? ?, sau đó quất lưỡi vào tất cả kẻ địch trong phạm vi hai ô gây ? ? sát thương phép."
+    },
+    {
+      "stt": 52,
+      "id": "the_mighty_mech",
+      "name": "The Mighty Mech",
+      "image": "TheMightyMech.png",
+      "traits": [
+        "Mecha",
+        "Voyager"
+      ],
+      "status": "The Mighty Mech",
+      "mana": "40 / 100",
+      "description": "? thế phòng thủ trong ? giây nhận ?% ?. ? khi đang ở thế phòng thủ, thu hút các luồng đạn của kẻ địch gần đó và hồi ? ? trong thời gian hiệu lực. ? khi kết thúc, giải phóng một cú sốc điện gây ? ? sát thương vật lý trong phạm vi ?-ô."
+    },
+    {
+      "stt": 53,
+      "id": "xayah",
+      "name": "Xayah",
+      "image": "Xayah.png",
+      "traits": [
+        "Stargazer",
+        "Sniper"
+      ],
+      "status": "Xayah",
+      "mana": "0 / 50",
+      "description": "?: ? nảy để tấn công ? lần, gây sát thương giảm ?% mỗi mục tiêu và để lại một ? phía sau mục tiêu cuối cùng. ?: ?% ? trong ? giây. ? khi kết thúc, thu hồi tất cả ? chia đều cho ? kẻ địch gần nhất, gây ? ? sát thương vật lý mỗi chiếc."
+    },
+    {
+      "stt": 54,
+      "id": "bard",
+      "name": "Bard",
+      "image": "Bard.png",
+      "traits": [
+        "Meeple",
+        "Channeler"
+      ],
+      "status": "Bard",
+      "mana": "0 / 70",
+      "description": "? một đĩa bay lên trên mục tiêu hiện tại kéo dài ? giây. ? mỗi giây nó gây ? ? sát thương phép lên mục tiêu, cộng thêm ? ? sát thương phép chia đều cho tất cả kẻ địch trong phạm vi ? ô. ? đĩa bay gây ?% sát thương tăng thêm cho ?. ? nếu một kẻ địch dưới ? chết, ? có ?% tỷ lệ bắt cóc chúng và tạo ra một bản sao 1 sao trên hàng chờ của bạn. ? thưởng: ? khi trận đấu bắt đầu, ban cho ? gần nhất một ? thêm. ? đã bắt cóc: ?"
+    },
+    {
+      "stt": 55,
+      "id": "blitzcrank",
+      "name": "Blitzcrank",
+      "image": "Blitzcrank.png",
+      "traits": [
+        "Party Animal",
+        "Space Groove",
+        "Vanguard"
+      ],
+      "status": "Blitzcrank",
+      "mana": "10 / 90",
+      "description": "?: ? giây, gọi xuống một tia sét lên kẻ địch ? gần nhất gây ? ? sát thương phép. ?: ? một quả cầu disco vào nhóm kẻ địch đông nhất, sau đó đấm móc mục tiêu hiện tại gây ? ? sát thương phép và hất tung. ? rơi sầm xuống quả cầu disco gây ? ? sát thương phép trong bán kính ba ô. ? ? trong ? giây mỗi kẻ địch trúng chiêu."
+    },
+    {
+      "stt": 56,
+      "id": "fiora",
+      "name": "Fiora",
+      "image": "Fiora.png",
+      "traits": [
+        "Divine Duelist",
+        "Anima",
+        "Marauder"
+      ],
+      "status": "Fiora",
+      "mana": "10 / 80",
+      "description": "?: ? mỗi đòn tấn công, để lộ một ? trên mục tiêu. ? khi một ? tồn tại, lướt tới tấn công nó gây ? ? sát thương chuẩn cộng thêm và hồi máu bằng ?% sát thương gây ra. ?: ? ? lên mục tiêu và nhanh chóng tấn công tất cả chúng. ? nếu mục tiêu chết, các ? còn lại chuyển sang kẻ địch gần nhất. ? khi tấn công vào ? cuối cùng, tạo ra một vùng hào quang hai ô hồi máu cho đồng minh bên trong ? ? trong ? giây."
+    },
+    {
+      "stt": 57,
+      "id": "graves",
+      "name": "Graves",
+      "image": "Graves.png",
+      "traits": [
+        "Factory New"
+      ],
+      "status": "Graves",
+      "mana": "0 / 60",
+      "description": "?: ? bắn ? đạn theo hình nón gây ? sát thương vật lý mỗi viên. ?: ? một viên đạn nổ gây ? ? sát thương vật lý lên mục tiêu, và ? ? sát thương vật lý lên tất cả kẻ địch trong bán kính một ô."
+    },
+    {
+      "stt": 58,
+      "id": "jhin",
+      "name": "Jhin",
+      "image": "Jhin.png",
+      "traits": [
+        "Dark Star",
+        "Eradicator",
+        "Sniper"
+      ],
+      "status": "Jhin",
+      "mana": "0 / 44",
+      "description": "?: ? có tốc độ đánh cố định là ? và chuyển đổi mỗi ?% ? cộng thêm thành ? ? cộng thêm. ?: ? những bàn tay ma mị bắn cùng với ? trong ? đòn đánh tiếp theo. ? mỗi bàn tay gây ? ? sát thương vật lý mỗi phát bắn và loại bỏ ?. ? các phát bắn cuối cùng gây thêm ?% sát thương và xuyên qua nhiều kẻ địch nhất trên một đường thẳng, gây sát thương giảm ?% mỗi mục tiêu trúng chiêu."
+    },
+    {
+      "stt": 59,
+      "id": "morgana",
+      "name": "Morgana",
+      "image": "Morgana.png",
+      "traits": [
+        "Dark Lady"
+      ],
+      "status": "Morgana",
+      "mana": "20 / 60",
+      "description": "? thành ? trong ? giây, nhận ? ? ? trong thời gian hiệu lực. ? khi ở dạng ?, trói buộc ? kẻ địch gần nhất, gây ? ? sát thương phép mỗi giây lên mỗi kẻ và hồi máu bằng ?% sát thương gây ra. ? khi kết thúc quá trình biến hình, gây ? ? lên tất cả kẻ địch bị trói buộc."
+    },
+    {
+      "stt": 60,
+      "id": "shen",
+      "name": "Shen",
+      "image": "Shen.png",
+      "traits": [
+        "Bulwark",
+        "Bastion"
+      ],
+      "status": "Shen",
+      "mana": "10 / 70",
+      "description": "?: ? mỗi lần tung chiêu, đòn đánh nhận thêm ? ? sát thương phép cộng dồn. ? từ lần tung chiêu thứ ba, nhận sát thương chuẩn thay thế. ?: ? ? ? trong ? giây, sau đó chém mở một vết nứt lên nhóm tướng đông nhất gây sát thương cộng thêm của ? lên tất cả kẻ địch bên trong. ? bị giảm ?% ? trong khi đồng minh bên trong nhận ?% ?, cả hai hiệu ứng đều giảm dần nhanh chóng trong ? giây."
+    },
+    {
+      "stt": 61,
+      "id": "sona",
+      "name": "Sona",
+      "image": "Sona.png",
+      "traits": [
+        "Commander",
+        "Psionic",
+        "Shepherd"
+      ],
+      "status": "Sona",
+      "mana": "0 / 25",
+      "description": "? một mảnh vụn từ tính vào mục tiêu gần nhất chưa có mảnh vụn, gây ? ? sát thương phép và dính nó vào chúng. ? khi một kẻ địch có mảnh vụn chết, nó chuyển sang kẻ địch gần nhất chưa có. ? khi tung chiêu, thay vào đó giật tung tất cả mảnh vụn gây ? ? sát thương phép, sau đó nghiền nát tất cả mảnh vụn lên mục tiêu, gây ? ? sát thương phép và làm choáng nhẹ chúng."
+    },
+    {
+      "stt": 62,
+      "id": "vex",
+      "name": "Vex",
+      "image": "Vex.png",
+      "traits": [
+        "Doomer"
+      ],
+      "status": "Vex",
+      "mana": "0 / 60",
+      "description": "?: ? mỗi khi ? tấn công, ? tấn công một kẻ địch gần đó, gây ? ? sát thương phép. ? nếu một kẻ địch bị trúng ? lần bởi ?, ? tấn công chúng lần nữa. ?: ? tung ra ? đòn đánh cường hóa, thay vào đó gây ? ? sát thương phép."
+    },
+    {
+      "stt": 63,
+      "id": "zed",
+      "name": "Zed",
+      "image": "Zed.png",
+      "traits": [
+        "Galaxy Hunter"
+      ],
+      "status": "Zed",
+      "mana": "30 / 80",
+      "description": "? một bản sao phía sau mục tiêu với ?% ? tối đa bị giảm và tăng ? giá trị ?. ? bản sao thừa hưởng các trang bị, chỉ số và ? hiện tại của người tạo ra nó, và có thể tung chiêu ?."
+    }
+  ],
+  "items": [
+    {
+      "id": "psionic",
+      "name": "Psionic",
+      "icon": "trait-psionic.svg",
+      "count": "5 items",
+      "description": "Tâm Linh",
+      "items": [
+        {
+          "stt": "1-1",
+          "id": "drone_uplink",
+          "name": "Drone Uplink",
+          "image": "psionic-drone-uplink.jpg",
+          "texts": [
+            "Một máy bay không người lái lặp lại 25% sát thương từ các đòn đánh và Kỹ năng của người sở hữu lên cùng một mục tiêu mỗi 3 giây.",
+            "Tại (4): Nếu người sở hữu là Tâm Linh, nhận thêm một máy bay mini lặp lại 20% sát thương.",
+            "Set.17.items.recommended Sona, Viktor"
+          ]
+        },
+        {
+          "stt": "1-2",
+          "id": "malware_matrix",
+          "name": "Malware Matrix",
+          "image": "psionic-malware-matrix.jpg",
+          "texts": [
+            "Gây sát thương vật lý lên kẻ địch sẽ giảm Giáp của mục tiêu đi 2.",
+            "Tại (4): Nếu người sở hữu là Tâm Linh, mỗi đòn tấn công thứ 3 sẽ đánh lan, gây 75 sát thương vật lý lên kẻ địch xung quanh.",
+            "Set.17.items.recommended Master Yi, Pyke"
+          ]
+        },
+        {
+          "stt": "1-3",
+          "id": "biomatter_preserver",
+          "name": "Biomatter Preserver",
+          "image": "psionic-biomatter-preserver.jpg",
+          "texts": [
+            "Nhận 5% Máu tối đa và triển khai 3 Quả Cầu Sinh Mệnh. Mỗi 5 giây giao tranh, một quả cầu sẽ rơi ra hồi 18% Máu đã mất của người sở hữu.",
+            "Tại (4): Nếu người sở hữu là Tâm Linh, họ nhận thêm 22% hiệu quả hồi máu từ mọi nguồn.",
+            "Set.17.items.recommended Gragas"
+          ]
+        },
+        {
+          "stt": "1-4",
+          "id": "sympathetic_implant",
+          "name": "Sympathetic Implant",
+          "image": "psionic-sympathetic-implant.jpg",
+          "texts": [
+            "Mỗi 5 giây, nhận thêm 1 Năng lượng mỗi giây.",
+            "Tại (4): Nếu người sở hữu là Tâm Linh, kỹ năng của họ sẽ gây 20% sát thương kỹ năng thành sát thương chuẩn.",
+            "Set.17.items.recommended Sona, Viktor"
+          ]
+        },
+        {
+          "stt": "1-5",
+          "id": "target-lock_optics",
+          "name": "Target-Lock Optics",
+          "image": "psionic-target-lock-optics.jpg",
+          "texts": [
+            "Đòn đánh đầu tiên của người sở hữu lên mỗi kẻ địch gây thêm 150 sát thương.",
+            "Tại (4): Nếu người sở hữu là Tâm Linh, họ hồi 12% Máu tối đa bất cứ khi nào mục tiêu của họ chết.",
+            "Set.17.items.recommended Pyke, Master Yi"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "commander",
+      "name": "Commander",
+      "icon": "trait-commander.svg",
+      "count": "8 items",
+      "description": "Chỉ Huy",
+      "items": [
+        {
+          "stt": "2-1",
+          "id": "command_mod:_exhaust",
+          "name": "Command Mod: Exhaust",
+          "image": "command-mod-exhaust.jpg",
+          "texts": [
+            "Chỉ thị đòn đánh của một đơn vị gây Thiêu đốt, Vết thương sâu và Tê tái."
+          ]
+        },
+        {
+          "stt": "2-2",
+          "id": "command_mod:_doublestrike",
+          "name": "Command Mod: Doublestrike",
+          "image": "command-mod-doublestrike.jpg",
+          "texts": [
+            "Chỉ thị một đơn vị có 25% tỷ lệ tấn công hai lần khi tấn công."
+          ]
+        },
+        {
+          "stt": "2-3",
+          "id": "command_mod:_analyze",
+          "name": "Command Mod: Analyze",
+          "image": "command-mod-analyze.jpg",
+          "texts": [
+            "Chỉ thị một đơn vị ban cho bạn 1 XP mỗi 3 giây nó còn sống trong giao tranh với người chơi."
+          ]
+        },
+        {
+          "stt": "2-4",
+          "id": "command_mod:_brace",
+          "name": "Command Mod: Brace",
+          "image": "command-mod-brace.jpg",
+          "texts": [
+            "Chỉ thị một đơn vị nhận lá chắn bằng 20% Máu trong 8 giây khi bắt đầu giao tranh."
+          ]
+        },
+        {
+          "stt": "2-5",
+          "id": "command_mod:_transmute",
+          "name": "Command Mod: Transmute",
+          "image": "command-mod-transmute.jpg",
+          "texts": [
+            "Chỉ thị một đơn vị rơi ra 2 vàng mỗi khi hạ gục một kẻ địch trong giao tranh với người chơi."
+          ]
+        },
+        {
+          "stt": "2-6",
+          "id": "command_mod:_disrupt",
+          "name": "Command Mod: Disrupt",
+          "image": "command-mod-disrupt.jpg",
+          "texts": [
+            "Chỉ thị một đơn vị làm choáng kẻ địch trong phạm vi 3 ô trong 1 giây khi đơn vị đó hy sinh."
+          ]
+        },
+        {
+          "stt": "2-7",
+          "id": "command_mod:_optimize",
+          "name": "Command Mod: Optimize",
+          "image": "command-mod-optimize.jpg",
+          "texts": [
+            "Chỉ thị một đơn vị giảm 15% năng lượng tiêu hao của họ."
+          ]
+        },
+        {
+          "stt": "2-8",
+          "id": "command_mod:_fabricate",
+          "name": "Command Mod: Fabricate",
+          "image": "command-mod-fabricate.jpg",
+          "texts": [
+            "Chỉ thị một đơn vị nhận một trang bị đề xuất tạm thời khi bắt đầu giao tranh."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "emblem",
+      "name": "Emblem",
+      "icon": "trait-emblem.svg",
+      "count": "19 items",
+      "description": "Vật phẩm ban cho một đơn vị thêm một tộc hệ. Được chế tạo bằng Xẻng Vàng và một mảnh trang bị thành phần.",
+      "items": [
+        {
+          "stt": "3-1",
+          "id": "dark_star_emblem",
+          "name": "Dark Star Emblem",
+          "image": "emblem-dark-star.png",
+          "texts": [
+            "Người sở hữu nhận tộc hệ Hắc Tinh."
+          ]
+        },
+        {
+          "stt": "3-2",
+          "id": "timebreaker_emblem",
+          "name": "Timebreaker Emblem",
+          "image": "emblem-timebreaker.png",
+          "texts": [
+            "Người sở hữu nhận tộc hệ Phá Thời Gian."
+          ]
+        },
+        {
+          "stt": "3-3",
+          "id": "stargazer_emblem",
+          "name": "Stargazer Emblem",
+          "image": "emblem-stargazer.png",
+          "texts": [
+            "Người sở hữu nhận tộc hệ Chiêm Tinh Gia."
+          ]
+        },
+        {
+          "stt": "3-4",
+          "id": "space_groove_emblem",
+          "name": "Space Groove Emblem",
+          "image": "emblem-space-groove.png",
+          "texts": [
+            "Người sở hữu nhận tộc hệ Nhịp Điệu Không Gian."
+          ]
+        },
+        {
+          "stt": "3-5",
+          "id": "meeple_emblem",
+          "name": "Meeple Emblem",
+          "image": "emblem-meeple.png",
+          "texts": [
+            "Người sở hữu nhận tộc hệ Meeple."
+          ]
+        },
+        {
+          "stt": "3-6",
+          "id": "arbiter_emblem",
+          "name": "Arbiter Emblem",
+          "image": "emblem-arbiter.png",
+          "texts": [
+            "Người sở hữu nhận tộc hệ Chấp Pháp."
+          ]
+        },
+        {
+          "stt": "3-7",
+          "id": "primordian_emblem",
+          "name": "Primordian Emblem",
+          "image": "emblem-primordian.png",
+          "texts": [
+            "Người sở hữu nhận tộc hệ Nguyên Thủy."
+          ]
+        },
+        {
+          "stt": "3-8",
+          "id": "n.o.v.a._emblem",
+          "name": "N.O.V.A. Emblem",
+          "image": "emblem-nova.png",
+          "texts": [
+            "Người sở hữu nhận tộc hệ N.O.V.A."
+          ]
+        },
+        {
+          "stt": "3-9",
+          "id": "marauder_emblem",
+          "name": "Marauder Emblem",
+          "image": "emblem-marauder.png",
+          "texts": [
+            "Người sở hữu nhận tộc hệ Cướp Bóc."
+          ]
+        },
+        {
+          "stt": "3-10",
+          "id": "challenger_emblem",
+          "name": "Challenger Emblem",
+          "image": "emblem-challenger.png",
+          "texts": [
+            "Người sở hữu nhận tộc hệ Thách Đấu."
+          ]
+        },
+        {
+          "stt": "3-11",
+          "id": "voyager_emblem",
+          "name": "Voyager Emblem",
+          "image": "emblem-voyager.png",
+          "texts": [
+            "Người sở hữu nhận tộc hệ Du Hành."
+          ]
+        },
+        {
+          "stt": "3-12",
+          "id": "shepherd_emblem",
+          "name": "Shepherd Emblem",
+          "image": "emblem-shepherd.png",
+          "texts": [
+            "Người sở hữu nhận tộc hệ Người Chăn Dắt."
+          ]
+        },
+        {
+          "stt": "3-13",
+          "id": "bastion_emblem",
+          "name": "Bastion Emblem",
+          "image": "emblem-bastion.png",
+          "texts": [
+            "Người sở hữu nhận tộc hệ Can Trường."
+          ]
+        },
+        {
+          "stt": "3-14",
+          "id": "vanguard_emblem",
+          "name": "Vanguard Emblem",
+          "image": "emblem-vanguard.png",
+          "texts": [
+            "Người sở hữu nhận tộc hệ Tiên Phong."
+          ]
+        },
+        {
+          "stt": "3-15",
+          "id": "brawler_emblem",
+          "name": "Brawler Emblem",
+          "image": "emblem-brawler.png",
+          "texts": [
+            "Người sở hữu nhận tộc hệ Đấu Sĩ."
+          ]
+        },
+        {
+          "stt": "3-16",
+          "id": "rogue_emblem",
+          "name": "Rogue Emblem",
+          "image": "emblem-rogue.png",
+          "texts": [
+            "Người sở hữu nhận tộc hệ Sát Thủ."
+          ]
+        },
+        {
+          "stt": "3-17",
+          "id": "anima_emblem",
+          "name": "Anima Emblem",
+          "image": "emblem-anima-tech.png",
+          "texts": [
+            "Người sở hữu nhận tộc hệ Anima."
+          ]
+        },
+        {
+          "stt": "3-18",
+          "id": "psionic_emblem",
+          "name": "Psionic Emblem",
+          "image": "emblem-psyonic.png",
+          "texts": [
+            "Người sở hữu nhận tộc hệ Tâm Linh."
+          ]
+        },
+        {
+          "stt": "3-19",
+          "id": "sniper_emblem",
+          "name": "Sniper Emblem",
+          "image": "emblem-sniper.png",
+          "texts": [
+            "Người sở hữu nhận tộc hệ Xạ Thủ."
+          ]
+        }
+      ]
+    }
+  ],
+  "augments": [
+    {
+      "stt": "1-1",
+      "id": "poppy_hero",
+      "name": "Poppy Hero",
+      "image": "tier-silver.png",
+      "tier": "2-1",
+      "description": "Nhận 1 Poppy. Poppy trở thành Xạ Thủ đánh xa và các đòn đánh của cô ấy sẽ ném Meeps vào mục tiêu."
+    },
+    {
+      "stt": "1-2",
+      "id": "aatrox_hero",
+      "name": "Aatrox Hero",
+      "image": "tier-silver.png",
+      "tier": "2-1",
+      "description": "Kỹ năng của Aatrox giờ là một chuỗi combo ba đòn đánh tốn ít năng lượng, giúp hồi máu cho anh ta dựa trên một phần sát thương gây ra. Khi chiêu thức NOVA kích hoạt, anh ta sẽ được tăng máu tối đa và kích thước."
+    },
+    {
+      "stt": "1-3",
+      "id": "bonk!",
+      "name": "Bonk!",
+      "image": "tier-silver.png",
+      "tier": "2-1",
+      "description": "Nhận 1 Nasus. Nasus mạnh nhất của bạn trở thành một Đấu Sĩ tấn công với kỹ năng đơn mục tiêu sẽ mạnh dần lên sau mỗi lần hạ gục."
+    },
+    {
+      "stt": "1-4",
+      "id": "charge_transfer_i",
+      "name": "Charge Transfer I",
+      "image": "tier-silver.png",
+      "tier": "3-2",
+      "description": "Đội hình của bạn nhận 5% Gia tăng Sát thương. 50% sát thương dư thừa sẽ gây lên kẻ địch gần nhất."
+    },
+    {
+      "stt": "1-5",
+      "id": "the_tower",
+      "name": "The Tower",
+      "image": "tier-silver.png",
+      "tier": "2-1",
+      "description": "Nhận một bù nhìn tập trận khổng lồ có khả năng giật điện kẻ địch xung quanh."
+    },
+    {
+      "stt": "1-6",
+      "id": "group_hug_i",
+      "name": "Group Hug I",
+      "image": "tier-silver.png",
+      "tier": "3-2",
+      "description": "Bắt đầu giao tranh: Các đồng minh tăng cho các đồng minh liền kề khác 6 Giáp và Kháng Phép. Hiệu ứng này có thể cộng dồn."
+    },
+    {
+      "stt": "1-7",
+      "id": "expedition",
+      "name": "Expedition",
+      "image": "tier-silver.png",
+      "tier": "2-1",
+      "description": "Khi bắt đầu giai đoạn chuẩn bị, bạn sẽ mất tướng nằm ngoài cùng bên phải trên hàng chờ. Sau khi mất tổng cộng 33 vàng giá trị tướng theo cách này, nhận một phần thưởng quyền năng."
+    },
+    {
+      "stt": "1-8",
+      "id": "forge_a_friend",
+      "name": "Forge a Friend",
+      "image": "tier-silver.png",
+      "tier": "4-2",
+      "description": "Tướng 1 vàng tiếp theo bạn mua sẽ trực tiếp lên 3 sao."
+    },
+    {
+      "stt": "1-9",
+      "id": "size_matters",
+      "name": "Size Matters",
+      "image": "tier-silver.png",
+      "tier": "3-2",
+      "description": "Nhận 1 Đai Khổng Lồ. Sau khi một tướng bắt đầu giao tranh với hơn 3800 Máu tối đa, nhận thêm một cái nữa."
+    },
+    {
+      "stt": "1-10",
+      "id": "feeling_lucky",
+      "name": "Feeling Lucky",
+      "image": "tier-silver.png",
+      "tier": "3-2",
+      "description": "Nhận 12 vàng, sau đó tung đồng xu. Nếu là mặt ngửa, nhận thêm 3 vàng."
+    },
+    {
+      "stt": "1-11",
+      "id": "cognitive_tax",
+      "name": "Cognitive Tax",
+      "image": "tier-silver.png",
+      "tier": "2-1",
+      "description": "Nhận 8 vàng và 1 XP."
+    },
+    {
+      "stt": "1-12",
+      "id": "cognitive_tax+",
+      "name": "Cognitive Tax+",
+      "image": "tier-silver.png",
+      "tier": "3-2",
+      "description": "Nhận 12 vàng và 3 XP."
+    },
+    {
+      "stt": "1-13",
+      "id": "kick_start",
+      "name": "Kick Start",
+      "image": "tier-silver.png",
+      "tier": "2-1",
+      "description": "Nhận 1 tướng 2 vàng 2 sao ngẫu nhiên và 1 vàng."
+    },
+    {
+      "stt": "2-1",
+      "id": "anima_commander",
+      "name": "Anima Commander",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "Nhận 1 Briar, 1 Jinx và 1 Illaoi. Tăng máu hiện tại và máu tối đa của linh thú thêm 10."
+    },
+    {
+      "stt": "2-2",
+      "id": "sniper's_nest",
+      "name": "Sniper's Nest",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "Các tướng Xạ Thủ nhận 8% Gia tăng Sát thương cho mỗi trận chiến đấu từ cùng một ô bắt đầu, tối đa 32%. Nhận 1 Ezreal và 1 Gnar."
+    },
+    {
+      "stt": "2-3",
+      "id": "may_the_fours_be_with_you",
+      "name": "May the Fours Be With You",
+      "image": "tier-gold.png",
+      "tier": "4-2",
+      "description": "Các tướng 4 vàng của bạn và Jhin nhận 204 Máu và 14% Tốc độ Đánh. Nhận 1 Jhin."
+    },
+    {
+      "stt": "2-4",
+      "id": "invader_zed",
+      "name": "Invader Zed",
+      "image": "tier-gold.png",
+      "tier": "3-2",
+      "description": "Nhận 1 Huyết Kiếm. Ở vòng 4-1, nhận 1 Zed. Sau khi nhận Zed, anh ta có thể xuất hiện trong cửa hàng của bạn. Zed là một Đấu Sĩ tấn công 5 vàng có khả năng tạo ra các phân thân của chính mình."
+    },
+    {
+      "stt": "2-5",
+      "id": "reach_for_the_stars",
+      "name": "Reach For the Stars",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "Jax nhận tốc độ đánh cộng dồn sau mỗi đòn đánh. Khi tung chiêu, nhảy tới kẻ địch gần đó, gây sát thương và thêm sát thương đòn đánh cộng dồn cho đến hết trận chiến."
+    },
+    {
+      "stt": "2-6",
+      "id": "meep_space_9",
+      "name": "Meep Space 9",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "Meepsie nhận một phiên bản yếu hơn của kỹ năng Brock và sát thương đòn đánh nặng."
+    },
+    {
+      "stt": "2-7",
+      "id": "star_conqueror",
+      "name": "Star Conqueror",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "Mordekaiser trở thành một chủ lực SMPT dựa trên đòn đánh tay, kỹ năng vận sức của anh ta là một đợt bùng nổ tốc độ đánh chừng nào anh ta còn năng lượng để tiêu hao. Khi bắt đầu giao tranh và khi hạ gục, anh ta nhận được một lá chắn không bị khóa năng lượng."
+    },
+    {
+      "stt": "2-8",
+      "id": "self_destruct",
+      "name": "Self Destruct",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "Nhận 1 Gragas. Gragas giờ sẽ tự kích nổ, hy sinh 20% Máu tối đa để gây sát thương phép trong phạm vi bốn ô bằng XXX (SMPT) cộng với lượng máu đã hy sinh, sát thương giảm 20% sau mỗi ô tính từ tâm vụ nổ."
+    },
+    {
+      "stt": "2-9",
+      "id": "contract_killer",
+      "name": "Contract Killer",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "Nhận 1 Pyke. Pyke mạnh nhất của bạn nhận được khả năng tái tạo kỹ năng và tạo vàng khi tham gia hạ gục."
+    },
+    {
+      "stt": "2-10",
+      "id": "side_effects",
+      "name": "Side Effects",
+      "image": "tier-gold.png",
+      "tier": "3-2",
+      "description": "Khi một đồng minh được hồi máu, họ gây 50% lượng máu được hồi đó thành sát thương phép lên mục tiêu. Mỗi 5 giây, các đồng minh hồi 5% Máu tối đa."
+    },
+    {
+      "stt": "2-11",
+      "id": "misfits",
+      "name": "Misfits",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "Đội hình của bạn nhận 75 Máu cho mỗi tộc hệ Độc Nhất đang kích hoạt. Nhận 1 Miss Fortune và 1 Rhaast."
+    },
+    {
+      "stt": "2-12",
+      "id": "booster_pack",
+      "name": "Booster Pack",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "Nhận các tướng ngẫu nhiên có tổng giá trị 11 vàng. (Đảm bảo có ít nhất một tướng 3 vàng!)"
+    },
+    {
+      "stt": "2-13",
+      "id": "booster_pack+",
+      "name": "Booster Pack+",
+      "image": "tier-gold.png",
+      "tier": "3-2",
+      "description": "Nhận các tướng ngẫu nhiên có tổng giá trị 18 vàng. (Đảm bảo có ít nhất một tướng 4 vàng!)"
+    },
+    {
+      "stt": "2-14",
+      "id": "booster_pack++",
+      "name": "Booster Pack++",
+      "image": "tier-gold.png",
+      "tier": "4-2",
+      "description": "Nhận các tướng ngẫu nhiên có tổng giá trị 30 vàng. (Đảm bảo có ít nhất một tướng 5 vàng!)"
+    },
+    {
+      "stt": "2-15",
+      "id": "charge_transfer_ii",
+      "name": "Charge Transfer II",
+      "image": "tier-gold.png",
+      "tier": "3-2",
+      "description": "Đội hình của bạn nhận 8% Gia tăng Sát thương. 80% sát thương dư thừa sẽ gây lên kẻ địch gần nhất."
+    },
+    {
+      "stt": "2-16",
+      "id": "group_hug_ii",
+      "name": "Group Hug II",
+      "image": "tier-gold.png",
+      "tier": "3-2",
+      "description": "Bắt đầu giao tranh: Các đồng minh tăng cho các đồng minh liền kề khác 9 Giáp và Kháng Phép. Hiệu ứng này có thể cộng dồn."
+    },
+    {
+      "stt": "2-17",
+      "id": "frontline_foundation",
+      "name": "Frontline Foundation",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "Nhận 1 tướng Chống Chịu 1 vàng 2 sao và một ấn cho tộc hệ cuối cùng trong danh sách của họ."
+    },
+    {
+      "stt": "2-18",
+      "id": "kahunahuna",
+      "name": "Kahunahuna",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "Mỗi đòn tấn công thứ 5 gây thêm sát thương chuẩn bằng 200% Sát thương Tấn công cơ bản."
+    },
+    {
+      "stt": "2-19",
+      "id": "cosmic_restart",
+      "name": "Cosmic Restart",
+      "image": "tier-gold.png",
+      "tier": "3-2",
+      "description": "Thỉnh cầu các Vị Thần bán tất cả các đơn vị trên bàn cờ và hàng chờ của bạn. Nhận 2 Ấn ngẫu nhiên và 10 lượt đổi lại cửa hàng miễn phí."
+    },
+    {
+      "stt": "2-20",
+      "id": "cognitive_overload",
+      "name": "Cognitive Overload",
+      "image": "tier-gold.png",
+      "tier": "3-2",
+      "description": "Nhận 7 Vàng, 1 tướng 1 vàng 2 sao, 1 tướng 2 vàng, 2 tướng 3 vàng, 1 XP và 1 lượt đổi lại cửa hàng."
+    },
+    {
+      "stt": "2-21",
+      "id": "backline_blueprint",
+      "name": "Backline Blueprint",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "Nhận 1 tướng không phải Chống Chịu 3 vàng và một ấn cho tộc hệ cuối cùng trong danh sách của họ."
+    },
+    {
+      "stt": "2-22",
+      "id": "money_hungry",
+      "name": "Money Hungry",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "Nhận ngay 10 vàng, sau đó nhận 7 vàng khi bắt đầu mỗi giai đoạn. Việc nhặt vàng làm cho Linh thú của bạn lớn hơn."
+    },
+    {
+      "stt": "3-1",
+      "id": "five-pointed_star",
+      "name": "Five-Pointed Star",
+      "image": "tier-prism.png",
+      "tier": "4-2",
+      "description": "Khi bắt đầu mỗi giai đoạn, tướng đầu tiên bạn mua từ một bậc cụ thể sẽ là tướng 2 sao. Nhận ngay 1 tướng 1 vàng 2 sao và 2 vàng. Giai đoạn 2: bậc 2 sao; Giai đoạn 3: bậc 3 sao; Giai đoạn 4: bậc 4 sao; Giai đoạn 5: bậc 5 sao."
+    },
+    {
+      "stt": "3-2",
+      "id": "just_hit",
+      "name": "Just Hit",
+      "image": "tier-prism.png",
+      "tier": "4-2",
+      "description": "Nhận 1 Máy Nhân Bản Tướng, 18 lượt đổi lại cửa hàng và 10 vàng."
+    },
+    {
+      "stt": "3-3",
+      "id": "golden_gamble",
+      "name": "Golden Gamble",
+      "image": "tier-prism.png",
+      "tier": "2-1",
+      "description": "Tung đồng xu. Nếu là mặt ngửa, nhận 1 Rương Trang Bị Ánh Sáng May Mắn. Nếu mặt sấp, nhận 1 trang bị Ánh Sáng ngẫu nhiên và 1 Búa Rèn."
+    },
+    {
+      "stt": "3-4",
+      "id": "baron's_lair",
+      "name": "Baron's Lair",
+      "image": "tier-prism.png",
+      "tier": "2-1",
+      "description": "Nhận 1 trang bị Chống Chịu. Sau 8 giây giao tranh, đội hình của bạn nhận thêm 5% Sát thương Vật lý và Sức mạnh Phép thuật mỗi giây cho đến khi kết thúc giao tranh."
+    }
+  ]
+}

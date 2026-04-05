@@ -1,0 +1,3308 @@
+{
+  "season": {
+    "season": "TFT 17：スペース・ゴッド"
+  },
+  "gods": [
+    {
+      "name": "Ahri",
+      "of": "富の神",
+      "offers": "ゴールド、XP、およびリロール報酬を提供します。",
+      "image": "Ahri-GodOfOpulence.png",
+      "stages": [
+        {
+          "title": "ステージ 2",
+          "values": [
+            "6 ゴールド",
+            "8 XP",
+            "5 リロール",
+            "6 ゴールド（確率で +1）"
+          ]
+        },
+        {
+          "title": "ステージ 3",
+          "values": [
+            "8 ゴールド",
+            "7 リロール",
+            "10 XP",
+            "8 ゴールド（確率で +2）"
+          ]
+        },
+        {
+          "title": "ステージ 4",
+          "values": [
+            "12 ゴールド",
+            "8 リロール",
+            "12 ゴールド（確率で +3）"
+          ]
+        },
+        {
+          "title": "4-7 報酬",
+          "values": [
+            "毎ラウンド 2 ゴールド、2 XP、2 リロールを獲得"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aurelion Sol",
+      "of": "驚異の神",
+      "offers": "経済およびエンブレムの報酬を提供します。",
+      "image": "AurelionSol-GodOfWonders.png",
+      "stages": [
+        {
+          "title": "ステージ 2",
+          "values": [
+            "50 ゴールド達成で素材アイテムの金槌 + 4 ゴールド獲得",
+            "6 つの重複しない特性を配置してランダムなエンブレムと磁気式除去装置を獲得"
+          ]
+        },
+        {
+          "title": "ステージ 3",
+          "values": [
+            "ユニットを星アップして 10 ゴールド獲得",
+            "6 つの重複しない特性を配置してランダムなエンブレムと磁気式除去装置を獲得"
+          ]
+        },
+        {
+          "title": "ステージ 4",
+          "values": [
+            "レベル 9 到達で 20 ゴールド獲得"
+          ]
+        },
+        {
+          "title": "4-7 報酬",
+          "values": [
+            "オレリオン・ソルに実力を示すため、3 つの試練から 1 つを選択"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ekko",
+      "of": "時の神",
+      "offers": "遅延報酬と特別な戦利品を提供します。",
+      "image": "Ekko-GodOfTime.png",
+      "stages": [
+        {
+          "title": "ステージ 2",
+          "values": [
+            "スカトルパドル（+青のオーブ & 3 ゴールド）",
+            "30 HP 時の祝福（25 ゴールド相当）",
+            "4 ラウンド後に「へら」",
+            "8 ラウンド後にアーティファクト",
+            "3 ラウンド後に 4 コストユニット"
+          ]
+        },
+        {
+          "title": "ステージ 3",
+          "values": [
+            "スカトルパドル（+青のオーブ & 4 ゴールド）",
+            "インプラント（攻撃速度 20%）",
+            "4 ラウンド後に 5 コストユニット x2",
+            "3 ラウンド後に素材アイテムの金槌"
+          ]
+        },
+        {
+          "title": "ステージ 4",
+          "values": [
+            "5 ラウンド後にアーティファクト",
+            "4 ラウンド後に完成アイテムの金槌",
+            "毎ターン 2 ゴールド獲得",
+            "3 ラウンド後にすべて 5 コストのショップ",
+            "インプラント（攻撃速度 20%）"
+          ]
+        },
+        {
+          "title": "4-7 報酬",
+          "values": [
+            "役割に応じて独自のボーナスを与える「アノマリーアイテム」を獲得"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Evelynn",
+      "of": "誘惑の神",
+      "offers": "タクティシャンの体力を引き換えに、より強力な報酬を提供します。",
+      "image": "Evelynn-GodOfTemptation.png",
+      "stages": [
+        {
+          "title": "ステージ 2",
+          "values": [
+            "8 ゴールド、毎ラウンド 1 HP 減少",
+            "星 2 の 2 コストユニット、-1 HP",
+            "小さなチャンピオン複製器 x2、2 ラウンド間ショップなし"
+          ]
+        },
+        {
+          "title": "ステージ 3",
+          "values": [
+            "11 ゴールド、毎ラウンド 1 HP 減少",
+            "ランダムなエンブレム、-3 HP",
+            "15 ゴールド、2 ラウンド間ショップなし",
+            "星 2 の 3 コストユニット、-2 HP",
+            "星 3 の 1 コストユニット、-2 HP"
+          ]
+        },
+        {
+          "title": "ステージ 4",
+          "values": [
+            "14 ゴールド、毎ラウンド 1 HP 減少",
+            "星 2 の 4 コストユニット、-3 HP",
+            "完成アイテム、-5 HP",
+            "18 ゴールド、2 ラウンド間ショップなし"
+          ]
+        },
+        {
+          "title": "4-7 報酬",
+          "values": [
+            "チームが 10% の耐久力を獲得。敗北時にさらに 1 の体力を失う"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kayle",
+      "of": "秩序の神",
+      "offers": "素材アイテムの報酬を提供します。",
+      "image": "Kayle-GodOfOrder.png",
+      "stages": [
+        {
+          "title": "ステージ 2",
+          "values": [
+            "ランダムな素材アイテム",
+            "スパーリング・グローブ",
+            "リカーブ・ボウ",
+            "女神の涙"
+          ]
+        },
+        {
+          "title": "ステージ 3",
+          "values": [
+            "ランダムな素材アイテム",
+            "B.F. ソード",
+            "チェイン・ベスト",
+            "無駄に大きなロッド",
+            "ネガトロン・クローク"
+          ]
+        },
+        {
+          "title": "ステージ 4",
+          "values": [
+            "ランダムな素材アイテム",
+            "スパーリング・グローブ",
+            "リカーブ・ボウ",
+            "女神の涙",
+            "B.F. ソード",
+            "チェイン・ベスト",
+            "無駄に大きなロッド",
+            "ネガトロン・クローク"
+          ]
+        },
+        {
+          "title": "4-7 報酬",
+          "values": [
+            "ランダムな完成アイテム 1 つをレディアントアイテムにアップグレード"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soraka",
+      "of": "星の神",
+      "offers": "体力および体力に基づいた報酬を提供します。",
+      "image": "Soraka-GodOfStars.png",
+      "stages": [
+        {
+          "title": "ステージ 2",
+          "values": [
+            "8 HP（確率で 3 ゴールド）",
+            "12 HP",
+            "ジャイアント・ベルト"
+          ]
+        },
+        {
+          "title": "ステージ 3",
+          "values": [
+            "8 HP（確率で 5 ゴールド）",
+            "12 HP",
+            "ジャイアント・ベルト",
+            "インプラント（350 HP）"
+          ]
+        },
+        {
+          "title": "ステージ 4",
+          "values": [
+            "8 HP（確率で 5 ゴールド）",
+            "12 HP",
+            "ジャイアント・ベルト",
+            "インプラント（350 HP）"
+          ]
+        },
+        {
+          "title": "4-7 報酬",
+          "values": [
+            "失ったタクティシャンの体力ごとにチームが 2 HP 獲得。毎ラウンド現在および最大 HP が +1"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Thresh",
+      "of": "契約の神",
+      "offers": "ランダムな戦利品とゴールドを提供します。",
+      "image": "Thresh-GodOfPacts.png",
+      "stages": [
+        {
+          "title": "ステージ 2",
+          "values": [
+            "ランダム報酬 + 2 ゴールド",
+            "ランダムな戦利品（期待値 7）"
+          ]
+        },
+        {
+          "title": "ステージ 3",
+          "values": [
+            "ランダム報酬 + 3 ゴールド",
+            "ランダムな戦利品（期待値 9）"
+          ]
+        },
+        {
+          "title": "ステージ 4",
+          "values": [
+            "ランダム報酬 + 5 ゴールド",
+            "ランダムな戦利品（期待値 10）"
+          ]
+        },
+        {
+          "title": "4-7 報酬",
+          "values": [
+            "プレイヤー戦闘のたびにダイスを振る。出目に応じた報酬を獲得"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Varus",
+      "of": "愛の神",
+      "offers": "チャンピオン、複製器、およびショップ関連の報酬を提供します。",
+      "image": "Varus-GodOfLove.png",
+      "stages": [
+        {
+          "title": "ステージ 2",
+          "values": [
+            "2 & 3 コストユニット",
+            "所持している 3 コストユニット",
+            "小さなチャンピオン複製器 x2",
+            "3 コスト確定ショップ"
+          ]
+        },
+        {
+          "title": "ステージ 3",
+          "values": [
+            "3 & 4 コストユニット",
+            "チャンピオン複製器（小）",
+            "所持している 3 コストユニット",
+            "4 コスト確定ショップ"
+          ]
+        },
+        {
+          "title": "ステージ 4",
+          "values": [
+            "4 & 5 コストユニット",
+            "チャンピオン複製器（小）+ 3 ゴールド",
+            "チャンピオン複製器（小）x1 + 小さなチャンピオン複製器 x5",
+            "所持している 4 コストユニット",
+            "5 コスト出現率が 1% 上昇"
+          ]
+        },
+        {
+          "title": "4-7 報酬",
+          "values": [
+            "自軍の合計星レベルごとにチームが 10 HP 獲得。5 コスト出現率が 4% 上昇"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yasuo",
+      "of": "深淵の神",
+      "offers": "強化された戦闘ヘックス効果を提供します。",
+      "image": "Yasuo-GodOfTheAbyss.png",
+      "stages": [
+        {
+          "title": "ステージ 2",
+          "values": [
+            "火のヘックス（18% ダメージ、炎上/負傷）",
+            "木のヘックス（10% + 30 HP）",
+            "風のヘックス（30% 攻撃速度）",
+            "氷のヘックス（15% 回復）",
+            "雷のヘックス（2秒スタン）",
+            "ソーシャライト・ヘックス（2 マナ回復）"
+          ]
+        },
+        {
+          "title": "ステージ 3",
+          "values": [
+            "火のヘックス（18% ダメージ、炎上/負傷）",
+            "風のヘックス（30% 攻撃速度）",
+            "氷のヘックス（15% 回復）",
+            "雷のヘックス（2秒スタン）",
+            "ソーシャライト・ヘックス（2 マナ回復）"
+          ]
+        },
+        {
+          "title": "ステージ 4",
+          "values": [
+            "火のヘックス（18% ダメージ、炎上/負傷）",
+            "風のヘックス（30% 攻撃速度）",
+            "氷のヘックス（15% 回復）",
+            "雷のヘックス（2秒スタン）",
+            "ソーシャライト・ヘックス（2 マナ回復）"
+          ]
+        },
+        {
+          "title": "4-7 報酬",
+          "values": [
+            "ヤスオのヘックスの効果を 50% 上昇。ヘックスが 2 つしかない場合、12 ゴールド獲得"
+          ]
+        }
+      ]
+    }
+  ],
+  "synergys": [
+    {
+      "section": "origin-synergy",
+      "name": "Dark Star",
+      "icon": "DarkStar.png",
+      "champions": [
+        {
+          "name": "Cho'Gath",
+          "image": "ChoGath.png"
+        },
+        {
+          "name": "Lissandra",
+          "image": "Lissandra.png"
+        },
+        {
+          "name": "Mordekaiser",
+          "image": "Mordekaiser.png"
+        },
+        {
+          "name": "Kai'Sa",
+          "image": "KaiSa.png"
+        },
+        {
+          "name": "Karma",
+          "image": "Karma.png"
+        },
+        {
+          "name": "Jhin",
+          "image": "Jhin.png"
+        }
+      ],
+      "description": "ダークスター",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "ダークスターのユニットは、敵の体力が10%未満になると、その敵を飲み込むブラックホールを生成します。"
+        },
+        {
+          "count": "(4)",
+          "text": "さらに、攻撃力と魔力が30%増加します。"
+        },
+        {
+          "count": "(6)",
+          "text": "さらに、最も強力なダークスターユニットが「超巨大化」し、ダークスターの効果が100%上昇、さらに2つの小型ブラックホールを生成します。"
+        },
+        {
+          "count": "(9)",
+          "text": "すべてのダークスターユニットが超巨大化します。レベル10では、すべてを飲み込みます。"
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "Meeple",
+      "icon": "Meeple.png",
+      "champions": [
+        {
+          "name": "Poppy",
+          "image": "Poppy.png"
+        },
+        {
+          "name": "Veigar",
+          "image": "Veigar.png"
+        },
+        {
+          "name": "Gnar",
+          "image": "Gnar.png"
+        },
+        {
+          "name": "Meepsie",
+          "image": "Meepsie.png"
+        },
+        {
+          "name": "Fizz",
+          "image": "Fizz.png"
+        },
+        {
+          "name": "Corki",
+          "image": "Corki.png"
+        },
+        {
+          "name": "Rammus",
+          "image": "Rammus.png"
+        },
+        {
+          "name": "Bard",
+          "image": "Bard.png"
+        }
+      ],
+      "description": "アストロノートはミープを引き寄せ、奇妙な方法でスキルを強化します。また、追加の体力を獲得します。",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "2%、体力125"
+        },
+        {
+          "count": "(5)",
+          "text": "3%、体力250"
+        },
+        {
+          "count": "(7)",
+          "text": "4%、体力400。待機所に複製スロットを作成します。複製が完了すると、そこに置かれたチャンピオンの1つ星コピーとゴールドを獲得します。"
+        },
+        {
+          "count": "(10)",
+          "text": "6%、体力1000。4体のミープロードを召喚！複製時間 = チャンピオンのコスト。"
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "N.O.V.A.",
+      "icon": "NOVA.png",
+      "champions": [
+        {
+          "name": "Aatrox",
+          "image": "Aatrox.png"
+        },
+        {
+          "name": "Caitlyn",
+          "image": "Caitlyn.png"
+        },
+        {
+          "name": "Akali",
+          "image": "Akali.png"
+        },
+        {
+          "name": "Maokai",
+          "image": "Maokai.png"
+        },
+        {
+          "name": "Kindred",
+          "image": "Kindred.png"
+        }
+      ],
+      "description": "N.O.V.A.",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "戦闘開始から6秒後、N.O.V.A.はチャンピオンに基づいたパワーを味方に与えます。"
+        },
+        {
+          "count": "(5)",
+          "text": "ストライクセレクターを獲得します。選択されたN.O.V.A.チャンピオンはパワーの中で「ストライク」を発動します。エイトロックス: 味方の攻撃が敵の防具を30%減少 / ケイトリン: 味方の攻撃速度+20% / アカリ: 味方が「デッドアイ」を獲得 / マオカイ: 味方が最大体力の15%を回復 / キンドレッド: 最も強力なタンクに800のシールドを付与 / 紋章: 味方の確定ダメージが10%増加（スタック可能）。"
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "Primordian",
+      "icon": "Primordian.png",
+      "champions": [
+        {
+          "name": "Briar",
+          "image": "Briar.png"
+        },
+        {
+          "name": "Rek'Sai",
+          "image": "RekSai.png"
+        },
+        {
+          "name": "Bel'Veth",
+          "image": "BelVeth.png"
+        }
+      ],
+      "description": "プリモーディアン",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "ダメージを与えると、プリモーディアンユニットの星レベルに応じたヴォイドリングを召喚します。"
+        },
+        {
+          "count": "(3)",
+          "text": "さらに多くのヴォイドリングを召喚！毎ラウンド、ランダムな1または2コストのユニットを獲得。受けるダメージの8%を、与えるダメージに変換します。"
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "Psionic",
+      "icon": "Psionic.png",
+      "champions": [
+        {
+          "name": "Gragas",
+          "image": "Gragas.png"
+        },
+        {
+          "name": "Pyke",
+          "image": "Pyke.png"
+        },
+        {
+          "name": "Viktor",
+          "image": "Viktor.png"
+        },
+        {
+          "name": "Master Yi",
+          "image": "MasterYi.png"
+        },
+        {
+          "name": "Sona",
+          "image": "Sona.png"
+        }
+      ],
+      "description": "任意の味方に装備可能な「サイオニック・アイテム」を獲得します。",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "サイオニック・アイテムを1つ獲得。"
+        },
+        {
+          "count": "(4)",
+          "text": "サイオニック・アイテムを2つ獲得。サイオニック・アイテムは、サイオニックユニットが装備した際に追加効果を発動します。"
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "Space Groove",
+      "icon": "SpaceGroove.png",
+      "champions": [
+        {
+          "name": "Nasus",
+          "image": "Nasus.png"
+        },
+        {
+          "name": "Teemo",
+          "image": "Teemo.png"
+        },
+        {
+          "name": "Gwen",
+          "image": "Gwen.png"
+        },
+        {
+          "name": "Ornn",
+          "image": "Ornn.png"
+        },
+        {
+          "name": "Samira",
+          "image": "Samira.png"
+        },
+        {
+          "name": "Nami",
+          "image": "Nami.png"
+        },
+        {
+          "name": "Blitzcrank",
+          "image": "Blitzcrank.png"
+        }
+      ],
+      "description": "スペースグルーヴ",
+      "effects": [
+        {
+          "count": "(1)",
+          "text": "グルーヴの住人は「ザ・グルーヴ（ノリノリ状態）」に入ることができます。この状態では攻撃速度が増加し、最大体力を回復します。効果はチーム内の住人の数に応じて上昇します。"
+        },
+        {
+          "count": "(3)",
+          "text": "すべてのグルーヴの住人は、戦闘開始時の3秒間「ザ・グルーヴ」に入ります。"
+        },
+        {
+          "count": "(5)",
+          "text": "「ザ・グルーヴ」の状態1秒ごとに、攻撃力と魔力が3%増加します（スタック可能）。"
+        },
+        {
+          "count": "(7)",
+          "text": "これらの効果が20%強化されます！"
+        },
+        {
+          "count": "(10)",
+          "text": "究極のグルーヴ"
+        }
+      ]
+    },
+    {
+      "section": "origin-synergy",
+      "name": "Timebreaker",
+      "icon": "Timebreaker.png",
+      "champions": [
+        {
+          "name": "Ezreal",
+          "image": "Ezreal.png"
+        },
+        {
+          "name": "Milio",
+          "image": "Milio.png"
+        },
+        {
+          "name": "Pantheon",
+          "image": "Pantheon.png"
+        },
+        {
+          "name": "Riven",
+          "image": "Riven.png"
+        }
+      ],
+      "description": "タイムブレイカー",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "敗北時、無料のリロールを獲得します。勝利時、経験値をタイムコアに蓄積します（ステージに応じて増加）。"
+        },
+        {
+          "count": "(3)",
+          "text": "さらに、味方の攻撃速度が15%増加します。"
+        },
+        {
+          "count": "(4)",
+          "text": "さらに、タイムブレイカーユニットの攻撃速度が50%増加します。"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Commander (Sona)",
+      "icon": "Commander.png",
+      "champions": [
+        {
+          "name": "Sona",
+          "image": "Sona.png"
+        }
+      ],
+      "description": "ソナは2ラウンドごとにランダムな「コマンダー・モッド」を提供し、味方の戦闘スタイルを変更させます。モッドは装備していなくても2ラウンドの間持続します。",
+      "effects": []
+    },
+    {
+      "section": "class-synergy",
+      "name": "Galaxy Hunter (Zed)",
+      "icon": "GalaxyHunter.png",
+      "champions": [
+        {
+          "name": "Zed",
+          "image": "Zed.png"
+        }
+      ],
+      "description": "オーグメント「インベーダー・ゼド」から獲得。分身が1体以上生存している間、ゼドの攻撃力が40%増加します。",
+      "effects": []
+    },
+    {
+      "section": "class-synergy",
+      "name": "Oracle (Tahm Kench)",
+      "icon": "OracleTahmKench.svg",
+      "champions": [
+        {
+          "name": "Tahm Kench",
+          "image": "TahmKench.png"
+        }
+      ],
+      "description": "3ラウンドごとに、タム・ケンチが報酬を授けます！",
+      "effects": []
+    },
+    {
+      "section": "class-synergy",
+      "name": "Anima",
+      "icon": "Anima.png",
+      "champions": [
+        {
+          "name": "Briar",
+          "image": "Briar.png"
+        },
+        {
+          "name": "Jinx",
+          "image": "Jinx.png"
+        },
+        {
+          "name": "Aurora",
+          "image": "Aurora.png"
+        },
+        {
+          "name": "Illaoi",
+          "image": "Illaoi.png"
+        },
+        {
+          "name": "Fiora",
+          "image": "Fiora.png"
+        }
+      ],
+      "description": "プレイヤー戦で敗北すると15のテックを獲得し、連敗数に応じてさらに追加されます。また、アニマユニットがキルに関与するたびに2のテックを獲得します。テックが100貯まるごとに新しいアニマ武器を製造します。すぐに入手するか、さらに強力な武器のためにテックを貯めることができます。",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "研究開始！"
+        },
+        {
+          "count": "(6)",
+          "text": "勝利時に戦利品ボックスを獲得。"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Arbiter",
+      "icon": "Arbiter.png",
+      "champions": [
+        {
+          "name": "Leona",
+          "image": "Leona.png"
+        },
+        {
+          "name": "Zoe",
+          "image": "Zoe.png"
+        },
+        {
+          "name": "Diana",
+          "image": "Diana.png"
+        },
+        {
+          "name": "LeBlanc",
+          "image": "LeBlanc.png"
+        }
+      ],
+      "description": "アービター：独自の「神聖法」を制定し、特定の条件が満たされたときにアービターユニットに適用される効果を選択します。",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "法の「原因」と「結果」を選択します。"
+        },
+        {
+          "count": "(3)",
+          "text": "効果が強化されます。"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Bastion",
+      "icon": "Bastion.png",
+      "champions": [
+        {
+          "name": "Aatrox",
+          "image": "Aatrox.png"
+        },
+        {
+          "name": "Poppy",
+          "image": "Poppy.png"
+        },
+        {
+          "name": "Jax",
+          "image": "Jax.png"
+        },
+        {
+          "name": "Ornn",
+          "image": "Ornn.png"
+        },
+        {
+          "name": "Rammus",
+          "image": "Rammus.png"
+        },
+        {
+          "name": "Shen",
+          "image": "Shen.png"
+        }
+      ],
+      "description": "味方チームの防御力と魔法耐性が12増加します。バスティオンユニットはさらに多くのボーナスを獲得し、戦闘開始からの10秒間はこの値が2倍になります。",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "物理防御 & 魔法耐性 +16"
+        },
+        {
+          "count": "(4)",
+          "text": "物理防御 & 魔法耐性 +35"
+        },
+        {
+          "count": "(6)",
+          "text": "物理防御 & 魔法耐性 +55。バスティオン以外のユニットも物理防御 & 魔法耐性 +20を獲得。"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Brawler",
+      "icon": "Brawler.png",
+      "champions": [
+        {
+          "name": "Cho'Gath",
+          "image": "ChoGath.png"
+        },
+        {
+          "name": "Rek'Sai",
+          "image": "RekSai.png"
+        },
+        {
+          "name": "Gragas",
+          "image": "Gragas.png"
+        },
+        {
+          "name": "Pantheon",
+          "image": "Pantheon.png"
+        },
+        {
+          "name": "Maokai",
+          "image": "Maokai.png"
+        },
+        {
+          "name": "Urgot",
+          "image": "Urgot.png"
+        },
+        {
+          "name": "Tahm Kench",
+          "image": "TahmKench.png"
+        }
+      ],
+      "description": "味方チームの最大体力が7%増加します。ブローラーユニットはさらに多くのボーナスを獲得します。",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "最大体力 +25%"
+        },
+        {
+          "count": "(4)",
+          "text": "最大体力 +45%"
+        },
+        {
+          "count": "(6)",
+          "text": "最大体力 +65%"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Challenger",
+      "icon": "Challenger.png",
+      "champions": [
+        {
+          "name": "Bel'Veth",
+          "image": "BelVeth.png"
+        },
+        {
+          "name": "Jinx",
+          "image": "Jinx.png"
+        },
+        {
+          "name": "Diana",
+          "image": "Diana.png"
+        },
+        {
+          "name": "Miss Fortune",
+          "image": "MissFortune.png"
+        },
+        {
+          "name": "Kindred",
+          "image": "Kindred.png"
+        }
+      ],
+      "description": "味方チームの攻撃速度が10%増加します。チャレンジャーユニットはさらに多くの攻撃速度を獲得します。ターゲットが死亡すると、チャレンジャーは新しいターゲットへダッシュし、2.5秒間攻撃速度ボーナスが50%増加します。",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "攻撃速度 +15%"
+        },
+        {
+          "count": "(3)",
+          "text": "攻撃速度 +22%"
+        },
+        {
+          "count": "(4)",
+          "text": "攻撃速度 +30%"
+        },
+        {
+          "count": "(5)",
+          "text": "攻撃速度 +40%"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Channeler",
+      "icon": "Channeler.png",
+      "champions": [
+        {
+          "name": "Mordekaiser",
+          "image": "Mordekaiser.png"
+        },
+        {
+          "name": "Zoe",
+          "image": "Zoe.png"
+        },
+        {
+          "name": "Miss Fortune",
+          "image": "MissFortune.png"
+        },
+        {
+          "name": "Viktor",
+          "image": "Viktor.png"
+        },
+        {
+          "name": "Aurelion Sol",
+          "image": "AurelionSol.png"
+        },
+        {
+          "name": "Bard",
+          "image": "Bard.png"
+        }
+      ],
+      "description": "常時発動：チャネラーはあらゆる源からのマナ獲得量が20%増加します。味方チームはマナ回復を獲得し、チャネラーはさらに多くの回復量を得ます。",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "マナ回復 1% | チャネラーは 3%"
+        },
+        {
+          "count": "(3)",
+          "text": "マナ回復 1% | チャネラーは 4%"
+        },
+        {
+          "count": "(4)",
+          "text": "マナ回復 2% | チャネラーは 6%"
+        },
+        {
+          "count": "(5)",
+          "text": "マナ回復 2% | チャネラーは 7%"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Fateweaver",
+      "icon": "Fateweaver.png",
+      "champions": [
+        {
+          "name": "Caitlyn",
+          "image": "Caitlyn.png"
+        },
+        {
+          "name": "Twisted Fate",
+          "image": "TwistedFate.png"
+        },
+        {
+          "name": "Milio",
+          "image": "Milio.png"
+        },
+        {
+          "name": "Corki",
+          "image": "Corki.png"
+        }
+      ],
+      "description": "常時発動：フェイトウィーバーユニットは「デッドアイ」を持っています。",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "スキルの確率要素がすべて「ラッキー」になります。"
+        },
+        {
+          "count": "(4)",
+          "text": "クリティカル率+20%、クリティカルダメージ+10%を獲得。クリティカルヒットも「ラッキー」になります。"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Marauder",
+      "icon": "Marauder.png",
+      "champions": [
+        {
+          "name": "Akali",
+          "image": "Akali.png"
+        },
+        {
+          "name": "Bel'Veth",
+          "image": "BelVeth.png"
+        },
+        {
+          "name": "Urgot",
+          "image": "Urgot.png"
+        },
+        {
+          "name": "Master Yi",
+          "image": "MasterYi.png"
+        },
+        {
+          "name": "Fiora",
+          "image": "Fiora.png"
+        }
+      ],
+      "description": "味方チームが5%のオムニヴァンプを獲得します。マローダーユニットはさらにオムニヴァンプと攻撃力が増加し、過剰回復分はシールド（最大体力の25%まで）に変換されます。",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "オムニヴァンプ 5%、攻撃力 +20%"
+        },
+        {
+          "count": "(4)",
+          "text": "オムニヴァンプ 7%、攻撃力 +30%"
+        },
+        {
+          "count": "(6)",
+          "text": "オムニヴァンプ 10%、攻撃力 +40%"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Mecha",
+      "icon": "Mecha.png",
+      "champions": [
+        {
+          "name": "Urgot",
+          "image": "Urgot.png"
+        },
+        {
+          "name": "Aurelion Sol",
+          "image": "AurelionSol.png"
+        },
+        {
+          "name": "The Mighty Mech",
+          "image": "TheMightyMech.png"
+        }
+      ],
+      "description": "常時発動：メカユニットは「アルティメット形態」に換装でき、スキルがアップグレードされ、体力が60%増加します。換装したメカは2スロットを消費し、メカの特性カウントとしては2体分として数えられます。",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "パワーバッテリー：メカの攻撃力と魔力が20%増加。"
+        },
+        {
+          "count": "(4)",
+          "text": "オーバーチャージ・バッテリー：ボーナスが35%に増加。"
+        },
+        {
+          "count": "(6)",
+          "text": "精密工学：チームサイズの上限が+1されます。"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Replicator",
+      "icon": "Replicator.png",
+      "champions": [
+        {
+          "name": "Lissandra",
+          "image": "Lissandra.png"
+        },
+        {
+          "name": "Veigar",
+          "image": "Veigar.png"
+        },
+        {
+          "name": "Pantheon",
+          "image": "Pantheon.png"
+        },
+        {
+          "name": "Lulu",
+          "image": "Lulu.png"
+        },
+        {
+          "name": "Miss Fortune",
+          "image": "MissFortune.png"
+        },
+        {
+          "name": "Nami",
+          "image": "Nami.png"
+        }
+      ],
+      "description": "レプリケーターのスキルは、威力を下げた状態で2回発動します。",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "威力 25%"
+        },
+        {
+          "count": "(4)",
+          "text": "威力 50%"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Rogue",
+      "icon": "Rogue.png",
+      "champions": [
+        {
+          "name": "Briar",
+          "image": "Briar.png"
+        },
+        {
+          "name": "Talon",
+          "image": "Talon.png"
+        },
+        {
+          "name": "Gwen",
+          "image": "Gwen.png"
+        },
+        {
+          "name": "Fizz",
+          "image": "Fizz.png"
+        },
+        {
+          "name": "Kai'Sa",
+          "image": "KaiSa.png"
+        },
+        {
+          "name": "Riven",
+          "image": "Riven.png"
+        }
+      ],
+      "description": "ローグユニットは攻撃力と魔力を獲得します。体力が初めて50%未満になると影に隠れ、自身を狙っていた敵のターゲットを付近の他の味方（タンク優先）へ逸らします。",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "攻撃力 & 魔力 +15%"
+        },
+        {
+          "count": "(3)",
+          "text": "攻撃力 & 魔力 +30%"
+        },
+        {
+          "count": "(4)",
+          "text": "攻撃力 & 魔力 +45%"
+        },
+        {
+          "count": "(5)",
+          "text": "攻撃力 & 魔力 +60%"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Shepherd",
+      "icon": "Shepherd.png",
+      "champions": [
+        {
+          "name": "Lissandra",
+          "image": "Lissandra.png"
+        },
+        {
+          "name": "Teemo",
+          "image": "Teemo.png"
+        },
+        {
+          "name": "Meepsie",
+          "image": "Meepsie.png"
+        },
+        {
+          "name": "Illaoi",
+          "image": "Illaoi.png"
+        },
+        {
+          "name": "LeBlanc",
+          "image": "LeBlanc.png"
+        },
+        {
+          "name": "Sona",
+          "image": "Sona.png"
+        }
+      ],
+      "description": "シェパードは戦闘を支援するために「アストラル・リンク」を召喚します。",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "ビアを召喚"
+        },
+        {
+          "count": "(5)",
+          "text": "ベインを召喚"
+        },
+        {
+          "count": "(7)",
+          "text": "ビアとベインの絆が深まります。ビアとベインの強さは、全シェパードユニットの合計星レベルに応じて上昇します。"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Sniper",
+      "icon": "Sniper.png",
+      "champions": [
+        {
+          "name": "Ezreal",
+          "image": "Ezreal.png"
+        },
+        {
+          "name": "Gnar",
+          "image": "Gnar.png"
+        },
+        {
+          "name": "Samira",
+          "image": "Samira.png"
+        },
+        {
+          "name": "Xayah",
+          "image": "Xayah.png"
+        },
+        {
+          "name": "Jhin",
+          "image": "Jhin.png"
+        }
+      ],
+      "description": "スナイパーは与えるダメージが増加し、ターゲットとの距離が遠いほど効果が高まります。",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "ダメージ +18%（1マスごとに+2%）"
+        },
+        {
+          "count": "(3)",
+          "text": "ダメージ +24%（1マスごとに+3%）"
+        },
+        {
+          "count": "(4)",
+          "text": "ダメージ +28%（1マスごとに+4%）"
+        },
+        {
+          "count": "(5)",
+          "text": "ダメージ +32%（1マスごとに+5%）"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Stargazer (The Altar)",
+      "icon": "Stargazer.png",
+      "champions": [
+        {
+          "name": "Talon",
+          "image": "Talon.png"
+        },
+        {
+          "name": "Twisted Fate",
+          "image": "TwistedFate.png"
+        },
+        {
+          "name": "Jax",
+          "image": "Jax.png"
+        },
+        {
+          "name": "Lulu",
+          "image": "Lulu.png"
+        },
+        {
+          "name": "Nunu",
+          "image": "Nunu.png"
+        },
+        {
+          "name": "Xayah",
+          "image": "Xayah.png"
+        }
+      ],
+      "description": "スターゲイザーは試合ごとに異なる星座を描きます。今回の試合：祭壇。",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "ユニットが死亡するたびに、祭壇に生贄として捧げられます。強化スロットにいる味方は体力10%と攻撃速度15%を獲得します。60回の生贄後、強化スロットのスターゲイザーは追加で体力25%と攻撃速度40%を獲得します。プレイヤーレベルが上がるとスロットが増えます。"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Stargazer (The Boar)",
+      "icon": "Stargazer.png",
+      "champions": [
+        {
+          "name": "Talon",
+          "image": "Talon.png"
+        },
+        {
+          "name": "Twisted Fate",
+          "image": "TwistedFate.png"
+        },
+        {
+          "name": "Jax",
+          "image": "Jax.png"
+        },
+        {
+          "name": "Lulu",
+          "image": "Lulu.png"
+        },
+        {
+          "name": "Nunu",
+          "image": "Nunu.png"
+        },
+        {
+          "name": "Xayah",
+          "image": "Xayah.png"
+        }
+      ],
+      "description": "スターゲイザーは試合ごとに異なる星座を描きます。今回の試合：猪。勝利時にゴールドを獲得。強化スロットの味方は体力、攻撃力、魔力が8%増加。スターゲイザーはさらに多くの効果を得ます。",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "1G、体力10%、攻撃力 & 魔力 18%"
+        },
+        {
+          "count": "(4)",
+          "text": "2G、体力15%、攻撃力 & 魔力 25%"
+        },
+        {
+          "count": "(5)",
+          "text": "3G、体力20%、攻撃力 & 魔力 33%"
+        },
+        {
+          "count": "(6)",
+          "text": "5G、体力25%、攻撃力 & 魔力 40%。レベルに応じてスロット増。"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Stargazer (The Fountain)",
+      "icon": "Stargazer.png",
+      "champions": [
+        {
+          "name": "Talon",
+          "image": "Talon.png"
+        },
+        {
+          "name": "Twisted Fate",
+          "image": "TwistedFate.png"
+        },
+        {
+          "name": "Jax",
+          "image": "Jax.png"
+        },
+        {
+          "name": "Lulu",
+          "image": "Lulu.png"
+        },
+        {
+          "name": "Nunu",
+          "image": "Nunu.png"
+        },
+        {
+          "name": "Xayah",
+          "image": "Xayah.png"
+        }
+      ],
+      "description": "スターゲイザーは試合ごとに異なる星座を描きます。今回の試合：泉。強化スロットの味方はマナ回復+1を獲得。強化スロットのスターゲイザーはさらに多くの効果を得て、スキル使用時に最も体力が低い味方を回復します。",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "マナ回復 3、スキルダメージの10%分を回復"
+        },
+        {
+          "count": "(5)",
+          "text": "マナ回復 5、スキルダメージの18%分を回復。レベルに応じてスロット増。"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Stargazer (The Huntress)",
+      "icon": "Stargazer.png",
+      "champions": [
+        {
+          "name": "Talon",
+          "image": "Talon.png"
+        },
+        {
+          "name": "Twisted Fate",
+          "image": "TwistedFate.png"
+        },
+        {
+          "name": "Jax",
+          "image": "Jax.png"
+        },
+        {
+          "name": "Lulu",
+          "image": "Lulu.png"
+        },
+        {
+          "name": "Nunu",
+          "image": "Nunu.png"
+        },
+        {
+          "name": "Xayah",
+          "image": "Xayah.png"
+        }
+      ],
+      "description": "スターゲイザーは試合ごとに異なる星座を描きます。今回の試合：狩人。最も体力の高い敵をマークします。強化スロットの味方は攻撃速度+15%を獲得。強化スロットのスターゲイザーはさらに多く獲得し、マークされた敵が死亡すると最大体力の10%を回復します。",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "攻撃速度 30%、マーク 3体"
+        },
+        {
+          "count": "(5)",
+          "text": "攻撃速度 45%、マーク 5体"
+        },
+        {
+          "count": "(7)",
+          "text": "攻撃速度 60%、マーク 7体。レベルに応じてスロット増。"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Stargazer (The Medallion)",
+      "icon": "Stargazer.png",
+      "champions": [
+        {
+          "name": "Talon",
+          "image": "Talon.png"
+        },
+        {
+          "name": "Twisted Fate",
+          "image": "TwistedFate.png"
+        },
+        {
+          "name": "Jax",
+          "image": "Jax.png"
+        },
+        {
+          "name": "Lulu",
+          "image": "Lulu.png"
+        },
+        {
+          "name": "Nunu",
+          "image": "Nunu.png"
+        },
+        {
+          "name": "Xayah",
+          "image": "Xayah.png"
+        }
+      ],
+      "description": "スターゲイザーは試合ごとに異なる星座を描きます。今回の試合：メダリオン。",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "強化スロットの味方はダメージ増幅15%を獲得し、チーム内の3つ星ユニット1体につきさらに3%増加します。レベルに応じてスロット増。"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Stargazer (The Mountain)",
+      "icon": "Stargazer.png",
+      "champions": [
+        {
+          "name": "Talon",
+          "image": "Talon.png"
+        },
+        {
+          "name": "Twisted Fate",
+          "image": "TwistedFate.png"
+        },
+        {
+          "name": "Jax",
+          "image": "Jax.png"
+        },
+        {
+          "name": "Lulu",
+          "image": "Lulu.png"
+        },
+        {
+          "name": "Nunu",
+          "image": "Nunu.png"
+        },
+        {
+          "name": "Xayah",
+          "image": "Xayah.png"
+        }
+      ],
+      "description": "スターゲイザーは試合ごとに異なる星座を描きます。今回の試合：山。5ラウンドごとにスターゲイザーの紋章を獲得。強化スロットのスターゲイザーは様々なボーナスを獲得します。",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "体力 +15%"
+        },
+        {
+          "count": "(4)",
+          "text": "さらに 攻撃力 & 魔力 +15%"
+        },
+        {
+          "count": "(5)",
+          "text": "さらに 物理防御 & 魔法耐性 +15"
+        },
+        {
+          "count": "(6)",
+          "text": "さらに 攻撃速度 +15%"
+        },
+        {
+          "count": "(7)",
+          "text": "さらに ダメージ軽減 12%"
+        },
+        {
+          "count": "(8)",
+          "text": "さらに 他のすべてのボーナスが20%強化"
+        },
+        {
+          "count": "(9)",
+          "text": "山頂が見える..."
+        },
+        {
+          "count": "(10)",
+          "text": "もうすぐだ..."
+        },
+        {
+          "count": "(11)",
+          "text": "星々がすべての敵を招く。レベルに応じてスロット増。"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Stargazer (The Serpent)",
+      "icon": "Stargazer.png",
+      "champions": [
+        {
+          "name": "Talon",
+          "image": "Talon.png"
+        },
+        {
+          "name": "Twisted Fate",
+          "image": "TwistedFate.png"
+        },
+        {
+          "name": "Jax",
+          "image": "Jax.png"
+        },
+        {
+          "name": "Lulu",
+          "image": "Lulu.png"
+        },
+        {
+          "name": "Nunu",
+          "image": "Nunu.png"
+        },
+        {
+          "name": "Xayah",
+          "image": "Xayah.png"
+        }
+      ],
+      "description": "スターゲイザーは試合ごとに異なる星座を描きます。今回の試合：蛇。強化スロットの味方はダメージ軽減8%を獲得。強化スロットのスターゲイザーはさらに多く獲得し、敵に毒を付与して与えたダメージの一部を3秒間かけて魔法ダメージとして与えます。",
+      "effects": [
+        {
+          "count": "(3)",
+          "text": "ダメージ軽減 15%、毒ダメージ 30%"
+        },
+        {
+          "count": "(5)",
+          "text": "ダメージ軽減 20%、毒ダメージ 45%"
+        },
+        {
+          "count": "(7)",
+          "text": "ダメージ軽減 25%、毒ダメージ 60%。レベルに応じてスロット増。"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Vanguard",
+      "icon": "Vanguard.png",
+      "champions": [
+        {
+          "name": "Leona",
+          "image": "Leona.png"
+        },
+        {
+          "name": "Nasus",
+          "image": "Nasus.png"
+        },
+        {
+          "name": "Mordekaiser",
+          "image": "Mordekaiser.png"
+        },
+        {
+          "name": "Illaoi",
+          "image": "Illaoi.png"
+        },
+        {
+          "name": "Nunu",
+          "image": "Nunu.png"
+        },
+        {
+          "name": "Blitzcrank",
+          "image": "Blitzcrank.png"
+        }
+      ],
+      "description": "ヴァンガード：シールド展開中に5%のダメージ軽減を獲得します。戦闘開始時および体力が50%になった時、10秒間最大体力に応じたシールドを獲得します。",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "最大体力の16%"
+        },
+        {
+          "count": "(4)",
+          "text": "最大体力の28%"
+        },
+        {
+          "count": "(6)",
+          "text": "最大体力の40%。シールド展開中のダメージ軽減が10%に上昇。"
+        }
+      ]
+    },
+    {
+      "section": "class-synergy",
+      "name": "Voyager",
+      "icon": "Voyager.png",
+      "champions": [
+        {
+          "name": "Meepsie",
+          "image": "Meepsie.png"
+        },
+        {
+          "name": "Pyke",
+          "image": "Pyke.png"
+        },
+        {
+          "name": "Aurora",
+          "image": "Aurora.png"
+        },
+        {
+          "name": "The Mighty Mech",
+          "image": "TheMightyMech.png"
+        },
+        {
+          "name": "Karma",
+          "image": "Karma.png"
+        }
+      ],
+      "description": "戦闘開始時：タンクとブローラーの味方は15秒間シールドを獲得します。その他の味方はダメージ増幅を獲得します。ボイジャーユニットは両方の効果を2倍で獲得します。",
+      "effects": [
+        {
+          "count": "(2)",
+          "text": "175 シールド、ダメージ増幅 9%"
+        },
+        {
+          "count": "(3)",
+          "text": "250 シールド、ダメージ増幅 15%"
+        },
+        {
+          "count": "(4)",
+          "text": "350 シールド、ダメージ増幅 18%"
+        },
+        {
+          "count": "(5)",
+          "text": "500 シールド、ダメージ増幅 22%"
+        },
+        {
+          "count": "(6)",
+          "text": "700 シールド、ダメージ増幅 27%"
+        }
+      ]
+    },
+    {
+      "section": "unique-synergy",
+      "name": "Arcana",
+      "icon": "Arcana.png",
+      "champions": [
+        {
+          "name": "Tahm Kench",
+          "image": "TahmKench.png"
+        }
+      ],
+      "description": "3ラウンドごとに、タム・ケンチが報酬を授けます！",
+      "effects": []
+    },
+    {
+      "section": "unique-synergy",
+      "name": "Bulwark (Shen)",
+      "icon": "Bulwark.png",
+      "champions": [
+        {
+          "name": "Shen",
+          "image": "Shen.png"
+        }
+      ],
+      "description": "移動可能なアーティファクトを1つ召喚します。戦闘開始時、隣接する味方に最大体力の18%のシールドと20%の攻撃速度を付与します。",
+      "effects": []
+    },
+    {
+      "section": "unique-synergy",
+      "name": "Dark Lady (Morgana)",
+      "icon": "DarkLady.png",
+      "champions": [
+        {
+          "name": "Morgana",
+          "image": "Morgana.png"
+        }
+      ],
+      "description": "味方はスキルから受けるダメージを5%軽減します。モルガナがダーク形態の時は10%に増加します。",
+      "effects": []
+    },
+    {
+      "section": "unique-synergy",
+      "name": "Divine Duelist (Fiora)",
+      "icon": "DivineDuelist.png",
+      "champions": [
+        {
+          "name": "Fiora",
+          "image": "Fiora.png"
+        }
+      ],
+      "description": "プレイヤーに与えたダメージの15%分、自身を回復します。フィオラは1対1の決闘では常に勝利します。",
+      "effects": []
+    },
+    {
+      "section": "unique-synergy",
+      "name": "Doomer (Vex)",
+      "icon": "Doomer.png",
+      "champions": [
+        {
+          "name": "Vex",
+          "image": "Vex.png"
+        }
+      ],
+      "description": "戦闘開始時：すべての敵に「破滅（Doom）」の印を付けます。各ラウンドで敵が初めてダメージを受けた際、「破滅」が消費され、その敵の攻撃力と魔力の8%を奪って最も強力なヴェックスに付与します。",
+      "effects": []
+    },
+    {
+      "section": "unique-synergy",
+      "name": "Eradicator (Jhin)",
+      "icon": "EradicatorJhin.svg",
+      "champions": [
+        {
+          "name": "Jhin",
+          "image": "Jhin.png"
+        }
+      ],
+      "description": "敵の物理防御と魔法耐性を14%減少させます。",
+      "effects": []
+    },
+    {
+      "section": "unique-synergy",
+      "name": "Factory New (Graves)",
+      "icon": "FactoryNew.png",
+      "champions": [
+        {
+          "name": "Graves",
+          "image": "Graves.png"
+        }
+      ],
+      "description": "戦闘参加後、武器庫を開いて最も強力なグレイブスに永続的なアップグレードを購入できます。3回アップグレードするごとに、次のアップグレードの準備に追加でもう1ラウンド必要になります。",
+      "effects": []
+    },
+    {
+      "section": "unique-synergy",
+      "name": "Gun Goddess (Miss Fortune)",
+      "icon": "GunGoddessMissFortune.svg",
+      "champions": [
+        {
+          "name": "Miss Fortune",
+          "image": "MissFortune.png"
+        }
+      ],
+      "description": "ミス・フォーチュンを配置する際、チャネラー・モード、チャレンジャー・モード、レプリケーター・モードから選択します。モードに応じて独自のスキルを持ち、関連する特性を獲得します。",
+      "effects": []
+    },
+    {
+      "section": "unique-synergy",
+      "name": "Party Animal (Blitzcrank)",
+      "icon": "PartyAnimal.png",
+      "champions": [
+        {
+          "name": "Blitzcrank",
+          "image": "Blitzcrank.png"
+        }
+      ],
+      "description": "1戦闘につき1回、体力が45%未満になるとターゲット不可状態になり、毎秒最大体力の15%を修復します。全快するか、他に味方がいなくなると戦闘に復帰します。全快して復帰した場合、その戦闘の残り時間ブリッツクランクは「ザ・グルーヴ」状態になり、パッシブの電撃の発射速度が4倍になります。",
+      "effects": []
+    },
+    {
+      "section": "unique-synergy",
+      "name": "Redeemer (Rhaast)",
+      "icon": "Redeemer.png",
+      "champions": [
+        {
+          "name": "Rhaast",
+          "image": "Rhaast.png"
+        }
+      ],
+      "description": "固有特性（ユニーク）以外の発動している特性1つにつき、チーム全員が攻撃速度 2%/3%/4% と防御力 & 魔法耐性 2/3/4 を獲得します。",
+      "effects": []
+    }
+  ],
+  "champions": [
+    {
+      "stt": 1,
+      "id": "aatrox",
+      "name": "Aatrox",
+      "image": "Aatrox.png",
+      "traits": [
+        "N.O.V.A.",
+        "Bastion"
+      ],
+      "status": "Aatrox",
+      "mana": "30 / 90",
+      "description": "? ?、その後現在のターゲットに ? ? の物理ダメージを与える。?。?: ? 戦場を、すべての敵をわずかにノックアップし、? ? の物理ダメージを与える。"
+    },
+    {
+      "stt": 2,
+      "id": "briar",
+      "name": "Briar",
+      "image": "Briar.png",
+      "traits": [
+        "Anima",
+        "Primordian",
+        "Rogue"
+      ],
+      "status": "Briar",
+      "mana": "0 / 40",
+      "description": "?: ? 欠損 ?% ごとに、?% ? ? を獲得する。?: ターゲットに ? ? の物理ダメージを与え、相手がタンクの場合は ? ? する。"
+    },
+    {
+      "stt": 3,
+      "id": "caitlyn",
+      "name": "Caitlyn",
+      "image": "Caitlyn.png",
+      "traits": [
+        "N.O.V.A.",
+        "Fateweaver"
+      ],
+      "status": "Caitlyn",
+      "mana": "",
+      "description": "?: ? ?% の確率で強化された ? を放ち、? ? の物理ダメージを与える。?。?: すべての敵をマークし、受けるダメージを ?% 増加させる。マークされたターゲットが初めて ?% ? を下回ったとき、? それらに ? ? の物理ダメージを与える。?: ? 2回実行し、より良い結果を選択する。"
+    },
+    {
+      "stt": 4,
+      "id": "cho'gath",
+      "name": "Cho'Gath",
+      "image": "ChoGath.png",
+      "traits": [
+        "Dark Star",
+        "Brawler"
+      ],
+      "status": "Cho'Gath",
+      "mana": "30 / 70",
+      "description": "範囲内で最も ? が低い敵に ? ? の魔法ダメージを与え、永続的に ? ? 最大体力を獲得する。? このスキルで敵を倒した場合、それらを捕食し、代わりに永続的に ? ? 最大体力を獲得する。(?: +?)"
+    },
+    {
+      "stt": 5,
+      "id": "ezreal",
+      "name": "Ezreal",
+      "image": "Ezreal.png",
+      "traits": [
+        "Timebreaker",
+        "Sniper"
+      ],
+      "status": "Ezreal",
+      "mana": "0 / 30",
+      "description": "?: 現在のターゲットにエネルギーを放ち、? ? の物理ダメージを与える。? キルに関与したとき、ドローンを獲得し、スキルを使用するたびに現在のターゲットに ? ? の物理ダメージを与える。(?: ?)"
+    },
+    {
+      "stt": 6,
+      "id": "leona",
+      "name": "Leona",
+      "image": "Leona.png",
+      "traits": [
+        "Arbiter",
+        "Vanguard"
+      ],
+      "status": "Leona",
+      "mana": "40 / 100",
+      "description": "4秒間 ? ? ? する。現在のターゲットを ? し、? ? の魔法ダメージを与え、? 秒間スタンさせる。"
+    },
+    {
+      "stt": 7,
+      "id": "lissandra",
+      "name": "Lissandra",
+      "image": "Lissandra.png",
+      "traits": [
+        "Dark Star",
+        "Shepherd",
+        "Replicator"
+      ],
+      "status": "Lissandra",
+      "mana": "0 / 30",
+      "description": "現在のターゲットに向かって短剣を ? し、最初に命中したターゲットに ? ? の魔法ダメージを与える。? 最初のターゲットに命中した後、または射程の終端で爆発し、周囲の敵に ? ? の魔法ダメージを与える。"
+    },
+    {
+      "stt": 8,
+      "id": "nasus",
+      "name": "Nasus",
+      "image": "Nasus.png",
+      "traits": [
+        "Space Groove",
+        "Vanguard"
+      ],
+      "status": "Nasus",
+      "mana": "60 / 120",
+      "description": "? 秒間 ? し、一時的に ? ? の最大体力を獲得し、周囲の敵に毎秒 ? ? の魔法ダメージを与える。? 変身中、? は ? の状態になる。"
+    },
+    {
+      "stt": 9,
+      "id": "poppy",
+      "name": "Poppy",
+      "image": "Poppy.png",
+      "traits": [
+        "Meeple",
+        "Bastion"
+      ],
+      "status": "Poppy",
+      "mana": "30 / 100",
+      "description": "? 秒間 ? ? ? する。? 効果時間中、2マス以内の味方は ? ? ? と ? を獲得する。?: ? 秒間、最も近い ? 人の味方に ? ? ? を付与する。"
+    },
+    {
+      "stt": 10,
+      "id": "rek'sai",
+      "name": "Rek'Sai",
+      "image": "RekSai.png",
+      "traits": [
+        "Primordian",
+        "Brawler"
+      ],
+      "status": "Rek'Sai",
+      "mana": "50 / 110",
+      "description": "? ?、その後周囲の敵をノックアップし、? ? の魔法ダメージを与える。"
+    },
+    {
+      "stt": 11,
+      "id": "talon",
+      "name": "Talon",
+      "image": "Talon.png",
+      "traits": [
+        "Stargazer",
+        "Rogue"
+      ],
+      "status": "Talon",
+      "mana": "0 / 30",
+      "description": "ターゲットを ? し、? 秒間 ? ? の物理ダメージを与える出血状態にする。? 攻撃後、? マス以内にいる最も ? の割合が高い敵の元へ跳ぶ。"
+    },
+    {
+      "stt": 12,
+      "id": "teemo",
+      "name": "Teemo",
+      "image": "Teemo.png",
+      "traits": [
+        "Space Groove",
+        "Shepherd"
+      ],
+      "status": "Teemo",
+      "mana": "0 / 50",
+      "description": "?: ? が ? ? の追加魔法ダメージを与え、? 秒間 ? ? の魔法ダメージをスタックさせる。? 敵のスタックが ? 以上になったとき、? は ? の状態になる。?: ? 回の攻撃の間、?% ? する。"
+    },
+    {
+      "stt": 13,
+      "id": "twisted_fate",
+      "name": "Twisted Fate",
+      "image": "TwistedFate.png",
+      "traits": [
+        "Stargazer",
+        "Fateweaver"
+      ],
+      "status": "Twisted Fate",
+      "mana": "0 / 50",
+      "description": "1から9までのランダムな数値を持つカードを ? し、ターゲットに投げる。? 引いたカードに応じて、? ? から ? ? の魔法ダメージを与える。? ダメージは最も近い敵に跳ね返る。?: ? 2回実行し、より良い結果を選択する。"
+    },
+    {
+      "stt": 14,
+      "id": "veigar",
+      "name": "Veigar",
+      "image": "Veigar.png",
+      "traits": [
+        "Meeple",
+        "Replicator"
+      ],
+      "status": "Veigar",
+      "mana": "10 / 50",
+      "description": "ターゲットに ? を落とし、? ? の魔法ダメージを与える。?: 周囲のターゲットに追加で ? 個の小さな ? を落とし、それぞれ ? ? の魔法ダメージを与える。"
+    },
+    {
+      "stt": 15,
+      "id": "akali",
+      "name": "Akali",
+      "image": "Akali.png",
+      "traits": [
+        "N.O.V.A.",
+        "Marauder"
+      ],
+      "status": "Akali",
+      "mana": "0 / 30",
+      "description": "最も多くの敵を攻撃できるよう、ターゲットの隣に ? する。? 本のクナイを投げ、最初に命中した敵に ? ? の物理ダメージを与え、後続のターゲットには ? ? に減少する。? ? を取り除き、クリティカルの場合は ? に増加する。?。?: すべての敵をマークし、? と、試合終了まで毎秒 ? ? の物理ダメージを与える出血効果を適用する。? 出血ダメージを ?% 増加させる。"
+    },
+    {
+      "stt": 16,
+      "id": "bel'veth",
+      "name": "Bel'Veth",
+      "image": "BelVeth.png",
+      "traits": [
+        "Primordian",
+        "Challenger",
+        "Marauder"
+      ],
+      "status": "Bel'Veth",
+      "mana": "0 / 50",
+      "description": "? 秒間、現在のターゲットに ? ? 回の連続攻撃を繰り出し、一撃ごとに ? ? の物理ダメージを与える。"
+    },
+    {
+      "stt": 17,
+      "id": "gnar",
+      "name": "Gnar",
+      "image": "Gnar.png",
+      "traits": [
+        "Meeple",
+        "Sniper"
+      ],
+      "status": "Gnar",
+      "mana": "0 / 5",
+      "description": "?: ? 5回目の攻撃ごとに、現在のターゲットに向かってブーメランを投げ、最初の敵を貫通してさらに2マス飛ぶ。? ? ? の物理ダメージを与え、貫通するたびに ?% 減少する。?: ? と一緒に攻撃し、毎秒 ? ? の物理ダメージを与える。"
+    },
+    {
+      "stt": 18,
+      "id": "gragas",
+      "name": "Gragas",
+      "image": "Gragas.png",
+      "traits": [
+        "Psionic",
+        "Brawler"
+      ],
+      "status": "Gragas",
+      "mana": "30 / 80",
+      "description": "? 秒間 ? ? する。? 周囲の敵に ? ? の魔法ダメージを与え、? 秒間 ? する。?: ? ? がさらに30%増加する。"
+    },
+    {
+      "stt": 19,
+      "id": "gwen",
+      "name": "Gwen",
+      "image": "Gwen.png",
+      "traits": [
+        "Space Groove",
+        "Rogue"
+      ],
+      "status": "Gwen",
+      "mana": "0 / 30",
+      "description": "?: ? 魔法ダメージを与える。?% ? 以下の敵を狙うとき、? は ? の状態になる。?: 近くのマスへ ? し、最も ? の割合が低い敵を切り刻み、ターゲットに ? ? の魔法ダメージを与え、扇状の範囲内の敵に ? ? の魔法ダメージを与える。? 敵を倒した場合、ダッシュして再度 ?% のダメージで切り刻む！"
+    },
+    {
+      "stt": 20,
+      "id": "jax",
+      "name": "Jax",
+      "image": "Jax.png",
+      "traits": [
+        "Stargazer",
+        "Bastion"
+      ],
+      "status": "Jax",
+      "mana": "10 / 70",
+      "description": "? 秒間防御態勢に入り、受けるダメージを ? ? 軽減し、? ? ? を獲得する。? 防御態勢が終了したとき、周囲のすべての敵を攻撃し、? ? の魔法ダメージを与え、? 秒間 ? させる。"
+    },
+    {
+      "stt": 21,
+      "id": "jinx",
+      "name": "Jinx",
+      "image": "Jinx.png",
+      "traits": [
+        "Anima",
+        "Challenger"
+      ],
+      "status": "Jinx",
+      "mana": "20 / 80",
+      "description": "扇状の範囲に ? ? 発の弾丸を連射し、それぞれの弾丸が最初に命中したターゲットに ? ? の物理ダメージを与える。"
+    },
+    {
+      "stt": 22,
+      "id": "meepsie",
+      "name": "Meepsie",
+      "image": "Meepsie.png",
+      "traits": [
+        "Meeple",
+        "Shepherd",
+        "Voyager"
+      ],
+      "status": "Meepsie",
+      "mana": "50 / 100",
+      "description": "? 秒間 ? ? ? する。ターゲットを ? し、? ? の魔法ダメージを与え、? 秒間ノックアップさせる。? 衝撃によりミープの波が発生し、ターゲットと同じ列にいる敵にこの効果の ?% を与える。?: ? の ? 水を ? し、すべての ? と受ける ? を ? 増加させる。"
+    },
+    {
+      "stt": 23,
+      "id": "milio",
+      "name": "Milio",
+      "image": "Milio.png",
+      "traits": [
+        "Timebreaker",
+        "Fateweaver"
+      ],
+      "status": "Milio",
+      "mana": "0 / 30",
+      "description": "敵にボールを ? し、? ? の魔法ダメージを与える。? 命中時、ボールは100%の確率で新しいターゲットに跳ね返り、? ? の魔法ダメージを与える。? 跳ね返りはさらに連鎖する可能性があるが、跳ね返るたびに確率は半分に減少する。?: ? 2回実行し、より良い結果を選択する。"
+    },
+    {
+      "stt": 24,
+      "id": "mordekaiser",
+      "name": "Mordekaiser",
+      "image": "Mordekaiser.png",
+      "traits": [
+        "Dark Star",
+        "Channeler",
+        "Vanguard"
+      ],
+      "status": "Mordekaiser",
+      "mana": "20 / 80",
+      "description": "? ? シールドを獲得する。? 次の ? 秒間、毎秒追加の ? ? シールドを獲得し、周囲の敵に ? ? の魔法ダメージを与える。? スキル終了時、残っている ? を消費し、その値の ?% 分体力を回復する。"
+    },
+    {
+      "stt": 25,
+      "id": "pantheon",
+      "name": "Pantheon",
+      "image": "Pantheon.png",
+      "traits": [
+        "Timebreaker",
+        "Brawler",
+        "Replicator"
+      ],
+      "status": "Pantheon",
+      "mana": "20 / 80",
+      "description": "? 秒間 ? ? ? と ?% ? を獲得する。? 効果時間中、扇状の範囲内の敵に毎秒 ? ? の物理ダメージを与える。"
+    },
+    {
+      "stt": 26,
+      "id": "pyke",
+      "name": "Pyke",
+      "image": "Pyke.png",
+      "traits": [
+        "Psionic",
+        "Voyager"
+      ],
+      "status": "Pyke",
+      "mana": "0 / 40",
+      "description": "最も遠い敵にハープーンを投げるため、最大1マスまで ? する。? ハープーンは最初に命中した敵を1マス引き寄せ、? ? の物理ダメージを与える。? その後、敵の背後にテレポートして切り裂き、その敵に ? ? 、周囲の敵に ? ? の物理ダメージを与える。"
+    },
+    {
+      "stt": 27,
+      "id": "zoe",
+      "name": "Zoe",
+      "image": "Zoe.png",
+      "traits": [
+        "Arbiter",
+        "Channeler"
+      ],
+      "status": "Zoe",
+      "mana": "0 / 50",
+      "description": "現在のターゲットにパドルスターを ? し、最初に命中したターゲットに ? ? 、貫通した他の敵に ? ? の魔法ダメージを与える。? 星が終端に達したとき、遠くの敵に向かって方向転換し、速度を上げてダメージを繰り返す。? 方向転換は ? 回まで発生する可能性がある。"
+    },
+    {
+      "stt": 28,
+      "id": "aurora",
+      "name": "Aurora",
+      "image": "Aurora.png",
+      "traits": [
+        "Anima",
+        "Voyager"
+      ],
+      "status": "Aurora",
+      "mana": "20 / 80",
+      "description": "ターゲットの周囲に六角形の亀裂を ? し、? 秒間中の敵を ? させ、それぞれに ? ? の魔法ダメージを与え、命中したすべての敵に均等に分配される ? ? の追加魔法ダメージを与える。? 敵は受けるすべてのダメージの ?% を蓄積する。? 亀裂の ? が終了したとき、蓄積されたダメージに等しい確定ダメージを受ける。? このダメージでターゲットを倒せる場合、早期に終了する。"
+    },
+    {
+      "stt": 29,
+      "id": "diana",
+      "name": "Diana",
+      "image": "Diana.png",
+      "traits": [
+        "Arbiter",
+        "Challenger"
+      ],
+      "status": "Diana",
+      "mana": "0 / 50",
+      "description": "?: ? 追加で ? ? の魔法ダメージを与える。?: ? ? ? し、? 秒間周囲を回る3つのオーブを召喚する。? 通過した敵に ? ? の魔法ダメージを与え、? に応じて回転が速くなる。"
+    },
+    {
+      "stt": 30,
+      "id": "fizz",
+      "name": "Fizz",
+      "image": "Fizz.png",
+      "traits": [
+        "Meeple",
+        "Rogue"
+      ],
+      "status": "Fizz",
+      "mana": "0 / 20",
+      "description": "現在のターゲットを貫通して ? し、? ? の魔法ダメージを与える。? 3回目のスキル使用ごとに、一定時間後に ? を召喚し、ターゲットをわずかにノックアップさせ、1マス以内の敵に ? ? の魔法ダメージを与える（中心から離れるほど ?% 減少）。?: ? デコイに ? し、? のダメージを ? に増加させる。"
+    },
+    {
+      "stt": 31,
+      "id": "illaoi",
+      "name": "Illaoi",
+      "image": "Illaoi.png",
+      "traits": [
+        "Anima",
+        "Vanguard",
+        "Shepherd"
+      ],
+      "status": "Illaoi",
+      "mana": "40 / 100",
+      "description": "? 秒間 ? ? ? する。? 効果時間中、最も近い ? 人の敵から ? ? ? を吸収する。? 地面を叩きつけ、2マス以内のすべての敵に ? ? の魔法ダメージを与える。"
+    },
+    {
+      "stt": 32,
+      "id": "kai'sa",
+      "name": "Kai'Sa",
+      "image": "KaiSa.png",
+      "traits": [
+        "Dark Star",
+        "Rogue"
+      ],
+      "status": "Kai'Sa",
+      "mana": "0 / 50",
+      "description": "?: ? キルに関与したとき、? マナを獲得する。?: 現在のターゲットから ? マス以内の範囲にミサイルを連射し、1発ごとに ? ? の物理ダメージを与える。"
+    },
+    {
+      "stt": 33,
+      "id": "lulu",
+      "name": "Lulu",
+      "image": "Lulu.png",
+      "traits": [
+        "Stargazer",
+        "Replicator"
+      ],
+      "status": "Lulu",
+      "mana": "0 / 60",
+      "description": "?: ? のスキルの ? は、試合ごとに異なる副次効果を持つ。?: 空から何かを ? し、近くの ? 人の敵に ? ? の魔法ダメージを与え、現在の試合の ? に基づいた特別な効果を発生させる。"
+    },
+    {
+      "stt": 34,
+      "id": "maokai",
+      "name": "Maokai",
+      "image": "Maokai.png",
+      "traits": [
+        "N.O.V.A.",
+        "Brawler"
+      ],
+      "status": "Maokai",
+      "mana": "30 / 100",
+      "description": "?: あらゆるソースからの最大 ?% 体力を追加で ? する。?: ターゲットに ? 状の蔓の範囲を ? し、命中した敵に ? ? の魔法ダメージを与え、? 秒間 ? させる。?。?: すべての敵を ? 秒間スタンさせるドラゴンの波を放つ。? 試合の残りの間、? の攻撃は追加で ? ? の物理ダメージを与える。"
+    },
+    {
+      "stt": 35,
+      "id": "miss_fortune",
+      "name": "Miss Fortune",
+      "image": "MissFortune.png",
+      "traits": [
+        "Channeler",
+        "Challenger",
+        "Replicator"
+      ],
+      "status": "Miss Fortune",
+      "mana": "0 / 100",
+      "description": "?"
+    },
+    {
+      "stt": 36,
+      "id": "ornn",
+      "name": "Ornn",
+      "image": "Ornn.png",
+      "traits": [
+        "Space Groove",
+        "Bastion"
+      ],
+      "status": "Ornn",
+      "mana": "40 / 100",
+      "description": "?: ? 戦闘開始時、一時的な完成アイテムを鍛造する。? すでに3つの装備がある場合、ランダムな完成アイテムがその戦闘の間 ? になる。?: ? 秒間 ? ? ? する。? 扇状に炎を吹き、? ? の魔法ダメージを与える。? いずれかの ? が ? 切れたとき、? 秒間 ? 状態にする。"
+    },
+    {
+      "stt": 37,
+      "id": "rhaast",
+      "name": "Rhaast",
+      "image": "Rhaast.png",
+      "traits": [
+        "Redeemer"
+      ],
+      "status": "Rhaast",
+      "mana": "30 / 90",
+      "description": "? 秒間 ?% ? し、効果時間中に ? ? 回復する。? その後、前方へ直線状に切り裂き、命中した敵に ? ? の物理ダメージを与え、? 秒間ノックアップさせる。"
+    },
+    {
+      "stt": 38,
+      "id": "samira",
+      "name": "Samira",
+      "image": "Samira.png",
+      "traits": [
+        "Space Groove",
+        "Sniper"
+      ],
+      "status": "Samira",
+      "mana": "0 / 60",
+      "description": "?: ? 敵がノックアップされたとき、それらを撃ち、? ? の物理ダメージと ? 秒間の ? 状態を与える。?: ターゲットに弾丸を連射し、? ? の物理ダメージを与え、? 秒間ノックアップさせる。"
+    },
+    {
+      "stt": 39,
+      "id": "urgot",
+      "name": "Urgot",
+      "image": "Urgot.png",
+      "traits": [
+        "Mecha",
+        "Brawler",
+        "Marauder"
+      ],
+      "status": "Urgot",
+      "mana": "0 / 50",
+      "description": "? - ?: ? 敵が ? ? マスの射程内に入ったとき、最も近い隣接するマスに向かって扇状にエネルギーを放ち、1マスごとに ?% 減衰する ? ? の物理ダメージを与える。? 隣接するマスには ? 秒のクールダウンがある。?: ? 秒間 ? ? ? を獲得し、現在のターゲットの背後へダッシュする。? ? のすべてのスキルをリセットする。"
+    },
+    {
+      "stt": 40,
+      "id": "viktor",
+      "name": "Viktor",
+      "image": "Viktor.png",
+      "traits": [
+        "Psionic",
+        "Channeler"
+      ],
+      "status": "Viktor",
+      "mana": "20 / 80",
+      "description": "? 敵を追尾する1マスの幅のサイキックストームを ? 秒間発生させる。? 毎秒ストームは大きくなり、中の敵に ? ? の魔法ダメージを与える（中心から離れるほど ?% 減少）。"
+    },
+    {
+      "stt": 41,
+      "id": "aurelion_sol",
+      "name": "Aurelion Sol",
+      "image": "AurelionSol.png",
+      "traits": [
+        "Mecha",
+        "Channeler"
+      ],
+      "status": "Aurelion Sol",
+      "mana": "15 / 75",
+      "description": "現在のターゲットに向かって直線状に ? 秒間死の光線を放つ。? 毎秒 ? ? の魔法ダメージを与え、敵を貫通するたびに ?% 減少する。? 敵の ?% ? を無視する。"
+    },
+    {
+      "stt": 42,
+      "id": "corki",
+      "name": "Corki",
+      "image": "Corki.png",
+      "traits": [
+        "Meeple",
+        "Fateweaver"
+      ],
+      "status": "Corki",
+      "mana": "0 / 60",
+      "description": "近くの地点へ ? し、ターゲットおよび2マス以内のすべての敵に均等に分配される ? 発のミサイルを発射する。? ? ? の物理ダメージを与え、?% の確率で代わりに ? ? のダメージを与える巨大ミサイルを発射する。?: ? 秒、ターゲットに ? を発射し、命中時に1マスの範囲に ? ? の物理ダメージを与える。?: ? 2回実行し、より良い結果を選択する。"
+    },
+    {
+      "stt": 43,
+      "id": "karma",
+      "name": "Karma",
+      "image": "Karma.png",
+      "traits": [
+        "Dark Star",
+        "Voyager"
+      ],
+      "status": "Karma",
+      "mana": "10 / 50",
+      "description": "ブラックホールの力を ? し、ターゲットとその周囲の最も近い ? 人の敵に均等に分配される ? ? の魔法ダメージを与える。? メインターゲットは追加で ? ? の魔法ダメージを受ける。"
+    },
+    {
+      "stt": 44,
+      "id": "kindred",
+      "name": "Kindred",
+      "image": "Kindred.png",
+      "traits": [
+        "N.O.V.A.",
+        "Challenger"
+      ],
+      "status": "Kindred",
+      "mana": "0 / 40",
+      "description": "?: ? と ? がターゲットをマークする。? 敵が ? 個のマークに達したとき、? はマークを消費し、? ? の物理ダメージを与える。?: 最大 ? マスまで ? し、最も近い ? 人のターゲットに矢を放ち、それぞれに ? ? の物理ダメージを与える。?。?: ?% ? 。? およびその後 ? 秒ごとに、すべての敵にマークを追加する。"
+    },
+    {
+      "stt": 45,
+      "id": "leblanc",
+      "name": "LeBlanc",
+      "image": "LeBlanc.png",
+      "traits": [
+        "Arbiter",
+        "Shepherd"
+      ],
+      "status": "LeBlanc",
+      "mana": "0 / 40",
+      "description": "?: ? 代わりに ? ? の魔法ダメージを与える。?: ? 分身を召喚し、? 回の攻撃の間 ? と共に攻撃させ、?% のダメージを与える。? それらの最後の攻撃で、分身はエネルギーを放ち、? ? の魔法ダメージを与える。"
+    },
+    {
+      "stt": 46,
+      "id": "master_yi",
+      "name": "Master Yi",
+      "image": "MasterYi.png",
+      "traits": [
+        "Psionic",
+        "Marauder"
+      ],
+      "status": "Master Yi",
+      "mana": "30 / 70",
+      "description": "?: ? 3回目の攻撃ごとに追加で攻撃し、さらに ? ? の物理ダメージを与える。?: 短い瞑想を行い、? 秒間 ?-? 状態に入り、?% ? 、?% ? を獲得し、移動速度が増加する。? 毎秒、近くのランダムな敵にサイキックエネルギーを放ち、 ? ? の物理ダメージを与える。"
+    },
+    {
+      "stt": 47,
+      "id": "nami",
+      "name": "Nami",
+      "image": "Nami.png",
+      "traits": [
+        "Space Groove",
+        "Replicator"
+      ],
+      "status": "Nami",
+      "mana": "30 / 85",
+      "description": "まだ持っていない最も近いターゲットにディスコバブルを ? し、1マスの範囲の敵に均等に分配される ? ? のダメージを与える。? 爆発により近くの敵に向かって ? 個のオーブが放たれ、それぞれ ? ? の魔法ダメージを与える。? スキル使用後、? 秒間 ? 状態になる。"
+    },
+    {
+      "stt": 48,
+      "id": "nunu",
+      "name": "Nunu",
+      "image": "Nunu.png",
+      "traits": [
+        "Stargazer",
+        "Vanguard"
+      ],
+      "status": "Nunu",
+      "mana": "45 / 155",
+      "description": "? 秒間 ? ? ? する。2マス以内の最も敵が密集している場所へ天球を ? させ、? ? の魔法ダメージを与える。? その後、? は天球をフィールドの端まで押し出し、? ? の魔法ダメージを与える。? 天球に当たった敵は ? 秒間ノックアップされる。"
+    },
+    {
+      "stt": 49,
+      "id": "rammus",
+      "name": "Rammus",
+      "image": "Rammus.png",
+      "traits": [
+        "Meeple",
+        "Bastion"
+      ],
+      "status": "Rammus",
+      "mana": "30 / 100",
+      "description": "? 秒間 ? ? シールドを獲得する。? 直線3マスの範囲で最も多くの敵を攻撃し、? ? の魔法ダメージを与える。?: 通常攻撃から受けるダメージを ? 軽減する。? ? 回攻撃を受けた後、2マスの範囲に ? ? の魔法ダメージを与える。"
+    },
+    {
+      "stt": 50,
+      "id": "riven",
+      "name": "Riven",
+      "image": "Riven.png",
+      "traits": [
+        "Timebreaker",
+        "Rogue"
+      ],
+      "status": "Riven",
+      "mana": "0 / 20",
+      "description": "?: ? の ? または ? の高い方に適応する。? ? (?/?) のダメージを与える。?: 近くのマスへ ? し、? 秒間 ? を獲得し、周囲の敵を切り裂いて ? (?/?) のダメージを与える。? 3回目のスキル使用時、空中へ跳び上がり、? (?/?) のダメージを与えるエネルギー波を放つ。"
+    },
+    {
+      "stt": 51,
+      "id": "tahm_kench",
+      "name": "Tahm Kench",
+      "image": "TahmKench.png",
+      "traits": [
+        "Arcana",
+        "Brawler"
+      ],
+      "status": "Tahm Kench",
+      "mana": "50 / 120",
+      "description": "?: 体力が ?% ? を下回った後、この戦闘で受けた回復量の ?% に等しい ? を ? 秒間獲得する。?: ? ? し、その後2マス以内のすべての敵を舌で叩き、? ? の魔法ダメージを与える。"
+    },
+    {
+      "stt": 52,
+      "id": "the_mighty_mech",
+      "name": "The Mighty Mech",
+      "image": "TheMightyMech.png",
+      "traits": [
+        "Mecha",
+        "Voyager"
+      ],
+      "status": "The Mighty Mech",
+      "mana": "40 / 100",
+      "description": "? 秒間防御態勢に入り、?% ? を獲得する。? 防御態勢の間、近くの敵の攻撃を引き付け、効果時間中に ? ? 回復する。? 終了時、電気ショックを放ち、?-マス以内の範囲に ? ? の物理ダメージを与える。"
+    },
+    {
+      "stt": 53,
+      "id": "xayah",
+      "name": "Xayah",
+      "image": "Xayah.png",
+      "traits": [
+        "Stargazer",
+        "Sniper"
+      ],
+      "status": "Xayah",
+      "mana": "0 / 50",
+      "description": "?: ? は ? 回跳ね返り、ターゲットごとにダメージが ?% 減少し、最後のターゲットの背後に ? を残す。?: ? 秒間 ?% ? を獲得する。? 終了時、すべての ? を回収し、最も近い ? 人の敵に均等に分配し、1つにつき ? ? の物理ダメージを与える。"
+    },
+    {
+      "stt": 54,
+      "id": "bard",
+      "name": "Bard",
+      "image": "Bard.png",
+      "traits": [
+        "Meeple",
+        "Channeler"
+      ],
+      "status": "Bard",
+      "mana": "0 / 70",
+      "description": "現在のターゲットの上に ? 秒間続くUFOを ? する。? 毎秒、ターゲットに ? ? 、さらに ? マスの範囲のすべての敵に均等に分配される ? ? の魔法ダメージを与える。? UFOは ? に対して ?% の増加ダメージを与える。? もし ? 以下の敵が死亡した場合、? ?% の確率でそれらを誘拐し、ベンチに1星のコピーを作成する。? ボーナス: ? 戦闘開始時、最も近い ? に追加の ? を付与する。? 誘拐済み: ?"
+    },
+    {
+      "stt": 55,
+      "id": "blitzcrank",
+      "name": "Blitzcrank",
+      "image": "Blitzcrank.png",
+      "traits": [
+        "Party Animal",
+        "Space Groove",
+        "Vanguard"
+      ],
+      "status": "Blitzcrank",
+      "mana": "10 / 90",
+      "description": "?: ? 秒、最も近い ? 敵に落雷を浴びせ、? ? の魔法ダメージを与える。?: 最も密集している敵のグループにディスコボールを ? し、現在のターゲットにアッパーカットを浴びせて ? ? の魔法ダメージを与え、ノックアップさせる。? ディスコボールが落下し、3マスの範囲に ? ? の魔法ダメージを与える。命中した敵1体につき ? 秒間 ? する。"
+    },
+    {
+      "stt": 56,
+      "id": "fiora",
+      "name": "Fiora",
+      "image": "Fiora.png",
+      "traits": [
+        "Divine Duelist",
+        "Anima",
+        "Marauder"
+      ],
+      "status": "Fiora",
+      "mana": "10 / 80",
+      "description": "?: ? 攻撃ごとに、ターゲットに ? を露呈させる。? ? が存在するとき、それを攻撃するためにダッシュし、追加で ? ? の確定ダメージを与え、与えたダメージの ?% 回復する。?: ターゲットに ? を付与し、それらすべてを素早く攻撃する。? ターゲットが死亡した場合、残りの ? は最も近い敵に移る。? 最後の ? を攻撃したとき、2マスのオーラを生成し、中の味方を ? 秒間、? ? 回復させる。"
+    },
+    {
+      "stt": 57,
+      "id": "graves",
+      "name": "Graves",
+      "image": "Graves.png",
+      "traits": [
+        "Factory New"
+      ],
+      "status": "Graves",
+      "mana": "0 / 60",
+      "description": "?: ? 扇状の範囲に ? 発の弾丸を発射し、1発につき ? 物理ダメージを与える。?: ターゲットに爆発弾を放ち、? ? の物理ダメージを与え、1マスの範囲のすべての敵に ? ? の物理ダメージを与える。"
+    },
+    {
+      "stt": 58,
+      "id": "jhin",
+      "name": "Jhin",
+      "image": "Jhin.png",
+      "traits": [
+        "Dark Star",
+        "Eradicator",
+        "Sniper"
+      ],
+      "status": "Jhin",
+      "mana": "0 / 44",
+      "description": "?: ? は ? の固定攻撃速度を持ち、?% の追加 ? を ? ? に変換する。?: 次の ? 回の攻撃の間、幽霊のような手が ? と共に射撃する。? 手は1発につき ? ? の物理ダメージを与え、? を取り除く。? 最後の射撃は ?% の追加ダメージを与え、直線上の最も多くの敵を貫通し、命中するたびにダメージが ?% 減少する。"
+    },
+    {
+      "stt": 59,
+      "id": "morgana",
+      "name": "Morgana",
+      "image": "Morgana.png",
+      "traits": [
+        "Dark Lady"
+      ],
+      "status": "Morgana",
+      "mana": "20 / 60",
+      "description": "? 秒間 ? に ? し、効果時間中に ? ? ? を獲得する。? ? 状態の間、最も近い ? 人の敵を束縛し、それぞれに毎秒 ? ? の魔法ダメージを与え、与えたダメージの ?% 回復する。? 変身の終了時、束縛されたすべての敵に ? ? を与える。"
+    },
+    {
+      "stt": 60,
+      "id": "shen",
+      "name": "Shen",
+      "image": "Shen.png",
+      "traits": [
+        "Bulwark",
+        "Bastion"
+      ],
+      "status": "Shen",
+      "mana": "10 / 70",
+      "description": "?: ? スキルを使用するたびに、攻撃に追加の ? ? 魔法ダメージがスタックする。? 3回目のスキル使用からは、代わりに確定ダメージを得る。?: ? 秒間 ? ? ? し、最も密集している敵のグループに裂け目を切り開き、? のボーナスダメージを中のすべての敵に与える。? は ? が ?% 低下し、中の味方は ?% ? を獲得するが、どちらも ? 秒かけて急速に減衰する。"
+    },
+    {
+      "stt": 61,
+      "id": "sona",
+      "name": "Sona",
+      "image": "Sona.png",
+      "traits": [
+        "Commander",
+        "Psionic",
+        "Shepherd"
+      ],
+      "status": "Sona",
+      "mana": "0 / 25",
+      "description": "まだ持っていない最も近いターゲットに磁気破片を ? し、? ? の魔法ダメージを与えて付着させる。? 破片を持った敵が死亡した場合、まだ持っていない最も近い敵に移動する。? スキル使用時、代わりにすべての破片を引き剥がして ? ? の魔法ダメージを与え、その後すべての破片をターゲットに叩きつけて ? ? の魔法ダメージを与え、短時間スタンさせる。"
+    },
+    {
+      "stt": 62,
+      "id": "vex",
+      "name": "Vex",
+      "image": "Vex.png",
+      "traits": [
+        "Doomer"
+      ],
+      "status": "Vex",
+      "mana": "0 / 60",
+      "description": "?: ? が ? 回攻撃するたびに、? が近くの敵を攻撃し、? ? の魔法ダメージを与える。? もし敵が ? によって ? 回攻撃された場合、? はそれらを再度攻撃する。?: ? は ? 回の強化攻撃を放ち、代わりに ? ? の魔法ダメージを与える。"
+    },
+    {
+      "stt": 63,
+      "id": "zed",
+      "name": "Zed",
+      "image": "Zed.png",
+      "traits": [
+        "Galaxy Hunter"
+      ],
+      "status": "Zed",
+      "mana": "30 / 80",
+      "description": "ターゲットの背後に、?% 減少した最大 ? と増加した ? の ? を持つ分身を ? する。? 分身は作成者の現在の装備、ステータス、? を引き継ぎ、スキルを ? ことができる。"
+    }
+  ],
+  "items": [
+    {
+      "id": "psionic",
+      "name": "Psionic",
+      "icon": "trait-psionic.svg",
+      "count": "5 items",
+      "description": "サイオニック",
+      "items": [
+        {
+          "stt": "1-1",
+          "id": "drone_uplink",
+          "name": "Drone Uplink",
+          "image": "psionic-drone-uplink.jpg",
+          "texts": [
+            "ドローンが、3秒ごとに装備者の通常攻撃およびスキルによるダメージの25%を同じターゲットに繰り返す。",
+            "(4): 装備者がサイオニックの場合、ダメージの20%を繰り返す追加のミニドローンを獲得する。",
+            "Set.17.items.recommended Sona, Viktor"
+          ]
+        },
+        {
+          "stt": "1-2",
+          "id": "malware_matrix",
+          "name": "Malware Matrix",
+          "image": "psionic-malware-matrix.jpg",
+          "texts": [
+            "敵に物理ダメージを与えると、ターゲットの物理防御を2減少させる。",
+            "(4): 装備者がサイオニックの場合、3回目の攻撃ごとになぎ払いを行い、周囲の敵に75の物理ダメージを与える。",
+            "Set.17.items.recommended Master Yi, Pyke"
+          ]
+        },
+        {
+          "stt": "1-3",
+          "id": "biomatter_preserver",
+          "name": "Biomatter Preserver",
+          "image": "psionic-biomatter-preserver.jpg",
+          "texts": [
+            "最大体力が5%増加し、3つのライフオーブを展開する。戦闘中5秒ごとに1つがドロップし、装備者の欠損体力の18%を回復する。",
+            "(4): 装備者がサイオニックの場合、あらゆるソースからの回復効果が22%増加する。",
+            "Set.17.items.recommended Gragas"
+          ]
+        },
+        {
+          "stt": "1-4",
+          "id": "sympathetic_implant",
+          "name": "Sympathetic Implant",
+          "image": "psionic-sympathetic-implant.jpg",
+          "texts": [
+            "5秒ごとに、秒間マナ回復が1増加する。",
+            "(4): 装備者がサイオニックの場合、スキルのダメージの20%を代わりに確定ダメージとして与える。",
+            "Set.17.items.recommended Sona, Viktor"
+          ]
+        },
+        {
+          "stt": "1-5",
+          "id": "target-lock_optics",
+          "name": "Target-Lock Optics",
+          "image": "psionic-target-lock-optics.jpg",
+          "texts": [
+            "各敵に対する装備者の最初の攻撃は、150の追加ダメージを与える。",
+            "(4): 装備者がサイオニックの場合、ターゲットが死亡するたびに最大体力の12%を回復する。",
+            "Set.17.items.recommended Pyke, Master Yi"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "commander",
+      "name": "Commander",
+      "icon": "trait-commander.svg",
+      "count": "8 items",
+      "description": "コマンダー",
+      "items": [
+        {
+          "stt": "2-1",
+          "id": "command_mod:_exhaust",
+          "name": "Command Mod: Exhaust",
+          "image": "command-mod-exhaust.jpg",
+          "texts": [
+            "ユニットの攻撃に燃焼、負傷、冷気の効果を付与するよう命令する。"
+          ]
+        },
+        {
+          "stt": "2-2",
+          "id": "command_mod:_doublestrike",
+          "name": "Command Mod: Doublestrike",
+          "image": "command-mod-doublestrike.jpg",
+          "texts": [
+            "ユニットが攻撃時に25%の確率で2回攻撃するよう命令する。"
+          ]
+        },
+        {
+          "stt": "2-3",
+          "id": "command_mod:_analyze",
+          "name": "Command Mod: Analyze",
+          "image": "command-mod-analyze.jpg",
+          "texts": [
+            "対人戦闘中、そのユニットが生存している間、3秒ごとに1 XPを獲得するよう命令する。"
+          ]
+        },
+        {
+          "stt": "2-4",
+          "id": "command_mod:_brace",
+          "name": "Command Mod: Brace",
+          "image": "command-mod-brace.jpg",
+          "texts": [
+            "戦闘開始時、ユニットが8秒間、体力の20%のシールドを獲得するよう命令する。"
+          ]
+        },
+        {
+          "stt": "2-5",
+          "id": "command_mod:_transmute",
+          "name": "Command Mod: Transmute",
+          "image": "command-mod-transmute.jpg",
+          "texts": [
+            "対人戦闘中、ユニットが敵を倒すたびに2ゴールドをドロップするよう命令する。"
+          ]
+        },
+        {
+          "stt": "2-6",
+          "id": "command_mod:_disrupt",
+          "name": "Command Mod: Disrupt",
+          "image": "command-mod-disrupt.jpg",
+          "texts": [
+            "ユニットが死亡した際、3マス以内の敵を1秒間スタンさせるよう命令する。"
+          ]
+        },
+        {
+          "stt": "2-7",
+          "id": "command_mod:_optimize",
+          "name": "Command Mod: Optimize",
+          "image": "command-mod-optimize.jpg",
+          "texts": [
+            "ユニットのマナコストを15%削減するよう命令する。"
+          ]
+        },
+        {
+          "stt": "2-8",
+          "id": "command_mod:_fabricate",
+          "name": "Command Mod: Fabricate",
+          "image": "command-mod-fabricate.jpg",
+          "texts": [
+            "戦闘開始時、ユニットが一時的な推奨アイテムを獲得するよう命令する。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "emblem",
+      "name": "Emblem",
+      "icon": "trait-emblem.svg",
+      "count": "19 items",
+      "description": "ユニットに追加の特性を付与するアイテム。へらと素材アイテムを使用して作成される。",
+      "items": [
+        {
+          "stt": "3-1",
+          "id": "dark_star_emblem",
+          "name": "Dark Star Emblem",
+          "image": "emblem-dark-star.png",
+          "texts": [
+            "装備者はダークスターの特性を獲得する。"
+          ]
+        },
+        {
+          "stt": "3-2",
+          "id": "timebreaker_emblem",
+          "name": "Timebreaker Emblem",
+          "image": "emblem-timebreaker.png",
+          "texts": [
+            "装備者はタイムブレイカーの特性を獲得する。"
+          ]
+        },
+        {
+          "stt": "3-3",
+          "id": "stargazer_emblem",
+          "name": "Stargazer Emblem",
+          "image": "emblem-stargazer.png",
+          "texts": [
+            "装備者はスターゲイザーの特性を獲得する。"
+          ]
+        },
+        {
+          "stt": "3-4",
+          "id": "space_groove_emblem",
+          "name": "Space Groove Emblem",
+          "image": "emblem-space-groove.png",
+          "texts": [
+            "装備者はスペースグルーヴの特性を獲得する。"
+          ]
+        },
+        {
+          "stt": "3-5",
+          "id": "meeple_emblem",
+          "name": "Meeple Emblem",
+          "image": "emblem-meeple.png",
+          "texts": [
+            "装備者はミープルの特性を獲得する。"
+          ]
+        },
+        {
+          "stt": "3-6",
+          "id": "arbiter_emblem",
+          "name": "Arbiter Emblem",
+          "image": "emblem-arbiter.png",
+          "texts": [
+            "装備者はアービターの特性を獲得する。"
+          ]
+        },
+        {
+          "stt": "3-7",
+          "id": "primordian_emblem",
+          "name": "Primordian Emblem",
+          "image": "emblem-primordian.png",
+          "texts": [
+            "装備者はプリモーディアンの特性を獲得する。"
+          ]
+        },
+        {
+          "stt": "3-8",
+          "id": "n.o.v.a._emblem",
+          "name": "N.O.V.A. Emblem",
+          "image": "emblem-nova.png",
+          "texts": [
+            "装備者はN.O.V.A.の特性を獲得する。"
+          ]
+        },
+        {
+          "stt": "3-9",
+          "id": "marauder_emblem",
+          "name": "Marauder Emblem",
+          "image": "emblem-marauder.png",
+          "texts": [
+            "装備者はマローダーの特性を獲得する。"
+          ]
+        },
+        {
+          "stt": "3-10",
+          "id": "challenger_emblem",
+          "name": "Challenger Emblem",
+          "image": "emblem-challenger.png",
+          "texts": [
+            "装備者はチャレンジャーの特性を獲得する。"
+          ]
+        },
+        {
+          "stt": "3-11",
+          "id": "voyager_emblem",
+          "name": "Voyager Emblem",
+          "image": "emblem-voyager.png",
+          "texts": [
+            "装備者はヴォイジャーの特性を獲得する。"
+          ]
+        },
+        {
+          "stt": "3-12",
+          "id": "shepherd_emblem",
+          "name": "Shepherd Emblem",
+          "image": "emblem-shepherd.png",
+          "texts": [
+            "装備者はシェパードの特性を獲得する。"
+          ]
+        },
+        {
+          "stt": "3-13",
+          "id": "bastion_emblem",
+          "name": "Bastion Emblem",
+          "image": "emblem-bastion.png",
+          "texts": [
+            "装備者はバスティオンの特性を獲得する。"
+          ]
+        },
+        {
+          "stt": "3-14",
+          "id": "vanguard_emblem",
+          "name": "Vanguard Emblem",
+          "image": "emblem-vanguard.png",
+          "texts": [
+            "装備者はヴァンガードの特性を獲得する。"
+          ]
+        },
+        {
+          "stt": "3-15",
+          "id": "brawler_emblem",
+          "name": "Brawler Emblem",
+          "image": "emblem-brawler.png",
+          "texts": [
+            "装備者はブロウラーの特性を獲得する。"
+          ]
+        },
+        {
+          "stt": "3-16",
+          "id": "rogue_emblem",
+          "name": "Rogue Emblem",
+          "image": "emblem-rogue.png",
+          "texts": [
+            "装備者はローグの特性を獲得する。"
+          ]
+        },
+        {
+          "stt": "3-17",
+          "id": "anima_emblem",
+          "name": "Anima Emblem",
+          "image": "emblem-anima-tech.png",
+          "texts": [
+            "装備者はアニマの特性を獲得する。"
+          ]
+        },
+        {
+          "stt": "3-18",
+          "id": "psionic_emblem",
+          "name": "Psionic Emblem",
+          "image": "emblem-psyonic.png",
+          "texts": [
+            "装備者はサイオニックの特性を獲得する。"
+          ]
+        },
+        {
+          "stt": "3-19",
+          "id": "sniper_emblem",
+          "name": "Sniper Emblem",
+          "image": "emblem-sniper.png",
+          "texts": [
+            "装備者はスナイパーの特性を獲得する。"
+          ]
+        }
+      ]
+    }
+  ],
+  "augments": [
+    {
+      "stt": "1-1",
+      "id": "poppy_hero",
+      "name": "Poppy Hero",
+      "image": "tier-silver.png",
+      "tier": "2-1",
+      "description": "ポッピーを1体獲得する。ポッピーは遠距離攻撃のマークスマンとなり、ターゲットにミープを投げつけて攻撃する。"
+    },
+    {
+      "stt": "1-2",
+      "id": "aatrox_hero",
+      "name": "Aatrox Hero",
+      "image": "tier-silver.png",
+      "tier": "2-1",
+      "description": "エイトロックスのスキルが低マナの3連コンボになり、与えたダメージの一部を回復する。NOVAを発動すると、最大体力とサイズが増加する。"
+    },
+    {
+      "stt": "1-3",
+      "id": "bonk!",
+      "name": "Bonk!",
+      "image": "tier-silver.png",
+      "tier": "2-1",
+      "description": "ナサスを1体獲得する。最も強いナサスはアタックファイターとなり、敵を倒すごとに強化される単体対象スキルを持つようになる。"
+    },
+    {
+      "stt": "1-4",
+      "id": "charge_transfer_i",
+      "name": "Charge Transfer I",
+      "image": "tier-silver.png",
+      "tier": "3-2",
+      "description": "チームのダメージ増幅が5%上昇する。オーバーキルダメージの50%を最も近い敵に与える。"
+    },
+    {
+      "stt": "1-5",
+      "id": "the_tower",
+      "name": "The Tower",
+      "image": "tier-silver.png",
+      "tier": "2-1",
+      "description": "近くの敵を感電させる巨大なトレーニングドールを獲得する。"
+    },
+    {
+      "stt": "1-6",
+      "id": "group_hug_i",
+      "name": "Group Hug I",
+      "image": "tier-silver.png",
+      "tier": "3-2",
+      "description": "戦闘開始時：味方が隣接する他の味方に物理防御と魔法防御を6付与する。この効果はスタックする。"
+    },
+    {
+      "stt": "1-7",
+      "id": "expedition",
+      "name": "Expedition",
+      "image": "tier-silver.png",
+      "tier": "2-1",
+      "description": "計画フェーズの開始時、ベンチの右端にいるチャンピオンを失う。この方法で合計33ゴールド分のユニットを失うと、強力な報酬を獲得する。"
+    },
+    {
+      "stt": "1-8",
+      "id": "forge_a_friend",
+      "name": "Forge a Friend",
+      "image": "tier-silver.png",
+      "tier": "4-2",
+      "description": "次に購入する1コストチャンピオンが星3になる。"
+    },
+    {
+      "stt": "1-9",
+      "id": "size_matters",
+      "name": "Size Matters",
+      "image": "tier-silver.png",
+      "tier": "3-2",
+      "description": "ジャイアントベルトを1つ獲得する。チャンピオンが最大体力3800以上で戦闘を開始した後、もう1つ獲得する。"
+    },
+    {
+      "stt": "1-10",
+      "id": "feeling_lucky",
+      "name": "Feeling Lucky",
+      "image": "tier-silver.png",
+      "tier": "3-2",
+      "description": "12ゴールドを獲得し、コインを投げる。表が出ればさらに3ゴールド獲得する。"
+    },
+    {
+      "stt": "1-11",
+      "id": "cognitive_tax",
+      "name": "Cognitive Tax",
+      "image": "tier-silver.png",
+      "tier": "2-1",
+      "description": "8ゴールドと1 XPを獲得する。"
+    },
+    {
+      "stt": "1-12",
+      "id": "cognitive_tax+",
+      "name": "Cognitive Tax+",
+      "image": "tier-silver.png",
+      "tier": "3-2",
+      "description": "12ゴールドと3 XPを獲得する。"
+    },
+    {
+      "stt": "1-13",
+      "id": "kick_start",
+      "name": "Kick Start",
+      "image": "tier-silver.png",
+      "tier": "2-1",
+      "description": "ランダムな星2の2コストチャンピオン1体と1ゴールドを獲得する。"
+    },
+    {
+      "stt": "2-1",
+      "id": "anima_commander",
+      "name": "Anima Commander",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "ブライアー、ジンクス、イラオイを獲得する。プレイヤーの現在体力と最大体力を10増加させる。"
+    },
+    {
+      "stt": "2-2",
+      "id": "sniper's_nest",
+      "name": "Sniper's Nest",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "スナイパーは同じ開始マスから戦闘を行うたびにダメージ増幅が8%上昇し、最大32%まで増加する。エズリアルとナーを獲得する。"
+    },
+    {
+      "stt": "2-3",
+      "id": "may_the_fours_be_with_you",
+      "name": "May the Fours Be With You",
+      "image": "tier-gold.png",
+      "tier": "4-2",
+      "description": "自分の4コストチャンピオンとジンは体力が204、攻撃速度が14%増加する。ジンを1体獲得する。"
+    },
+    {
+      "stt": "2-4",
+      "id": "invader_zed",
+      "name": "Invader Zed",
+      "image": "tier-gold.png",
+      "tier": "3-2",
+      "description": "ブラッドサースターを獲得する。ステージ4-1でゼドを獲得する。ゼド獲得後、ショップにゼドが出現するようになる。ゼドは自身の分身を作る5コストのアタックファイター。"
+    },
+    {
+      "stt": "2-5",
+      "id": "reach_for_the_stars",
+      "name": "Reach For the Stars",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "ジャックスは攻撃するたびに攻撃速度がスタックする。スキル使用時、近くの敵に飛び込みダメージを与え、戦闘終了までスタックする追加ダメージを付与する。"
+    },
+    {
+      "stt": "2-6",
+      "id": "meep_space_9",
+      "name": "Meep Space 9",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "ミープシーはブロックのスキルの弱体化バージョンと強力な攻撃力を獲得する。"
+    },
+    {
+      "stt": "2-7",
+      "id": "star_conqueror",
+      "name": "Star Conqueror",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "モルデカイザーは通常攻撃ベースのAPキャリーとなる。チャネリング中、マナがある限り攻撃速度が大幅に上昇する。戦闘開始時とキル時にマナロックされないシールドを獲得する。"
+    },
+    {
+      "stt": "2-8",
+      "id": "self_destruct",
+      "name": "Self Destruct",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "グラガスを獲得する。グラガスは自爆するようになり、最大体力の20%を犠牲にしてXXX(AP)＋犠牲にした体力を魔法ダメージとして周囲4マスに与える。中心から離れるほどダメージは20%ずつ減少する。"
+    },
+    {
+      "stt": "2-9",
+      "id": "contract_killer",
+      "name": "Contract Killer",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "パイクを獲得する。最も強いパイクはスキルがリセットされるようになり、キル時にゴールドを生成する。"
+    },
+    {
+      "stt": "2-10",
+      "id": "side_effects",
+      "name": "Side Effects",
+      "image": "tier-gold.png",
+      "tier": "3-2",
+      "description": "味方が回復したとき、回復量の50%を魔法ダメージとしてターゲットに与える。5秒ごとに味方は最大体力の5%を回復する。"
+    },
+    {
+      "stt": "2-11",
+      "id": "misfits",
+      "name": "Misfits",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "有効なユニーク特性1つにつき、チームの体力が75増加する。ミス・フォーチュンとラーストを獲得する。"
+    },
+    {
+      "stt": "2-12",
+      "id": "booster_pack",
+      "name": "Booster Pack",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "11ゴールド相当のランダムなチャンピオンを獲得する（少なくとも1体の3コスト確定）。"
+    },
+    {
+      "stt": "2-13",
+      "id": "booster_pack+",
+      "name": "Booster Pack+",
+      "image": "tier-gold.png",
+      "tier": "3-2",
+      "description": "18ゴールド相当のランダムなチャンピオンを獲得する（少なくとも1体の4コスト確定）。"
+    },
+    {
+      "stt": "2-14",
+      "id": "booster_pack++",
+      "name": "Booster Pack++",
+      "image": "tier-gold.png",
+      "tier": "4-2",
+      "description": "30ゴールド相当のランダムなチャンピオンを獲得する（少なくとも1体の5コスト確定）。"
+    },
+    {
+      "stt": "2-15",
+      "id": "charge_transfer_ii",
+      "name": "Charge Transfer II",
+      "image": "tier-gold.png",
+      "tier": "3-2",
+      "description": "チームのダメージ増幅が8%上昇する。オーバーキルダメージの80%を最も近い敵に与える。"
+    },
+    {
+      "stt": "2-16",
+      "id": "group_hug_ii",
+      "name": "Group Hug II",
+      "image": "tier-gold.png",
+      "tier": "3-2",
+      "description": "戦闘開始時：味方が隣接する他の味方に物理防御と魔法防御を9付与する。この効果はスタックする。"
+    },
+    {
+      "stt": "2-17",
+      "id": "frontline_foundation",
+      "name": "Frontline Foundation",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "星2の1コストタンクチャンピオンと、その一番最後に記載されている特性の紋章を獲得する。"
+    },
+    {
+      "stt": "2-18",
+      "id": "kahunahuna",
+      "name": "Kahunahuna",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "5回目ごとの攻撃で、基礎攻撃力の200%に等しい追加確定ダメージを与える。"
+    },
+    {
+      "stt": "2-19",
+      "id": "cosmic_restart",
+      "name": "Cosmic Restart",
+      "image": "tier-gold.png",
+      "tier": "3-2",
+      "description": "神々を呼び、ボードとベンチの全ユニットを売却する。ランダムな紋章2つと無料ショップリロール10回を獲得する。"
+    },
+    {
+      "stt": "2-20",
+      "id": "cognitive_overload",
+      "name": "Cognitive Overload",
+      "image": "tier-gold.png",
+      "tier": "3-2",
+      "description": "7ゴールド、星2の1コスト1体、2コスト1体、3コスト2体、1 XP、ショップリロール1回を獲得する。"
+    },
+    {
+      "stt": "2-21",
+      "id": "backline_blueprint",
+      "name": "Backline Blueprint",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "タンク以外の3コストチャンピオンと、その一番最後に記載されている特性の紋章を獲得する。"
+    },
+    {
+      "stt": "2-22",
+      "id": "money_hungry",
+      "name": "Money Hungry",
+      "image": "tier-gold.png",
+      "tier": "2-1",
+      "description": "今すぐ10ゴールド獲得し、各ステージ開始時に7ゴールド獲得する。ゴールドを拾うとプレイヤーのサイズが大きくなる。"
+    },
+    {
+      "stt": "3-1",
+      "id": "five-pointed_star",
+      "name": "Five-Pointed Star",
+      "image": "tier-prism.png",
+      "tier": "4-2",
+      "description": "各ステージ開始時、特定のコストから最初に購入するチャンピオンが星2になる。今すぐ星2の1コスト1体と2ゴールドを獲得。ステージ2：2コスト、ステージ3：3コスト、ステージ4：4コスト、ステージ5：5コスト。"
+    },
+    {
+      "stt": "3-2",
+      "id": "just_hit",
+      "name": "Just Hit",
+      "image": "tier-prism.png",
+      "tier": "4-2",
+      "description": "チャンピオン複製器1つ、ショップリロール18回、10ゴールドを獲得する。"
+    },
+    {
+      "stt": "3-3",
+      "id": "golden_gamble",
+      "name": "Golden Gamble",
+      "image": "tier-prism.png",
+      "tier": "2-1",
+      "description": "コインを投げる。表ならレディアントラッキーアイテムチェスト、裏ならランダムなレディアントアイテムと磁気除去装置を獲得する。"
+    },
+    {
+      "stt": "3-4",
+      "id": "baron's_lair",
+      "name": "Baron's Lair",
+      "image": "tier-prism.png",
+      "tier": "2-1",
+      "description": "タンクアイテムを獲得する。戦闘が8秒経過した後、残りの戦闘中、チームは毎秒5%の攻撃力と魔力を獲得する。"
+    }
+  ]
+}
