@@ -1,19 +1,9 @@
 [
     [
         {
-            "id": "aatrox",
-            "name": "Aatrox",
-            "img_url": "tft17_aatrox.tft_set17.png"
-        },
-        {
             "id": "briar",
             "name": "Briar",
             "img_url": "tft17_briar.tft_set17.png"
-        },
-        {
-            "id": "caitlyn",
-            "name": "Caitlyn",
-            "img_url": "tft17_caitlyn.tft_set17.png"
         },
         {
             "id": "cho'gath",
@@ -36,11 +26,6 @@
             "img_url": "tft17_lissandra.tft_set17.png"
         },
         {
-            "id": "poppy",
-            "name": "Poppy",
-            "img_url": "tft17_poppy.tft_set17.png"
-        },
-        {
             "id": "rek'sai",
             "name": "Rek'Sai",
             "img_url": "tft17_reksai.tft_set17.png"
@@ -59,11 +44,6 @@
             "id": "twisted_fate",
             "name": "Twisted Fate",
             "img_url": "tft17_twistedfate.tft_set17.png"
-        },
-        {
-            "id": "veigar",
-            "name": "Veigar",
-            "img_url": "tft17_veigar.tft_set17.png"
         }
     ],
     [
@@ -73,39 +53,19 @@
             "img_url": "tft17_belveth.tft_set17.png"
         },
         {
-            "id": "gragas",
-            "name": "Gragas",
-            "img_url": "tft17_gragas.tft_set17.png"
-        },
-        {
-            "id": "gwen",
-            "name": "Gwen",
-            "img_url": "tft17_gwen.tft_set17.png"
-        },
-        {
             "id": "jax",
             "name": "Jax",
             "img_url": "tft17_jax.tft_set17.png"
         },
         {
-            "id": "meepsie",
-            "name": "Meepsie",
-            "img_url": "tft17_ivernminion.tft_set17.png"
+            "id": "jinx",
+            "name": "Jinx",
+            "img_url": "tft17_jinx.tft_set17.png"
         },
         {
             "id": "milio",
             "name": "Milio",
             "img_url": "tft17_milio.tft_set17.png"
-        },
-        {
-            "id": "pantheon",
-            "name": "Pantheon",
-            "img_url": "tft17_pantheon.tft_set17.png"
-        },
-        {
-            "id": "pyke",
-            "name": "Pyke",
-            "img_url": "tft17_pyke.tft_set17.png"
         }
     ],
     [
@@ -118,11 +78,6 @@
             "id": "diana",
             "name": "Diana",
             "img_url": "tft17_diana_teamplanner_splash.tft_set17.png"
-        },
-        {
-            "id": "fizz",
-            "name": "Fizz",
-            "img_url": "tft17_fizz.tft_set17.png"
         },
         {
             "id": "illaoi",
@@ -138,21 +93,6 @@
             "id": "lulu",
             "name": "Lulu",
             "img_url": "tft17_lulu.tft_set17.png"
-        },
-        {
-            "id": "maokai",
-            "name": "Maokai",
-            "img_url": "tft17_maokai.tft_set17.png"
-        },
-        {
-            "id": "miss_fortune",
-            "name": "Miss Fortune",
-            "img_url": "tft17_missfortune.tft_set17.png"
-        },
-        {
-            "id": "ornn",
-            "name": "Ornn",
-            "img_url": "tft17_ornn.tft_set17.png"
         },
         {
             "id": "viktor",
@@ -234,6 +174,11 @@
             "img_url": "tft17_bard.tft_set17.png"
         },
         {
+            "id": "blitzcrank",
+            "name": "Blitzcrank",
+            "img_url": "tft17_blitzcrank.tft_set17.png"
+        },
+        {
             "id": "fiora",
             "name": "Fiora",
             "img_url": "tft17_fiora.tft_set17.png"
@@ -247,11 +192,6 @@
             "id": "jhin",
             "name": "Jhin",
             "img_url": "tft17_jhin.tft_set17.png"
-        },
-        {
-            "id": "sona",
-            "name": "Sona",
-            "img_url": "tft17_sona.tft_set17.png"
         },
         {
             "id": "vex",
