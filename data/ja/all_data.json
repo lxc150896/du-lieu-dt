@@ -23295,14 +23295,49 @@
   "champions_by_gold": [
     [
       {
+        "id": "aatrox",
+        "name": "Aatrox",
+        "img_url": "tft17_aatrox.tft_set17.png"
+      },
+      {
+        "id": "briar",
+        "name": "Briar",
+        "img_url": "tft17_briar.tft_set17.png"
+      },
+      {
         "id": "caitlyn",
         "name": "Caitlyn",
         "img_url": "tft17_caitlyn.tft_set17.png"
       },
       {
+        "id": "cho'gath",
+        "name": "Cho'Gath",
+        "img_url": "tft17_chogath.tft_set17.png"
+      },
+      {
+        "id": "ezreal",
+        "name": "Ezreal",
+        "img_url": "tft17_ezreal.tft_set17.png"
+      },
+      {
         "id": "leona",
         "name": "Leona",
         "img_url": "tft17_leona.tft_set17.png"
+      },
+      {
+        "id": "lissandra",
+        "name": "Lissandra",
+        "img_url": "tft17_lissandra.tft_set17.png"
+      },
+      {
+        "id": "rek'sai",
+        "name": "Rek'Sai",
+        "img_url": "tft17_reksai.tft_set17.png"
+      },
+      {
+        "id": "teemo",
+        "name": "Teemo",
+        "img_url": "tft17_teemo.tft_set17.png"
       },
       {
         "id": "twisted_fate",
@@ -23322,6 +23357,16 @@
         "img_url": "tft17_belveth.tft_set17.png"
       },
       {
+        "id": "gragas",
+        "name": "Gragas",
+        "img_url": "tft17_gragas.tft_set17.png"
+      },
+      {
+        "id": "gwen",
+        "name": "Gwen",
+        "img_url": "tft17_gwen.tft_set17.png"
+      },
+      {
         "id": "jax",
         "name": "Jax",
         "img_url": "tft17_jax.tft_set17.png"
@@ -23335,6 +23380,16 @@
         "id": "milio",
         "name": "Milio",
         "img_url": "tft17_milio.tft_set17.png"
+      },
+      {
+        "id": "pantheon",
+        "name": "Pantheon",
+        "img_url": "tft17_pantheon.tft_set17.png"
+      },
+      {
+        "id": "pyke",
+        "name": "Pyke",
+        "img_url": "tft17_pyke.tft_set17.png"
       }
     ],
     [
@@ -23354,9 +23409,19 @@
         "img_url": "tft17_illaoi.tft_set17.png"
       },
       {
+        "id": "kai'sa",
+        "name": "Kai'Sa",
+        "img_url": "tft17_kaisa.tft_set17.png"
+      },
+      {
         "id": "lulu",
         "name": "Lulu",
         "img_url": "tft17_lulu.tft_set17.png"
+      },
+      {
+        "id": "maokai",
+        "name": "Maokai",
+        "img_url": "tft17_maokai.tft_set17.png"
       },
       {
         "id": "miss_fortune",
@@ -23367,6 +23432,11 @@
         "id": "ornn",
         "name": "Ornn",
         "img_url": "tft17_ornn.tft_set17.png"
+      },
+      {
+        "id": "samira",
+        "name": "Samira",
+        "img_url": "tft17_samira.tft_set17.png"
       },
       {
         "id": "urgot",
@@ -23380,6 +23450,11 @@
       }
     ],
     [
+      {
+        "id": "aurelion_sol",
+        "name": "Aurelion Sol",
+        "img_url": "tft17_aurelionsol.tft_set17.png"
+      },
       {
         "id": "corki",
         "name": "Corki",
@@ -23431,6 +23506,11 @@
         "img_url": "tft17_tahmkench.tft_set17.png"
       },
       {
+        "id": "the_mighty_mech",
+        "name": "The Mighty Mech",
+        "img_url": "tft17_galio.tft_set17.png"
+      },
+      {
         "id": "xayah",
         "name": "Xayah",
         "img_url": "tft17_xayah.tft_set17.png"
@@ -23441,6 +23521,11 @@
         "id": "bard",
         "name": "Bard",
         "img_url": "tft17_bard.tft_set17.png"
+      },
+      {
+        "id": "fiora",
+        "name": "Fiora",
+        "img_url": "tft17_fiora.tft_set17.png"
       },
       {
         "id": "graves",

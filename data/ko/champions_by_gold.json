@@ -36,19 +36,9 @@
             "img_url": "tft17_lissandra.tft_set17.png"
         },
         {
-            "id": "poppy",
-            "name": "Poppy",
-            "img_url": "tft17_poppy.tft_set17.png"
-        },
-        {
             "id": "rek'sai",
             "name": "Rek'Sai",
             "img_url": "tft17_reksai.tft_set17.png"
-        },
-        {
-            "id": "talon",
-            "name": "Talon",
-            "img_url": "tft17_talon.tft_set17.png"
         },
         {
             "id": "teemo",
@@ -59,14 +49,14 @@
             "id": "twisted_fate",
             "name": "Twisted Fate",
             "img_url": "tft17_twistedfate.tft_set17.png"
-        },
-        {
-            "id": "veigar",
-            "name": "Veigar",
-            "img_url": "tft17_veigar.tft_set17.png"
         }
     ],
     [
+        {
+            "id": "akali",
+            "name": "Akali",
+            "img_url": "tft17_akali.tft_set17.png"
+        },
         {
             "id": "bel'veth",
             "name": "Bel'Veth",
@@ -88,9 +78,9 @@
             "img_url": "tft17_jax.tft_set17.png"
         },
         {
-            "id": "meepsie",
-            "name": "Meepsie",
-            "img_url": "tft17_ivernminion.tft_set17.png"
+            "id": "jinx",
+            "name": "Jinx",
+            "img_url": "tft17_jinx.tft_set17.png"
         },
         {
             "id": "milio",
@@ -118,11 +108,6 @@
             "id": "diana",
             "name": "Diana",
             "img_url": "tft17_diana_teamplanner_splash.tft_set17.png"
-        },
-        {
-            "id": "fizz",
-            "name": "Fizz",
-            "img_url": "tft17_fizz.tft_set17.png"
         },
         {
             "id": "illaoi",
@@ -153,6 +138,16 @@
             "id": "ornn",
             "name": "Ornn",
             "img_url": "tft17_ornn.tft_set17.png"
+        },
+        {
+            "id": "samira",
+            "name": "Samira",
+            "img_url": "tft17_samira.tft_set17.png"
+        },
+        {
+            "id": "urgot",
+            "name": "Urgot",
+            "img_url": "tft17_urgot.tft_set17.png"
         },
         {
             "id": "viktor",
@@ -190,11 +185,6 @@
             "id": "master_yi",
             "name": "Master Yi",
             "img_url": "tft17_masteryi.tft_set17.png"
-        },
-        {
-            "id": "morgana",
-            "name": "Morgana",
-            "img_url": "tft17_morgana.tft_set17.png"
         },
         {
             "id": "nami",
@@ -237,6 +227,11 @@
             "id": "bard",
             "name": "Bard",
             "img_url": "tft17_bard.tft_set17.png"
+        },
+        {
+            "id": "fiora",
+            "name": "Fiora",
+            "img_url": "tft17_fiora.tft_set17.png"
         },
         {
             "id": "graves",
