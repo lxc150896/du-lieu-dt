@@ -36,6 +36,21 @@
             "img_url": "tft17_lissandra.tft_set17.png"
         },
         {
+            "id": "nasus",
+            "name": "Nasus",
+            "img_url": "tft17_nasus.tft_set17.png"
+        },
+        {
+            "id": "poppy",
+            "name": "Poppy",
+            "img_url": "tft17_poppy.tft_set17.png"
+        },
+        {
+            "id": "rek'sai",
+            "name": "Rek'Sai",
+            "img_url": "tft17_reksai.tft_set17.png"
+        },
+        {
             "id": "teemo",
             "name": "Teemo",
             "img_url": "tft17_teemo.tft_set17.png"
@@ -52,11 +67,6 @@
         }
     ],
     [
-        {
-            "id": "akali",
-            "name": "Akali",
-            "img_url": "tft17_akali.tft_set17.png"
-        },
         {
             "id": "bel'veth",
             "name": "Bel'Veth",
@@ -88,6 +98,11 @@
             "img_url": "tft17_jinx.tft_set17.png"
         },
         {
+            "id": "meepsie",
+            "name": "Meepsie",
+            "img_url": "tft17_ivernminion.tft_set17.png"
+        },
+        {
             "id": "milio",
             "name": "Milio",
             "img_url": "tft17_milio.tft_set17.png"
@@ -105,9 +120,19 @@
     ],
     [
         {
+            "id": "aurora",
+            "name": "Aurora",
+            "img_url": "tft17_aurora.tft_set17.png"
+        },
+        {
             "id": "diana",
             "name": "Diana",
             "img_url": "tft17_diana_teamplanner_splash.tft_set17.png"
+        },
+        {
+            "id": "fizz",
+            "name": "Fizz",
+            "img_url": "tft17_fizz.tft_set17.png"
         },
         {
             "id": "illaoi",
@@ -123,6 +148,11 @@
             "id": "lulu",
             "name": "Lulu",
             "img_url": "tft17_lulu.tft_set17.png"
+        },
+        {
+            "id": "maokai",
+            "name": "Maokai",
+            "img_url": "tft17_maokai.tft_set17.png"
         },
         {
             "id": "miss_fortune",
@@ -227,6 +257,11 @@
             "id": "bard",
             "name": "Bard",
             "img_url": "tft17_bard.tft_set17.png"
+        },
+        {
+            "id": "fiora",
+            "name": "Fiora",
+            "img_url": "tft17_fiora.tft_set17.png"
         },
         {
             "id": "graves",
