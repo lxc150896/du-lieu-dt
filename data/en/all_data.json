@@ -23373,6 +23373,11 @@
         "img_url": "tft17_chogath.tft_set17.png"
       },
       {
+        "id": "ezreal",
+        "name": "Ezreal",
+        "img_url": "tft17_ezreal.tft_set17.png"
+      },
+      {
         "id": "leona",
         "name": "Leona",
         "img_url": "tft17_leona.tft_set17.png"
@@ -23381,6 +23386,11 @@
         "id": "lissandra",
         "name": "Lissandra",
         "img_url": "tft17_lissandra.tft_set17.png"
+      },
+      {
+        "id": "nasus",
+        "name": "Nasus",
+        "img_url": "tft17_nasus.tft_set17.png"
       },
       {
         "id": "poppy",
@@ -23415,19 +23425,9 @@
     ],
     [
       {
-        "id": "akali",
-        "name": "Akali",
-        "img_url": "tft17_akali.tft_set17.png"
-      },
-      {
         "id": "bel'veth",
         "name": "Bel'Veth",
         "img_url": "tft17_belveth.tft_set17.png"
-      },
-      {
-        "id": "gnar",
-        "name": "Gnar",
-        "img_url": "tft17_gnar.tft_set17.png"
       },
       {
         "id": "gragas",
@@ -23473,14 +23473,14 @@
         "id": "pyke",
         "name": "Pyke",
         "img_url": "tft17_pyke.tft_set17.png"
+      },
+      {
+        "id": "zoe",
+        "name": "Zoe",
+        "img_url": "tft17_zoe.tft_set17.png"
       }
     ],
     [
-      {
-        "id": "aurora",
-        "name": "Aurora",
-        "img_url": "tft17_aurora.tft_set17.png"
-      },
       {
         "id": "diana",
         "name": "Diana",
@@ -23490,6 +23490,11 @@
         "id": "illaoi",
         "name": "Illaoi",
         "img_url": "tft17_illaoi.tft_set17.png"
+      },
+      {
+        "id": "kai'sa",
+        "name": "Kai'Sa",
+        "img_url": "tft17_kaisa.tft_set17.png"
       },
       {
         "id": "lulu",
@@ -23609,11 +23614,6 @@
         "id": "blitzcrank",
         "name": "Blitzcrank",
         "img_url": "tft17_blitzcrank.tft_set17.png"
-      },
-      {
-        "id": "fiora",
-        "name": "Fiora",
-        "img_url": "tft17_fiora.tft_set17.png"
       },
       {
         "id": "graves",
