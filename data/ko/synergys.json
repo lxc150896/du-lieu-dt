@@ -1,6 +1,81 @@
 [
     {
         "stt": 1,
+        "id": "namujeongryeong",
+        "name": "나무정령",
+        "image": "Trait_Icon_18_Elderwood.TFT_Set18.png",
+        "description_icon": [
+            "배치할 수 있는 나무정령 식물을 획득합니다."
+        ],
+        "description_detail": [
+            [
+                "3",
+                "돌껍질 나무",
+                "생명꽃 획득"
+            ],
+            [
+                "5",
+                "두 번째 돌껍질 나무 획득 및 돌껍질 나무 체력 200 증가"
+            ],
+            [
+                "7",
+                "또한 깊은숲 수호자 획득"
+            ],
+            [
+                "9",
+                "식물이 2성이 됨"
+            ],
+            [
+                "11",
+                "식물이 3성이 되고 숲이 살아 움직임"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "oreun",
+                "name": "오른",
+                "image": "tft18_ornn.tft_set18.jpg"
+            },
+            {
+                "id": "jaya",
+                "name": "자야",
+                "image": "tft18_xayah.tft_set18.jpg"
+            },
+            {
+                "id": "alriseuta",
+                "name": "알리스타",
+                "image": "tft18_alistar.tft_set18.jpg"
+            },
+            {
+                "id": "reubeulrang",
+                "name": "르블랑",
+                "image": "tft18_leblanc.tft_set18.jpg"
+            },
+            {
+                "id": "hekarim",
+                "name": "헤카림",
+                "image": "tft18_hecarim.tft_set18.jpg"
+            },
+            {
+                "id": "ijeurieol",
+                "name": "이즈리얼",
+                "image": "tft18_ezreal.tft_set18.jpg"
+            },
+            {
+                "id": "nareu",
+                "name": "나르",
+                "image": "tft18_gnar.tft_set18.jpg"
+            }
+        ],
+        "average_position": "1.06",
+        "top_4_rate": "100",
+        "top_1_rate": "94.60",
+        "battle": "1,815",
+        "trait": "계열",
+        "kich_hoat": "11"
+    },
+    {
+        "stt": 2,
         "id": "gaehwa",
         "name": "개화",
         "image": "Trait_Icon_18_Blossom.TFT_Set18.png",
@@ -84,85 +159,10 @@
                 "image": "tft18_ashe.tft_set18.jpg"
             }
         ],
-        "average_position": "1.22",
-        "top_4_rate": "100",
-        "top_1_rate": "85.19",
-        "battle": "54",
-        "trait": "계열",
-        "kich_hoat": "11"
-    },
-    {
-        "stt": 2,
-        "id": "namujeongryeong",
-        "name": "나무정령",
-        "image": "Trait_Icon_18_Elderwood.TFT_Set18.png",
-        "description_icon": [
-            "배치할 수 있는 나무정령 식물을 획득합니다."
-        ],
-        "description_detail": [
-            [
-                "3",
-                "돌껍질 나무",
-                "생명꽃 획득"
-            ],
-            [
-                "5",
-                "두 번째 돌껍질 나무 획득 및 돌껍질 나무 체력 200 증가"
-            ],
-            [
-                "7",
-                "또한 깊은숲 수호자 획득"
-            ],
-            [
-                "9",
-                "식물이 2성이 됨"
-            ],
-            [
-                "11",
-                "식물이 3성이 되고 숲이 살아 움직임"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "oreun",
-                "name": "오른",
-                "image": "tft18_ornn.tft_set18.jpg"
-            },
-            {
-                "id": "jaya",
-                "name": "자야",
-                "image": "tft18_xayah.tft_set18.jpg"
-            },
-            {
-                "id": "alriseuta",
-                "name": "알리스타",
-                "image": "tft18_alistar.tft_set18.jpg"
-            },
-            {
-                "id": "reubeulrang",
-                "name": "르블랑",
-                "image": "tft18_leblanc.tft_set18.jpg"
-            },
-            {
-                "id": "hekarim",
-                "name": "헤카림",
-                "image": "tft18_hecarim.tft_set18.jpg"
-            },
-            {
-                "id": "ijeurieol",
-                "name": "이즈리얼",
-                "image": "tft18_ezreal.tft_set18.jpg"
-            },
-            {
-                "id": "nareu",
-                "name": "나르",
-                "image": "tft18_gnar.tft_set18.jpg"
-            }
-        ],
-        "average_position": "1.04",
-        "top_4_rate": "100",
-        "top_1_rate": "96.00",
-        "battle": "25",
+        "average_position": "1.27",
+        "top_4_rate": "98.34",
+        "top_1_rate": "85.88",
+        "battle": "1,629",
         "trait": "계열",
         "kich_hoat": "11"
     },
@@ -232,11 +232,62 @@
                 "팀 최대 규모 +2"
             ]
         ],
-        "champions": [],
-        "average_position": "2.25",
-        "top_4_rate": "94.77",
-        "top_1_rate": "33.98",
-        "battle": "880",
+        "champions": [
+            {
+                "id": "bultaneun_myomog",
+                "name": "불타는 묘목",
+                "image": "Cinderling_1783677059-Cinderling.jpg"
+            },
+            {
+                "id": "joyagdol",
+                "name": "조약돌",
+                "image": "Pebbles_1783677606-Sentry.jpg"
+            },
+            {
+                "id": "simsulduggeobi",
+                "name": "심술두꺼비",
+                "image": "Gromp_1783676782-Gromp.jpg"
+            },
+            {
+                "id": "eoseureumneugdae",
+                "name": "어스름늑대",
+                "image": "Murkwolf_1783676955-MurkWolf.jpg"
+            },
+            {
+                "id": "bawi_ge",
+                "name": "바위 게",
+                "image": "Scuttlecrab_1783676864-Scuttlecrab.jpg"
+            },
+            {
+                "id": "dolgeobug",
+                "name": "돌거북",
+                "image": "Krug_1783676771-Krug.jpg"
+            },
+            {
+                "id": "eomi_buri",
+                "name": "어미 부리",
+                "image": "Raptor_1783677107-CrimsonRaptor.jpg"
+            },
+            {
+                "id": "gamsija",
+                "name": "감시자",
+                "image": "AncientSentinel_1783677366-Sentinel.jpg"
+            },
+            {
+                "id": "deongguljeongryeong",
+                "name": "덩굴정령",
+                "image": "Brambleback_1783677203-Brambleback.jpg"
+            },
+            {
+                "id": "jangro_deuraegon",
+                "name": "장로 드래곤",
+                "image": "TheElderDragon_1783677052-ElderDragon.jpg"
+            }
+        ],
+        "average_position": "2.09",
+        "top_4_rate": "94.99",
+        "top_1_rate": "41.22",
+        "battle": "61,230",
         "trait": "계열",
         "kich_hoat": "10"
     },
@@ -308,293 +359,81 @@
                 "image": "tft18_gnar.tft_set18.jpg"
             }
         ],
-        "average_position": "2.13",
-        "top_4_rate": "93.37",
-        "top_1_rate": "42.47",
-        "battle": "332",
+        "average_position": "2.14",
+        "top_4_rate": "91.93",
+        "top_1_rate": "46.39",
+        "battle": "20,682",
         "trait": "계열",
         "kich_hoat": "9"
     },
     {
         "stt": 5,
-        "id": "sanyangggun",
-        "name": "사냥꾼",
-        "image": "Trait_Icon_18_Hunter.TFT_Set18.png",
+        "id": "dalbic",
+        "name": "달빛",
+        "image": "Trait_Icon_18_Lunar.TFT_Set18.png",
         "description_icon": [
-            "사냥꾼이 공격력을 얻습니다. 사냥꾼이 4초 동안 대상을 변경하지 않았다면 피해 증폭을 10% 얻습니다."
+            "달빛 챔피언 및 인접한 아군이 공격 속도와 주문력을 얻습니다. 달빛 챔피언은 100% 더 얻습니다."
         ],
         "description_detail": [
             [
                 "2",
-                "20%",
-                "AD.png"
+                "7%",
+                "AS.png",
+                "",
+                "7%",
+                "AP.png"
             ],
             [
                 "3",
-                "30%",
-                "AD.png"
+                "10%",
+                "AS.png",
+                "",
+                "10%",
+                "AP.png"
             ],
             [
                 "4",
-                "45%",
-                "AD.png"
+                "14%",
+                "AS.png",
+                "",
+                "14%",
+                "AP.png"
             ],
             [
                 "5",
-                "65%",
-                "AD.png"
+                "18%",
+                "AS.png",
+                "",
+                "18%",
+                "AP.png"
             ]
         ],
         "champions": [
             {
-                "id": "keiteulrin",
-                "name": "케이틀린",
-                "image": "tft18_caitlyn.tft_set18.jpg"
+                "id": "daiaena",
+                "name": "다이애나",
+                "image": "tft18_diana.tft_set18.jpg"
             },
             {
-                "id": "teuriseutana",
-                "name": "트리스타나",
-                "image": "tft18_tristana.tft_set18.jpg"
+                "id": "apelrioseu",
+                "name": "아펠리오스",
+                "image": "tft18_aphelios.tft_set18.jpg"
             },
             {
-                "id": "sibireu",
-                "name": "시비르",
-                "image": "tft18_sivir.tft_set18.jpg"
-            },
-            {
-                "id": "aeswi",
-                "name": "애쉬",
-                "image": "tft18_ashe.tft_set18.jpg"
+                "id": "alrun",
+                "name": "알룬",
+                "image": "tft18_alune.tft_set18.jpg"
             }
         ],
-        "average_position": "2.63",
-        "top_4_rate": "92.7",
-        "top_1_rate": "23.36",
-        "battle": "137",
-        "trait": "직업",
+        "average_position": "2.58",
+        "top_4_rate": "86.2",
+        "top_1_rate": "34.12",
+        "battle": "13,895",
+        "trait": "계열",
         "kich_hoat": "5"
     },
     {
         "stt": 6,
-        "id": "dalbic",
-        "name": "달빛",
-        "image": "Trait_Icon_18_Lunar.TFT_Set18.png",
-        "description_icon": [
-            "달빛 챔피언 및 인접한 아군이 공격 속도와 주문력을 얻습니다. 달빛 챔피언은 100% 더 얻습니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "7%",
-                "AS.png",
-                "",
-                "7%",
-                "AP.png"
-            ],
-            [
-                "3",
-                "10%",
-                "AS.png",
-                "",
-                "10%",
-                "AP.png"
-            ],
-            [
-                "4",
-                "14%",
-                "AS.png",
-                "",
-                "14%",
-                "AP.png"
-            ],
-            [
-                "5",
-                "18%",
-                "AS.png",
-                "",
-                "18%",
-                "AP.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "daiaena",
-                "name": "다이애나",
-                "image": "tft18_diana.tft_set18.jpg"
-            },
-            {
-                "id": "apelrioseu",
-                "name": "아펠리오스",
-                "image": "tft18_aphelios.tft_set18.jpg"
-            },
-            {
-                "id": "alrun",
-                "name": "알룬",
-                "image": "tft18_alune.tft_set18.jpg"
-            }
-        ],
-        "average_position": "2.2",
-        "top_4_rate": "92.68",
-        "top_1_rate": "41.11",
-        "battle": "287",
-        "trait": "계열",
-        "kich_hoat": "5"
-    },
-    {
-        "stt": 7,
-        "id": "jeonjaenggigye",
-        "name": "전쟁기계",
-        "image": "Trait_Icon_18_Juggernaut.TFT_Set18.png",
-        "description_icon": [
-            "아군이 내구력을 얻습니다. 전쟁기계는 능력치를 더 얻습니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "4%",
-                "DR.png",
-                "또는 20%",
-                "DR.png"
-            ],
-            [
-                "4",
-                "6%",
-                "DR.png",
-                "또는 33%",
-                "DR.png"
-            ],
-            [
-                "6",
-                "8%",
-                "DR.png",
-                "또는 45%",
-                "DR.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "rakan",
-                "name": "라칸",
-                "image": "tft18_rakan.tft_set18.jpg"
-            },
-            {
-                "id": "yorig",
-                "name": "요릭",
-                "image": "tft18_yorick.tft_set18.jpg"
-            },
-            {
-                "id": "sejuani",
-                "name": "세주아니",
-                "image": "tft18_sejuani.tft_set18.jpg"
-            },
-            {
-                "id": "bai",
-                "name": "바이",
-                "image": "tft18_vi.tft_set18.jpg"
-            },
-            {
-                "id": "amumu",
-                "name": "아무무",
-                "image": "tft18_amumu.tft_set18.jpg"
-            },
-            {
-                "id": "maokai",
-                "name": "마오카이",
-                "image": "tft18_maokai.tft_set18.jpg"
-            }
-        ],
-        "average_position": "2.47",
-        "top_4_rate": "90.76",
-        "top_1_rate": "32.07",
-        "battle": "184",
-        "trait": "직업",
-        "kich_hoat": "6"
-    },
-    {
-        "stt": 8,
-        "id": "dalbic",
-        "name": "달빛",
-        "image": "Trait_Icon_18_Lunar.TFT_Set18.png",
-        "description_icon": [
-            "달빛 챔피언 및 인접한 아군이 공격 속도와 주문력을 얻습니다. 달빛 챔피언은 100% 더 얻습니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "7%",
-                "AS.png",
-                "",
-                "7%",
-                "AP.png"
-            ],
-            [
-                "3",
-                "10%",
-                "AS.png",
-                "",
-                "10%",
-                "AP.png"
-            ],
-            [
-                "4",
-                "14%",
-                "AS.png",
-                "",
-                "14%",
-                "AP.png"
-            ],
-            [
-                "5",
-                "18%",
-                "AS.png",
-                "",
-                "18%",
-                "AP.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "daiaena",
-                "name": "다이애나",
-                "image": "tft18_diana.tft_set18.jpg"
-            },
-            {
-                "id": "apelrioseu",
-                "name": "아펠리오스",
-                "image": "tft18_aphelios.tft_set18.jpg"
-            },
-            {
-                "id": "alrun",
-                "name": "알룬",
-                "image": "tft18_alune.tft_set18.jpg"
-            }
-        ],
-        "average_position": "2.51",
-        "top_4_rate": "90.35",
-        "top_1_rate": "30.62",
-        "battle": "601",
-        "trait": "계열",
-        "kich_hoat": "4"
-    },
-    {
-        "stt": 9,
-        "id": "ilweolsig",
-        "name": "일월식",
-        "image": "Trait_Icon_18_Eclipse.TFT_Set18.png",
-        "description_icon": [
-            "전투 시작 10초 후 일월식이 체력이 가장 낮은 적을 처치하며, 이후 3.5초마다 반복합니다."
-        ],
-        "description_detail": [],
-        "champions": [],
-        "average_position": "2.55",
-        "top_4_rate": "89.26",
-        "top_1_rate": "34.39",
-        "battle": "503",
-        "trait": "계열",
-        "kich_hoat": "0"
-    },
-    {
-        "stt": 10,
         "id": "gaehwa",
         "name": "개화",
         "image": "Trait_Icon_18_Blossom.TFT_Set18.png",
@@ -678,15 +517,145 @@
                 "image": "tft18_ashe.tft_set18.jpg"
             }
         ],
-        "average_position": "2.64",
-        "top_4_rate": "87.79",
-        "top_1_rate": "32.67",
-        "battle": "303",
+        "average_position": "2.81",
+        "top_4_rate": "82.24",
+        "top_1_rate": "31.19",
+        "battle": "16,751",
         "trait": "계열",
         "kich_hoat": "9"
     },
     {
-        "stt": 11,
+        "stt": 7,
+        "id": "sanyangggun",
+        "name": "사냥꾼",
+        "image": "Trait_Icon_18_Hunter.TFT_Set18.png",
+        "description_icon": [
+            "사냥꾼이 공격력을 얻습니다. 사냥꾼이 4초 동안 대상을 변경하지 않았다면 피해 증폭을 10% 얻습니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "20%",
+                "AD.png"
+            ],
+            [
+                "3",
+                "30%",
+                "AD.png"
+            ],
+            [
+                "4",
+                "45%",
+                "AD.png"
+            ],
+            [
+                "5",
+                "65%",
+                "AD.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "bultaneun_myomog",
+                "name": "불타는 묘목",
+                "image": "Cinderling_1783677059-Cinderling.jpg"
+            },
+            {
+                "id": "keiteulrin",
+                "name": "케이틀린",
+                "image": "tft18_caitlyn.tft_set18.jpg"
+            },
+            {
+                "id": "teuriseutana",
+                "name": "트리스타나",
+                "image": "tft18_tristana.tft_set18.jpg"
+            },
+            {
+                "id": "sibireu",
+                "name": "시비르",
+                "image": "tft18_sivir.tft_set18.jpg"
+            },
+            {
+                "id": "aeswi",
+                "name": "애쉬",
+                "image": "tft18_ashe.tft_set18.jpg"
+            }
+        ],
+        "average_position": "2.96",
+        "top_4_rate": "81.65",
+        "top_1_rate": "22.87",
+        "battle": "6,899",
+        "trait": "직업",
+        "kich_hoat": "5"
+    },
+    {
+        "stt": 8,
+        "id": "dalbic",
+        "name": "달빛",
+        "image": "Trait_Icon_18_Lunar.TFT_Set18.png",
+        "description_icon": [
+            "달빛 챔피언 및 인접한 아군이 공격 속도와 주문력을 얻습니다. 달빛 챔피언은 100% 더 얻습니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "7%",
+                "AS.png",
+                "",
+                "7%",
+                "AP.png"
+            ],
+            [
+                "3",
+                "10%",
+                "AS.png",
+                "",
+                "10%",
+                "AP.png"
+            ],
+            [
+                "4",
+                "14%",
+                "AS.png",
+                "",
+                "14%",
+                "AP.png"
+            ],
+            [
+                "5",
+                "18%",
+                "AS.png",
+                "",
+                "18%",
+                "AP.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "daiaena",
+                "name": "다이애나",
+                "image": "tft18_diana.tft_set18.jpg"
+            },
+            {
+                "id": "apelrioseu",
+                "name": "아펠리오스",
+                "image": "tft18_aphelios.tft_set18.jpg"
+            },
+            {
+                "id": "alrun",
+                "name": "알룬",
+                "image": "tft18_alune.tft_set18.jpg"
+            }
+        ],
+        "average_position": "2.96",
+        "top_4_rate": "79.51",
+        "top_1_rate": "28.54",
+        "battle": "29,604",
+        "trait": "계열",
+        "kich_hoat": "4"
+    },
+    {
+        "stt": 9,
         "id": "nalryeobi",
         "name": "날렵이",
         "image": "Trait_Icon_18_Sprykin.TFT_Set18.png",
@@ -754,15 +723,15 @@
                 "image": "tft18_gnar.tft_set18.jpg"
             }
         ],
-        "average_position": "2.89",
-        "top_4_rate": "87.5",
-        "top_1_rate": "20.22",
-        "battle": "272",
+        "average_position": "3.12",
+        "top_4_rate": "79.5",
+        "top_1_rate": "19.14",
+        "battle": "18,832",
         "trait": "계열",
         "kich_hoat": "7"
     },
     {
-        "stt": 12,
+        "stt": 10,
         "id": "sanyangggun",
         "name": "사냥꾼",
         "image": "Trait_Icon_18_Hunter.TFT_Set18.png",
@@ -793,6 +762,11 @@
         ],
         "champions": [
             {
+                "id": "bultaneun_myomog",
+                "name": "불타는 묘목",
+                "image": "Cinderling_1783677059-Cinderling.jpg"
+            },
+            {
                 "id": "keiteulrin",
                 "name": "케이틀린",
                 "image": "tft18_caitlyn.tft_set18.jpg"
@@ -813,71 +787,165 @@
                 "image": "tft18_ashe.tft_set18.jpg"
             }
         ],
-        "average_position": "2.83",
-        "top_4_rate": "87.45",
-        "top_1_rate": "22.13",
-        "battle": "470",
+        "average_position": "3.16",
+        "top_4_rate": "78.89",
+        "top_1_rate": "19.49",
+        "battle": "24,403",
         "trait": "직업",
         "kich_hoat": "4"
     },
     {
-        "stt": 13,
-        "id": "sogsapo",
-        "name": "속사포",
-        "image": "Trait_Icon_18_Rapidfire.TFT_Set18.png",
+        "stt": 11,
+        "id": "ilweolsig",
+        "name": "일월식",
+        "image": "Trait_Icon_18_Eclipse.TFT_Set18.png",
         "description_icon": [
-            "아군이 공격 속도를 10% 얻습니다. 속사포 챔피언은 기본 공격마다 능력치를 더 얻습니다. 최대 10회 중첩됩니다."
+            "전투 시작 10초 후 일월식이 체력이 가장 낮은 적을 처치하며, 이후 3.5초마다 반복합니다."
+        ],
+        "description_detail": [],
+        "champions": [],
+        "average_position": "3",
+        "top_4_rate": "78.71",
+        "top_1_rate": "28.26",
+        "battle": "43,108",
+        "trait": "계열",
+        "kich_hoat": "0"
+    },
+    {
+        "stt": 12,
+        "id": "seonbongdae",
+        "name": "선봉대",
+        "image": "Trait_Icon_18_Vanguard.TFT_Set18.png",
+        "description_icon": [
+            "전투 시작 시 및 체력이 50% 아래로 떨어지면 선봉대가 10초 동안 최대 체력 비례 보호막을 얻습니다."
         ],
         "description_detail": [
             [
                 "2",
-                "기본 공격당 +3%",
-                "AS.png"
-            ],
-            [
-                "3",
-                "기본 공격당 +5%",
-                "AS.png"
+                "최대 체력 18%"
             ],
             [
                 "4",
-                "기본 공격당 +9%",
-                "AS.png"
+                "최대 체력 30%"
             ],
             [
-                "5",
-                "기본 공격당 +15%",
-                "AS.png"
+                "6",
+                "최대 체력 40%. 보호막이 씌워진 동안 내구력 5% 획득"
             ]
         ],
         "champions": [
             {
-                "id": "baruseu",
-                "name": "바루스",
-                "image": "tft18_varus.tft_set18.jpg"
+                "id": "rakan",
+                "name": "라칸",
+                "image": "tft18_rakan.tft_set18.jpg"
             },
             {
-                "id": "jaya",
-                "name": "자야",
-                "image": "tft18_xayah.tft_set18.jpg"
+                "id": "elriseu",
+                "name": "엘리스",
+                "image": "tft18_elise.tft_set18.jpg"
             },
             {
-                "id": "keil",
-                "name": "케일",
-                "image": "tft18_kayle.tft_set18.jpg"
+                "id": "daiaena",
+                "name": "다이애나",
+                "image": "tft18_diana.tft_set18.jpg"
             },
             {
-                "id": "apelrioseu",
-                "name": "아펠리오스",
-                "image": "tft18_aphelios.tft_set18.jpg"
+                "id": "hekarim",
+                "name": "헤카림",
+                "image": "tft18_hecarim.tft_set18.jpg"
+            },
+            {
+                "id": "gamsija",
+                "name": "감시자",
+                "image": "AncientSentinel_1783677366-Sentinel.jpg"
+            },
+            {
+                "id": "tarig",
+                "name": "타릭",
+                "image": "tft18_taric.tft_set18.jpg"
             }
         ],
-        "average_position": "2.89",
-        "top_4_rate": "87.02",
-        "top_1_rate": "25.19",
-        "battle": "131",
+        "average_position": "3.15",
+        "top_4_rate": "77.76",
+        "top_1_rate": "22.31",
+        "battle": "10,489",
         "trait": "직업",
-        "kich_hoat": "5"
+        "kich_hoat": "6"
+    },
+    {
+        "stt": 13,
+        "id": "jeonjaenggigye",
+        "name": "전쟁기계",
+        "image": "Trait_Icon_18_Juggernaut.TFT_Set18.png",
+        "description_icon": [
+            "아군이 내구력을 얻습니다. 전쟁기계는 능력치를 더 얻습니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "4%",
+                "DR.png",
+                "또는 20%",
+                "DR.png"
+            ],
+            [
+                "4",
+                "6%",
+                "DR.png",
+                "또는 33%",
+                "DR.png"
+            ],
+            [
+                "6",
+                "8%",
+                "DR.png",
+                "또는 45%",
+                "DR.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "rakan",
+                "name": "라칸",
+                "image": "tft18_rakan.tft_set18.jpg"
+            },
+            {
+                "id": "yorig",
+                "name": "요릭",
+                "image": "tft18_yorick.tft_set18.jpg"
+            },
+            {
+                "id": "bawi_ge",
+                "name": "바위 게",
+                "image": "Scuttlecrab_1783676864-Scuttlecrab.jpg"
+            },
+            {
+                "id": "sejuani",
+                "name": "세주아니",
+                "image": "tft18_sejuani.tft_set18.jpg"
+            },
+            {
+                "id": "bai",
+                "name": "바이",
+                "image": "tft18_vi.tft_set18.jpg"
+            },
+            {
+                "id": "amumu",
+                "name": "아무무",
+                "image": "tft18_amumu.tft_set18.jpg"
+            },
+            {
+                "id": "maokai",
+                "name": "마오카이",
+                "image": "tft18_maokai.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.14",
+        "top_4_rate": "77.38",
+        "top_1_rate": "24.79",
+        "battle": "11,959",
+        "trait": "직업",
+        "kich_hoat": "6"
     },
     {
         "stt": 14,
@@ -932,485 +1000,15 @@
                 "image": "tft18_kennen.tft_set18.jpg"
             }
         ],
-        "average_position": "2.77",
-        "top_4_rate": "86.44",
-        "top_1_rate": "25.60",
-        "battle": "1,586",
+        "average_position": "3.15",
+        "top_4_rate": "77.34",
+        "top_1_rate": "23.39",
+        "battle": "71,173",
         "trait": "직업",
         "kich_hoat": "4"
     },
     {
         "stt": 15,
-        "id": "ssaumggun",
-        "name": "싸움꾼",
-        "image": "Trait_Icon_18_Brawler.TFT_Set18.png",
-        "description_icon": [
-            "아군이 최대 체력을 120 얻습니다. 싸움꾼은 능력치를 더 얻습니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "25%",
-                "Health.png"
-            ],
-            [
-                "4",
-                "40%",
-                "Health.png"
-            ],
-            [
-                "6",
-                "65%",
-                "Health.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "kobuko",
-                "name": "코부코",
-                "image": "tft18_kobuko.tft_set18.jpg"
-            },
-            {
-                "id": "regsai",
-                "name": "렉사이",
-                "image": "tft18_reksai.tft_set18.jpg"
-            },
-            {
-                "id": "alriseuta",
-                "name": "알리스타",
-                "image": "tft18_alistar.tft_set18.jpg"
-            },
-            {
-                "id": "seteu",
-                "name": "세트",
-                "image": "tft18_sett.tft_set18.jpg"
-            },
-            {
-                "id": "nareu",
-                "name": "나르",
-                "image": "tft18_gnar.tft_set18.jpg"
-            }
-        ],
-        "average_position": "2.78",
-        "top_4_rate": "86.32",
-        "top_1_rate": "24.91",
-        "battle": "1,148",
-        "trait": "직업",
-        "kich_hoat": "4"
-    },
-    {
-        "stt": 16,
-        "id": "jumunsulsa",
-        "name": "주문술사",
-        "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png",
-        "description_icon": [
-            "아군이 주문력을 10% 얻습니다. 주문술사는 능력치를 더 얻으며, 주문술사가 스킬을 사용할 때마다 추가 주문력을 얻습니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "10%",
-                "AP.png",
-                "",
-                "스킬 사용당 +1%",
-                "AP.png"
-            ],
-            [
-                "4",
-                "30%",
-                "AP.png",
-                "",
-                "스킬 사용당 +1%",
-                "AP.png"
-            ],
-            [
-                "6",
-                "55%",
-                "AP.png",
-                "",
-                "스킬 사용당 +2%",
-                "AP.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "kareuma",
-                "name": "카르마",
-                "image": "tft18_karma.tft_set18.jpg"
-            },
-            {
-                "id": "beiga",
-                "name": "베이가",
-                "image": "tft18_veigar.tft_set18.jpg"
-            },
-            {
-                "id": "reubeulrang",
-                "name": "르블랑",
-                "image": "tft18_leblanc.tft_set18.jpg"
-            },
-            {
-                "id": "kasiopea",
-                "name": "카시오페아",
-                "image": "tft18_cassiopeia.tft_set18.jpg"
-            },
-            {
-                "id": "pideulseutig",
-                "name": "피들스틱",
-                "image": "tft18_fiddlesticks.tft_set18.jpg"
-            },
-            {
-                "id": "ari",
-                "name": "아리",
-                "image": "tft18_ahri.tft_set18.jpg"
-            },
-            {
-                "id": "alrun",
-                "name": "알룬",
-                "image": "tft18_alune.tft_set18.jpg"
-            }
-        ],
-        "average_position": "3",
-        "top_4_rate": "86.21",
-        "top_1_rate": "23.28",
-        "battle": "232",
-        "trait": "직업",
-        "kich_hoat": "6"
-    },
-    {
-        "stt": 17,
-        "id": "hwasin",
-        "name": "화신",
-        "image": "Trait_Icon_18_Avatar.TFT_Set18.png",
-        "description_icon": [
-            "대기석이나 전장에 화신이 있으면 상점 내 모든 화신의 특성이 해당 화신의 특성으로 바뀝니다.",
-            "\n",
-            "\n",
-            "선택된 화신의 특성은 특성 추가 효과를 위한 중첩이 2개로 간주됩니다."
-        ],
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "reogseu",
-                "name": "럭스",
-                "image": "tft18_lux.tft_set18.jpg"
-            }
-        ],
-        "average_position": "2.75",
-        "top_4_rate": "84.56",
-        "top_1_rate": "32.98",
-        "battle": "6,582",
-        "trait": "계열",
-        "kich_hoat": "1"
-    },
-    {
-        "stt": 18,
-        "id": "jeogeungga",
-        "name": "적응가",
-        "image": "Trait_Icon_18_Adaptor.TFT_Set18.png",
-        "description_icon": [
-            "고유: 적응가 스킬은 공격력과 주문력 중 어느 쪽이 높은지에 따라 바뀝니다.",
-            "\n",
-            "\n",
-            "적응가는 공격력과 주문력 중 어느 쪽이 높은지에 따라 해당 능력치를 얻습니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "25%",
-                "AD.png",
-                "또는",
-                "AP.png"
-            ],
-            [
-                "3",
-                "35%",
-                "AD.png",
-                "또는",
-                "AP.png"
-            ],
-            [
-                "4",
-                "50%",
-                "AD.png",
-                "또는",
-                "AP.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "akalri",
-                "name": "아칼리",
-                "image": "tft18_akali.tft_set18.jpg"
-            },
-            {
-                "id": "kogeumo",
-                "name": "코그모",
-                "image": "tft18_kogmaw.tft_set18.jpg"
-            },
-            {
-                "id": "maseuteo_i",
-                "name": "마스터 이",
-                "image": "tft18_masteryi.tft_set18.jpg"
-            },
-            {
-                "id": "nidalri",
-                "name": "니달리",
-                "image": "tft18_nidalee.tft_set18.jpg"
-            }
-        ],
-        "average_position": "2.95",
-        "top_4_rate": "84.47",
-        "top_1_rate": "19.88",
-        "battle": "644",
-        "trait": "직업",
-        "kich_hoat": "4"
-    },
-    {
-        "stt": 19,
-        "id": "joyul",
-        "name": "조율",
-        "image": "Trait_Icon_18_Attuned.TFT_Set18.png",
-        "description_icon": [
-            "가장 강한 아군 알룬이 스킬을 사용할 때마다 달의 위상이 변화합니다. 달이 반달 이하일 때 아군이 내구력을 7% 얻습니다. 반달 초과일 때 아군이 피해 증폭을 7% 얻습니다.?"
-        ],
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "alrun",
-                "name": "알룬",
-                "image": "tft18_alune.tft_set18.jpg"
-            }
-        ],
-        "average_position": "2.87",
-        "top_4_rate": "84.18",
-        "top_1_rate": "27.00",
-        "battle": "8,792",
-        "trait": "계열",
-        "kich_hoat": "1"
-    },
-    {
-        "stt": 20,
-        "id": "jiogbul",
-        "name": "지옥불",
-        "image": "Trait_Icon_18_Inferno.TFT_Set18.png",
-        "description_icon": [
-            "지옥불이 피해를 입히면 적에게 3초 동안 화상 및 상처를 적용합니다. 지옥불 화상 효과는 다른 화상 효과와 중첩됩니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "1% 화상",
-                "33% 상처"
-            ],
-            [
-                "3",
-                "전투 후",
-                "지옥불 챔피언이 없는 상점 슬롯 1개가 점화되어 한 단계 더 높은 챔피언 등장"
-            ],
-            [
-                "5",
-                "상점 슬롯 2개 점화",
-                "3% 화상"
-            ],
-            [
-                "7",
-                "상점 슬롯 4개 점화",
-                "3.5% 화상"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "akalri",
-                "name": "아칼리",
-                "image": "tft18_akali.tft_set18.jpg"
-            },
-            {
-                "id": "baruseu",
-                "name": "바루스",
-                "image": "tft18_varus.tft_set18.jpg"
-            },
-            {
-                "id": "swen",
-                "name": "쉔",
-                "image": "tft18_shen.tft_set18.jpg"
-            },
-            {
-                "id": "amumu",
-                "name": "아무무",
-                "image": "tft18_amumu.tft_set18.jpg"
-            },
-            {
-                "id": "kenen",
-                "name": "케넨",
-                "image": "tft18_kennen.tft_set18.jpg"
-            }
-        ],
-        "average_position": "3.21",
-        "top_4_rate": "83.57",
-        "top_1_rate": "17.14",
-        "battle": "140",
-        "trait": "계열",
-        "kich_hoat": "7"
-    },
-    {
-        "stt": 21,
-        "id": "jayeonyi_abeoji",
-        "name": "자연의 아버지",
-        "image": "Trait_Icon_18_Greenfather.TFT_Set18.png",
-        "description_icon": [
-            "가장 강한 아군 아이번이 스킬을 사용할 때마다 씨앗 1개를 획득하고, 전투마다 3개를 추가로 획득합니다. 아이번은 씨앗 5개를 사용해 칸을 성장시키고 해당 칸 위에 있는 유닛에게 추가 효과를 부여합니다.",
-            "\n",
-            "\n",
-            "씨앗: ? / 5",
-            "\n",
-            "\n",
-            "현재 생물군계: ?",
-            "\n",
-            "?",
-            "\n",
-            "?",
-            "\n",
-            "?"
-        ],
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "aibeon",
-                "name": "아이번",
-                "image": "tft18_ivern.tft_set18.jpg"
-            }
-        ],
-        "average_position": "2.84",
-        "top_4_rate": "82.77",
-        "top_1_rate": "32.28",
-        "battle": "9,847",
-        "trait": "직업",
-        "kich_hoat": "1"
-    },
-    {
-        "stt": 22,
-        "id": "dalbic",
-        "name": "달빛",
-        "image": "Trait_Icon_18_Lunar.TFT_Set18.png",
-        "description_icon": [
-            "달빛 챔피언 및 인접한 아군이 공격 속도와 주문력을 얻습니다. 달빛 챔피언은 100% 더 얻습니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "7%",
-                "AS.png",
-                "",
-                "7%",
-                "AP.png"
-            ],
-            [
-                "3",
-                "10%",
-                "AS.png",
-                "",
-                "10%",
-                "AP.png"
-            ],
-            [
-                "4",
-                "14%",
-                "AS.png",
-                "",
-                "14%",
-                "AP.png"
-            ],
-            [
-                "5",
-                "18%",
-                "AS.png",
-                "",
-                "18%",
-                "AP.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "daiaena",
-                "name": "다이애나",
-                "image": "tft18_diana.tft_set18.jpg"
-            },
-            {
-                "id": "apelrioseu",
-                "name": "아펠리오스",
-                "image": "tft18_aphelios.tft_set18.jpg"
-            },
-            {
-                "id": "alrun",
-                "name": "알룬",
-                "image": "tft18_alune.tft_set18.jpg"
-            }
-        ],
-        "average_position": "2.93",
-        "top_4_rate": "82.69",
-        "top_1_rate": "25.65",
-        "battle": "2,316",
-        "trait": "계열",
-        "kich_hoat": "3"
-    },
-    {
-        "stt": 23,
-        "id": "seonbongdae",
-        "name": "선봉대",
-        "image": "Trait_Icon_18_Vanguard.TFT_Set18.png",
-        "description_icon": [
-            "전투 시작 시 및 체력이 50% 아래로 떨어지면 선봉대가 10초 동안 최대 체력 비례 보호막을 얻습니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "최대 체력 18%"
-            ],
-            [
-                "4",
-                "최대 체력 30%"
-            ],
-            [
-                "6",
-                "최대 체력 40%. 보호막이 씌워진 동안 내구력 5% 획득"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "rakan",
-                "name": "라칸",
-                "image": "tft18_rakan.tft_set18.jpg"
-            },
-            {
-                "id": "elriseu",
-                "name": "엘리스",
-                "image": "tft18_elise.tft_set18.jpg"
-            },
-            {
-                "id": "daiaena",
-                "name": "다이애나",
-                "image": "tft18_diana.tft_set18.jpg"
-            },
-            {
-                "id": "hekarim",
-                "name": "헤카림",
-                "image": "tft18_hecarim.tft_set18.jpg"
-            },
-            {
-                "id": "tarig",
-                "name": "타릭",
-                "image": "tft18_taric.tft_set18.jpg"
-            }
-        ],
-        "average_position": "3.01",
-        "top_4_rate": "82.65",
-        "top_1_rate": "24.20",
-        "battle": "219",
-        "trait": "직업",
-        "kich_hoat": "6"
-    },
-    {
-        "stt": 24,
         "id": "eomhodae",
         "name": "엄호대",
         "image": "Trait_Icon_18_Defender.TFT_Set18.png",
@@ -1469,38 +1067,15 @@
                 "image": "tft18_lillia.tft_set18.jpg"
             }
         ],
-        "average_position": "2.96",
-        "top_4_rate": "82.64",
-        "top_1_rate": "23.58",
-        "battle": "530",
+        "average_position": "3.22",
+        "top_4_rate": "75.92",
+        "top_1_rate": "21.15",
+        "battle": "90,380",
         "trait": "직업",
         "kich_hoat": "6"
     },
     {
-        "stt": 25,
-        "id": "emeraldeu_seongwi",
-        "name": "에메랄드 성위",
-        "image": "Trait_Icon_18_EmeraldAspect.TFT_Set18.png",
-        "description_icon": [
-            "아군을 드래그해 가장 강한 아군 타릭과 연결합니다. 해당 아군은 타릭의 스킬로부터 강력한 추가 효과를 얻습니다."
-        ],
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "tarig",
-                "name": "타릭",
-                "image": "tft18_taric.tft_set18.jpg"
-            }
-        ],
-        "average_position": "2.92",
-        "top_4_rate": "82.59",
-        "top_1_rate": "28.42",
-        "battle": "13,745",
-        "trait": "계열",
-        "kich_hoat": "1"
-    },
-    {
-        "stt": 26,
+        "stt": 16,
         "id": "ssaumggun",
         "name": "싸움꾼",
         "image": "Trait_Icon_18_Brawler.TFT_Set18.png",
@@ -1541,6 +1116,11 @@
                 "image": "tft18_alistar.tft_set18.jpg"
             },
             {
+                "id": "dolgeobug",
+                "name": "돌거북",
+                "image": "Krug_1783676771-Krug.jpg"
+            },
+            {
                 "id": "seteu",
                 "name": "세트",
                 "image": "tft18_sett.tft_set18.jpg"
@@ -1551,74 +1131,394 @@
                 "image": "tft18_gnar.tft_set18.jpg"
             }
         ],
-        "average_position": "2.86",
-        "top_4_rate": "82.35",
-        "top_1_rate": "21.18",
-        "battle": "170",
+        "average_position": "3.26",
+        "top_4_rate": "75.48",
+        "top_1_rate": "21.07",
+        "battle": "66,621",
         "trait": "직업",
-        "kich_hoat": "6"
+        "kich_hoat": "4"
     },
     {
-        "stt": 27,
-        "id": "weonsi",
-        "name": "원시",
-        "image": "Trait_Icon_18_Primal.TFT_Set18.png",
+        "stt": 17,
+        "id": "hwasin",
+        "name": "화신",
+        "image": "Trait_Icon_18_Avatar.TFT_Set18.png",
         "description_icon": [
-            "네 가지 원시 축복 중 하나를 선택합니다."
+            "대기석이나 전장에 화신이 있으면 상점 내 모든 화신의 특성이 해당 화신의 특성으로 바뀝니다.",
+            "\n",
+            "\n",
+            "선택된 화신의 특성은 특성 추가 효과를 위한 중첩이 2개로 간주됩니다."
+        ],
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "reogseu",
+                "name": "럭스",
+                "image": "tft18_lux.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.16",
+        "top_4_rate": "75.35",
+        "top_1_rate": "28.81",
+        "battle": "315,051",
+        "trait": "계열",
+        "kich_hoat": "1"
+    },
+    {
+        "stt": 18,
+        "id": "dalbic",
+        "name": "달빛",
+        "image": "Trait_Icon_18_Lunar.TFT_Set18.png",
+        "description_icon": [
+            "달빛 챔피언 및 인접한 아군이 공격 속도와 주문력을 얻습니다. 달빛 챔피언은 100% 더 얻습니다."
         ],
         "description_detail": [
             [
                 "2",
-                "?"
+                "7%",
+                "AS.png",
+                "",
+                "7%",
+                "AP.png"
+            ],
+            [
+                "3",
+                "10%",
+                "AS.png",
+                "",
+                "10%",
+                "AP.png"
             ],
             [
                 "4",
-                "?"
+                "14%",
+                "AS.png",
+                "",
+                "14%",
+                "AP.png"
+            ],
+            [
+                "5",
+                "18%",
+                "AS.png",
+                "",
+                "18%",
+                "AP.png"
             ]
         ],
         "champions": [
             {
-                "id": "bai",
-                "name": "바이",
-                "image": "tft18_vi.tft_set18.jpg"
+                "id": "daiaena",
+                "name": "다이애나",
+                "image": "tft18_diana.tft_set18.jpg"
             },
             {
-                "id": "nidalri",
-                "name": "니달리",
-                "image": "tft18_nidalee.tft_set18.jpg"
+                "id": "apelrioseu",
+                "name": "아펠리오스",
+                "image": "tft18_aphelios.tft_set18.jpg"
             },
             {
-                "id": "sibireu",
-                "name": "시비르",
-                "image": "tft18_sivir.tft_set18.jpg"
+                "id": "alrun",
+                "name": "알룬",
+                "image": "tft18_alune.tft_set18.jpg"
             }
         ],
-        "average_position": "2.93",
-        "top_4_rate": "82.28",
-        "top_1_rate": "25.55",
-        "battle": "587",
+        "average_position": "3.25",
+        "top_4_rate": "75.18",
+        "top_1_rate": "22.88",
+        "battle": "140,246",
         "trait": "계열",
-        "kich_hoat": "4"
+        "kich_hoat": "3"
     },
     {
-        "stt": 28,
-        "id": "coesangwi_posigja",
-        "name": "최상위 포식자",
-        "image": "Trait_Icon_18_ApexPredator.TFT_Set18.png",
+        "stt": 19,
+        "id": "joyul",
+        "name": "조율",
+        "image": "Trait_Icon_18_Attuned.TFT_Set18.png",
         "description_icon": [
-            "장로 드래곤은 2개의 팀 슬롯을 차지하며 협곡야수 특성을 +2 추가합니다."
+            "가장 강한 아군 알룬이 스킬을 사용할 때마다 달의 위상이 변화합니다. 달이 반달 이하일 때 아군이 내구력을 7% 얻습니다. 반달 초과일 때 아군이 피해 증폭을 7% 얻습니다.?"
         ],
         "description_detail": [],
-        "champions": [],
-        "average_position": "3.02",
-        "top_4_rate": "81.84",
-        "top_1_rate": "27.18",
-        "battle": "4,890",
-        "trait": "직업",
+        "champions": [
+            {
+                "id": "alrun",
+                "name": "알룬",
+                "image": "tft18_alune.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.24",
+        "top_4_rate": "75.02",
+        "top_1_rate": "24.52",
+        "battle": "485,901",
+        "trait": "계열",
         "kich_hoat": "1"
     },
     {
-        "stt": 29,
+        "stt": 20,
+        "id": "giweonja",
+        "name": "기원자",
+        "image": "Trait_Icon_18_Invoker.TFT_Set18.png",
+        "description_icon": [
+            "아군이 마나 재생을 얻습니다. 기원자는 능력치를 더 얻습니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "1",
+                "Mana.png",
+                "| 3",
+                "Mana.png"
+            ],
+            [
+                "3",
+                "1",
+                "Mana.png",
+                "| 4",
+                "Mana.png"
+            ],
+            [
+                "4",
+                "2",
+                "Mana.png",
+                "| 6",
+                "Mana.png"
+            ],
+            [
+                "5",
+                "2",
+                "Mana.png",
+                "| 9",
+                "Mana.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "joyagdol",
+                "name": "조약돌",
+                "image": "Pebbles_1783677606-Sentry.jpg"
+            },
+            {
+                "id": "timo",
+                "name": "티모",
+                "image": "tft18_teemo.tft_set18.jpg"
+            },
+            {
+                "id": "kogeumo",
+                "name": "코그모",
+                "image": "tft18_kogmaw.tft_set18.jpg"
+            },
+            {
+                "id": "gamsija",
+                "name": "감시자",
+                "image": "AncientSentinel_1783677366-Sentinel.jpg"
+            },
+            {
+                "id": "moreugana",
+                "name": "모르가나",
+                "image": "tft18_morgana.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.28",
+        "top_4_rate": "74.96",
+        "top_1_rate": "22.53",
+        "battle": "40,072",
+        "trait": "직업",
+        "kich_hoat": "5"
+    },
+    {
+        "stt": 21,
+        "id": "ssaumggun",
+        "name": "싸움꾼",
+        "image": "Trait_Icon_18_Brawler.TFT_Set18.png",
+        "description_icon": [
+            "아군이 최대 체력을 120 얻습니다. 싸움꾼은 능력치를 더 얻습니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "25%",
+                "Health.png"
+            ],
+            [
+                "4",
+                "40%",
+                "Health.png"
+            ],
+            [
+                "6",
+                "65%",
+                "Health.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "kobuko",
+                "name": "코부코",
+                "image": "tft18_kobuko.tft_set18.jpg"
+            },
+            {
+                "id": "regsai",
+                "name": "렉사이",
+                "image": "tft18_reksai.tft_set18.jpg"
+            },
+            {
+                "id": "alriseuta",
+                "name": "알리스타",
+                "image": "tft18_alistar.tft_set18.jpg"
+            },
+            {
+                "id": "dolgeobug",
+                "name": "돌거북",
+                "image": "Krug_1783676771-Krug.jpg"
+            },
+            {
+                "id": "seteu",
+                "name": "세트",
+                "image": "tft18_sett.tft_set18.jpg"
+            },
+            {
+                "id": "nareu",
+                "name": "나르",
+                "image": "tft18_gnar.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.34",
+        "top_4_rate": "74.87",
+        "top_1_rate": "18.70",
+        "battle": "9,348",
+        "trait": "직업",
+        "kich_hoat": "6"
+    },
+    {
+        "stt": 22,
+        "id": "jiogbul",
+        "name": "지옥불",
+        "image": "Trait_Icon_18_Inferno.TFT_Set18.png",
+        "description_icon": [
+            "지옥불이 피해를 입히면 적에게 3초 동안 화상 및 상처를 적용합니다. 지옥불 화상 효과는 다른 화상 효과와 중첩됩니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "1% 화상",
+                "33% 상처"
+            ],
+            [
+                "3",
+                "전투 후",
+                "지옥불 챔피언이 없는 상점 슬롯 1개가 점화되어 한 단계 더 높은 챔피언 등장"
+            ],
+            [
+                "5",
+                "상점 슬롯 2개 점화",
+                "3% 화상"
+            ],
+            [
+                "7",
+                "상점 슬롯 4개 점화",
+                "3.5% 화상"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "akalri",
+                "name": "아칼리",
+                "image": "tft18_akali.tft_set18.jpg"
+            },
+            {
+                "id": "baruseu",
+                "name": "바루스",
+                "image": "tft18_varus.tft_set18.jpg"
+            },
+            {
+                "id": "swen",
+                "name": "쉔",
+                "image": "tft18_shen.tft_set18.jpg"
+            },
+            {
+                "id": "amumu",
+                "name": "아무무",
+                "image": "tft18_amumu.tft_set18.jpg"
+            },
+            {
+                "id": "kenen",
+                "name": "케넨",
+                "image": "tft18_kennen.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.33",
+        "top_4_rate": "74.51",
+        "top_1_rate": "20.95",
+        "battle": "9,500",
+        "trait": "계열",
+        "kich_hoat": "7"
+    },
+    {
+        "stt": 23,
+        "id": "sogsapo",
+        "name": "속사포",
+        "image": "Trait_Icon_18_Rapidfire.TFT_Set18.png",
+        "description_icon": [
+            "아군이 공격 속도를 10% 얻습니다. 속사포 챔피언은 기본 공격마다 능력치를 더 얻습니다. 최대 10회 중첩됩니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "기본 공격당 +3%",
+                "AS.png"
+            ],
+            [
+                "3",
+                "기본 공격당 +5%",
+                "AS.png"
+            ],
+            [
+                "4",
+                "기본 공격당 +9%",
+                "AS.png"
+            ],
+            [
+                "5",
+                "기본 공격당 +15%",
+                "AS.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "baruseu",
+                "name": "바루스",
+                "image": "tft18_varus.tft_set18.jpg"
+            },
+            {
+                "id": "jaya",
+                "name": "자야",
+                "image": "tft18_xayah.tft_set18.jpg"
+            },
+            {
+                "id": "keil",
+                "name": "케일",
+                "image": "tft18_kayle.tft_set18.jpg"
+            },
+            {
+                "id": "eomi_buri",
+                "name": "어미 부리",
+                "image": "Raptor_1783677107-CrimsonRaptor.jpg"
+            },
+            {
+                "id": "apelrioseu",
+                "name": "아펠리오스",
+                "image": "tft18_aphelios.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.34",
+        "top_4_rate": "74.14",
+        "top_1_rate": "20.16",
+        "battle": "11,398",
+        "trait": "직업",
+        "kich_hoat": "5"
+    },
+    {
+        "stt": 24,
         "id": "namujeongryeong",
         "name": "나무정령",
         "image": "Trait_Icon_18_Elderwood.TFT_Set18.png",
@@ -1685,437 +1585,138 @@
                 "image": "tft18_gnar.tft_set18.jpg"
             }
         ],
-        "average_position": "3.11",
-        "top_4_rate": "81.11",
-        "top_1_rate": "22.27",
-        "battle": "1,329",
+        "average_position": "3.33",
+        "top_4_rate": "73.69",
+        "top_1_rate": "21.96",
+        "battle": "105,668",
         "trait": "계열",
         "kich_hoat": "7"
     },
     {
-        "stt": 30,
-        "id": "seonbongdae",
-        "name": "선봉대",
-        "image": "Trait_Icon_18_Vanguard.TFT_Set18.png",
+        "stt": 25,
+        "id": "coesangwi_posigja",
+        "name": "최상위 포식자",
+        "image": "Trait_Icon_18_ApexPredator.TFT_Set18.png",
         "description_icon": [
-            "전투 시작 시 및 체력이 50% 아래로 떨어지면 선봉대가 10초 동안 최대 체력 비례 보호막을 얻습니다."
+            "장로 드래곤은 2개의 팀 슬롯을 차지하며 협곡야수 특성을 +2 추가합니다."
         ],
-        "description_detail": [
-            [
-                "2",
-                "최대 체력 18%"
-            ],
-            [
-                "4",
-                "최대 체력 30%"
-            ],
-            [
-                "6",
-                "최대 체력 40%. 보호막이 씌워진 동안 내구력 5% 획득"
-            ]
-        ],
+        "description_detail": [],
         "champions": [
             {
-                "id": "rakan",
-                "name": "라칸",
-                "image": "tft18_rakan.tft_set18.jpg"
-            },
-            {
-                "id": "elriseu",
-                "name": "엘리스",
-                "image": "tft18_elise.tft_set18.jpg"
-            },
-            {
-                "id": "daiaena",
-                "name": "다이애나",
-                "image": "tft18_diana.tft_set18.jpg"
-            },
-            {
-                "id": "hekarim",
-                "name": "헤카림",
-                "image": "tft18_hecarim.tft_set18.jpg"
-            },
+                "id": "jangro_deuraegon",
+                "name": "장로 드래곤",
+                "image": "TheElderDragon_1783677052-ElderDragon.jpg"
+            }
+        ],
+        "average_position": "3.35",
+        "top_4_rate": "73.12",
+        "top_1_rate": "23.21",
+        "battle": "275,169",
+        "trait": "직업",
+        "kich_hoat": "1"
+    },
+    {
+        "stt": 26,
+        "id": "emeraldeu_seongwi",
+        "name": "에메랄드 성위",
+        "image": "Trait_Icon_18_EmeraldAspect.TFT_Set18.png",
+        "description_icon": [
+            "아군을 드래그해 가장 강한 아군 타릭과 연결합니다. 해당 아군은 타릭의 스킬로부터 강력한 추가 효과를 얻습니다."
+        ],
+        "description_detail": [],
+        "champions": [
             {
                 "id": "tarig",
                 "name": "타릭",
                 "image": "tft18_taric.tft_set18.jpg"
             }
         ],
-        "average_position": "3.13",
-        "top_4_rate": "80.78",
-        "top_1_rate": "21.08",
-        "battle": "5,402",
-        "trait": "직업",
-        "kich_hoat": "4"
-    },
-    {
-        "stt": 31,
-        "id": "giweonja",
-        "name": "기원자",
-        "image": "Trait_Icon_18_Invoker.TFT_Set18.png",
-        "description_icon": [
-            "아군이 마나 재생을 얻습니다. 기원자는 능력치를 더 얻습니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "1",
-                "Mana.png",
-                "| 3",
-                "Mana.png"
-            ],
-            [
-                "3",
-                "1",
-                "Mana.png",
-                "| 4",
-                "Mana.png"
-            ],
-            [
-                "4",
-                "2",
-                "Mana.png",
-                "| 6",
-                "Mana.png"
-            ],
-            [
-                "5",
-                "2",
-                "Mana.png",
-                "| 9",
-                "Mana.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "timo",
-                "name": "티모",
-                "image": "tft18_teemo.tft_set18.jpg"
-            },
-            {
-                "id": "kogeumo",
-                "name": "코그모",
-                "image": "tft18_kogmaw.tft_set18.jpg"
-            },
-            {
-                "id": "moreugana",
-                "name": "모르가나",
-                "image": "tft18_morgana.tft_set18.jpg"
-            }
-        ],
-        "average_position": "3.1",
-        "top_4_rate": "80.48",
-        "top_1_rate": "23.95",
-        "battle": "789",
-        "trait": "직업",
-        "kich_hoat": "5"
-    },
-    {
-        "stt": 32,
-        "id": "nalryeobi",
-        "name": "날렵이",
-        "image": "Trait_Icon_18_Sprykin.TFT_Set18.png",
-        "description_icon": [
-            "커다란 털뭉치 친구를 획득합니다. 날렵이를 커다란 털뭉치 친구 위에 놓아 기수를 선택합니다."
-        ],
-        "description_detail": [
-            [
-                "3",
-                "기수가",
-                "15%",
-                "Health.png",
-                "및 15%",
-                "AS.png",
-                "획득"
-            ],
-            [
-                "5",
-                "40%",
-                "Health.png",
-                "35%",
-                "AS.png",
-                "",
-                "및 커다란 털뭉치 친구 스킬이 50%만큼 아군 날렵이 챔피언에게 적용됨"
-            ],
-            [
-                "7",
-                "45%",
-                "Health.png",
-                "45%",
-                "AS.png",
-                "",
-                "및 커다란 털뭉치 친구 스킬이 100%만큼 아군 날렵이 챔피언에게 적용됨"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "kobuko",
-                "name": "코부코",
-                "image": "tft18_kobuko.tft_set18.jpg"
-            },
-            {
-                "id": "beiga",
-                "name": "베이가",
-                "image": "tft18_veigar.tft_set18.jpg"
-            },
-            {
-                "id": "timo",
-                "name": "티모",
-                "image": "tft18_teemo.tft_set18.jpg"
-            },
-            {
-                "id": "rammeoseu",
-                "name": "람머스",
-                "image": "tft18_rammus.tft_set18.jpg"
-            },
-            {
-                "id": "teuriseutana",
-                "name": "트리스타나",
-                "image": "tft18_tristana.tft_set18.jpg"
-            },
-            {
-                "id": "nareu",
-                "name": "나르",
-                "image": "tft18_gnar.tft_set18.jpg"
-            }
-        ],
-        "average_position": "3.24",
-        "top_4_rate": "79.56",
-        "top_1_rate": "17.75",
-        "battle": "1,448",
-        "trait": "계열",
-        "kich_hoat": "5"
-    },
-    {
-        "stt": 33,
-        "id": "gomog",
-        "name": "고목",
-        "image": "Trait_Icon_18_OldGrowth.TFT_Set18.png",
-        "description_icon": [
-            "3칸 내 적이 사망할 때마다 가장 강한 아군 고목 챔피언이 영구히 30의 최대 체력을 얻습니다.",
-            "\n",
-            "\n",
-            "현재: ?"
-        ],
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "maokai",
-                "name": "마오카이",
-                "image": "tft18_maokai.tft_set18.jpg"
-            }
-        ],
-        "average_position": "3.06",
-        "top_4_rate": "79.23",
-        "top_1_rate": "29.87",
-        "battle": "8,772",
+        "average_position": "3.33",
+        "top_4_rate": "72.73",
+        "top_1_rate": "25.14",
+        "battle": "661,651",
         "trait": "계열",
         "kich_hoat": "1"
     },
     {
-        "stt": 34,
-        "id": "sanyangggun",
-        "name": "사냥꾼",
-        "image": "Trait_Icon_18_Hunter.TFT_Set18.png",
+        "stt": 27,
+        "id": "jayeonyi_abeoji",
+        "name": "자연의 아버지",
+        "image": "Trait_Icon_18_Greenfather.TFT_Set18.png",
         "description_icon": [
-            "사냥꾼이 공격력을 얻습니다. 사냥꾼이 4초 동안 대상을 변경하지 않았다면 피해 증폭을 10% 얻습니다."
+            "가장 강한 아군 아이번이 스킬을 사용할 때마다 씨앗 1개를 획득하고, 전투마다 3개를 추가로 획득합니다. 아이번은 씨앗 5개를 사용해 칸을 성장시키고 해당 칸 위에 있는 유닛에게 추가 효과를 부여합니다.",
+            "\n",
+            "\n",
+            "씨앗: ? / 5",
+            "\n",
+            "\n",
+            "현재 생물군계: ?",
+            "\n",
+            "?",
+            "\n",
+            "?",
+            "\n",
+            "?"
+        ],
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "aibeon",
+                "name": "아이번",
+                "image": "tft18_ivern.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.3",
+        "top_4_rate": "72.53",
+        "top_1_rate": "27.71",
+        "battle": "497,545",
+        "trait": "직업",
+        "kich_hoat": "1"
+    },
+    {
+        "stt": 28,
+        "id": "weonsi",
+        "name": "원시",
+        "image": "Trait_Icon_18_Primal.TFT_Set18.png",
+        "description_icon": [
+            "네 가지 원시 축복 중 하나를 선택합니다."
         ],
         "description_detail": [
             [
                 "2",
-                "20%",
-                "AD.png"
-            ],
-            [
-                "3",
-                "30%",
-                "AD.png"
+                "?"
             ],
             [
                 "4",
-                "45%",
-                "AD.png"
-            ],
-            [
-                "5",
-                "65%",
-                "AD.png"
+                "?"
             ]
         ],
         "champions": [
             {
-                "id": "keiteulrin",
-                "name": "케이틀린",
-                "image": "tft18_caitlyn.tft_set18.jpg"
+                "id": "bai",
+                "name": "바이",
+                "image": "tft18_vi.tft_set18.jpg"
             },
             {
-                "id": "teuriseutana",
-                "name": "트리스타나",
-                "image": "tft18_tristana.tft_set18.jpg"
+                "id": "nidalri",
+                "name": "니달리",
+                "image": "tft18_nidalee.tft_set18.jpg"
             },
             {
                 "id": "sibireu",
                 "name": "시비르",
                 "image": "tft18_sivir.tft_set18.jpg"
-            },
-            {
-                "id": "aeswi",
-                "name": "애쉬",
-                "image": "tft18_ashe.tft_set18.jpg"
             }
         ],
-        "average_position": "3.19",
-        "top_4_rate": "78.95",
-        "top_1_rate": "21.46",
-        "battle": "1,202",
-        "trait": "직업",
-        "kich_hoat": "3"
-    },
-    {
-        "stt": 35,
-        "id": "yagtalja",
-        "name": "약탈자",
-        "image": "Trait_Icon_18_Ravager.TFT_Set18.png",
-        "description_icon": [
-            "약탈자가 모든 피해 흡혈을 10% 얻습니다. 또한 약탈자가 추가 피해를 입힙니다. 체력이 50% 아래인 유닛에게는 추가 피해가 두 배로 증가합니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "12%의 추가 피해"
-            ],
-            [
-                "4",
-                "25%의 추가 피해"
-            ],
-            [
-                "6",
-                "40%의 추가 피해"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "akalri",
-                "name": "아칼리",
-                "image": "tft18_akali.tft_set18.jpg"
-            },
-            {
-                "id": "kamil",
-                "name": "카밀",
-                "image": "tft18_camille.tft_set18.jpg"
-            },
-            {
-                "id": "weowig",
-                "name": "워윅",
-                "image": "tft18_warwick.tft_set18.jpg"
-            },
-            {
-                "id": "daiaena",
-                "name": "다이애나",
-                "image": "tft18_diana.tft_set18.jpg"
-            }
-        ],
-        "average_position": "3.45",
-        "top_4_rate": "78.83",
-        "top_1_rate": "10.67",
-        "battle": "600",
-        "trait": "직업",
+        "average_position": "3.42",
+        "top_4_rate": "71.76",
+        "top_1_rate": "21.47",
+        "battle": "25,765",
+        "trait": "계열",
         "kich_hoat": "4"
     },
     {
-        "stt": 36,
-        "id": "gaehwa",
-        "name": "개화",
-        "image": "Trait_Icon_18_Blossom.TFT_Set18.png",
-        "description_icon": [
-            "전투 후 아군 수호령이 강화됩니다.",
-            "\n",
-            "\n",
-            "개화 챔피언이 공격력, 주문력 및 10%의 최대 체력을 얻습니다."
-        ],
-        "description_detail": [
-            [
-                "3",
-                "수호령 업그레이드",
-                "12%",
-                "AD.png",
-                "AP.png"
-            ],
-            [
-                "5",
-                "수호령이 상점마다 등장",
-                "30%",
-                "AD.png",
-                "AP.png"
-            ],
-            [
-                "7",
-                "수호령 구매 후 4골드 획득",
-                "45%",
-                "AD.png",
-                "AP.png"
-            ],
-            [
-                "9",
-                "라운드당 수호령 2마리 구매 가능",
-                "50%",
-                "AD.png",
-                "AP.png"
-            ],
-            [
-                "11",
-                "수호령 위력 폭주",
-                "100%",
-                "AD.png",
-                "AP.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "kareuma",
-                "name": "카르마",
-                "image": "tft18_karma.tft_set18.jpg"
-            },
-            {
-                "id": "yorig",
-                "name": "요릭",
-                "image": "tft18_yorick.tft_set18.jpg"
-            },
-            {
-                "id": "yunara",
-                "name": "유나라",
-                "image": "tft18_yunara.tft_set18.jpg"
-            },
-            {
-                "id": "maseuteo_i",
-                "name": "마스터 이",
-                "image": "tft18_masteryi.tft_set18.jpg"
-            },
-            {
-                "id": "ari",
-                "name": "아리",
-                "image": "tft18_ahri.tft_set18.jpg"
-            },
-            {
-                "id": "seteu",
-                "name": "세트",
-                "image": "tft18_sett.tft_set18.jpg"
-            },
-            {
-                "id": "aeswi",
-                "name": "애쉬",
-                "image": "tft18_ashe.tft_set18.jpg"
-            }
-        ],
-        "average_position": "3.26",
-        "top_4_rate": "78.4",
-        "top_1_rate": "22.93",
-        "battle": "1,426",
-        "trait": "계열",
-        "kich_hoat": "7"
-    },
-    {
-        "stt": 37,
+        "stt": 29,
         "id": "jumunsulsa",
         "name": "주문술사",
         "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png",
@@ -2185,237 +1786,33 @@
                 "image": "tft18_alune.tft_set18.jpg"
             }
         ],
-        "average_position": "3.36",
-        "top_4_rate": "77.33",
-        "top_1_rate": "19.13",
-        "battle": "1,129",
-        "trait": "직업",
-        "kich_hoat": "4"
-    },
-    {
-        "stt": 38,
-        "id": "giweonja",
-        "name": "기원자",
-        "image": "Trait_Icon_18_Invoker.TFT_Set18.png",
-        "description_icon": [
-            "아군이 마나 재생을 얻습니다. 기원자는 능력치를 더 얻습니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "1",
-                "Mana.png",
-                "| 3",
-                "Mana.png"
-            ],
-            [
-                "3",
-                "1",
-                "Mana.png",
-                "| 4",
-                "Mana.png"
-            ],
-            [
-                "4",
-                "2",
-                "Mana.png",
-                "| 6",
-                "Mana.png"
-            ],
-            [
-                "5",
-                "2",
-                "Mana.png",
-                "| 9",
-                "Mana.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "timo",
-                "name": "티모",
-                "image": "tft18_teemo.tft_set18.jpg"
-            },
-            {
-                "id": "kogeumo",
-                "name": "코그모",
-                "image": "tft18_kogmaw.tft_set18.jpg"
-            },
-            {
-                "id": "moreugana",
-                "name": "모르가나",
-                "image": "tft18_morgana.tft_set18.jpg"
-            }
-        ],
-        "average_position": "3.38",
-        "top_4_rate": "76.42",
-        "top_1_rate": "18.57",
-        "battle": "1,696",
-        "trait": "직업",
-        "kich_hoat": "4"
-    },
-    {
-        "stt": 39,
-        "id": "hyeonsanggeum_cujeogja",
-        "name": "현상금 추적자",
-        "image": "Trait_Icon_18_BountySeeker.TFT_Set18.png",
-        "description_icon": [
-            "현상금 사냥을 선택합니다. 가장 강한 아군 드레이븐이 현상금 사냥을 진행하고 보상을 받을 수 있습니다. 현상금 사냥을 완료하면, 다른 현상금 사냥을 선택합니다.",
-            "\n",
-            "\n",
-            "?"
-        ],
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "deureibeun",
-                "name": "드레이븐",
-                "image": "tft18_draven.tft_set18.jpg"
-            }
-        ],
-        "average_position": "3.21",
-        "top_4_rate": "76.14",
-        "top_1_rate": "29.56",
-        "battle": "4,756",
-        "trait": "계열",
-        "kich_hoat": "1"
-    },
-    {
-        "stt": 40,
-        "id": "ceohyeongja",
-        "name": "처형자",
-        "image": "Trait_Icon_18_Executioner.TFT_Set18.png",
-        "description_icon": [
-            "처형자가 정밀 및 치명타 확률 15% 획득",
-            "\n",
-            "또한 적에게 출혈을 적용하여 3초 동안 30%의 추가 고정 피해를 입힘",
-            "\n",
-            "출혈 피해량 40%로 증가"
-        ],
-        "description_detail": [
-            [
-                "2",
-                "처형자가 정밀 및 치명타 확률 15% 획득"
-            ],
-            [
-                "3",
-                "또한 적에게 출혈을 적용하여 3초 동안 30%의 추가 고정 피해를 입힘"
-            ],
-            [
-                "4",
-                "출혈 피해량 40%로 증가"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "yunara",
-                "name": "유나라",
-                "image": "tft18_yunara.tft_set18.jpg"
-            },
-            {
-                "id": "ajireu",
-                "name": "아지르",
-                "image": "tft18_azir.tft_set18.jpg"
-            },
-            {
-                "id": "ijeurieol",
-                "name": "이즈리얼",
-                "image": "tft18_ezreal.tft_set18.jpg"
-            },
-            {
-                "id": "soraka",
-                "name": "소라카",
-                "image": "tft18_soraka.tft_set18.jpg"
-            },
-            {
-                "id": "kenen",
-                "name": "케넨",
-                "image": "tft18_kennen.tft_set18.jpg"
-            }
-        ],
-        "average_position": "3.29",
-        "top_4_rate": "75.96",
-        "top_1_rate": "23.59",
-        "battle": "2,429",
-        "trait": "직업",
-        "kich_hoat": "3"
-    },
-    {
-        "stt": 41,
-        "id": "yagtalja",
-        "name": "약탈자",
-        "image": "Trait_Icon_18_Ravager.TFT_Set18.png",
-        "description_icon": [
-            "약탈자가 모든 피해 흡혈을 10% 얻습니다. 또한 약탈자가 추가 피해를 입힙니다. 체력이 50% 아래인 유닛에게는 추가 피해가 두 배로 증가합니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "12%의 추가 피해"
-            ],
-            [
-                "4",
-                "25%의 추가 피해"
-            ],
-            [
-                "6",
-                "40%의 추가 피해"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "akalri",
-                "name": "아칼리",
-                "image": "tft18_akali.tft_set18.jpg"
-            },
-            {
-                "id": "kamil",
-                "name": "카밀",
-                "image": "tft18_camille.tft_set18.jpg"
-            },
-            {
-                "id": "weowig",
-                "name": "워윅",
-                "image": "tft18_warwick.tft_set18.jpg"
-            },
-            {
-                "id": "daiaena",
-                "name": "다이애나",
-                "image": "tft18_diana.tft_set18.jpg"
-            }
-        ],
-        "average_position": "3.5",
-        "top_4_rate": "75.83",
-        "top_1_rate": "11.67",
-        "battle": "120",
+        "average_position": "3.49",
+        "top_4_rate": "71.54",
+        "top_1_rate": "18.35",
+        "battle": "18,912",
         "trait": "직업",
         "kich_hoat": "6"
     },
     {
-        "stt": 42,
-        "id": "yojeong",
-        "name": "요정",
-        "image": "Trait_Icon_18_Fae.TFT_Set18.png",
+        "stt": 30,
+        "id": "seonbongdae",
+        "name": "선봉대",
+        "image": "Trait_Icon_18_Vanguard.TFT_Set18.png",
         "description_icon": [
-            "아군의 피해, 체력 회복, 보호막이 나비정령을 끌어들입니다.",
-            "\n",
-            "\n",
-            "요정 챔피언이 나비정령 하나당 공격력 및 주문력을 얻습니다. 또한 체력이 50% 아래로 떨어지면 나비정령 하나당 체력을 회복합니다."
+            "전투 시작 시 및 체력이 50% 아래로 떨어지면 선봉대가 10초 동안 최대 체력 비례 보호막을 얻습니다."
         ],
         "description_detail": [
             [
                 "2",
-                "5%",
-                "AD.png",
-                "AP.png",
-                "및 2.5% 체력 회복"
+                "최대 체력 18%"
             ],
             [
                 "4",
-                "8%",
-                "AD.png",
-                "AP.png",
-                "및 4% 체력 회복. 나비정령 7마리 이후 골드를 제공하는 황금 나비정령 등장"
+                "최대 체력 30%"
+            ],
+            [
+                "6",
+                "최대 체력 40%. 보호막이 씌워진 동안 내구력 5% 획득"
             ]
         ],
         "champions": [
@@ -2425,56 +1822,70 @@
                 "image": "tft18_rakan.tft_set18.jpg"
             },
             {
-                "id": "jaya",
-                "name": "자야",
-                "image": "tft18_xayah.tft_set18.jpg"
+                "id": "elriseu",
+                "name": "엘리스",
+                "image": "tft18_elise.tft_set18.jpg"
             },
             {
-                "id": "teuriseutana",
-                "name": "트리스타나",
-                "image": "tft18_tristana.tft_set18.jpg"
+                "id": "daiaena",
+                "name": "다이애나",
+                "image": "tft18_diana.tft_set18.jpg"
             },
             {
-                "id": "rilria",
-                "name": "릴리아",
-                "image": "tft18_lillia.tft_set18.jpg"
+                "id": "hekarim",
+                "name": "헤카림",
+                "image": "tft18_hecarim.tft_set18.jpg"
+            },
+            {
+                "id": "gamsija",
+                "name": "감시자",
+                "image": "AncientSentinel_1783677366-Sentinel.jpg"
+            },
+            {
+                "id": "tarig",
+                "name": "타릭",
+                "image": "tft18_taric.tft_set18.jpg"
             }
         ],
-        "average_position": "3.29",
-        "top_4_rate": "75.68",
-        "top_1_rate": "22.38",
-        "battle": "1,698",
-        "trait": "계열",
+        "average_position": "3.5",
+        "top_4_rate": "70.91",
+        "top_1_rate": "19.44",
+        "battle": "244,644",
+        "trait": "직업",
         "kich_hoat": "4"
     },
     {
-        "stt": 43,
-        "id": "jiogbul",
-        "name": "지옥불",
-        "image": "Trait_Icon_18_Inferno.TFT_Set18.png",
+        "stt": 31,
+        "id": "jeogeungga",
+        "name": "적응가",
+        "image": "Trait_Icon_18_Adaptor.TFT_Set18.png",
         "description_icon": [
-            "지옥불이 피해를 입히면 적에게 3초 동안 화상 및 상처를 적용합니다. 지옥불 화상 효과는 다른 화상 효과와 중첩됩니다."
+            "고유: 적응가 스킬은 공격력과 주문력 중 어느 쪽이 높은지에 따라 바뀝니다.",
+            "\n",
+            "\n",
+            "적응가는 공격력과 주문력 중 어느 쪽이 높은지에 따라 해당 능력치를 얻습니다."
         ],
         "description_detail": [
             [
                 "2",
-                "1% 화상",
-                "33% 상처"
+                "25%",
+                "AD.png",
+                "또는",
+                "AP.png"
             ],
             [
                 "3",
-                "전투 후",
-                "지옥불 챔피언이 없는 상점 슬롯 1개가 점화되어 한 단계 더 높은 챔피언 등장"
+                "35%",
+                "AD.png",
+                "또는",
+                "AP.png"
             ],
             [
-                "5",
-                "상점 슬롯 2개 점화",
-                "3% 화상"
-            ],
-            [
-                "7",
-                "상점 슬롯 4개 점화",
-                "3.5% 화상"
+                "4",
+                "50%",
+                "AD.png",
+                "또는",
+                "AP.png"
             ]
         ],
         "champions": [
@@ -2484,104 +1895,35 @@
                 "image": "tft18_akali.tft_set18.jpg"
             },
             {
-                "id": "baruseu",
-                "name": "바루스",
-                "image": "tft18_varus.tft_set18.jpg"
+                "id": "simsulduggeobi",
+                "name": "심술두꺼비",
+                "image": "Gromp_1783676782-Gromp.jpg"
             },
             {
-                "id": "swen",
-                "name": "쉔",
-                "image": "tft18_shen.tft_set18.jpg"
+                "id": "kogeumo",
+                "name": "코그모",
+                "image": "tft18_kogmaw.tft_set18.jpg"
             },
             {
-                "id": "amumu",
-                "name": "아무무",
-                "image": "tft18_amumu.tft_set18.jpg"
+                "id": "maseuteo_i",
+                "name": "마스터 이",
+                "image": "tft18_masteryi.tft_set18.jpg"
             },
             {
-                "id": "kenen",
-                "name": "케넨",
-                "image": "tft18_kennen.tft_set18.jpg"
+                "id": "nidalri",
+                "name": "니달리",
+                "image": "tft18_nidalee.tft_set18.jpg"
             }
         ],
-        "average_position": "3.62",
-        "top_4_rate": "75.1",
-        "top_1_rate": "16.46",
-        "battle": "486",
-        "trait": "계열",
-        "kich_hoat": "5"
+        "average_position": "3.56",
+        "top_4_rate": "70.83",
+        "top_1_rate": "15.47",
+        "battle": "64,215",
+        "trait": "직업",
+        "kich_hoat": "4"
     },
     {
-        "stt": 44,
-        "id": "geomeun_gasi",
-        "name": "검은 가시",
-        "image": "Trait_Icon_18_OldGod.TFT_Set18.png",
-        "description_icon": [
-            "전투 직전 검은 가시 칸에 있는 아군이 희생되고 다른 챔피언에게 체력을 부여합니다.",
-            "\n",
-            "\n",
-            "검은 가시 챔피언은 희생양의 역할군, 별 레벨 및 단계에 따라 추가 능력치를 얻습니다.",
-            "\n",
-            "\n",
-            "?"
-        ],
-        "description_detail": [
-            [
-                "2",
-                "175",
-                "Health.png"
-            ],
-            [
-                "4",
-                "300",
-                "Health.png",
-                "",
-                "추가 효과 30% 증가"
-            ],
-            [
-                "6",
-                "550",
-                "Health.png",
-                "",
-                "추가 효과 60% 증가"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "regsai",
-                "name": "렉사이",
-                "image": "tft18_reksai.tft_set18.jpg"
-            },
-            {
-                "id": "beiga",
-                "name": "베이가",
-                "image": "tft18_veigar.tft_set18.jpg"
-            },
-            {
-                "id": "weowig",
-                "name": "워윅",
-                "image": "tft18_warwick.tft_set18.jpg"
-            },
-            {
-                "id": "ajireu",
-                "name": "아지르",
-                "image": "tft18_azir.tft_set18.jpg"
-            },
-            {
-                "id": "malpaiteu",
-                "name": "말파이트",
-                "image": "tft18_malphite.tft_set18.jpg"
-            }
-        ],
-        "average_position": "3.53",
-        "top_4_rate": "75.06",
-        "top_1_rate": "17.48",
-        "battle": "389",
-        "trait": "계열",
-        "kich_hoat": "6"
-    },
-    {
-        "stt": 45,
+        "stt": 32,
         "id": "gaehwa",
         "name": "개화",
         "image": "Trait_Icon_18_Blossom.TFT_Set18.png",
@@ -2665,15 +2007,15 @@
                 "image": "tft18_ashe.tft_set18.jpg"
             }
         ],
-        "average_position": "3.41",
-        "top_4_rate": "74.57",
-        "top_1_rate": "20.27",
-        "battle": "4,317",
+        "average_position": "3.63",
+        "top_4_rate": "68.19",
+        "top_1_rate": "18.88",
+        "battle": "82,371",
         "trait": "계열",
-        "kich_hoat": "5"
+        "kich_hoat": "7"
     },
     {
-        "stt": 46,
+        "stt": 33,
         "id": "ssaumggun",
         "name": "싸움꾼",
         "image": "Trait_Icon_18_Brawler.TFT_Set18.png",
@@ -2714,6 +2056,11 @@
                 "image": "tft18_alistar.tft_set18.jpg"
             },
             {
+                "id": "dolgeobug",
+                "name": "돌거북",
+                "image": "Krug_1783676771-Krug.jpg"
+            },
+            {
                 "id": "seteu",
                 "name": "세트",
                 "image": "tft18_sett.tft_set18.jpg"
@@ -2724,15 +2071,609 @@
                 "image": "tft18_gnar.tft_set18.jpg"
             }
         ],
-        "average_position": "3.36",
-        "top_4_rate": "73.8",
-        "top_1_rate": "22.06",
-        "battle": "17,240",
+        "average_position": "3.58",
+        "top_4_rate": "68.14",
+        "top_1_rate": "21.10",
+        "battle": "971,879",
         "trait": "직업",
         "kich_hoat": "2"
     },
     {
-        "stt": 47,
+        "stt": 34,
+        "id": "gomog",
+        "name": "고목",
+        "image": "Trait_Icon_18_OldGrowth.TFT_Set18.png",
+        "description_icon": [
+            "3칸 내 적이 사망할 때마다 가장 강한 아군 고목 챔피언이 영구히 30의 최대 체력을 얻습니다.",
+            "\n",
+            "\n",
+            "현재: ?"
+        ],
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "maokai",
+                "name": "마오카이",
+                "image": "tft18_maokai.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.56",
+        "top_4_rate": "68.03",
+        "top_1_rate": "24.38",
+        "battle": "443,107",
+        "trait": "계열",
+        "kich_hoat": "1"
+    },
+    {
+        "stt": 35,
+        "id": "sanyangggun",
+        "name": "사냥꾼",
+        "image": "Trait_Icon_18_Hunter.TFT_Set18.png",
+        "description_icon": [
+            "사냥꾼이 공격력을 얻습니다. 사냥꾼이 4초 동안 대상을 변경하지 않았다면 피해 증폭을 10% 얻습니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "20%",
+                "AD.png"
+            ],
+            [
+                "3",
+                "30%",
+                "AD.png"
+            ],
+            [
+                "4",
+                "45%",
+                "AD.png"
+            ],
+            [
+                "5",
+                "65%",
+                "AD.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "bultaneun_myomog",
+                "name": "불타는 묘목",
+                "image": "Cinderling_1783677059-Cinderling.jpg"
+            },
+            {
+                "id": "keiteulrin",
+                "name": "케이틀린",
+                "image": "tft18_caitlyn.tft_set18.jpg"
+            },
+            {
+                "id": "teuriseutana",
+                "name": "트리스타나",
+                "image": "tft18_tristana.tft_set18.jpg"
+            },
+            {
+                "id": "sibireu",
+                "name": "시비르",
+                "image": "tft18_sivir.tft_set18.jpg"
+            },
+            {
+                "id": "aeswi",
+                "name": "애쉬",
+                "image": "tft18_ashe.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.65",
+        "top_4_rate": "67.78",
+        "top_1_rate": "17.53",
+        "battle": "62,570",
+        "trait": "직업",
+        "kich_hoat": "3"
+    },
+    {
+        "stt": 36,
+        "id": "ceohyeongja",
+        "name": "처형자",
+        "image": "Trait_Icon_18_Executioner.TFT_Set18.png",
+        "description_icon": [
+            "처형자가 정밀 및 치명타 확률 15% 획득",
+            "\n",
+            "또한 적에게 출혈을 적용하여 3초 동안 30%의 추가 고정 피해를 입힘",
+            "\n",
+            "출혈 피해량 40%로 증가"
+        ],
+        "description_detail": [
+            [
+                "2",
+                "처형자가 정밀 및 치명타 확률 15% 획득"
+            ],
+            [
+                "3",
+                "또한 적에게 출혈을 적용하여 3초 동안 30%의 추가 고정 피해를 입힘"
+            ],
+            [
+                "4",
+                "출혈 피해량 40%로 증가"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "yunara",
+                "name": "유나라",
+                "image": "tft18_yunara.tft_set18.jpg"
+            },
+            {
+                "id": "ajireu",
+                "name": "아지르",
+                "image": "tft18_azir.tft_set18.jpg"
+            },
+            {
+                "id": "ijeurieol",
+                "name": "이즈리얼",
+                "image": "tft18_ezreal.tft_set18.jpg"
+            },
+            {
+                "id": "soraka",
+                "name": "소라카",
+                "image": "tft18_soraka.tft_set18.jpg"
+            },
+            {
+                "id": "kenen",
+                "name": "케넨",
+                "image": "tft18_kennen.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.63",
+        "top_4_rate": "67.47",
+        "top_1_rate": "20.73",
+        "battle": "116,840",
+        "trait": "직업",
+        "kich_hoat": "3"
+    },
+    {
+        "stt": 37,
+        "id": "nalryeobi",
+        "name": "날렵이",
+        "image": "Trait_Icon_18_Sprykin.TFT_Set18.png",
+        "description_icon": [
+            "커다란 털뭉치 친구를 획득합니다. 날렵이를 커다란 털뭉치 친구 위에 놓아 기수를 선택합니다."
+        ],
+        "description_detail": [
+            [
+                "3",
+                "기수가",
+                "15%",
+                "Health.png",
+                "및 15%",
+                "AS.png",
+                "획득"
+            ],
+            [
+                "5",
+                "40%",
+                "Health.png",
+                "35%",
+                "AS.png",
+                "",
+                "및 커다란 털뭉치 친구 스킬이 50%만큼 아군 날렵이 챔피언에게 적용됨"
+            ],
+            [
+                "7",
+                "45%",
+                "Health.png",
+                "45%",
+                "AS.png",
+                "",
+                "및 커다란 털뭉치 친구 스킬이 100%만큼 아군 날렵이 챔피언에게 적용됨"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "kobuko",
+                "name": "코부코",
+                "image": "tft18_kobuko.tft_set18.jpg"
+            },
+            {
+                "id": "beiga",
+                "name": "베이가",
+                "image": "tft18_veigar.tft_set18.jpg"
+            },
+            {
+                "id": "timo",
+                "name": "티모",
+                "image": "tft18_teemo.tft_set18.jpg"
+            },
+            {
+                "id": "rammeoseu",
+                "name": "람머스",
+                "image": "tft18_rammus.tft_set18.jpg"
+            },
+            {
+                "id": "teuriseutana",
+                "name": "트리스타나",
+                "image": "tft18_tristana.tft_set18.jpg"
+            },
+            {
+                "id": "nareu",
+                "name": "나르",
+                "image": "tft18_gnar.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.76",
+        "top_4_rate": "66.77",
+        "top_1_rate": "14.02",
+        "battle": "112,707",
+        "trait": "계열",
+        "kich_hoat": "5"
+    },
+    {
+        "stt": 38,
+        "id": "jumunsulsa",
+        "name": "주문술사",
+        "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png",
+        "description_icon": [
+            "아군이 주문력을 10% 얻습니다. 주문술사는 능력치를 더 얻으며, 주문술사가 스킬을 사용할 때마다 추가 주문력을 얻습니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "10%",
+                "AP.png",
+                "",
+                "스킬 사용당 +1%",
+                "AP.png"
+            ],
+            [
+                "4",
+                "30%",
+                "AP.png",
+                "",
+                "스킬 사용당 +1%",
+                "AP.png"
+            ],
+            [
+                "6",
+                "55%",
+                "AP.png",
+                "",
+                "스킬 사용당 +2%",
+                "AP.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "kareuma",
+                "name": "카르마",
+                "image": "tft18_karma.tft_set18.jpg"
+            },
+            {
+                "id": "beiga",
+                "name": "베이가",
+                "image": "tft18_veigar.tft_set18.jpg"
+            },
+            {
+                "id": "reubeulrang",
+                "name": "르블랑",
+                "image": "tft18_leblanc.tft_set18.jpg"
+            },
+            {
+                "id": "kasiopea",
+                "name": "카시오페아",
+                "image": "tft18_cassiopeia.tft_set18.jpg"
+            },
+            {
+                "id": "pideulseutig",
+                "name": "피들스틱",
+                "image": "tft18_fiddlesticks.tft_set18.jpg"
+            },
+            {
+                "id": "ari",
+                "name": "아리",
+                "image": "tft18_ahri.tft_set18.jpg"
+            },
+            {
+                "id": "alrun",
+                "name": "알룬",
+                "image": "tft18_alune.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.74",
+        "top_4_rate": "66.15",
+        "top_1_rate": "17.59",
+        "battle": "75,731",
+        "trait": "직업",
+        "kich_hoat": "4"
+    },
+    {
+        "stt": 39,
+        "id": "giweonja",
+        "name": "기원자",
+        "image": "Trait_Icon_18_Invoker.TFT_Set18.png",
+        "description_icon": [
+            "아군이 마나 재생을 얻습니다. 기원자는 능력치를 더 얻습니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "1",
+                "Mana.png",
+                "| 3",
+                "Mana.png"
+            ],
+            [
+                "3",
+                "1",
+                "Mana.png",
+                "| 4",
+                "Mana.png"
+            ],
+            [
+                "4",
+                "2",
+                "Mana.png",
+                "| 6",
+                "Mana.png"
+            ],
+            [
+                "5",
+                "2",
+                "Mana.png",
+                "| 9",
+                "Mana.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "joyagdol",
+                "name": "조약돌",
+                "image": "Pebbles_1783677606-Sentry.jpg"
+            },
+            {
+                "id": "timo",
+                "name": "티모",
+                "image": "tft18_teemo.tft_set18.jpg"
+            },
+            {
+                "id": "kogeumo",
+                "name": "코그모",
+                "image": "tft18_kogmaw.tft_set18.jpg"
+            },
+            {
+                "id": "gamsija",
+                "name": "감시자",
+                "image": "AncientSentinel_1783677366-Sentinel.jpg"
+            },
+            {
+                "id": "moreugana",
+                "name": "모르가나",
+                "image": "tft18_morgana.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.76",
+        "top_4_rate": "66.1",
+        "top_1_rate": "17.29",
+        "battle": "77,098",
+        "trait": "직업",
+        "kich_hoat": "4"
+    },
+    {
+        "stt": 40,
+        "id": "yagtalja",
+        "name": "약탈자",
+        "image": "Trait_Icon_18_Ravager.TFT_Set18.png",
+        "description_icon": [
+            "약탈자가 모든 피해 흡혈을 10% 얻습니다. 또한 약탈자가 추가 피해를 입힙니다. 체력이 50% 아래인 유닛에게는 추가 피해가 두 배로 증가합니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "12%의 추가 피해"
+            ],
+            [
+                "4",
+                "25%의 추가 피해"
+            ],
+            [
+                "6",
+                "40%의 추가 피해"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "akalri",
+                "name": "아칼리",
+                "image": "tft18_akali.tft_set18.jpg"
+            },
+            {
+                "id": "kamil",
+                "name": "카밀",
+                "image": "tft18_camille.tft_set18.jpg"
+            },
+            {
+                "id": "eoseureumneugdae",
+                "name": "어스름늑대",
+                "image": "Murkwolf_1783676955-MurkWolf.jpg"
+            },
+            {
+                "id": "weowig",
+                "name": "워윅",
+                "image": "tft18_warwick.tft_set18.jpg"
+            },
+            {
+                "id": "daiaena",
+                "name": "다이애나",
+                "image": "tft18_diana.tft_set18.jpg"
+            },
+            {
+                "id": "deongguljeongryeong",
+                "name": "덩굴정령",
+                "image": "Brambleback_1783677203-Brambleback.jpg"
+            }
+        ],
+        "average_position": "3.9",
+        "top_4_rate": "66.04",
+        "top_1_rate": "8.32",
+        "battle": "12,204",
+        "trait": "직업",
+        "kich_hoat": "6"
+    },
+    {
+        "stt": 41,
+        "id": "yojeong",
+        "name": "요정",
+        "image": "Trait_Icon_18_Fae.TFT_Set18.png",
+        "description_icon": [
+            "아군의 피해, 체력 회복, 보호막이 나비정령을 끌어들입니다.",
+            "\n",
+            "\n",
+            "요정 챔피언이 나비정령 하나당 공격력 및 주문력을 얻습니다. 또한 체력이 50% 아래로 떨어지면 나비정령 하나당 체력을 회복합니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "5%",
+                "AD.png",
+                "AP.png",
+                "및 2.5% 체력 회복"
+            ],
+            [
+                "4",
+                "8%",
+                "AD.png",
+                "AP.png",
+                "및 4% 체력 회복. 나비정령 7마리 이후 골드를 제공하는 황금 나비정령 등장"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "rakan",
+                "name": "라칸",
+                "image": "tft18_rakan.tft_set18.jpg"
+            },
+            {
+                "id": "jaya",
+                "name": "자야",
+                "image": "tft18_xayah.tft_set18.jpg"
+            },
+            {
+                "id": "teuriseutana",
+                "name": "트리스타나",
+                "image": "tft18_tristana.tft_set18.jpg"
+            },
+            {
+                "id": "rilria",
+                "name": "릴리아",
+                "image": "tft18_lillia.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.73",
+        "top_4_rate": "65.67",
+        "top_1_rate": "19.51",
+        "battle": "102,075",
+        "trait": "계열",
+        "kich_hoat": "4"
+    },
+    {
+        "stt": 42,
+        "id": "sanyangggun",
+        "name": "사냥꾼",
+        "image": "Trait_Icon_18_Hunter.TFT_Set18.png",
+        "description_icon": [
+            "사냥꾼이 공격력을 얻습니다. 사냥꾼이 4초 동안 대상을 변경하지 않았다면 피해 증폭을 10% 얻습니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "20%",
+                "AD.png"
+            ],
+            [
+                "3",
+                "30%",
+                "AD.png"
+            ],
+            [
+                "4",
+                "45%",
+                "AD.png"
+            ],
+            [
+                "5",
+                "65%",
+                "AD.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "bultaneun_myomog",
+                "name": "불타는 묘목",
+                "image": "Cinderling_1783677059-Cinderling.jpg"
+            },
+            {
+                "id": "keiteulrin",
+                "name": "케이틀린",
+                "image": "tft18_caitlyn.tft_set18.jpg"
+            },
+            {
+                "id": "teuriseutana",
+                "name": "트리스타나",
+                "image": "tft18_tristana.tft_set18.jpg"
+            },
+            {
+                "id": "sibireu",
+                "name": "시비르",
+                "image": "tft18_sivir.tft_set18.jpg"
+            },
+            {
+                "id": "aeswi",
+                "name": "애쉬",
+                "image": "tft18_ashe.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.74",
+        "top_4_rate": "64.88",
+        "top_1_rate": "19.93",
+        "battle": "338,798",
+        "trait": "직업",
+        "kich_hoat": "2"
+    },
+    {
+        "stt": 43,
+        "id": "cimyeongjeogin_ggoc",
+        "name": "치명적인 꽃",
+        "image": "Trait_Icon_18_FloraFatalis.TFT_Set18.png",
+        "description_icon": [
+            "치명적인 꽃 챔피언은 처치 관여 시 적을 수확하여 다음을 획득합니다."
+        ],
+        "description_detail": [
+            [
+                "1",
+                "마나 10"
+            ],
+            [
+                "2",
+                "또한 체력이 가장 낮은 아군 최대 체력 8% 회복"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "pideulseutig",
+                "name": "피들스틱",
+                "image": "tft18_fiddlesticks.tft_set18.jpg"
+            },
+            {
+                "id": "soraka",
+                "name": "소라카",
+                "image": "tft18_soraka.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.78",
+        "top_4_rate": "64.68",
+        "top_1_rate": "17.16",
+        "battle": "302,573",
+        "trait": "계열",
+        "kich_hoat": "2"
+    },
+    {
+        "stt": 44,
         "id": "jeonjaenggigye",
         "name": "전쟁기계",
         "image": "Trait_Icon_18_Juggernaut.TFT_Set18.png",
@@ -2774,6 +2715,11 @@
                 "image": "tft18_yorick.tft_set18.jpg"
             },
             {
+                "id": "bawi_ge",
+                "name": "바위 게",
+                "image": "Scuttlecrab_1783676864-Scuttlecrab.jpg"
+            },
+            {
                 "id": "sejuani",
                 "name": "세주아니",
                 "image": "tft18_sejuani.tft_set18.jpg"
@@ -2794,15 +2740,15 @@
                 "image": "tft18_maokai.tft_set18.jpg"
             }
         ],
-        "average_position": "3.43",
-        "top_4_rate": "73.49",
-        "top_1_rate": "16.58",
-        "battle": "1,592",
+        "average_position": "3.86",
+        "top_4_rate": "63.94",
+        "top_1_rate": "14.42",
+        "battle": "86,338",
         "trait": "직업",
         "kich_hoat": "4"
     },
     {
-        "stt": 48,
+        "stt": 45,
         "id": "gasiyi_yeoin",
         "name": "가시의 여인",
         "image": "Trait_Icon_18_ZyraOrigin.TFT_Set18.png",
@@ -2817,58 +2763,340 @@
                 "image": "tft18_zyra.tft_set18.jpg"
             }
         ],
-        "average_position": "3.49",
-        "top_4_rate": "72.89",
-        "top_1_rate": "19.09",
-        "battle": "8,655",
+        "average_position": "3.86",
+        "top_4_rate": "63.42",
+        "top_1_rate": "16.96",
+        "battle": "447,381",
         "trait": "직업",
         "kich_hoat": "1"
     },
     {
-        "stt": 49,
-        "id": "geomeun_gasi",
-        "name": "검은 가시",
-        "image": "Trait_Icon_18_OldGod.TFT_Set18.png",
+        "stt": 46,
+        "id": "gaehwa",
+        "name": "개화",
+        "image": "Trait_Icon_18_Blossom.TFT_Set18.png",
         "description_icon": [
-            "전투 직전 검은 가시 칸에 있는 아군이 희생되고 다른 챔피언에게 체력을 부여합니다.",
+            "전투 후 아군 수호령이 강화됩니다.",
             "\n",
             "\n",
-            "검은 가시 챔피언은 희생양의 역할군, 별 레벨 및 단계에 따라 추가 능력치를 얻습니다.",
-            "\n",
-            "\n",
-            "?"
+            "개화 챔피언이 공격력, 주문력 및 10%의 최대 체력을 얻습니다."
         ],
         "description_detail": [
             [
-                "2",
-                "175",
-                "Health.png"
+                "3",
+                "수호령 업그레이드",
+                "12%",
+                "AD.png",
+                "AP.png"
             ],
             [
-                "4",
-                "300",
-                "Health.png",
-                "",
-                "추가 효과 30% 증가"
+                "5",
+                "수호령이 상점마다 등장",
+                "30%",
+                "AD.png",
+                "AP.png"
             ],
             [
-                "6",
-                "550",
-                "Health.png",
-                "",
-                "추가 효과 60% 증가"
+                "7",
+                "수호령 구매 후 4골드 획득",
+                "45%",
+                "AD.png",
+                "AP.png"
+            ],
+            [
+                "9",
+                "라운드당 수호령 2마리 구매 가능",
+                "50%",
+                "AD.png",
+                "AP.png"
+            ],
+            [
+                "11",
+                "수호령 위력 폭주",
+                "100%",
+                "AD.png",
+                "AP.png"
             ]
         ],
         "champions": [
             {
-                "id": "regsai",
-                "name": "렉사이",
-                "image": "tft18_reksai.tft_set18.jpg"
+                "id": "kareuma",
+                "name": "카르마",
+                "image": "tft18_karma.tft_set18.jpg"
             },
             {
-                "id": "beiga",
-                "name": "베이가",
-                "image": "tft18_veigar.tft_set18.jpg"
+                "id": "yorig",
+                "name": "요릭",
+                "image": "tft18_yorick.tft_set18.jpg"
+            },
+            {
+                "id": "yunara",
+                "name": "유나라",
+                "image": "tft18_yunara.tft_set18.jpg"
+            },
+            {
+                "id": "maseuteo_i",
+                "name": "마스터 이",
+                "image": "tft18_masteryi.tft_set18.jpg"
+            },
+            {
+                "id": "ari",
+                "name": "아리",
+                "image": "tft18_ahri.tft_set18.jpg"
+            },
+            {
+                "id": "seteu",
+                "name": "세트",
+                "image": "tft18_sett.tft_set18.jpg"
+            },
+            {
+                "id": "aeswi",
+                "name": "애쉬",
+                "image": "tft18_ashe.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.86",
+        "top_4_rate": "63.23",
+        "top_1_rate": "17.80",
+        "battle": "238,346",
+        "trait": "계열",
+        "kich_hoat": "5"
+    },
+    {
+        "stt": 47,
+        "id": "jiogbul",
+        "name": "지옥불",
+        "image": "Trait_Icon_18_Inferno.TFT_Set18.png",
+        "description_icon": [
+            "지옥불이 피해를 입히면 적에게 3초 동안 화상 및 상처를 적용합니다. 지옥불 화상 효과는 다른 화상 효과와 중첩됩니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "1% 화상",
+                "33% 상처"
+            ],
+            [
+                "3",
+                "전투 후",
+                "지옥불 챔피언이 없는 상점 슬롯 1개가 점화되어 한 단계 더 높은 챔피언 등장"
+            ],
+            [
+                "5",
+                "상점 슬롯 2개 점화",
+                "3% 화상"
+            ],
+            [
+                "7",
+                "상점 슬롯 4개 점화",
+                "3.5% 화상"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "akalri",
+                "name": "아칼리",
+                "image": "tft18_akali.tft_set18.jpg"
+            },
+            {
+                "id": "baruseu",
+                "name": "바루스",
+                "image": "tft18_varus.tft_set18.jpg"
+            },
+            {
+                "id": "swen",
+                "name": "쉔",
+                "image": "tft18_shen.tft_set18.jpg"
+            },
+            {
+                "id": "amumu",
+                "name": "아무무",
+                "image": "tft18_amumu.tft_set18.jpg"
+            },
+            {
+                "id": "kenen",
+                "name": "케넨",
+                "image": "tft18_kennen.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.95",
+        "top_4_rate": "63.04",
+        "top_1_rate": "13.74",
+        "battle": "45,935",
+        "trait": "계열",
+        "kich_hoat": "5"
+    },
+    {
+        "stt": 48,
+        "id": "hyeonsanggeum_cujeogja",
+        "name": "현상금 추적자",
+        "image": "Trait_Icon_18_BountySeeker.TFT_Set18.png",
+        "description_icon": [
+            "현상금 사냥을 선택합니다. 가장 강한 아군 드레이븐이 현상금 사냥을 진행하고 보상을 받을 수 있습니다. 현상금 사냥을 완료하면, 다른 현상금 사냥을 선택합니다.",
+            "\n",
+            "\n",
+            "?"
+        ],
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "deureibeun",
+                "name": "드레이븐",
+                "image": "tft18_draven.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.79",
+        "top_4_rate": "63.01",
+        "top_1_rate": "23.66",
+        "battle": "257,058",
+        "trait": "계열",
+        "kich_hoat": "1"
+    },
+    {
+        "stt": 49,
+        "id": "weonsi",
+        "name": "원시",
+        "image": "Trait_Icon_18_Primal.TFT_Set18.png",
+        "description_icon": [
+            "네 가지 원시 축복 중 하나를 선택합니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "?"
+            ],
+            [
+                "4",
+                "?"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "bai",
+                "name": "바이",
+                "image": "tft18_vi.tft_set18.jpg"
+            },
+            {
+                "id": "nidalri",
+                "name": "니달리",
+                "image": "tft18_nidalee.tft_set18.jpg"
+            },
+            {
+                "id": "sibireu",
+                "name": "시비르",
+                "image": "tft18_sivir.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.86",
+        "top_4_rate": "62.87",
+        "top_1_rate": "17.07",
+        "battle": "559,609",
+        "trait": "계열",
+        "kich_hoat": "2"
+    },
+    {
+        "stt": 50,
+        "id": "dalbic",
+        "name": "달빛",
+        "image": "Trait_Icon_18_Lunar.TFT_Set18.png",
+        "description_icon": [
+            "달빛 챔피언 및 인접한 아군이 공격 속도와 주문력을 얻습니다. 달빛 챔피언은 100% 더 얻습니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "7%",
+                "AS.png",
+                "",
+                "7%",
+                "AP.png"
+            ],
+            [
+                "3",
+                "10%",
+                "AS.png",
+                "",
+                "10%",
+                "AP.png"
+            ],
+            [
+                "4",
+                "14%",
+                "AS.png",
+                "",
+                "14%",
+                "AP.png"
+            ],
+            [
+                "5",
+                "18%",
+                "AS.png",
+                "",
+                "18%",
+                "AP.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "daiaena",
+                "name": "다이애나",
+                "image": "tft18_diana.tft_set18.jpg"
+            },
+            {
+                "id": "apelrioseu",
+                "name": "아펠리오스",
+                "image": "tft18_aphelios.tft_set18.jpg"
+            },
+            {
+                "id": "alrun",
+                "name": "알룬",
+                "image": "tft18_alune.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.86",
+        "top_4_rate": "62.63",
+        "top_1_rate": "17.71",
+        "battle": "453,754",
+        "trait": "계열",
+        "kich_hoat": "2"
+    },
+    {
+        "stt": 51,
+        "id": "yagtalja",
+        "name": "약탈자",
+        "image": "Trait_Icon_18_Ravager.TFT_Set18.png",
+        "description_icon": [
+            "약탈자가 모든 피해 흡혈을 10% 얻습니다. 또한 약탈자가 추가 피해를 입힙니다. 체력이 50% 아래인 유닛에게는 추가 피해가 두 배로 증가합니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "12%의 추가 피해"
+            ],
+            [
+                "4",
+                "25%의 추가 피해"
+            ],
+            [
+                "6",
+                "40%의 추가 피해"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "akalri",
+                "name": "아칼리",
+                "image": "tft18_akali.tft_set18.jpg"
+            },
+            {
+                "id": "kamil",
+                "name": "카밀",
+                "image": "tft18_camille.tft_set18.jpg"
+            },
+            {
+                "id": "eoseureumneugdae",
+                "name": "어스름늑대",
+                "image": "Murkwolf_1783676955-MurkWolf.jpg"
             },
             {
                 "id": "weowig",
@@ -2876,25 +3104,25 @@
                 "image": "tft18_warwick.tft_set18.jpg"
             },
             {
-                "id": "ajireu",
-                "name": "아지르",
-                "image": "tft18_azir.tft_set18.jpg"
+                "id": "daiaena",
+                "name": "다이애나",
+                "image": "tft18_diana.tft_set18.jpg"
             },
             {
-                "id": "malpaiteu",
-                "name": "말파이트",
-                "image": "tft18_malphite.tft_set18.jpg"
+                "id": "deongguljeongryeong",
+                "name": "덩굴정령",
+                "image": "Brambleback_1783677203-Brambleback.jpg"
             }
         ],
-        "average_position": "3.86",
-        "top_4_rate": "72.48",
-        "top_1_rate": "9.20",
-        "battle": "1,163",
-        "trait": "계열",
+        "average_position": "4.05",
+        "top_4_rate": "62.47",
+        "top_1_rate": "9.28",
+        "battle": "44,254",
+        "trait": "직업",
         "kich_hoat": "4"
     },
     {
-        "stt": 50,
+        "stt": 52,
         "id": "hyeobgogyasu",
         "name": "협곡야수",
         "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png",
@@ -2959,245 +3187,67 @@
                 "팀 최대 규모 +2"
             ]
         ],
-        "champions": [],
-        "average_position": "3.82",
-        "top_4_rate": "71.7",
-        "top_1_rate": "10.32",
-        "battle": "2,113",
+        "champions": [
+            {
+                "id": "bultaneun_myomog",
+                "name": "불타는 묘목",
+                "image": "Cinderling_1783677059-Cinderling.jpg"
+            },
+            {
+                "id": "joyagdol",
+                "name": "조약돌",
+                "image": "Pebbles_1783677606-Sentry.jpg"
+            },
+            {
+                "id": "simsulduggeobi",
+                "name": "심술두꺼비",
+                "image": "Gromp_1783676782-Gromp.jpg"
+            },
+            {
+                "id": "eoseureumneugdae",
+                "name": "어스름늑대",
+                "image": "Murkwolf_1783676955-MurkWolf.jpg"
+            },
+            {
+                "id": "bawi_ge",
+                "name": "바위 게",
+                "image": "Scuttlecrab_1783676864-Scuttlecrab.jpg"
+            },
+            {
+                "id": "dolgeobug",
+                "name": "돌거북",
+                "image": "Krug_1783676771-Krug.jpg"
+            },
+            {
+                "id": "eomi_buri",
+                "name": "어미 부리",
+                "image": "Raptor_1783677107-CrimsonRaptor.jpg"
+            },
+            {
+                "id": "gamsija",
+                "name": "감시자",
+                "image": "AncientSentinel_1783677366-Sentinel.jpg"
+            },
+            {
+                "id": "deongguljeongryeong",
+                "name": "덩굴정령",
+                "image": "Brambleback_1783677203-Brambleback.jpg"
+            },
+            {
+                "id": "jangro_deuraegon",
+                "name": "장로 드래곤",
+                "image": "TheElderDragon_1783677052-ElderDragon.jpg"
+            }
+        ],
+        "average_position": "4.05",
+        "top_4_rate": "61.9",
+        "top_1_rate": "9.43",
+        "battle": "231,866",
         "trait": "계열",
         "kich_hoat": "7"
-    },
-    {
-        "stt": 51,
-        "id": "cimyeongjeogin_ggoc",
-        "name": "치명적인 꽃",
-        "image": "Trait_Icon_18_FloraFatalis.TFT_Set18.png",
-        "description_icon": [
-            "치명적인 꽃 챔피언은 처치 관여 시 적을 수확하여 다음을 획득합니다."
-        ],
-        "description_detail": [
-            [
-                "1",
-                "마나 10"
-            ],
-            [
-                "2",
-                "또한 체력이 가장 낮은 아군 최대 체력 8% 회복"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "pideulseutig",
-                "name": "피들스틱",
-                "image": "tft18_fiddlesticks.tft_set18.jpg"
-            },
-            {
-                "id": "soraka",
-                "name": "소라카",
-                "image": "tft18_soraka.tft_set18.jpg"
-            }
-        ],
-        "average_position": "3.58",
-        "top_4_rate": "70.45",
-        "top_1_rate": "19.06",
-        "battle": "4,812",
-        "trait": "계열",
-        "kich_hoat": "2"
-    },
-    {
-        "stt": 52,
-        "id": "sanyangggun",
-        "name": "사냥꾼",
-        "image": "Trait_Icon_18_Hunter.TFT_Set18.png",
-        "description_icon": [
-            "사냥꾼이 공격력을 얻습니다. 사냥꾼이 4초 동안 대상을 변경하지 않았다면 피해 증폭을 10% 얻습니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "20%",
-                "AD.png"
-            ],
-            [
-                "3",
-                "30%",
-                "AD.png"
-            ],
-            [
-                "4",
-                "45%",
-                "AD.png"
-            ],
-            [
-                "5",
-                "65%",
-                "AD.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "keiteulrin",
-                "name": "케이틀린",
-                "image": "tft18_caitlyn.tft_set18.jpg"
-            },
-            {
-                "id": "teuriseutana",
-                "name": "트리스타나",
-                "image": "tft18_tristana.tft_set18.jpg"
-            },
-            {
-                "id": "sibireu",
-                "name": "시비르",
-                "image": "tft18_sivir.tft_set18.jpg"
-            },
-            {
-                "id": "aeswi",
-                "name": "애쉬",
-                "image": "tft18_ashe.tft_set18.jpg"
-            }
-        ],
-        "average_position": "3.52",
-        "top_4_rate": "70.34",
-        "top_1_rate": "21.14",
-        "battle": "6,770",
-        "trait": "직업",
-        "kich_hoat": "2"
     },
     {
         "stt": 53,
-        "id": "dalbic",
-        "name": "달빛",
-        "image": "Trait_Icon_18_Lunar.TFT_Set18.png",
-        "description_icon": [
-            "달빛 챔피언 및 인접한 아군이 공격 속도와 주문력을 얻습니다. 달빛 챔피언은 100% 더 얻습니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "7%",
-                "AS.png",
-                "",
-                "7%",
-                "AP.png"
-            ],
-            [
-                "3",
-                "10%",
-                "AS.png",
-                "",
-                "10%",
-                "AP.png"
-            ],
-            [
-                "4",
-                "14%",
-                "AS.png",
-                "",
-                "14%",
-                "AP.png"
-            ],
-            [
-                "5",
-                "18%",
-                "AS.png",
-                "",
-                "18%",
-                "AP.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "daiaena",
-                "name": "다이애나",
-                "image": "tft18_diana.tft_set18.jpg"
-            },
-            {
-                "id": "apelrioseu",
-                "name": "아펠리오스",
-                "image": "tft18_aphelios.tft_set18.jpg"
-            },
-            {
-                "id": "alrun",
-                "name": "알룬",
-                "image": "tft18_alune.tft_set18.jpg"
-            }
-        ],
-        "average_position": "3.56",
-        "top_4_rate": "70.23",
-        "top_1_rate": "18.32",
-        "battle": "8,501",
-        "trait": "계열",
-        "kich_hoat": "2"
-    },
-    {
-        "stt": 54,
-        "id": "agyi_yeodan",
-        "name": "악의 여단",
-        "image": "Trait_Icon_18_Coven.TFT_Set18.png",
-        "description_icon": [
-            "챔피언을 처치하면 정기를 획득합니다. 플레이어 대상 전투에서 패배하면 추가 정기를 얻습니다.",
-            "\n",
-            "\n",
-            "정기 40개부터 시작하며, 정기를 보상으로 전환하거나 계속해서 정기를 모을 수 있습니다. 보상마다 필요한 정기의 양이 점점 늘어납니다."
-        ],
-        "description_detail": [
-            [
-                "3",
-                "처치 시 정기 2개",
-                "패배 시 정기 18개"
-            ],
-            [
-                "4",
-                "처치 시 2",
-                "패배 시 25"
-            ],
-            [
-                "5",
-                "처치 시 3",
-                "패배 시 32"
-            ],
-            [
-                "7",
-                "처치 시 10",
-                "패배 시 60"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "kamil",
-                "name": "카밀",
-                "image": "tft18_camille.tft_set18.jpg"
-            },
-            {
-                "id": "keiteulrin",
-                "name": "케이틀린",
-                "image": "tft18_caitlyn.tft_set18.jpg"
-            },
-            {
-                "id": "elriseu",
-                "name": "엘리스",
-                "image": "tft18_elise.tft_set18.jpg"
-            },
-            {
-                "id": "kasiopea",
-                "name": "카시오페아",
-                "image": "tft18_cassiopeia.tft_set18.jpg"
-            },
-            {
-                "id": "moreugana",
-                "name": "모르가나",
-                "image": "tft18_morgana.tft_set18.jpg"
-            }
-        ],
-        "average_position": "3.92",
-        "top_4_rate": "69.77",
-        "top_1_rate": "20.35",
-        "battle": "172",
-        "trait": "계열",
-        "kich_hoat": "7"
-    },
-    {
-        "stt": 55,
         "id": "giweonja",
         "name": "기원자",
         "image": "Trait_Icon_18_Invoker.TFT_Set18.png",
@@ -3236,6 +3286,11 @@
         ],
         "champions": [
             {
+                "id": "joyagdol",
+                "name": "조약돌",
+                "image": "Pebbles_1783677606-Sentry.jpg"
+            },
+            {
                 "id": "timo",
                 "name": "티모",
                 "image": "tft18_teemo.tft_set18.jpg"
@@ -3246,62 +3301,25 @@
                 "image": "tft18_kogmaw.tft_set18.jpg"
             },
             {
+                "id": "gamsija",
+                "name": "감시자",
+                "image": "AncientSentinel_1783677366-Sentinel.jpg"
+            },
+            {
                 "id": "moreugana",
                 "name": "모르가나",
                 "image": "tft18_morgana.tft_set18.jpg"
             }
         ],
-        "average_position": "3.71",
-        "top_4_rate": "69.76",
-        "top_1_rate": "14.15",
-        "battle": "2,050",
+        "average_position": "4",
+        "top_4_rate": "61.61",
+        "top_1_rate": "13.86",
+        "battle": "101,551",
         "trait": "직업",
         "kich_hoat": "3"
     },
     {
-        "stt": 56,
-        "id": "weonsi",
-        "name": "원시",
-        "image": "Trait_Icon_18_Primal.TFT_Set18.png",
-        "description_icon": [
-            "네 가지 원시 축복 중 하나를 선택합니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "?"
-            ],
-            [
-                "4",
-                "?"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "bai",
-                "name": "바이",
-                "image": "tft18_vi.tft_set18.jpg"
-            },
-            {
-                "id": "nidalri",
-                "name": "니달리",
-                "image": "tft18_nidalee.tft_set18.jpg"
-            },
-            {
-                "id": "sibireu",
-                "name": "시비르",
-                "image": "tft18_sivir.tft_set18.jpg"
-            }
-        ],
-        "average_position": "3.63",
-        "top_4_rate": "69.02",
-        "top_1_rate": "18.26",
-        "battle": "11,430",
-        "trait": "계열",
-        "kich_hoat": "2"
-    },
-    {
-        "stt": 57,
+        "stt": 54,
         "id": "jumunsulsa",
         "name": "주문술사",
         "image": "Trait_Icon_18_Spellweaver.TFT_Set18.png",
@@ -3371,15 +3389,373 @@
                 "image": "tft18_alune.tft_set18.jpg"
             }
         ],
-        "average_position": "3.73",
-        "top_4_rate": "66.28",
-        "top_1_rate": "18.80",
-        "battle": "16,923",
+        "average_position": "3.95",
+        "top_4_rate": "60.84",
+        "top_1_rate": "17.31",
+        "battle": "992,932",
         "trait": "직업",
         "kich_hoat": "2"
     },
     {
+        "stt": 55,
+        "id": "geomeun_gasi",
+        "name": "검은 가시",
+        "image": "Trait_Icon_18_OldGod.TFT_Set18.png",
+        "description_icon": [
+            "전투 직전 검은 가시 칸에 있는 아군이 희생되고 다른 챔피언에게 체력을 부여합니다.",
+            "\n",
+            "\n",
+            "검은 가시 챔피언은 희생양의 역할군, 별 레벨 및 단계에 따라 추가 능력치를 얻습니다.",
+            "\n",
+            "\n",
+            "?"
+        ],
+        "description_detail": [
+            [
+                "2",
+                "175",
+                "Health.png"
+            ],
+            [
+                "4",
+                "300",
+                "Health.png",
+                "",
+                "추가 효과 30% 증가"
+            ],
+            [
+                "6",
+                "550",
+                "Health.png",
+                "",
+                "추가 효과 60% 증가"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "regsai",
+                "name": "렉사이",
+                "image": "tft18_reksai.tft_set18.jpg"
+            },
+            {
+                "id": "beiga",
+                "name": "베이가",
+                "image": "tft18_veigar.tft_set18.jpg"
+            },
+            {
+                "id": "weowig",
+                "name": "워윅",
+                "image": "tft18_warwick.tft_set18.jpg"
+            },
+            {
+                "id": "ajireu",
+                "name": "아지르",
+                "image": "tft18_azir.tft_set18.jpg"
+            },
+            {
+                "id": "malpaiteu",
+                "name": "말파이트",
+                "image": "tft18_malphite.tft_set18.jpg"
+            }
+        ],
+        "average_position": "4.11",
+        "top_4_rate": "60.56",
+        "top_1_rate": "12.76",
+        "battle": "22,555",
+        "trait": "계열",
+        "kich_hoat": "6"
+    },
+    {
+        "stt": 56,
+        "id": "giweonja",
+        "name": "기원자",
+        "image": "Trait_Icon_18_Invoker.TFT_Set18.png",
+        "description_icon": [
+            "아군이 마나 재생을 얻습니다. 기원자는 능력치를 더 얻습니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "1",
+                "Mana.png",
+                "| 3",
+                "Mana.png"
+            ],
+            [
+                "3",
+                "1",
+                "Mana.png",
+                "| 4",
+                "Mana.png"
+            ],
+            [
+                "4",
+                "2",
+                "Mana.png",
+                "| 6",
+                "Mana.png"
+            ],
+            [
+                "5",
+                "2",
+                "Mana.png",
+                "| 9",
+                "Mana.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "joyagdol",
+                "name": "조약돌",
+                "image": "Pebbles_1783677606-Sentry.jpg"
+            },
+            {
+                "id": "timo",
+                "name": "티모",
+                "image": "tft18_teemo.tft_set18.jpg"
+            },
+            {
+                "id": "kogeumo",
+                "name": "코그모",
+                "image": "tft18_kogmaw.tft_set18.jpg"
+            },
+            {
+                "id": "gamsija",
+                "name": "감시자",
+                "image": "AncientSentinel_1783677366-Sentinel.jpg"
+            },
+            {
+                "id": "moreugana",
+                "name": "모르가나",
+                "image": "tft18_morgana.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.98",
+        "top_4_rate": "60.2",
+        "top_1_rate": "15.46",
+        "battle": "408,320",
+        "trait": "직업",
+        "kich_hoat": "2"
+    },
+    {
+        "stt": 57,
+        "id": "sogsapo",
+        "name": "속사포",
+        "image": "Trait_Icon_18_Rapidfire.TFT_Set18.png",
+        "description_icon": [
+            "아군이 공격 속도를 10% 얻습니다. 속사포 챔피언은 기본 공격마다 능력치를 더 얻습니다. 최대 10회 중첩됩니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "기본 공격당 +3%",
+                "AS.png"
+            ],
+            [
+                "3",
+                "기본 공격당 +5%",
+                "AS.png"
+            ],
+            [
+                "4",
+                "기본 공격당 +9%",
+                "AS.png"
+            ],
+            [
+                "5",
+                "기본 공격당 +15%",
+                "AS.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "baruseu",
+                "name": "바루스",
+                "image": "tft18_varus.tft_set18.jpg"
+            },
+            {
+                "id": "jaya",
+                "name": "자야",
+                "image": "tft18_xayah.tft_set18.jpg"
+            },
+            {
+                "id": "keil",
+                "name": "케일",
+                "image": "tft18_kayle.tft_set18.jpg"
+            },
+            {
+                "id": "eomi_buri",
+                "name": "어미 부리",
+                "image": "Raptor_1783677107-CrimsonRaptor.jpg"
+            },
+            {
+                "id": "apelrioseu",
+                "name": "아펠리오스",
+                "image": "tft18_aphelios.tft_set18.jpg"
+            }
+        ],
+        "average_position": "3.95",
+        "top_4_rate": "58.51",
+        "top_1_rate": "16.28",
+        "battle": "31,745",
+        "trait": "직업",
+        "kich_hoat": "4"
+    },
+    {
         "stt": 58,
+        "id": "sogsapo",
+        "name": "속사포",
+        "image": "Trait_Icon_18_Rapidfire.TFT_Set18.png",
+        "description_icon": [
+            "아군이 공격 속도를 10% 얻습니다. 속사포 챔피언은 기본 공격마다 능력치를 더 얻습니다. 최대 10회 중첩됩니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "기본 공격당 +3%",
+                "AS.png"
+            ],
+            [
+                "3",
+                "기본 공격당 +5%",
+                "AS.png"
+            ],
+            [
+                "4",
+                "기본 공격당 +9%",
+                "AS.png"
+            ],
+            [
+                "5",
+                "기본 공격당 +15%",
+                "AS.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "baruseu",
+                "name": "바루스",
+                "image": "tft18_varus.tft_set18.jpg"
+            },
+            {
+                "id": "jaya",
+                "name": "자야",
+                "image": "tft18_xayah.tft_set18.jpg"
+            },
+            {
+                "id": "keil",
+                "name": "케일",
+                "image": "tft18_kayle.tft_set18.jpg"
+            },
+            {
+                "id": "eomi_buri",
+                "name": "어미 부리",
+                "image": "Raptor_1783677107-CrimsonRaptor.jpg"
+            },
+            {
+                "id": "apelrioseu",
+                "name": "아펠리오스",
+                "image": "tft18_aphelios.tft_set18.jpg"
+            }
+        ],
+        "average_position": "4.07",
+        "top_4_rate": "57.18",
+        "top_1_rate": "16.16",
+        "battle": "160,806",
+        "trait": "직업",
+        "kich_hoat": "3"
+    },
+    {
+        "stt": 59,
+        "id": "busig",
+        "name": "부식",
+        "image": "Trait_Icon_18_Caustic.TFT_Set18.png",
+        "description_icon": [
+            "부식 유닛이 피해를 입히면 적에게 4초 동안 파쇄 및 파열을 30% 적용합니다.",
+            "\n",
+            "\n",
+            "파쇄: 마법 저항력 감소",
+            "\n",
+            "파열: 방어력 감소"
+        ],
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "kogeumo",
+                "name": "코그모",
+                "image": "tft18_kogmaw.tft_set18.jpg"
+            }
+        ],
+        "average_position": "4.2",
+        "top_4_rate": "56.92",
+        "top_1_rate": "13.01",
+        "battle": "366,766",
+        "trait": "계열",
+        "kich_hoat": "1"
+    },
+    {
+        "stt": 60,
+        "id": "yagtalja",
+        "name": "약탈자",
+        "image": "Trait_Icon_18_Ravager.TFT_Set18.png",
+        "description_icon": [
+            "약탈자가 모든 피해 흡혈을 10% 얻습니다. 또한 약탈자가 추가 피해를 입힙니다. 체력이 50% 아래인 유닛에게는 추가 피해가 두 배로 증가합니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "12%의 추가 피해"
+            ],
+            [
+                "4",
+                "25%의 추가 피해"
+            ],
+            [
+                "6",
+                "40%의 추가 피해"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "akalri",
+                "name": "아칼리",
+                "image": "tft18_akali.tft_set18.jpg"
+            },
+            {
+                "id": "kamil",
+                "name": "카밀",
+                "image": "tft18_camille.tft_set18.jpg"
+            },
+            {
+                "id": "eoseureumneugdae",
+                "name": "어스름늑대",
+                "image": "Murkwolf_1783676955-MurkWolf.jpg"
+            },
+            {
+                "id": "weowig",
+                "name": "워윅",
+                "image": "tft18_warwick.tft_set18.jpg"
+            },
+            {
+                "id": "daiaena",
+                "name": "다이애나",
+                "image": "tft18_diana.tft_set18.jpg"
+            },
+            {
+                "id": "deongguljeongryeong",
+                "name": "덩굴정령",
+                "image": "Brambleback_1783677203-Brambleback.jpg"
+            }
+        ],
+        "average_position": "4.2",
+        "top_4_rate": "55.91",
+        "top_1_rate": "13.47",
+        "battle": "728,973",
+        "trait": "직업",
+        "kich_hoat": "2"
+    },
+    {
+        "stt": 61,
         "id": "jeogeungga",
         "name": "적응가",
         "image": "Trait_Icon_18_Adaptor.TFT_Set18.png",
@@ -3419,6 +3795,11 @@
                 "image": "tft18_akali.tft_set18.jpg"
             },
             {
+                "id": "simsulduggeobi",
+                "name": "심술두꺼비",
+                "image": "Gromp_1783676782-Gromp.jpg"
+            },
+            {
                 "id": "kogeumo",
                 "name": "코그모",
                 "image": "tft18_kogmaw.tft_set18.jpg"
@@ -3434,231 +3815,15 @@
                 "image": "tft18_nidalee.tft_set18.jpg"
             }
         ],
-        "average_position": "3.87",
-        "top_4_rate": "66.11",
-        "top_1_rate": "12.47",
-        "battle": "1,083",
+        "average_position": "4.28",
+        "top_4_rate": "55.23",
+        "top_1_rate": "10.51",
+        "battle": "57,114",
         "trait": "직업",
-        "kich_hoat": "3"
-    },
-    {
-        "stt": 59,
-        "id": "giweonja",
-        "name": "기원자",
-        "image": "Trait_Icon_18_Invoker.TFT_Set18.png",
-        "description_icon": [
-            "아군이 마나 재생을 얻습니다. 기원자는 능력치를 더 얻습니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "1",
-                "Mana.png",
-                "| 3",
-                "Mana.png"
-            ],
-            [
-                "3",
-                "1",
-                "Mana.png",
-                "| 4",
-                "Mana.png"
-            ],
-            [
-                "4",
-                "2",
-                "Mana.png",
-                "| 6",
-                "Mana.png"
-            ],
-            [
-                "5",
-                "2",
-                "Mana.png",
-                "| 9",
-                "Mana.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "timo",
-                "name": "티모",
-                "image": "tft18_teemo.tft_set18.jpg"
-            },
-            {
-                "id": "kogeumo",
-                "name": "코그모",
-                "image": "tft18_kogmaw.tft_set18.jpg"
-            },
-            {
-                "id": "moreugana",
-                "name": "모르가나",
-                "image": "tft18_morgana.tft_set18.jpg"
-            }
-        ],
-        "average_position": "3.93",
-        "top_4_rate": "61.57",
-        "top_1_rate": "16.18",
-        "battle": "6,885",
-        "trait": "직업",
-        "kich_hoat": "2"
-    },
-    {
-        "stt": 60,
-        "id": "busig",
-        "name": "부식",
-        "image": "Trait_Icon_18_Caustic.TFT_Set18.png",
-        "description_icon": [
-            "부식 유닛이 피해를 입히면 적에게 4초 동안 파쇄 및 파열을 30% 적용합니다.",
-            "\n",
-            "\n",
-            "파쇄: 마법 저항력 감소",
-            "\n",
-            "파열: 방어력 감소"
-        ],
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "kogeumo",
-                "name": "코그모",
-                "image": "tft18_kogmaw.tft_set18.jpg"
-            }
-        ],
-        "average_position": "4.06",
-        "top_4_rate": "60.69",
-        "top_1_rate": "13.31",
-        "battle": "7,433",
-        "trait": "계열",
-        "kich_hoat": "1"
-    },
-    {
-        "stt": 61,
-        "id": "haesbic",
-        "name": "햇빛",
-        "image": "Trait_Icon_18_Solar.TFT_Set18.png",
-        "description_icon": [
-            "아군 챔피언이 최대 체력의 5%에 해당하는 보호막 획득 및 7%의 추가 마법 피해를 입힘. 서로 다른 3성☆☆☆ 챔피언 1명당 추가 효과 획득",
-            "\n",
-            "\n",
-            "1 ☆☆☆: 3성 유닛 1명당 보호막 효과 및 마법 피해량 1.5% 증가",
-            "\n",
-            "3 ☆☆☆: 18%",
-            "AS.png",
-            "및 15",
-            "Armor.png",
-            "MR.png",
-            "\n",
-            "5 ☆☆☆: 추가 마법 피해의 40%가 고정 피해로 전환됨",
-            "\n",
-            "8 ☆☆☆: 전투 중 4초마다 3성 챔피언이 4성으로 승천"
-        ],
-        "description_detail": [
-            [
-                "3",
-                "아군 챔피언이 최대 체력의 5%에 해당하는 보호막 획득 및 7%의 추가 마법 피해를 입힘. 서로 다른 3성☆☆☆ 챔피언 1명당 추가 효과 획득",
-                "1 ☆☆☆: 3성 유닛 1명당 보호막 효과 및 마법 피해량 1.5% 증가",
-                "3 ☆☆☆: 18%",
-                "AS.png",
-                "및 15",
-                "Armor.png",
-                "MR.png",
-                "5 ☆☆☆: 추가 마법 피해의 40%가 고정 피해로 전환됨",
-                "8 ☆☆☆: 전투 중 4초마다 3성 챔피언이 4성으로 승천"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "reona",
-                "name": "레오나",
-                "image": "tft18_leona.tft_set18.jpg"
-            },
-            {
-                "id": "keil",
-                "name": "케일",
-                "image": "tft18_kayle.tft_set18.jpg"
-            },
-            {
-                "id": "sejuani",
-                "name": "세주아니",
-                "image": "tft18_sejuani.tft_set18.jpg"
-            }
-        ],
-        "average_position": "4.13",
-        "top_4_rate": "60.48",
-        "top_1_rate": "15.42",
-        "battle": "5,526",
-        "trait": "계열",
         "kich_hoat": "3"
     },
     {
         "stt": 62,
-        "id": "agyi_yeodan",
-        "name": "악의 여단",
-        "image": "Trait_Icon_18_Coven.TFT_Set18.png",
-        "description_icon": [
-            "챔피언을 처치하면 정기를 획득합니다. 플레이어 대상 전투에서 패배하면 추가 정기를 얻습니다.",
-            "\n",
-            "\n",
-            "정기 40개부터 시작하며, 정기를 보상으로 전환하거나 계속해서 정기를 모을 수 있습니다. 보상마다 필요한 정기의 양이 점점 늘어납니다."
-        ],
-        "description_detail": [
-            [
-                "3",
-                "처치 시 정기 2개",
-                "패배 시 정기 18개"
-            ],
-            [
-                "4",
-                "처치 시 2",
-                "패배 시 25"
-            ],
-            [
-                "5",
-                "처치 시 3",
-                "패배 시 32"
-            ],
-            [
-                "7",
-                "처치 시 10",
-                "패배 시 60"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "kamil",
-                "name": "카밀",
-                "image": "tft18_camille.tft_set18.jpg"
-            },
-            {
-                "id": "keiteulrin",
-                "name": "케이틀린",
-                "image": "tft18_caitlyn.tft_set18.jpg"
-            },
-            {
-                "id": "elriseu",
-                "name": "엘리스",
-                "image": "tft18_elise.tft_set18.jpg"
-            },
-            {
-                "id": "kasiopea",
-                "name": "카시오페아",
-                "image": "tft18_cassiopeia.tft_set18.jpg"
-            },
-            {
-                "id": "moreugana",
-                "name": "모르가나",
-                "image": "tft18_morgana.tft_set18.jpg"
-            }
-        ],
-        "average_position": "4.46",
-        "top_4_rate": "60.09",
-        "top_1_rate": "7.51",
-        "battle": "679",
-        "trait": "계열",
-        "kich_hoat": "5"
-    },
-    {
-        "stt": 63,
         "id": "namujeongryeong",
         "name": "나무정령",
         "image": "Trait_Icon_18_Elderwood.TFT_Set18.png",
@@ -3725,10 +3890,135 @@
                 "image": "tft18_gnar.tft_set18.jpg"
             }
         ],
-        "average_position": "4.08",
-        "top_4_rate": "59.35",
-        "top_1_rate": "17.41",
-        "battle": "9,759",
+        "average_position": "4.26",
+        "top_4_rate": "54.49",
+        "top_1_rate": "16.80",
+        "battle": "480,624",
+        "trait": "계열",
+        "kich_hoat": "3"
+    },
+    {
+        "stt": 63,
+        "id": "hyeobgogyasu",
+        "name": "협곡야수",
+        "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png",
+        "description_icon": [
+            "우두머리 표식을 사용해 협곡야수에게 고유 이로운 효과 부여",
+            "\n",
+            "전투 3회마다, 다음 상점이 협곡야수로 뒤덮임",
+            "\n",
+            "전투 시작 시 및 5초마다, 협곡야수가 성장해",
+            "\n",
+            "6%",
+            "AD.png",
+            "6%",
+            "AP.png",
+            "6%",
+            "AS.png",
+            "\n",
+            "+5",
+            "Armor.png",
+            "+5",
+            "MR.png",
+            "+50",
+            "Health.png",
+            "+1",
+            "Mana.png",
+            "획득",
+            "\n",
+            "팀 최대 규모 +2"
+        ],
+        "description_detail": [
+            [
+                "3",
+                "우두머리 표식을 사용해 협곡야수에게 고유 이로운 효과 부여"
+            ],
+            [
+                "5",
+                "전투 3회마다",
+                "다음 상점이 협곡야수로 뒤덮임"
+            ],
+            [
+                "7",
+                "전투 시작 시 및 5초마다",
+                "협곡야수가 성장해",
+                "6%",
+                "AD.png",
+                "6%",
+                "AP.png",
+                "6%",
+                "AS.png",
+                "+5",
+                "Armor.png",
+                "+5",
+                "MR.png",
+                "+50",
+                "Health.png",
+                "+1",
+                "Mana.png",
+                "획득"
+            ],
+            [
+                "10",
+                "팀 최대 규모 +2"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "bultaneun_myomog",
+                "name": "불타는 묘목",
+                "image": "Cinderling_1783677059-Cinderling.jpg"
+            },
+            {
+                "id": "joyagdol",
+                "name": "조약돌",
+                "image": "Pebbles_1783677606-Sentry.jpg"
+            },
+            {
+                "id": "simsulduggeobi",
+                "name": "심술두꺼비",
+                "image": "Gromp_1783676782-Gromp.jpg"
+            },
+            {
+                "id": "eoseureumneugdae",
+                "name": "어스름늑대",
+                "image": "Murkwolf_1783676955-MurkWolf.jpg"
+            },
+            {
+                "id": "bawi_ge",
+                "name": "바위 게",
+                "image": "Scuttlecrab_1783676864-Scuttlecrab.jpg"
+            },
+            {
+                "id": "dolgeobug",
+                "name": "돌거북",
+                "image": "Krug_1783676771-Krug.jpg"
+            },
+            {
+                "id": "eomi_buri",
+                "name": "어미 부리",
+                "image": "Raptor_1783677107-CrimsonRaptor.jpg"
+            },
+            {
+                "id": "gamsija",
+                "name": "감시자",
+                "image": "AncientSentinel_1783677366-Sentinel.jpg"
+            },
+            {
+                "id": "deongguljeongryeong",
+                "name": "덩굴정령",
+                "image": "Brambleback_1783677203-Brambleback.jpg"
+            },
+            {
+                "id": "jangro_deuraegon",
+                "name": "장로 드래곤",
+                "image": "TheElderDragon_1783677052-ElderDragon.jpg"
+            }
+        ],
+        "average_position": "4.26",
+        "top_4_rate": "54.08",
+        "top_1_rate": "13.80",
+        "battle": "501,711",
         "trait": "계열",
         "kich_hoat": "3"
     },
@@ -3817,89 +4107,15 @@
                 "image": "tft18_ashe.tft_set18.jpg"
             }
         ],
-        "average_position": "4.23",
-        "top_4_rate": "59.13",
-        "top_1_rate": "14.54",
-        "battle": "5,239",
+        "average_position": "4.39",
+        "top_4_rate": "54.02",
+        "top_1_rate": "12.72",
+        "battle": "259,806",
         "trait": "계열",
         "kich_hoat": "3"
     },
     {
         "stt": 65,
-        "id": "yagtalja",
-        "name": "약탈자",
-        "image": "Trait_Icon_18_Ravager.TFT_Set18.png",
-        "description_icon": [
-            "약탈자가 모든 피해 흡혈을 10% 얻습니다. 또한 약탈자가 추가 피해를 입힙니다. 체력이 50% 아래인 유닛에게는 추가 피해가 두 배로 증가합니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "12%의 추가 피해"
-            ],
-            [
-                "4",
-                "25%의 추가 피해"
-            ],
-            [
-                "6",
-                "40%의 추가 피해"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "akalri",
-                "name": "아칼리",
-                "image": "tft18_akali.tft_set18.jpg"
-            },
-            {
-                "id": "kamil",
-                "name": "카밀",
-                "image": "tft18_camille.tft_set18.jpg"
-            },
-            {
-                "id": "weowig",
-                "name": "워윅",
-                "image": "tft18_warwick.tft_set18.jpg"
-            },
-            {
-                "id": "daiaena",
-                "name": "다이애나",
-                "image": "tft18_diana.tft_set18.jpg"
-            }
-        ],
-        "average_position": "4.17",
-        "top_4_rate": "56.76",
-        "top_1_rate": "13.08",
-        "battle": "12,746",
-        "trait": "직업",
-        "kich_hoat": "2"
-    },
-    {
-        "stt": 66,
-        "id": "geoseog",
-        "name": "거석",
-        "image": "Trait_Icon_18_Monolith.TFT_Set18.png",
-        "description_icon": [
-            "거석은 적의 공격 대상이 되면 방어력 및 마법 저항력을 10 얻습니다."
-        ],
-        "description_detail": [],
-        "champions": [
-            {
-                "id": "malpaiteu",
-                "name": "말파이트",
-                "image": "tft18_malphite.tft_set18.jpg"
-            }
-        ],
-        "average_position": "4.29",
-        "top_4_rate": "56.38",
-        "top_1_rate": "11.39",
-        "battle": "5,099",
-        "trait": "직업",
-        "kich_hoat": "1"
-    },
-    {
-        "stt": 67,
         "id": "seonbongdae",
         "name": "선봉대",
         "image": "Trait_Icon_18_Vanguard.TFT_Set18.png",
@@ -3942,132 +4158,63 @@
                 "image": "tft18_hecarim.tft_set18.jpg"
             },
             {
+                "id": "gamsija",
+                "name": "감시자",
+                "image": "AncientSentinel_1783677366-Sentinel.jpg"
+            },
+            {
                 "id": "tarig",
                 "name": "타릭",
                 "image": "tft18_taric.tft_set18.jpg"
             }
         ],
-        "average_position": "4.12",
-        "top_4_rate": "56.38",
-        "top_1_rate": "16.60",
-        "battle": "18,372",
+        "average_position": "4.28",
+        "top_4_rate": "53.28",
+        "top_1_rate": "15.32",
+        "battle": "906,543",
         "trait": "직업",
         "kich_hoat": "2"
     },
     {
-        "stt": 68,
-        "id": "hyeobgogyasu",
-        "name": "협곡야수",
-        "image": "Trait_Icon_18_Riftbeast.TFT_Set18.png",
+        "stt": 66,
+        "id": "haesbic",
+        "name": "햇빛",
+        "image": "Trait_Icon_18_Solar.TFT_Set18.png",
         "description_icon": [
-            "우두머리 표식을 사용해 협곡야수에게 고유 이로운 효과 부여",
+            "아군 챔피언이 최대 체력의 5%에 해당하는 보호막 획득 및 7%의 추가 마법 피해를 입힘. 서로 다른 3성☆☆☆ 챔피언 1명당 추가 효과 획득",
             "\n",
-            "전투 3회마다, 다음 상점이 협곡야수로 뒤덮임",
             "\n",
-            "전투 시작 시 및 5초마다, 협곡야수가 성장해",
+            "1 ☆☆☆: 3성 유닛 1명당 보호막 효과 및 마법 피해량 1.5% 증가",
             "\n",
-            "6%",
-            "AD.png",
-            "6%",
-            "AP.png",
-            "6%",
+            "3 ☆☆☆: 18%",
             "AS.png",
-            "\n",
-            "+5",
+            "및 15",
             "Armor.png",
-            "+5",
             "MR.png",
-            "+50",
-            "Health.png",
-            "+1",
-            "Mana.png",
-            "획득",
             "\n",
-            "팀 최대 규모 +2"
+            "5 ☆☆☆: 추가 마법 피해의 40%가 고정 피해로 전환됨",
+            "\n",
+            "8 ☆☆☆: 전투 중 4초마다 3성 챔피언이 4성으로 승천"
         ],
         "description_detail": [
             [
                 "3",
-                "우두머리 표식을 사용해 협곡야수에게 고유 이로운 효과 부여"
-            ],
-            [
-                "5",
-                "전투 3회마다",
-                "다음 상점이 협곡야수로 뒤덮임"
-            ],
-            [
-                "7",
-                "전투 시작 시 및 5초마다",
-                "협곡야수가 성장해",
-                "6%",
-                "AD.png",
-                "6%",
-                "AP.png",
-                "6%",
+                "아군 챔피언이 최대 체력의 5%에 해당하는 보호막 획득 및 7%의 추가 마법 피해를 입힘. 서로 다른 3성☆☆☆ 챔피언 1명당 추가 효과 획득",
+                "1 ☆☆☆: 3성 유닛 1명당 보호막 효과 및 마법 피해량 1.5% 증가",
+                "3 ☆☆☆: 18%",
                 "AS.png",
-                "+5",
+                "및 15",
                 "Armor.png",
-                "+5",
                 "MR.png",
-                "+50",
-                "Health.png",
-                "+1",
-                "Mana.png",
-                "획득"
-            ],
-            [
-                "10",
-                "팀 최대 규모 +2"
-            ]
-        ],
-        "champions": [],
-        "average_position": "4.16",
-        "top_4_rate": "56.05",
-        "top_1_rate": "15.23",
-        "battle": "12,221",
-        "trait": "계열",
-        "kich_hoat": "3"
-    },
-    {
-        "stt": 69,
-        "id": "sogsapo",
-        "name": "속사포",
-        "image": "Trait_Icon_18_Rapidfire.TFT_Set18.png",
-        "description_icon": [
-            "아군이 공격 속도를 10% 얻습니다. 속사포 챔피언은 기본 공격마다 능력치를 더 얻습니다. 최대 10회 중첩됩니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "기본 공격당 +3%",
-                "AS.png"
-            ],
-            [
-                "3",
-                "기본 공격당 +5%",
-                "AS.png"
-            ],
-            [
-                "4",
-                "기본 공격당 +9%",
-                "AS.png"
-            ],
-            [
-                "5",
-                "기본 공격당 +15%",
-                "AS.png"
+                "5 ☆☆☆: 추가 마법 피해의 40%가 고정 피해로 전환됨",
+                "8 ☆☆☆: 전투 중 4초마다 3성 챔피언이 4성으로 승천"
             ]
         ],
         "champions": [
             {
-                "id": "baruseu",
-                "name": "바루스",
-                "image": "tft18_varus.tft_set18.jpg"
-            },
-            {
-                "id": "jaya",
-                "name": "자야",
-                "image": "tft18_xayah.tft_set18.jpg"
+                "id": "reona",
+                "name": "레오나",
+                "image": "tft18_leona.tft_set18.jpg"
             },
             {
                 "id": "keil",
@@ -4075,80 +4222,20 @@
                 "image": "tft18_kayle.tft_set18.jpg"
             },
             {
-                "id": "apelrioseu",
-                "name": "아펠리오스",
-                "image": "tft18_aphelios.tft_set18.jpg"
+                "id": "sejuani",
+                "name": "세주아니",
+                "image": "tft18_sejuani.tft_set18.jpg"
             }
         ],
-        "average_position": "4.13",
-        "top_4_rate": "54.94",
-        "top_1_rate": "14.84",
-        "battle": "3,107",
-        "trait": "직업",
+        "average_position": "4.43",
+        "top_4_rate": "52.65",
+        "top_1_rate": "13.81",
+        "battle": "355,891",
+        "trait": "계열",
         "kich_hoat": "3"
     },
     {
-        "stt": 70,
-        "id": "ceohyeongja",
-        "name": "처형자",
-        "image": "Trait_Icon_18_Executioner.TFT_Set18.png",
-        "description_icon": [
-            "처형자가 정밀 및 치명타 확률 15% 획득",
-            "\n",
-            "또한 적에게 출혈을 적용하여 3초 동안 30%의 추가 고정 피해를 입힘",
-            "\n",
-            "출혈 피해량 40%로 증가"
-        ],
-        "description_detail": [
-            [
-                "2",
-                "처형자가 정밀 및 치명타 확률 15% 획득"
-            ],
-            [
-                "3",
-                "또한 적에게 출혈을 적용하여 3초 동안 30%의 추가 고정 피해를 입힘"
-            ],
-            [
-                "4",
-                "출혈 피해량 40%로 증가"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "yunara",
-                "name": "유나라",
-                "image": "tft18_yunara.tft_set18.jpg"
-            },
-            {
-                "id": "ajireu",
-                "name": "아지르",
-                "image": "tft18_azir.tft_set18.jpg"
-            },
-            {
-                "id": "ijeurieol",
-                "name": "이즈리얼",
-                "image": "tft18_ezreal.tft_set18.jpg"
-            },
-            {
-                "id": "soraka",
-                "name": "소라카",
-                "image": "tft18_soraka.tft_set18.jpg"
-            },
-            {
-                "id": "kenen",
-                "name": "케넨",
-                "image": "tft18_kennen.tft_set18.jpg"
-            }
-        ],
-        "average_position": "4.35",
-        "top_4_rate": "54.61",
-        "top_1_rate": "16.44",
-        "battle": "7,255",
-        "trait": "직업",
-        "kich_hoat": "2"
-    },
-    {
-        "stt": 71,
+        "stt": 67,
         "id": "agyi_yeodan",
         "name": "악의 여단",
         "image": "Trait_Icon_18_Coven.TFT_Set18.png",
@@ -4207,48 +4294,436 @@
                 "image": "tft18_morgana.tft_set18.jpg"
             }
         ],
-        "average_position": "4.77",
-        "top_4_rate": "53.9",
-        "top_1_rate": "8.87",
-        "battle": "282",
+        "average_position": "4.42",
+        "top_4_rate": "52.47",
+        "top_1_rate": "17.98",
+        "battle": "12,335",
         "trait": "계열",
-        "kich_hoat": "4"
+        "kich_hoat": "7"
     },
     {
-        "stt": 72,
-        "id": "sogsapo",
-        "name": "속사포",
-        "image": "Trait_Icon_18_Rapidfire.TFT_Set18.png",
+        "stt": 68,
+        "id": "jeonjaenggigye",
+        "name": "전쟁기계",
+        "image": "Trait_Icon_18_Juggernaut.TFT_Set18.png",
         "description_icon": [
-            "아군이 공격 속도를 10% 얻습니다. 속사포 챔피언은 기본 공격마다 능력치를 더 얻습니다. 최대 10회 중첩됩니다."
+            "아군이 내구력을 얻습니다. 전쟁기계는 능력치를 더 얻습니다."
         ],
         "description_detail": [
             [
                 "2",
-                "기본 공격당 +3%",
-                "AS.png"
-            ],
-            [
-                "3",
-                "기본 공격당 +5%",
-                "AS.png"
+                "4%",
+                "DR.png",
+                "또는 20%",
+                "DR.png"
             ],
             [
                 "4",
-                "기본 공격당 +9%",
-                "AS.png"
+                "6%",
+                "DR.png",
+                "또는 33%",
+                "DR.png"
             ],
             [
-                "5",
-                "기본 공격당 +15%",
-                "AS.png"
+                "6",
+                "8%",
+                "DR.png",
+                "또는 45%",
+                "DR.png"
             ]
         ],
         "champions": [
             {
+                "id": "rakan",
+                "name": "라칸",
+                "image": "tft18_rakan.tft_set18.jpg"
+            },
+            {
+                "id": "yorig",
+                "name": "요릭",
+                "image": "tft18_yorick.tft_set18.jpg"
+            },
+            {
+                "id": "bawi_ge",
+                "name": "바위 게",
+                "image": "Scuttlecrab_1783676864-Scuttlecrab.jpg"
+            },
+            {
+                "id": "sejuani",
+                "name": "세주아니",
+                "image": "tft18_sejuani.tft_set18.jpg"
+            },
+            {
+                "id": "bai",
+                "name": "바이",
+                "image": "tft18_vi.tft_set18.jpg"
+            },
+            {
+                "id": "amumu",
+                "name": "아무무",
+                "image": "tft18_amumu.tft_set18.jpg"
+            },
+            {
+                "id": "maokai",
+                "name": "마오카이",
+                "image": "tft18_maokai.tft_set18.jpg"
+            }
+        ],
+        "average_position": "4.32",
+        "top_4_rate": "52.46",
+        "top_1_rate": "15.30",
+        "battle": "1,442,589",
+        "trait": "직업",
+        "kich_hoat": "2"
+    },
+    {
+        "stt": 69,
+        "id": "geomeun_gasi",
+        "name": "검은 가시",
+        "image": "Trait_Icon_18_OldGod.TFT_Set18.png",
+        "description_icon": [
+            "전투 직전 검은 가시 칸에 있는 아군이 희생되고 다른 챔피언에게 체력을 부여합니다.",
+            "\n",
+            "\n",
+            "검은 가시 챔피언은 희생양의 역할군, 별 레벨 및 단계에 따라 추가 능력치를 얻습니다.",
+            "\n",
+            "\n",
+            "?"
+        ],
+        "description_detail": [
+            [
+                "2",
+                "175",
+                "Health.png"
+            ],
+            [
+                "4",
+                "300",
+                "Health.png",
+                "",
+                "추가 효과 30% 증가"
+            ],
+            [
+                "6",
+                "550",
+                "Health.png",
+                "",
+                "추가 효과 60% 증가"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "regsai",
+                "name": "렉사이",
+                "image": "tft18_reksai.tft_set18.jpg"
+            },
+            {
+                "id": "beiga",
+                "name": "베이가",
+                "image": "tft18_veigar.tft_set18.jpg"
+            },
+            {
+                "id": "weowig",
+                "name": "워윅",
+                "image": "tft18_warwick.tft_set18.jpg"
+            },
+            {
+                "id": "ajireu",
+                "name": "아지르",
+                "image": "tft18_azir.tft_set18.jpg"
+            },
+            {
+                "id": "malpaiteu",
+                "name": "말파이트",
+                "image": "tft18_malphite.tft_set18.jpg"
+            }
+        ],
+        "average_position": "4.56",
+        "top_4_rate": "52.39",
+        "top_1_rate": "7.52",
+        "battle": "86,662",
+        "trait": "계열",
+        "kich_hoat": "4"
+    },
+    {
+        "stt": 70,
+        "id": "eomhodae",
+        "name": "엄호대",
+        "image": "Trait_Icon_18_Defender.TFT_Set18.png",
+        "description_icon": [
+            "아군이 방어력 및 마법 저항력을 12 얻습니다. 엄호대는 능력치를 더 얻습니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "25",
+                "Armor.png",
+                "MR.png"
+            ],
+            [
+                "4",
+                "60",
+                "Armor.png",
+                "MR.png"
+            ],
+            [
+                "6",
+                "120",
+                "Armor.png",
+                "MR.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "reona",
+                "name": "레오나",
+                "image": "tft18_leona.tft_set18.jpg"
+            },
+            {
+                "id": "oreun",
+                "name": "오른",
+                "image": "tft18_ornn.tft_set18.jpg"
+            },
+            {
+                "id": "swen",
+                "name": "쉔",
+                "image": "tft18_shen.tft_set18.jpg"
+            },
+            {
+                "id": "pideulseutig",
+                "name": "피들스틱",
+                "image": "tft18_fiddlesticks.tft_set18.jpg"
+            },
+            {
+                "id": "rammeoseu",
+                "name": "람머스",
+                "image": "tft18_rammus.tft_set18.jpg"
+            },
+            {
+                "id": "rilria",
+                "name": "릴리아",
+                "image": "tft18_lillia.tft_set18.jpg"
+            }
+        ],
+        "average_position": "4.39",
+        "top_4_rate": "52.09",
+        "top_1_rate": "13.72",
+        "battle": "1,020,108",
+        "trait": "직업",
+        "kich_hoat": "2"
+    },
+    {
+        "stt": 71,
+        "id": "ceohyeongja",
+        "name": "처형자",
+        "image": "Trait_Icon_18_Executioner.TFT_Set18.png",
+        "description_icon": [
+            "처형자가 정밀 및 치명타 확률 15% 획득",
+            "\n",
+            "또한 적에게 출혈을 적용하여 3초 동안 30%의 추가 고정 피해를 입힘",
+            "\n",
+            "출혈 피해량 40%로 증가"
+        ],
+        "description_detail": [
+            [
+                "2",
+                "처형자가 정밀 및 치명타 확률 15% 획득"
+            ],
+            [
+                "3",
+                "또한 적에게 출혈을 적용하여 3초 동안 30%의 추가 고정 피해를 입힘"
+            ],
+            [
+                "4",
+                "출혈 피해량 40%로 증가"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "yunara",
+                "name": "유나라",
+                "image": "tft18_yunara.tft_set18.jpg"
+            },
+            {
+                "id": "ajireu",
+                "name": "아지르",
+                "image": "tft18_azir.tft_set18.jpg"
+            },
+            {
+                "id": "ijeurieol",
+                "name": "이즈리얼",
+                "image": "tft18_ezreal.tft_set18.jpg"
+            },
+            {
+                "id": "soraka",
+                "name": "소라카",
+                "image": "tft18_soraka.tft_set18.jpg"
+            },
+            {
+                "id": "kenen",
+                "name": "케넨",
+                "image": "tft18_kennen.tft_set18.jpg"
+            }
+        ],
+        "average_position": "4.41",
+        "top_4_rate": "51.69",
+        "top_1_rate": "15.32",
+        "battle": "366,196",
+        "trait": "직업",
+        "kich_hoat": "2"
+    },
+    {
+        "stt": 72,
+        "id": "jiogbul",
+        "name": "지옥불",
+        "image": "Trait_Icon_18_Inferno.TFT_Set18.png",
+        "description_icon": [
+            "지옥불이 피해를 입히면 적에게 3초 동안 화상 및 상처를 적용합니다. 지옥불 화상 효과는 다른 화상 효과와 중첩됩니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "1% 화상",
+                "33% 상처"
+            ],
+            [
+                "3",
+                "전투 후",
+                "지옥불 챔피언이 없는 상점 슬롯 1개가 점화되어 한 단계 더 높은 챔피언 등장"
+            ],
+            [
+                "5",
+                "상점 슬롯 2개 점화",
+                "3% 화상"
+            ],
+            [
+                "7",
+                "상점 슬롯 4개 점화",
+                "3.5% 화상"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "akalri",
+                "name": "아칼리",
+                "image": "tft18_akali.tft_set18.jpg"
+            },
+            {
                 "id": "baruseu",
                 "name": "바루스",
                 "image": "tft18_varus.tft_set18.jpg"
+            },
+            {
+                "id": "swen",
+                "name": "쉔",
+                "image": "tft18_shen.tft_set18.jpg"
+            },
+            {
+                "id": "amumu",
+                "name": "아무무",
+                "image": "tft18_amumu.tft_set18.jpg"
+            },
+            {
+                "id": "kenen",
+                "name": "케넨",
+                "image": "tft18_kennen.tft_set18.jpg"
+            }
+        ],
+        "average_position": "4.27",
+        "top_4_rate": "51.29",
+        "top_1_rate": "17.46",
+        "battle": "425,688",
+        "trait": "계열",
+        "kich_hoat": "2"
+    },
+    {
+        "stt": 73,
+        "id": "sohwansa",
+        "name": "소환사",
+        "image": "Trait_Icon_18_Summoner.TFT_Set18.png",
+        "description_icon": [
+            "소환사는 각기 다른 방식으로 소환수를 강화합니다.",
+            "\n",
+            "\n",
+            "요릭: 체력 +30%",
+            "\n",
+            "아지르: 피해량 +20%",
+            "\n",
+            "어미 부리: 피해량 +45%",
+            "\n",
+            "자이라: 식물 공격 횟수 +4"
+        ],
+        "description_detail": [
+            [
+                "2",
+                "소환수 강화"
+            ],
+            [
+                "3",
+                "각 효과 50% 강화"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "yorig",
+                "name": "요릭",
+                "image": "tft18_yorick.tft_set18.jpg"
+            },
+            {
+                "id": "ajireu",
+                "name": "아지르",
+                "image": "tft18_azir.tft_set18.jpg"
+            },
+            {
+                "id": "eomi_buri",
+                "name": "어미 부리",
+                "image": "Raptor_1783677107-CrimsonRaptor.jpg"
+            },
+            {
+                "id": "jaira",
+                "name": "자이라",
+                "image": "tft18_zyra.tft_set18.jpg"
+            }
+        ],
+        "average_position": "4.42",
+        "top_4_rate": "51.14",
+        "top_1_rate": "13.20",
+        "battle": "502,816",
+        "trait": "직업",
+        "kich_hoat": "2"
+    },
+    {
+        "stt": 74,
+        "id": "yojeong",
+        "name": "요정",
+        "image": "Trait_Icon_18_Fae.TFT_Set18.png",
+        "description_icon": [
+            "아군의 피해, 체력 회복, 보호막이 나비정령을 끌어들입니다.",
+            "\n",
+            "\n",
+            "요정 챔피언이 나비정령 하나당 공격력 및 주문력을 얻습니다. 또한 체력이 50% 아래로 떨어지면 나비정령 하나당 체력을 회복합니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "5%",
+                "AD.png",
+                "AP.png",
+                "및 2.5% 체력 회복"
+            ],
+            [
+                "4",
+                "8%",
+                "AD.png",
+                "AP.png",
+                "및 4% 체력 회복. 나비정령 7마리 이후 골드를 제공하는 황금 나비정령 등장"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "rakan",
+                "name": "라칸",
+                "image": "tft18_rakan.tft_set18.jpg"
             },
             {
                 "id": "jaya",
@@ -4256,25 +4731,25 @@
                 "image": "tft18_xayah.tft_set18.jpg"
             },
             {
-                "id": "keil",
-                "name": "케일",
-                "image": "tft18_kayle.tft_set18.jpg"
+                "id": "teuriseutana",
+                "name": "트리스타나",
+                "image": "tft18_tristana.tft_set18.jpg"
             },
             {
-                "id": "apelrioseu",
-                "name": "아펠리오스",
-                "image": "tft18_aphelios.tft_set18.jpg"
+                "id": "rilria",
+                "name": "릴리아",
+                "image": "tft18_lillia.tft_set18.jpg"
             }
         ],
-        "average_position": "4",
-        "top_4_rate": "53.74",
-        "top_1_rate": "17.08",
-        "battle": "521",
-        "trait": "직업",
-        "kich_hoat": "4"
+        "average_position": "4.41",
+        "top_4_rate": "51.03",
+        "top_1_rate": "13.42",
+        "battle": "655,295",
+        "trait": "계열",
+        "kich_hoat": "2"
     },
     {
-        "stt": 73,
+        "stt": 75,
         "id": "nalryeobi",
         "name": "날렵이",
         "image": "Trait_Icon_18_Sprykin.TFT_Set18.png",
@@ -4342,152 +4817,38 @@
                 "image": "tft18_gnar.tft_set18.jpg"
             }
         ],
-        "average_position": "4.2",
-        "top_4_rate": "53.58",
-        "top_1_rate": "12.39",
-        "battle": "2,736",
+        "average_position": "4.41",
+        "top_4_rate": "51.01",
+        "top_1_rate": "11.52",
+        "battle": "142,491",
         "trait": "계열",
         "kich_hoat": "3"
     },
     {
-        "stt": 74,
-        "id": "jeonjaenggigye",
-        "name": "전쟁기계",
-        "image": "Trait_Icon_18_Juggernaut.TFT_Set18.png",
-        "description_icon": [
-            "아군이 내구력을 얻습니다. 전쟁기계는 능력치를 더 얻습니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "4%",
-                "DR.png",
-                "또는 20%",
-                "DR.png"
-            ],
-            [
-                "4",
-                "6%",
-                "DR.png",
-                "또는 33%",
-                "DR.png"
-            ],
-            [
-                "6",
-                "8%",
-                "DR.png",
-                "또는 45%",
-                "DR.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "rakan",
-                "name": "라칸",
-                "image": "tft18_rakan.tft_set18.jpg"
-            },
-            {
-                "id": "yorig",
-                "name": "요릭",
-                "image": "tft18_yorick.tft_set18.jpg"
-            },
-            {
-                "id": "sejuani",
-                "name": "세주아니",
-                "image": "tft18_sejuani.tft_set18.jpg"
-            },
-            {
-                "id": "bai",
-                "name": "바이",
-                "image": "tft18_vi.tft_set18.jpg"
-            },
-            {
-                "id": "amumu",
-                "name": "아무무",
-                "image": "tft18_amumu.tft_set18.jpg"
-            },
-            {
-                "id": "maokai",
-                "name": "마오카이",
-                "image": "tft18_maokai.tft_set18.jpg"
-            }
-        ],
-        "average_position": "4.27",
-        "top_4_rate": "53.47",
-        "top_1_rate": "15.67",
-        "battle": "31,378",
-        "trait": "직업",
-        "kich_hoat": "2"
-    },
-    {
-        "stt": 75,
-        "id": "eomhodae",
-        "name": "엄호대",
-        "image": "Trait_Icon_18_Defender.TFT_Set18.png",
-        "description_icon": [
-            "아군이 방어력 및 마법 저항력을 12 얻습니다. 엄호대는 능력치를 더 얻습니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "25",
-                "Armor.png",
-                "MR.png"
-            ],
-            [
-                "4",
-                "60",
-                "Armor.png",
-                "MR.png"
-            ],
-            [
-                "6",
-                "120",
-                "Armor.png",
-                "MR.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "reona",
-                "name": "레오나",
-                "image": "tft18_leona.tft_set18.jpg"
-            },
-            {
-                "id": "oreun",
-                "name": "오른",
-                "image": "tft18_ornn.tft_set18.jpg"
-            },
-            {
-                "id": "swen",
-                "name": "쉔",
-                "image": "tft18_shen.tft_set18.jpg"
-            },
-            {
-                "id": "pideulseutig",
-                "name": "피들스틱",
-                "image": "tft18_fiddlesticks.tft_set18.jpg"
-            },
-            {
-                "id": "rammeoseu",
-                "name": "람머스",
-                "image": "tft18_rammus.tft_set18.jpg"
-            },
-            {
-                "id": "rilria",
-                "name": "릴리아",
-                "image": "tft18_lillia.tft_set18.jpg"
-            }
-        ],
-        "average_position": "4.38",
-        "top_4_rate": "52.26",
-        "top_1_rate": "13.21",
-        "battle": "18,279",
-        "trait": "직업",
-        "kich_hoat": "2"
-    },
-    {
         "stt": 76,
+        "id": "geoseog",
+        "name": "거석",
+        "image": "Trait_Icon_18_Monolith.TFT_Set18.png",
+        "description_icon": [
+            "거석은 적의 공격 대상이 되면 방어력 및 마법 저항력을 10 얻습니다."
+        ],
+        "description_detail": [],
+        "champions": [
+            {
+                "id": "malpaiteu",
+                "name": "말파이트",
+                "image": "tft18_malphite.tft_set18.jpg"
+            }
+        ],
+        "average_position": "4.54",
+        "top_4_rate": "50.14",
+        "top_1_rate": "9.56",
+        "battle": "257,475",
+        "trait": "직업",
+        "kich_hoat": "1"
+    },
+    {
+        "stt": 77,
         "id": "namujeongryeong",
         "name": "나무정령",
         "image": "Trait_Icon_18_Elderwood.TFT_Set18.png",
@@ -4554,79 +4915,79 @@
                 "image": "tft18_gnar.tft_set18.jpg"
             }
         ],
-        "average_position": "4.43",
-        "top_4_rate": "51.02",
-        "top_1_rate": "13.48",
-        "battle": "3,710",
+        "average_position": "4.49",
+        "top_4_rate": "49.97",
+        "top_1_rate": "13.18",
+        "battle": "261,356",
         "trait": "계열",
         "kich_hoat": "5"
     },
     {
-        "stt": 77,
-        "id": "jiogbul",
-        "name": "지옥불",
-        "image": "Trait_Icon_18_Inferno.TFT_Set18.png",
+        "stt": 78,
+        "id": "sogsapo",
+        "name": "속사포",
+        "image": "Trait_Icon_18_Rapidfire.TFT_Set18.png",
         "description_icon": [
-            "지옥불이 피해를 입히면 적에게 3초 동안 화상 및 상처를 적용합니다. 지옥불 화상 효과는 다른 화상 효과와 중첩됩니다."
+            "아군이 공격 속도를 10% 얻습니다. 속사포 챔피언은 기본 공격마다 능력치를 더 얻습니다. 최대 10회 중첩됩니다."
         ],
         "description_detail": [
             [
                 "2",
-                "1% 화상",
-                "33% 상처"
+                "기본 공격당 +3%",
+                "AS.png"
             ],
             [
                 "3",
-                "전투 후",
-                "지옥불 챔피언이 없는 상점 슬롯 1개가 점화되어 한 단계 더 높은 챔피언 등장"
+                "기본 공격당 +5%",
+                "AS.png"
+            ],
+            [
+                "4",
+                "기본 공격당 +9%",
+                "AS.png"
             ],
             [
                 "5",
-                "상점 슬롯 2개 점화",
-                "3% 화상"
-            ],
-            [
-                "7",
-                "상점 슬롯 4개 점화",
-                "3.5% 화상"
+                "기본 공격당 +15%",
+                "AS.png"
             ]
         ],
         "champions": [
-            {
-                "id": "akalri",
-                "name": "아칼리",
-                "image": "tft18_akali.tft_set18.jpg"
-            },
             {
                 "id": "baruseu",
                 "name": "바루스",
                 "image": "tft18_varus.tft_set18.jpg"
             },
             {
-                "id": "swen",
-                "name": "쉔",
-                "image": "tft18_shen.tft_set18.jpg"
+                "id": "jaya",
+                "name": "자야",
+                "image": "tft18_xayah.tft_set18.jpg"
             },
             {
-                "id": "amumu",
-                "name": "아무무",
-                "image": "tft18_amumu.tft_set18.jpg"
+                "id": "keil",
+                "name": "케일",
+                "image": "tft18_kayle.tft_set18.jpg"
             },
             {
-                "id": "kenen",
-                "name": "케넨",
-                "image": "tft18_kennen.tft_set18.jpg"
+                "id": "eomi_buri",
+                "name": "어미 부리",
+                "image": "Raptor_1783677107-CrimsonRaptor.jpg"
+            },
+            {
+                "id": "apelrioseu",
+                "name": "아펠리오스",
+                "image": "tft18_aphelios.tft_set18.jpg"
             }
         ],
-        "average_position": "4.24",
-        "top_4_rate": "50.83",
-        "top_1_rate": "18.10",
-        "battle": "10,549",
-        "trait": "계열",
+        "average_position": "4.5",
+        "top_4_rate": "49.33",
+        "top_1_rate": "12.64",
+        "battle": "794,560",
+        "trait": "직업",
         "kich_hoat": "2"
     },
     {
-        "stt": 78,
+        "stt": 79,
         "id": "geomeun_gasi",
         "name": "검은 가시",
         "image": "Trait_Icon_18_OldGod.TFT_Set18.png",
@@ -4687,348 +5048,15 @@
                 "image": "tft18_malphite.tft_set18.jpg"
             }
         ],
-        "average_position": "4.44",
-        "top_4_rate": "49.86",
-        "top_1_rate": "11.62",
-        "battle": "6,153",
+        "average_position": "4.56",
+        "top_4_rate": "48.35",
+        "top_1_rate": "10.14",
+        "battle": "283,830",
         "trait": "계열",
-        "kich_hoat": "2"
-    },
-    {
-        "stt": 79,
-        "id": "sohwansa",
-        "name": "소환사",
-        "image": "Trait_Icon_18_Summoner.TFT_Set18.png",
-        "description_icon": [
-            "소환사는 각기 다른 방식으로 소환수를 강화합니다.",
-            "\n",
-            "\n",
-            "요릭: 체력 +30%",
-            "\n",
-            "아지르: 피해량 +20%",
-            "\n",
-            "어미 부리: 피해량 +45%",
-            "\n",
-            "자이라: 식물 공격 횟수 +4"
-        ],
-        "description_detail": [
-            [
-                "2",
-                "소환수 강화"
-            ],
-            [
-                "3",
-                "각 효과 50% 강화"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "yorig",
-                "name": "요릭",
-                "image": "tft18_yorick.tft_set18.jpg"
-            },
-            {
-                "id": "ajireu",
-                "name": "아지르",
-                "image": "tft18_azir.tft_set18.jpg"
-            },
-            {
-                "id": "jaira",
-                "name": "자이라",
-                "image": "tft18_zyra.tft_set18.jpg"
-            }
-        ],
-        "average_position": "4.5",
-        "top_4_rate": "49.86",
-        "top_1_rate": "12.54",
-        "battle": "11,271",
-        "trait": "직업",
         "kich_hoat": "2"
     },
     {
         "stt": 80,
-        "id": "yojeong",
-        "name": "요정",
-        "image": "Trait_Icon_18_Fae.TFT_Set18.png",
-        "description_icon": [
-            "아군의 피해, 체력 회복, 보호막이 나비정령을 끌어들입니다.",
-            "\n",
-            "\n",
-            "요정 챔피언이 나비정령 하나당 공격력 및 주문력을 얻습니다. 또한 체력이 50% 아래로 떨어지면 나비정령 하나당 체력을 회복합니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "5%",
-                "AD.png",
-                "AP.png",
-                "및 2.5% 체력 회복"
-            ],
-            [
-                "4",
-                "8%",
-                "AD.png",
-                "AP.png",
-                "및 4% 체력 회복. 나비정령 7마리 이후 골드를 제공하는 황금 나비정령 등장"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "rakan",
-                "name": "라칸",
-                "image": "tft18_rakan.tft_set18.jpg"
-            },
-            {
-                "id": "jaya",
-                "name": "자야",
-                "image": "tft18_xayah.tft_set18.jpg"
-            },
-            {
-                "id": "teuriseutana",
-                "name": "트리스타나",
-                "image": "tft18_tristana.tft_set18.jpg"
-            },
-            {
-                "id": "rilria",
-                "name": "릴리아",
-                "image": "tft18_lillia.tft_set18.jpg"
-            }
-        ],
-        "average_position": "4.45",
-        "top_4_rate": "49.79",
-        "top_1_rate": "12.26",
-        "battle": "11,872",
-        "trait": "계열",
-        "kich_hoat": "2"
-    },
-    {
-        "stt": 81,
-        "id": "cimyeongjeogin_ggoc",
-        "name": "치명적인 꽃",
-        "image": "Trait_Icon_18_FloraFatalis.TFT_Set18.png",
-        "description_icon": [
-            "치명적인 꽃 챔피언은 처치 관여 시 적을 수확하여 다음을 획득합니다."
-        ],
-        "description_detail": [
-            [
-                "1",
-                "마나 10"
-            ],
-            [
-                "2",
-                "또한 체력이 가장 낮은 아군 최대 체력 8% 회복"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "pideulseutig",
-                "name": "피들스틱",
-                "image": "tft18_fiddlesticks.tft_set18.jpg"
-            },
-            {
-                "id": "soraka",
-                "name": "소라카",
-                "image": "tft18_soraka.tft_set18.jpg"
-            }
-        ],
-        "average_position": "4.61",
-        "top_4_rate": "49.21",
-        "top_1_rate": "11.08",
-        "battle": "8,033",
-        "trait": "계열",
-        "kich_hoat": "1"
-    },
-    {
-        "stt": 82,
-        "id": "agyi_yeodan",
-        "name": "악의 여단",
-        "image": "Trait_Icon_18_Coven.TFT_Set18.png",
-        "description_icon": [
-            "챔피언을 처치하면 정기를 획득합니다. 플레이어 대상 전투에서 패배하면 추가 정기를 얻습니다.",
-            "\n",
-            "\n",
-            "정기 40개부터 시작하며, 정기를 보상으로 전환하거나 계속해서 정기를 모을 수 있습니다. 보상마다 필요한 정기의 양이 점점 늘어납니다."
-        ],
-        "description_detail": [
-            [
-                "3",
-                "처치 시 정기 2개",
-                "패배 시 정기 18개"
-            ],
-            [
-                "4",
-                "처치 시 2",
-                "패배 시 25"
-            ],
-            [
-                "5",
-                "처치 시 3",
-                "패배 시 32"
-            ],
-            [
-                "7",
-                "처치 시 10",
-                "패배 시 60"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "kamil",
-                "name": "카밀",
-                "image": "tft18_camille.tft_set18.jpg"
-            },
-            {
-                "id": "keiteulrin",
-                "name": "케이틀린",
-                "image": "tft18_caitlyn.tft_set18.jpg"
-            },
-            {
-                "id": "elriseu",
-                "name": "엘리스",
-                "image": "tft18_elise.tft_set18.jpg"
-            },
-            {
-                "id": "kasiopea",
-                "name": "카시오페아",
-                "image": "tft18_cassiopeia.tft_set18.jpg"
-            },
-            {
-                "id": "moreugana",
-                "name": "모르가나",
-                "image": "tft18_morgana.tft_set18.jpg"
-            }
-        ],
-        "average_position": "4.65",
-        "top_4_rate": "47.81",
-        "top_1_rate": "9.68",
-        "battle": "868",
-        "trait": "계열",
-        "kich_hoat": "3"
-    },
-    {
-        "stt": 83,
-        "id": "jeogeungga",
-        "name": "적응가",
-        "image": "Trait_Icon_18_Adaptor.TFT_Set18.png",
-        "description_icon": [
-            "고유: 적응가 스킬은 공격력과 주문력 중 어느 쪽이 높은지에 따라 바뀝니다.",
-            "\n",
-            "\n",
-            "적응가는 공격력과 주문력 중 어느 쪽이 높은지에 따라 해당 능력치를 얻습니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "25%",
-                "AD.png",
-                "또는",
-                "AP.png"
-            ],
-            [
-                "3",
-                "35%",
-                "AD.png",
-                "또는",
-                "AP.png"
-            ],
-            [
-                "4",
-                "50%",
-                "AD.png",
-                "또는",
-                "AP.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "akalri",
-                "name": "아칼리",
-                "image": "tft18_akali.tft_set18.jpg"
-            },
-            {
-                "id": "kogeumo",
-                "name": "코그모",
-                "image": "tft18_kogmaw.tft_set18.jpg"
-            },
-            {
-                "id": "maseuteo_i",
-                "name": "마스터 이",
-                "image": "tft18_masteryi.tft_set18.jpg"
-            },
-            {
-                "id": "nidalri",
-                "name": "니달리",
-                "image": "tft18_nidalee.tft_set18.jpg"
-            }
-        ],
-        "average_position": "4.65",
-        "top_4_rate": "47.62",
-        "top_1_rate": "8.28",
-        "battle": "4,084",
-        "trait": "직업",
-        "kich_hoat": "2"
-    },
-    {
-        "stt": 84,
-        "id": "sogsapo",
-        "name": "속사포",
-        "image": "Trait_Icon_18_Rapidfire.TFT_Set18.png",
-        "description_icon": [
-            "아군이 공격 속도를 10% 얻습니다. 속사포 챔피언은 기본 공격마다 능력치를 더 얻습니다. 최대 10회 중첩됩니다."
-        ],
-        "description_detail": [
-            [
-                "2",
-                "기본 공격당 +3%",
-                "AS.png"
-            ],
-            [
-                "3",
-                "기본 공격당 +5%",
-                "AS.png"
-            ],
-            [
-                "4",
-                "기본 공격당 +9%",
-                "AS.png"
-            ],
-            [
-                "5",
-                "기본 공격당 +15%",
-                "AS.png"
-            ]
-        ],
-        "champions": [
-            {
-                "id": "baruseu",
-                "name": "바루스",
-                "image": "tft18_varus.tft_set18.jpg"
-            },
-            {
-                "id": "jaya",
-                "name": "자야",
-                "image": "tft18_xayah.tft_set18.jpg"
-            },
-            {
-                "id": "keil",
-                "name": "케일",
-                "image": "tft18_kayle.tft_set18.jpg"
-            },
-            {
-                "id": "apelrioseu",
-                "name": "아펠리오스",
-                "image": "tft18_aphelios.tft_set18.jpg"
-            }
-        ],
-        "average_position": "4.57",
-        "top_4_rate": "47.41",
-        "top_1_rate": "11.21",
-        "battle": "14,882",
-        "trait": "직업",
-        "kich_hoat": "2"
-    },
-    {
-        "stt": 85,
         "id": "eomhodae",
         "name": "엄호대",
         "image": "Trait_Icon_18_Defender.TFT_Set18.png",
@@ -5087,53 +5115,120 @@
                 "image": "tft18_lillia.tft_set18.jpg"
             }
         ],
-        "average_position": "4.66",
-        "top_4_rate": "47.15",
-        "top_1_rate": "8.24",
-        "battle": "825",
+        "average_position": "4.61",
+        "top_4_rate": "47.89",
+        "top_1_rate": "9.05",
+        "battle": "64,144",
         "trait": "직업",
         "kich_hoat": "4"
     },
     {
-        "stt": 86,
-        "id": "gyeongjaengja",
-        "name": "경쟁자",
-        "image": "Trait_Icon_18_Rival.TFT_Set18.png",
+        "stt": 81,
+        "id": "cimyeongjeogin_ggoc",
+        "name": "치명적인 꽃",
+        "image": "Trait_Icon_18_FloraFatalis.TFT_Set18.png",
         "description_icon": [
-            "경쟁자 1명 배치 시에만 활성화",
-            "\n",
-            "\n",
-            "경쟁자가 처치 관여를 수집, 다른 경쟁자 처치 관여 시 3회 적용?"
+            "치명적인 꽃 챔피언은 처치 관여 시 적을 수확하여 다음을 획득합니다."
         ],
         "description_detail": [
             [
                 "1",
-                "경쟁자 1명 배치 시에만 활성화",
-                "경쟁자가 처치 관여를 수집",
-                "다른 경쟁자 처치 관여 시 3회 적용?"
+                "마나 10"
+            ],
+            [
+                "2",
+                "또한 체력이 가장 낮은 아군 최대 체력 8% 회복"
             ]
         ],
         "champions": [
             {
-                "id": "kajigseu",
-                "name": "카직스",
-                "image": "tft18_khazix.tft_set18.jpg"
+                "id": "pideulseutig",
+                "name": "피들스틱",
+                "image": "tft18_fiddlesticks.tft_set18.jpg"
             },
             {
-                "id": "rengga",
-                "name": "렝가",
-                "image": "tft18_rengar.tft_set18.jpg"
+                "id": "soraka",
+                "name": "소라카",
+                "image": "tft18_soraka.tft_set18.jpg"
             }
         ],
-        "average_position": "5.09",
-        "top_4_rate": "46.84",
-        "top_1_rate": "2.53",
-        "battle": "79",
+        "average_position": "4.68",
+        "top_4_rate": "46.87",
+        "top_1_rate": "10.24",
+        "battle": "440,938",
         "trait": "계열",
         "kich_hoat": "1"
     },
     {
-        "stt": 87,
+        "stt": 82,
+        "id": "jeogeungga",
+        "name": "적응가",
+        "image": "Trait_Icon_18_Adaptor.TFT_Set18.png",
+        "description_icon": [
+            "고유: 적응가 스킬은 공격력과 주문력 중 어느 쪽이 높은지에 따라 바뀝니다.",
+            "\n",
+            "\n",
+            "적응가는 공격력과 주문력 중 어느 쪽이 높은지에 따라 해당 능력치를 얻습니다."
+        ],
+        "description_detail": [
+            [
+                "2",
+                "25%",
+                "AD.png",
+                "또는",
+                "AP.png"
+            ],
+            [
+                "3",
+                "35%",
+                "AD.png",
+                "또는",
+                "AP.png"
+            ],
+            [
+                "4",
+                "50%",
+                "AD.png",
+                "또는",
+                "AP.png"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "akalri",
+                "name": "아칼리",
+                "image": "tft18_akali.tft_set18.jpg"
+            },
+            {
+                "id": "simsulduggeobi",
+                "name": "심술두꺼비",
+                "image": "Gromp_1783676782-Gromp.jpg"
+            },
+            {
+                "id": "kogeumo",
+                "name": "코그모",
+                "image": "tft18_kogmaw.tft_set18.jpg"
+            },
+            {
+                "id": "maseuteo_i",
+                "name": "마스터 이",
+                "image": "tft18_masteryi.tft_set18.jpg"
+            },
+            {
+                "id": "nidalri",
+                "name": "니달리",
+                "image": "tft18_nidalee.tft_set18.jpg"
+            }
+        ],
+        "average_position": "4.67",
+        "top_4_rate": "46.85",
+        "top_1_rate": "9.15",
+        "battle": "170,996",
+        "trait": "직업",
+        "kich_hoat": "2"
+    },
+    {
+        "stt": 83,
         "id": "sohwansa",
         "name": "소환사",
         "image": "Trait_Icon_18_Summoner.TFT_Set18.png",
@@ -5171,20 +5266,92 @@
                 "image": "tft18_azir.tft_set18.jpg"
             },
             {
+                "id": "eomi_buri",
+                "name": "어미 부리",
+                "image": "Raptor_1783677107-CrimsonRaptor.jpg"
+            },
+            {
                 "id": "jaira",
                 "name": "자이라",
                 "image": "tft18_zyra.tft_set18.jpg"
             }
         ],
-        "average_position": "4.94",
-        "top_4_rate": "42.46",
-        "top_1_rate": "8.31",
-        "battle": "2,492",
+        "average_position": "4.8",
+        "top_4_rate": "44.22",
+        "top_1_rate": "9.03",
+        "battle": "111,469",
         "trait": "직업",
         "kich_hoat": "3"
     },
     {
-        "stt": 88,
+        "stt": 84,
+        "id": "agyi_yeodan",
+        "name": "악의 여단",
+        "image": "Trait_Icon_18_Coven.TFT_Set18.png",
+        "description_icon": [
+            "챔피언을 처치하면 정기를 획득합니다. 플레이어 대상 전투에서 패배하면 추가 정기를 얻습니다.",
+            "\n",
+            "\n",
+            "정기 40개부터 시작하며, 정기를 보상으로 전환하거나 계속해서 정기를 모을 수 있습니다. 보상마다 필요한 정기의 양이 점점 늘어납니다."
+        ],
+        "description_detail": [
+            [
+                "3",
+                "처치 시 정기 2개",
+                "패배 시 정기 18개"
+            ],
+            [
+                "4",
+                "처치 시 2",
+                "패배 시 25"
+            ],
+            [
+                "5",
+                "처치 시 3",
+                "패배 시 32"
+            ],
+            [
+                "7",
+                "처치 시 10",
+                "패배 시 60"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "kamil",
+                "name": "카밀",
+                "image": "tft18_camille.tft_set18.jpg"
+            },
+            {
+                "id": "keiteulrin",
+                "name": "케이틀린",
+                "image": "tft18_caitlyn.tft_set18.jpg"
+            },
+            {
+                "id": "elriseu",
+                "name": "엘리스",
+                "image": "tft18_elise.tft_set18.jpg"
+            },
+            {
+                "id": "kasiopea",
+                "name": "카시오페아",
+                "image": "tft18_cassiopeia.tft_set18.jpg"
+            },
+            {
+                "id": "moreugana",
+                "name": "모르가나",
+                "image": "tft18_morgana.tft_set18.jpg"
+            }
+        ],
+        "average_position": "4.9",
+        "top_4_rate": "41.94",
+        "top_1_rate": "9.77",
+        "battle": "45,949",
+        "trait": "계열",
+        "kich_hoat": "3"
+    },
+    {
+        "stt": 85,
         "id": "jiogbul",
         "name": "지옥불",
         "image": "Trait_Icon_18_Inferno.TFT_Set18.png",
@@ -5240,12 +5407,184 @@
                 "image": "tft18_kennen.tft_set18.jpg"
             }
         ],
-        "average_position": "4.81",
-        "top_4_rate": "35.74",
-        "top_1_rate": "8.39",
-        "battle": "3,542",
+        "average_position": "4.79",
+        "top_4_rate": "40.37",
+        "top_1_rate": "9.07",
+        "battle": "168,432",
         "trait": "계열",
         "kich_hoat": "3"
+    },
+    {
+        "stt": 86,
+        "id": "agyi_yeodan",
+        "name": "악의 여단",
+        "image": "Trait_Icon_18_Coven.TFT_Set18.png",
+        "description_icon": [
+            "챔피언을 처치하면 정기를 획득합니다. 플레이어 대상 전투에서 패배하면 추가 정기를 얻습니다.",
+            "\n",
+            "\n",
+            "정기 40개부터 시작하며, 정기를 보상으로 전환하거나 계속해서 정기를 모을 수 있습니다. 보상마다 필요한 정기의 양이 점점 늘어납니다."
+        ],
+        "description_detail": [
+            [
+                "3",
+                "처치 시 정기 2개",
+                "패배 시 정기 18개"
+            ],
+            [
+                "4",
+                "처치 시 2",
+                "패배 시 25"
+            ],
+            [
+                "5",
+                "처치 시 3",
+                "패배 시 32"
+            ],
+            [
+                "7",
+                "처치 시 10",
+                "패배 시 60"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "kamil",
+                "name": "카밀",
+                "image": "tft18_camille.tft_set18.jpg"
+            },
+            {
+                "id": "keiteulrin",
+                "name": "케이틀린",
+                "image": "tft18_caitlyn.tft_set18.jpg"
+            },
+            {
+                "id": "elriseu",
+                "name": "엘리스",
+                "image": "tft18_elise.tft_set18.jpg"
+            },
+            {
+                "id": "kasiopea",
+                "name": "카시오페아",
+                "image": "tft18_cassiopeia.tft_set18.jpg"
+            },
+            {
+                "id": "moreugana",
+                "name": "모르가나",
+                "image": "tft18_morgana.tft_set18.jpg"
+            }
+        ],
+        "average_position": "5.18",
+        "top_4_rate": "39.69",
+        "top_1_rate": "5.45",
+        "battle": "65,976",
+        "trait": "계열",
+        "kich_hoat": "5"
+    },
+    {
+        "stt": 87,
+        "id": "gyeongjaengja",
+        "name": "경쟁자",
+        "image": "Trait_Icon_18_Rival.TFT_Set18.png",
+        "description_icon": [
+            "경쟁자 1명 배치 시에만 활성화",
+            "\n",
+            "\n",
+            "경쟁자가 처치 관여를 수집, 다른 경쟁자 처치 관여 시 3회 적용?"
+        ],
+        "description_detail": [
+            [
+                "1",
+                "경쟁자 1명 배치 시에만 활성화",
+                "경쟁자가 처치 관여를 수집",
+                "다른 경쟁자 처치 관여 시 3회 적용?"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "kajigseu",
+                "name": "카직스",
+                "image": "tft18_khazix.tft_set18.jpg"
+            },
+            {
+                "id": "rengga",
+                "name": "렝가",
+                "image": "tft18_rengar.tft_set18.jpg"
+            }
+        ],
+        "average_position": "5.28",
+        "top_4_rate": "39.26",
+        "top_1_rate": "2.51",
+        "battle": "9,032",
+        "trait": "계열",
+        "kich_hoat": "1"
+    },
+    {
+        "stt": 88,
+        "id": "agyi_yeodan",
+        "name": "악의 여단",
+        "image": "Trait_Icon_18_Coven.TFT_Set18.png",
+        "description_icon": [
+            "챔피언을 처치하면 정기를 획득합니다. 플레이어 대상 전투에서 패배하면 추가 정기를 얻습니다.",
+            "\n",
+            "\n",
+            "정기 40개부터 시작하며, 정기를 보상으로 전환하거나 계속해서 정기를 모을 수 있습니다. 보상마다 필요한 정기의 양이 점점 늘어납니다."
+        ],
+        "description_detail": [
+            [
+                "3",
+                "처치 시 정기 2개",
+                "패배 시 정기 18개"
+            ],
+            [
+                "4",
+                "처치 시 2",
+                "패배 시 25"
+            ],
+            [
+                "5",
+                "처치 시 3",
+                "패배 시 32"
+            ],
+            [
+                "7",
+                "처치 시 10",
+                "패배 시 60"
+            ]
+        ],
+        "champions": [
+            {
+                "id": "kamil",
+                "name": "카밀",
+                "image": "tft18_camille.tft_set18.jpg"
+            },
+            {
+                "id": "keiteulrin",
+                "name": "케이틀린",
+                "image": "tft18_caitlyn.tft_set18.jpg"
+            },
+            {
+                "id": "elriseu",
+                "name": "엘리스",
+                "image": "tft18_elise.tft_set18.jpg"
+            },
+            {
+                "id": "kasiopea",
+                "name": "카시오페아",
+                "image": "tft18_cassiopeia.tft_set18.jpg"
+            },
+            {
+                "id": "moreugana",
+                "name": "모르가나",
+                "image": "tft18_morgana.tft_set18.jpg"
+            }
+        ],
+        "average_position": "5.68",
+        "top_4_rate": "30.02",
+        "top_1_rate": "4.72",
+        "battle": "26,570",
+        "trait": "계열",
+        "kich_hoat": "4"
     },
     {
         "stt": 89,
@@ -5313,11 +5652,62 @@
                 "팀 최대 규모 +2"
             ]
         ],
-        "champions": [],
-        "average_position": "5.47",
-        "top_4_rate": "22.1",
-        "top_1_rate": "1.97",
-        "battle": "1,525",
+        "champions": [
+            {
+                "id": "bultaneun_myomog",
+                "name": "불타는 묘목",
+                "image": "Cinderling_1783677059-Cinderling.jpg"
+            },
+            {
+                "id": "joyagdol",
+                "name": "조약돌",
+                "image": "Pebbles_1783677606-Sentry.jpg"
+            },
+            {
+                "id": "simsulduggeobi",
+                "name": "심술두꺼비",
+                "image": "Gromp_1783676782-Gromp.jpg"
+            },
+            {
+                "id": "eoseureumneugdae",
+                "name": "어스름늑대",
+                "image": "Murkwolf_1783676955-MurkWolf.jpg"
+            },
+            {
+                "id": "bawi_ge",
+                "name": "바위 게",
+                "image": "Scuttlecrab_1783676864-Scuttlecrab.jpg"
+            },
+            {
+                "id": "dolgeobug",
+                "name": "돌거북",
+                "image": "Krug_1783676771-Krug.jpg"
+            },
+            {
+                "id": "eomi_buri",
+                "name": "어미 부리",
+                "image": "Raptor_1783677107-CrimsonRaptor.jpg"
+            },
+            {
+                "id": "gamsija",
+                "name": "감시자",
+                "image": "AncientSentinel_1783677366-Sentinel.jpg"
+            },
+            {
+                "id": "deongguljeongryeong",
+                "name": "덩굴정령",
+                "image": "Brambleback_1783677203-Brambleback.jpg"
+            },
+            {
+                "id": "jangro_deuraegon",
+                "name": "장로 드래곤",
+                "image": "TheElderDragon_1783677052-ElderDragon.jpg"
+            }
+        ],
+        "average_position": "5.68",
+        "top_4_rate": "22.91",
+        "top_1_rate": "2.21",
+        "battle": "73,594",
         "trait": "계열",
         "kich_hoat": "5"
     }

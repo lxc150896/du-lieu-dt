@@ -1,11 +1,6 @@
 [
     [
         {
-            "id": "leona",
-            "name": "Leona",
-            "img_url": "tft18_leona.tft_set18.jpg"
-        },
-        {
             "id": "ornn",
             "name": "Ornn",
             "img_url": "tft18_ornn.tft_set18.jpg"
@@ -46,6 +41,11 @@
             "id": "caitlyn",
             "name": "Caitlyn",
             "img_url": "tft18_caitlyn.tft_set18.jpg"
+        },
+        {
+            "id": "elise",
+            "name": "Elise",
+            "img_url": "tft18_elise.tft_set18.jpg"
         },
         {
             "id": "gromp",
@@ -90,6 +90,11 @@
     ],
     [
         {
+            "id": "azir",
+            "name": "Azir",
+            "img_url": "tft18_azir.tft_set18.jpg"
+        },
+        {
             "id": "cassiopeia",
             "name": "Cassiopeia",
             "img_url": "tft18_cassiopeia.tft_set18.jpg"
@@ -120,6 +125,11 @@
             "img_url": "Krug_1783676771-Krug.jpg"
         },
         {
+            "id": "mama_beak",
+            "name": "Mama Beak",
+            "img_url": "Raptor_1783677107-CrimsonRaptor.jpg"
+        },
+        {
             "id": "master_yi",
             "name": "Master Yi",
             "img_url": "tft18_masteryi.tft_set18.jpg"
@@ -138,11 +148,6 @@
             "id": "tristana",
             "name": "Tristana",
             "img_url": "tft18_tristana.tft_set18.jpg"
-        },
-        {
-            "id": "vi",
-            "name": "Vi",
-            "img_url": "tft18_vi.tft_set18.jpg"
         }
     ],
     [
@@ -150,6 +155,11 @@
             "id": "ahri",
             "name": "Ahri",
             "img_url": "tft18_ahri.tft_set18.jpg"
+        },
+        {
+            "id": "amumu",
+            "name": "Amumu",
+            "img_url": "tft18_amumu.tft_set18.jpg"
         },
         {
             "id": "aphelios",
@@ -234,14 +244,14 @@
             "img_url": "TheElderDragon_1783677052-ElderDragon.jpg"
         },
         {
+            "id": "gnar",
+            "name": "Gnar",
+            "img_url": "tft18_gnar.tft_set18.jpg"
+        },
+        {
             "id": "maokai",
             "name": "Maokai",
             "img_url": "tft18_maokai.tft_set18.jpg"
-        },
-        {
-            "id": "taric",
-            "name": "Taric",
-            "img_url": "tft18_taric.tft_set18.jpg"
         }
     ]
 ]
