@@ -22047,6 +22047,11 @@
   "champions_by_gold": [
     [
       {
+        "id": "cinderling",
+        "name": "Cinderling",
+        "img_url": "Cinderling_1783677059-Cinderling.jpg"
+      },
+      {
         "id": "ornn",
         "name": "Ornn",
         "img_url": "tft18_ornn.tft_set18.jpg"
@@ -22092,11 +22097,6 @@
         "id": "elise",
         "name": "Elise",
         "img_url": "tft18_elise.tft_set18.jpg"
-      },
-      {
-        "id": "gromp",
-        "name": "Gromp",
-        "img_url": "Gromp_1783676782-Gromp.jpg"
       },
       {
         "id": "kayle",
@@ -22169,11 +22169,6 @@
         "id": "krug",
         "name": "Krug",
         "img_url": "Krug_1783676771-Krug.jpg"
-      },
-      {
-        "id": "mama_beak",
-        "name": "Mama Beak",
-        "img_url": "Raptor_1783677107-CrimsonRaptor.jpg"
       },
       {
         "id": "master_yi",
@@ -22298,6 +22293,11 @@
         "id": "maokai",
         "name": "Maokai",
         "img_url": "tft18_maokai.tft_set18.jpg"
+      },
+      {
+        "id": "taric",
+        "name": "Taric",
+        "img_url": "tft18_taric.tft_set18.jpg"
       }
     ]
   ]
