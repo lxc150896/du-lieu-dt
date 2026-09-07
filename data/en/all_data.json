@@ -22413,9 +22413,14 @@
   "champions_by_gold": [
     [
       {
-        "id": "cinderling",
-        "name": "Cinderling",
-        "img_url": "Cinderling_1783677059-Cinderling.jpg"
+        "id": "akali",
+        "name": "Akali",
+        "img_url": "tft18_akali.tft_set18.jpg"
+      },
+      {
+        "id": "camille",
+        "name": "Camille",
+        "img_url": "tft18_camille.tft_set18.jpg"
       },
       {
         "id": "ornn",
@@ -22431,11 +22436,6 @@
         "id": "rek'sai",
         "name": "Rek'Sai",
         "img_url": "tft18_reksai.tft_set18.jpg"
-      },
-      {
-        "id": "varus",
-        "name": "Varus",
-        "img_url": "tft18_varus.tft_set18.jpg"
       },
       {
         "id": "veigar",
@@ -22468,6 +22468,11 @@
         "id": "kayle",
         "name": "Kayle",
         "img_url": "tft18_kayle.tft_set18.jpg"
+      },
+      {
+        "id": "leblanc",
+        "name": "LeBlanc",
+        "img_url": "tft18_leblanc.tft_set18.jpg"
       },
       {
         "id": "murkwolf",
@@ -22525,11 +22530,6 @@
         "id": "kha'zix",
         "name": "Kha'Zix",
         "img_url": "tft18_khazix.tft_set18.jpg"
-      },
-      {
-        "id": "kog'maw",
-        "name": "Kog'Maw",
-        "img_url": "tft18_kogmaw.tft_set18.jpg"
       },
       {
         "id": "krug",
@@ -22656,14 +22656,14 @@
         "img_url": "tft18_gnar.tft_set18.jpg"
       },
       {
+        "id": "kennen",
+        "name": "Kennen",
+        "img_url": "tft18_kennen.tft_set18.jpg"
+      },
+      {
         "id": "maokai",
         "name": "Maokai",
         "img_url": "tft18_maokai.tft_set18.jpg"
-      },
-      {
-        "id": "taric",
-        "name": "Taric",
-        "img_url": "tft18_taric.tft_set18.jpg"
       }
     ]
   ]
